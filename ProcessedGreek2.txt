@@ -1,0 +1,62 @@
+# Greek and Coptic
+# capital greek letters
+Α	Cap alpha	all	never	# Α 0x391
+Β	Cap beta	all	never	# Β 0x392
+Γ	Cap gamma	all	never	# Γ 0x393
+Δ	Cap delta	all	never	# Δ 0x394
+Ε	Cap epsilon	all	never	# Ε 0x395
+Ζ	Cap zeta	all	never	# Ζ 0x396
+Η	Cap eta	all	never	# Η 0x397
+Θ	Cap theta	all	never	# Θ 0x398
+Ι	Cap iota	all	never	# Ι 0x399
+Κ	Cap kappa	all	never	# Κ 0x39a
+Λ	Cap lamda	all	never	# Λ 0x39b
+Μ	Cap mu	all	never	# Μ 0x39c
+Ν	Cap nu	all	never	# Ν 0x39d
+Ξ	Cap xi	all	never	# Ξ 0x39e
+Ο	Cap omicron	all	never	# Ο 0x39f
+Π	Cap pi	all	never	# Π 0x3a0
+Ρ	Cap rho	all	never	# Ρ 0x3a1
+Σ	Cap sigma	all	never	# Σ 0x3a3
+Τ	Cap tau	all	never	# Τ 0x3a4
+Υ	Cap upsilon	all	never	# Υ 0x3a5
+Φ	Cap phi	all	never	# Φ 0x3a6
+Χ	Cap chi	all	never	# Χ 0x3a7
+Ψ	Cap psi	all	never	# Ψ 0x3a8
+Ω	Cap omega	all	never	# Ω 0x3a9
+# small greek letters
+α	alpha	all	never	# α 0x3b1
+β	beta	all	never	# β 0x3b2
+γ	gamma	all	never	# γ 0x3b3
+δ	delta	all	never	# δ 0x3b4
+ε	epsilon	all	never	# ε 0x3b5
+ζ	zeta	all	never	# ζ 0x3b6
+η	eta	all	never	# η 0x3b7
+θ	theta	all	never	# θ 0x3b8
+ι	iota	all	never	# ι 0x3b9
+κ	kappa	all	never	# κ 0x3ba
+λ	lamda	all	never	# λ 0x3bb
+μ	mu	all	never	# μ 0x3bc
+ν	nu	all	never	# ν 0x3bd
+ξ	xi	all	never	# ξ 0x3be
+ο	omicron	all	never	# ο 0x3bf
+π	pi	all	never	# π 0x3c0
+ρ	rho	all	never	# ρ 0x3c1
+ς	final sigma	all	never	# ς 0x3c2
+σ	sigma	all	never	# σ 0x3c3
+τ	tau	all	never	# τ 0x3c4
+υ	upsilon	all	never	# υ 0x3c5
+φ	phi	all	never	# φ 0x3c6
+χ	chi	all	never	# χ 0x3c7
+ψ	psi	all	never	# ψ 0x3c8
+ω	omega	all	never	# ω 0x3c9
+# greek symbols
+Ϗ	greek capital kai symbol	all	never	# Ϗ 0x3cf
+ϐ	greek beta symbol	all	never	# ϐ 0x3d0
+ϑ	greek theta symbol	all	never	# ϑ 0x3d1
+ϒ	greek upsilon with hook symbol	all	never	# ϒ 0x3d2
+ϓ	greek upsilon with acute and hook symbol	all	never	# ϓ 0x3d3
+ϔ	greek upsilon with diaeresis and hook symbol	all	never	# ϔ 0x3d4
+ϕ	greek phi symbol	all	never	# ϕ 0x3d5
+ϖ	greek pi symbol	all	never	# ϖ 0x3d6
+ϗ	greek kai symbol	all	never	# ϗ 0x3d7

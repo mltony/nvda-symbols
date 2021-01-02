@@ -1,0 +1,127 @@
+# Greek and Coptic
+# capital greek letters
+Α	Cap alpha	all	never	# Α 0x391
+Β	Cap beta	all	never	# Β 0x392
+Γ	Cap gamma	all	never	# Γ 0x393
+Δ	Cap delta	all	never	# Δ 0x394
+Ε	Cap epsilon	all	never	# Ε 0x395
+Ζ	Cap zeta	all	never	# Ζ 0x396
+Η	Cap eta	all	never	# Η 0x397
+Θ	Cap theta	all	never	# Θ 0x398
+Ι	Cap iota	all	never	# Ι 0x399
+Κ	Cap kappa	all	never	# Κ 0x39a
+Λ	Cap lamda	all	never	# Λ 0x39b
+Μ	Cap mu	all	never	# Μ 0x39c
+Ν	Cap nu	all	never	# Ν 0x39d
+Ξ	Cap xi	all	never	# Ξ 0x39e
+Ο	Cap omicron	all	never	# Ο 0x39f
+Π	Cap pi	all	never	# Π 0x3a0
+Ρ	Cap rho	all	never	# Ρ 0x3a1
+Σ	Cap sigma	all	never	# Σ 0x3a3
+Τ	Cap tau	all	never	# Τ 0x3a4
+Υ	Cap upsilon	all	never	# Υ 0x3a5
+Φ	Cap phi	all	never	# Φ 0x3a6
+Χ	Cap chi	all	never	# Χ 0x3a7
+Ψ	Cap psi	all	never	# Ψ 0x3a8
+Ω	Cap omega	all	never	# Ω 0x3a9
+# small greek letters
+α	alpha	all	never	# α 0x3b1
+β	beta	all	never	# β 0x3b2
+γ	gamma	all	never	# γ 0x3b3
+δ	delta	all	never	# δ 0x3b4
+ε	epsilon	all	never	# ε 0x3b5
+ζ	zeta	all	never	# ζ 0x3b6
+η	eta	all	never	# η 0x3b7
+θ	theta	all	never	# θ 0x3b8
+ι	iota	all	never	# ι 0x3b9
+κ	kappa	all	never	# κ 0x3ba
+λ	lamda	all	never	# λ 0x3bb
+μ	mu	all	never	# μ 0x3bc
+ν	nu	all	never	# ν 0x3bd
+ξ	xi	all	never	# ξ 0x3be
+ο	omicron	all	never	# ο 0x3bf
+π	pi	all	never	# π 0x3c0
+ρ	rho	all	never	# ρ 0x3c1
+ς	final sigma	all	never	# ς 0x3c2
+σ	sigma	all	never	# σ 0x3c3
+τ	tau	all	never	# τ 0x3c4
+υ	upsilon	all	never	# υ 0x3c5
+φ	phi	all	never	# φ 0x3c6
+χ	chi	all	never	# χ 0x3c7
+ψ	psi	all	never	# ψ 0x3c8
+ω	omega	all	never	# ω 0x3c9
+# greek symbols
+Ϗ	greek capital kai symbol	all	never	# Ϗ 0x3cf
+ϐ	greek beta symbol	all	never	# ϐ 0x3d0
+ϑ	greek theta symbol	all	never	# ϑ 0x3d1
+ϒ	greek upsilon with hook symbol	all	never	# ϒ 0x3d2
+ϓ	greek upsilon with acute and hook symbol	all	never	# ϓ 0x3d3
+ϔ	greek upsilon with diaeresis and hook symbol	all	never	# ϔ 0x3d4
+ϕ	greek phi symbol	all	never	# ϕ 0x3d5
+ϖ	greek pi symbol	all	never	# ϖ 0x3d6
+ϗ	greek kai symbol	all	never	# ϗ 0x3d7
+# Other
+#Greek 
+Ͱ	Cap heta	all	never	# Ͱ 0x370
+ͱ	 heta	all	never	# ͱ 0x371
+Ͳ	Cap archaic sampi	all	never	# Ͳ 0x372
+ͳ	 archaic sampi	all	never	# ͳ 0x373
+ʹ	numeral sign	all	never	# ʹ 0x374
+͵	lower numeral sign	all	never	# ͵ 0x375
+Ͷ	Cap pamphylian digamma	all	never	# Ͷ 0x376
+ͷ	 pamphylian digamma	all	never	# ͷ 0x377
+ͺ	ypogegrammeni	all	never	# ͺ 0x37a
+ͻ	reversed lunate sigma	all	never	# ͻ 0x37b
+ͼ	dotted lunate sigma	all	never	# ͼ 0x37c
+ͽ	reversed dotted lunate sigma	all	never	# ͽ 0x37d
+;	question mark	all	never	# ; 0x37e
+Ϳ	Cap yot	all	never	# Ϳ 0x37f
+΄	tonos	all	never	# ΄ 0x384
+΅	dialytika tonos	all	never	# ΅ 0x385
+Ά	Cap alpha with tonos	all	never	# Ά 0x386
+·	ano teleia	all	never	# · 0x387
+Έ	Cap epsilon with tonos	all	never	# Έ 0x388
+Ή	Cap eta with tonos	all	never	# Ή 0x389
+Ί	Cap iota with tonos	all	never	# Ί 0x38a
+Ό	Cap omicron with tonos	all	never	# Ό 0x38c
+Ύ	Cap upsilon with tonos	all	never	# Ύ 0x38e
+Ώ	Cap omega with tonos	all	never	# Ώ 0x38f
+ΐ	 iota with dialytika and tonos	all	never	# ΐ 0x390
+Ϊ	Cap iota with dialytika	all	never	# Ϊ 0x3aa
+Ϋ	Cap upsilon with dialytika	all	never	# Ϋ 0x3ab
+ά	 alpha with tonos	all	never	# ά 0x3ac
+έ	 epsilon with tonos	all	never	# έ 0x3ad
+ή	 eta with tonos	all	never	# ή 0x3ae
+ί	 iota with tonos	all	never	# ί 0x3af
+ΰ	 upsilon with dialytika and tonos	all	never	# ΰ 0x3b0
+ϊ	 iota with dialytika	all	never	# ϊ 0x3ca
+ϋ	 upsilon with dialytika	all	never	# ϋ 0x3cb
+ό	 omicron with tonos	all	never	# ό 0x3cc
+ύ	 upsilon with tonos	all	never	# ύ 0x3cd
+ώ	 omega with tonos	all	never	# ώ 0x3ce
+Ϙ	archaic koppa	all	never	# Ϙ 0x3d8
+ϙ	 archaic koppa	all	never	# ϙ 0x3d9
+Ϛ	stigma	all	never	# Ϛ 0x3da
+ϛ	 stigma	all	never	# ϛ 0x3db
+Ϝ	digamma	all	never	# Ϝ 0x3dc
+ϝ	 digamma	all	never	# ϝ 0x3dd
+Ϟ	koppa	all	never	# Ϟ 0x3de
+ϟ	 koppa	all	never	# ϟ 0x3df
+Ϡ	sampi	all	never	# Ϡ 0x3e0
+ϡ	 sampi	all	never	# ϡ 0x3e1
+ϰ	kappa	all	never	# ϰ 0x3f0
+ϱ	rho	all	never	# ϱ 0x3f1
+ϲ	lunate sigma	all	never	# ϲ 0x3f2
+ϳ	yot	all	never	# ϳ 0x3f3
+ϴ	Cap theta	all	never	# ϴ 0x3f4
+ϵ	lunate epsilon	all	never	# ϵ 0x3f5
+϶	reversed lunate epsilon	all	never	# ϶ 0x3f6
+Ϸ	Cap sho	all	never	# Ϸ 0x3f7
+ϸ	 sho	all	never	# ϸ 0x3f8
+Ϲ	Cap lunate sigma	all	never	# Ϲ 0x3f9
+Ϻ	Cap san	all	never	# Ϻ 0x3fa
+ϻ	 san	all	never	# ϻ 0x3fb
+ϼ	rho with stroke	all	never	# ϼ 0x3fc
+Ͻ	Cap reversed lunate sigma	all	never	# Ͻ 0x3fd
+Ͼ	Cap dotted lunate sigma	all	never	# Ͼ 0x3fe
+Ͽ	Cap reversed dotted lunate sigma	all	never	# Ͽ 0x3ff

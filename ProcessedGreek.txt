@@ -1,0 +1,62 @@
+# Greek and Coptic
+# capital greek letters
+Α	Cap ALPHA	all	never	# Α 0x391
+Β	Cap BETA	all	never	# Β 0x392
+Γ	Cap GAMMA	all	never	# Γ 0x393
+Δ	Cap DELTA	all	never	# Δ 0x394
+Ε	Cap EPSILON	all	never	# Ε 0x395
+Ζ	Cap ZETA	all	never	# Ζ 0x396
+Η	Cap ETA	all	never	# Η 0x397
+Θ	Cap THETA	all	never	# Θ 0x398
+Ι	Cap IOTA	all	never	# Ι 0x399
+Κ	Cap KAPPA	all	never	# Κ 0x39a
+Λ	Cap LAMDA	all	never	# Λ 0x39b
+Μ	Cap MU	all	never	# Μ 0x39c
+Ν	Cap NU	all	never	# Ν 0x39d
+Ξ	Cap XI	all	never	# Ξ 0x39e
+Ο	Cap OMICRON	all	never	# Ο 0x39f
+Π	Cap PI	all	never	# Π 0x3a0
+Ρ	Cap RHO	all	never	# Ρ 0x3a1
+Σ	Cap SIGMA	all	never	# Σ 0x3a3
+Τ	Cap TAU	all	never	# Τ 0x3a4
+Υ	Cap UPSILON	all	never	# Υ 0x3a5
+Φ	Cap PHI	all	never	# Φ 0x3a6
+Χ	Cap CHI	all	never	# Χ 0x3a7
+Ψ	Cap PSI	all	never	# Ψ 0x3a8
+Ω	Cap OMEGA	all	never	# Ω 0x3a9
+# small greek letters
+α	ALPHA	all	never	# α 0x3b1
+β	BETA	all	never	# β 0x3b2
+γ	GAMMA	all	never	# γ 0x3b3
+δ	DELTA	all	never	# δ 0x3b4
+ε	EPSILON	all	never	# ε 0x3b5
+ζ	ZETA	all	never	# ζ 0x3b6
+η	ETA	all	never	# η 0x3b7
+θ	THETA	all	never	# θ 0x3b8
+ι	IOTA	all	never	# ι 0x3b9
+κ	KAPPA	all	never	# κ 0x3ba
+λ	LAMDA	all	never	# λ 0x3bb
+μ	MU	all	never	# μ 0x3bc
+ν	NU	all	never	# ν 0x3bd
+ξ	XI	all	never	# ξ 0x3be
+ο	OMICRON	all	never	# ο 0x3bf
+π	PI	all	never	# π 0x3c0
+ρ	RHO	all	never	# ρ 0x3c1
+ς	FINAL SIGMA	all	never	# ς 0x3c2
+σ	SIGMA	all	never	# σ 0x3c3
+τ	TAU	all	never	# τ 0x3c4
+υ	UPSILON	all	never	# υ 0x3c5
+φ	PHI	all	never	# φ 0x3c6
+χ	CHI	all	never	# χ 0x3c7
+ψ	PSI	all	never	# ψ 0x3c8
+ω	OMEGA	all	never	# ω 0x3c9
+# greek symbols
+Ϗ	GREEK CAPITAL KAI SYMBOL	all	never	# Ϗ 0x3cf
+ϐ	GREEK BETA SYMBOL	all	never	# ϐ 0x3d0
+ϑ	GREEK THETA SYMBOL	all	never	# ϑ 0x3d1
+ϒ	GREEK UPSILON WITH HOOK SYMBOL	all	never	# ϒ 0x3d2
+ϓ	GREEK UPSILON WITH ACUTE AND HOOK SYMBOL	all	never	# ϓ 0x3d3
+ϔ	GREEK UPSILON WITH DIAERESIS AND HOOK SYMBOL	all	never	# ϔ 0x3d4
+ϕ	GREEK PHI SYMBOL	all	never	# ϕ 0x3d5
+ϖ	GREEK PI SYMBOL	all	never	# ϖ 0x3d6
+ϗ	GREEK KAI SYMBOL	all	never	# ϗ 0x3d7
