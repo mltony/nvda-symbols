@@ -1,0 +1,16 @@
+# # Combining Diacritical Marks Extended
+᪰	combining doubled circumflex accent	all	never	# ᪰ 0x1ab0
+᪱	combining diaeresis-ring	all	never	# ᪱ 0x1ab1
+᪲	combining infinity	all	never	# ᪲ 0x1ab2
+᪳	combining downwards arrow	all	never	# ᪳ 0x1ab3
+᪴	combining triple dot	all	never	# ᪴ 0x1ab4
+᪵	combining X-X below	all	never	# ᪵ 0x1ab5
+᪶	combining wiggly line below	all	never	# ᪶ 0x1ab6
+᪷	combining open mark below	all	never	# ᪷ 0x1ab7
+᪸	combining double open mark below	all	never	# ᪸ 0x1ab8
+᪹	combining light centralization stroke below	all	never	# ᪹ 0x1ab9
+᪺	combining strong centralization stroke below	all	never	# ᪺ 0x1aba
+᪻	combining parentheses above	all	never	# ᪻ 0x1abb
+᪼	combining double parentheses above	all	never	# ᪼ 0x1abc
+᪽	combining parentheses below	all	never	# ᪽ 0x1abd
+᪾	combining parentheses overlay	all	never	# ᪾ 0x1abe

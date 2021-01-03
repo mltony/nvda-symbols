@@ -1,0 +1,129 @@
+# # Phonetic Extensions
+ᴀ	latin letter small capital A	all	never	# ᴀ 0x1d00
+ᴁ	latin letter small capital ae	all	never	# ᴁ 0x1d01
+ᴂ	latin small letter turned ae	all	never	# ᴂ 0x1d02
+ᴃ	latin letter small capital barred B	all	never	# ᴃ 0x1d03
+ᴄ	latin letter small capital C	all	never	# ᴄ 0x1d04
+ᴅ	latin letter small capital D	all	never	# ᴅ 0x1d05
+ᴆ	latin letter small capital eth	all	never	# ᴆ 0x1d06
+ᴇ	latin letter small capital E	all	never	# ᴇ 0x1d07
+ᴈ	latin small letter turned open E	all	never	# ᴈ 0x1d08
+ᴉ	latin small letter turned I	all	never	# ᴉ 0x1d09
+ᴊ	latin letter small capital J	all	never	# ᴊ 0x1d0a
+ᴋ	latin letter small capital K	all	never	# ᴋ 0x1d0b
+ᴌ	latin letter small capital L with stroke	all	never	# ᴌ 0x1d0c
+ᴍ	latin letter small capital M	all	never	# ᴍ 0x1d0d
+ᴎ	latin letter small capital reversed N	all	never	# ᴎ 0x1d0e
+ᴏ	latin letter small capital O	all	never	# ᴏ 0x1d0f
+ᴐ	latin letter small capital open O	all	never	# ᴐ 0x1d10
+ᴑ	latin small letter sideways O	all	never	# ᴑ 0x1d11
+ᴒ	latin small letter sideways open O	all	never	# ᴒ 0x1d12
+ᴓ	latin small letter sideways O with stroke	all	never	# ᴓ 0x1d13
+ᴔ	latin small letter turned oe	all	never	# ᴔ 0x1d14
+ᴕ	latin letter small capital ou	all	never	# ᴕ 0x1d15
+ᴖ	latin small letter top half O	all	never	# ᴖ 0x1d16
+ᴗ	latin small letter bottom half O	all	never	# ᴗ 0x1d17
+ᴘ	latin letter small capital P	all	never	# ᴘ 0x1d18
+ᴙ	latin letter small capital reversed R	all	never	# ᴙ 0x1d19
+ᴚ	latin letter small capital turned R	all	never	# ᴚ 0x1d1a
+ᴛ	latin letter small capital T	all	never	# ᴛ 0x1d1b
+ᴜ	latin letter small capital U	all	never	# ᴜ 0x1d1c
+ᴝ	latin small letter sideways U	all	never	# ᴝ 0x1d1d
+ᴞ	latin small letter sideways diaeresized U	all	never	# ᴞ 0x1d1e
+ᴟ	latin small letter sideways turned M	all	never	# ᴟ 0x1d1f
+ᴠ	latin letter small capital V	all	never	# ᴠ 0x1d20
+ᴡ	latin letter small capital W	all	never	# ᴡ 0x1d21
+ᴢ	latin letter small capital Z	all	never	# ᴢ 0x1d22
+ᴣ	latin letter small capital ezh	all	never	# ᴣ 0x1d23
+ᴤ	latin letter voiced laryngeal spirant	all	never	# ᴤ 0x1d24
+ᴥ	latin letter ain	all	never	# ᴥ 0x1d25
+ᴦ	greek letter small capital gamma	all	never	# ᴦ 0x1d26
+ᴧ	greek letter small capital lamda	all	never	# ᴧ 0x1d27
+ᴨ	greek letter small capital pi	all	never	# ᴨ 0x1d28
+ᴩ	greek letter small capital rho	all	never	# ᴩ 0x1d29
+ᴪ	greek letter small capital psi	all	never	# ᴪ 0x1d2a
+ᴫ	cyrillic letter small capital el	all	never	# ᴫ 0x1d2b
+ᴬ	modifier letter capital A	all	never	# ᴬ 0x1d2c
+ᴭ	modifier letter capital ae	all	never	# ᴭ 0x1d2d
+ᴮ	modifier letter capital B	all	never	# ᴮ 0x1d2e
+ᴯ	modifier letter capital barred B	all	never	# ᴯ 0x1d2f
+ᴰ	modifier letter capital D	all	never	# ᴰ 0x1d30
+ᴱ	modifier letter capital E	all	never	# ᴱ 0x1d31
+ᴲ	modifier letter capital reversed E	all	never	# ᴲ 0x1d32
+ᴳ	modifier letter capital G	all	never	# ᴳ 0x1d33
+ᴴ	modifier letter capital H	all	never	# ᴴ 0x1d34
+ᴵ	modifier letter capital I	all	never	# ᴵ 0x1d35
+ᴶ	modifier letter capital J	all	never	# ᴶ 0x1d36
+ᴷ	modifier letter capital K	all	never	# ᴷ 0x1d37
+ᴸ	modifier letter capital L	all	never	# ᴸ 0x1d38
+ᴹ	modifier letter capital M	all	never	# ᴹ 0x1d39
+ᴺ	modifier letter capital N	all	never	# ᴺ 0x1d3a
+ᴻ	modifier letter capital reversed N	all	never	# ᴻ 0x1d3b
+ᴼ	modifier letter capital O	all	never	# ᴼ 0x1d3c
+ᴽ	modifier letter capital ou	all	never	# ᴽ 0x1d3d
+ᴾ	modifier letter capital P	all	never	# ᴾ 0x1d3e
+ᴿ	modifier letter capital R	all	never	# ᴿ 0x1d3f
+ᵀ	modifier letter capital T	all	never	# ᵀ 0x1d40
+ᵁ	modifier letter capital U	all	never	# ᵁ 0x1d41
+ᵂ	modifier letter capital W	all	never	# ᵂ 0x1d42
+ᵃ	modifier letter small A	all	never	# ᵃ 0x1d43
+ᵄ	modifier letter small turned A	all	never	# ᵄ 0x1d44
+ᵅ	modifier letter small alpha	all	never	# ᵅ 0x1d45
+ᵆ	modifier letter small turned ae	all	never	# ᵆ 0x1d46
+ᵇ	modifier letter small B	all	never	# ᵇ 0x1d47
+ᵈ	modifier letter small D	all	never	# ᵈ 0x1d48
+ᵉ	modifier letter small E	all	never	# ᵉ 0x1d49
+ᵊ	modifier letter small schwa	all	never	# ᵊ 0x1d4a
+ᵋ	modifier letter small open E	all	never	# ᵋ 0x1d4b
+ᵌ	modifier letter small turned open E	all	never	# ᵌ 0x1d4c
+ᵍ	modifier letter small G	all	never	# ᵍ 0x1d4d
+ᵎ	modifier letter small turned I	all	never	# ᵎ 0x1d4e
+ᵏ	modifier letter small K	all	never	# ᵏ 0x1d4f
+ᵐ	modifier letter small M	all	never	# ᵐ 0x1d50
+ᵑ	modifier letter small eng	all	never	# ᵑ 0x1d51
+ᵒ	modifier letter small O	all	never	# ᵒ 0x1d52
+ᵓ	modifier letter small open O	all	never	# ᵓ 0x1d53
+ᵔ	modifier letter small top half O	all	never	# ᵔ 0x1d54
+ᵕ	modifier letter small bottom half O	all	never	# ᵕ 0x1d55
+ᵖ	modifier letter small P	all	never	# ᵖ 0x1d56
+ᵗ	modifier letter small T	all	never	# ᵗ 0x1d57
+ᵘ	modifier letter small U	all	never	# ᵘ 0x1d58
+ᵙ	modifier letter small sideways U	all	never	# ᵙ 0x1d59
+ᵚ	modifier letter small turned M	all	never	# ᵚ 0x1d5a
+ᵛ	modifier letter small V	all	never	# ᵛ 0x1d5b
+ᵜ	modifier letter small ain	all	never	# ᵜ 0x1d5c
+ᵝ	modifier letter small beta	all	never	# ᵝ 0x1d5d
+ᵞ	modifier letter small greek gamma	all	never	# ᵞ 0x1d5e
+ᵟ	modifier letter small delta	all	never	# ᵟ 0x1d5f
+ᵠ	modifier letter small greek phi	all	never	# ᵠ 0x1d60
+ᵡ	modifier letter small chi	all	never	# ᵡ 0x1d61
+ᵢ	latin subscript small letter I	all	never	# ᵢ 0x1d62
+ᵣ	latin subscript small letter R	all	never	# ᵣ 0x1d63
+ᵤ	latin subscript small letter U	all	never	# ᵤ 0x1d64
+ᵥ	latin subscript small letter V	all	never	# ᵥ 0x1d65
+ᵦ	greek subscript small letter beta	all	never	# ᵦ 0x1d66
+ᵧ	greek subscript small letter gamma	all	never	# ᵧ 0x1d67
+ᵨ	greek subscript small letter rho	all	never	# ᵨ 0x1d68
+ᵩ	greek subscript small letter phi	all	never	# ᵩ 0x1d69
+ᵪ	greek subscript small letter chi	all	never	# ᵪ 0x1d6a
+ᵫ	latin small letter ue	all	never	# ᵫ 0x1d6b
+ᵬ	latin small letter B with middle tilde	all	never	# ᵬ 0x1d6c
+ᵭ	latin small letter D with middle tilde	all	never	# ᵭ 0x1d6d
+ᵮ	latin small letter F with middle tilde	all	never	# ᵮ 0x1d6e
+ᵯ	latin small letter M with middle tilde	all	never	# ᵯ 0x1d6f
+ᵰ	latin small letter N with middle tilde	all	never	# ᵰ 0x1d70
+ᵱ	latin small letter P with middle tilde	all	never	# ᵱ 0x1d71
+ᵲ	latin small letter R with middle tilde	all	never	# ᵲ 0x1d72
+ᵳ	latin small letter R with fishhook and middle tilde	all	never	# ᵳ 0x1d73
+ᵴ	latin small letter S with middle tilde	all	never	# ᵴ 0x1d74
+ᵵ	latin small letter T with middle tilde	all	never	# ᵵ 0x1d75
+ᵶ	latin small letter Z with middle tilde	all	never	# ᵶ 0x1d76
+ᵷ	latin small letter turned G	all	never	# ᵷ 0x1d77
+ᵸ	modifier letter cyrillic en	all	never	# ᵸ 0x1d78
+ᵹ	latin small letter insular G	all	never	# ᵹ 0x1d79
+ᵺ	latin small letter th with strikethrough	all	never	# ᵺ 0x1d7a
+ᵻ	latin small capital letter I with stroke	all	never	# ᵻ 0x1d7b
+ᵼ	latin small letter iota with stroke	all	never	# ᵼ 0x1d7c
+ᵽ	latin small letter P with stroke	all	never	# ᵽ 0x1d7d
+ᵾ	latin small capital letter U with stroke	all	never	# ᵾ 0x1d7e
+ᵿ	latin small letter upsilon with stroke	all	never	# ᵿ 0x1d7f

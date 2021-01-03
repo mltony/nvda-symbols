@@ -1,0 +1,74 @@
+# # Arabic Extended-A
+ࢠ	arabic letter beh with small V below	all	never	# ࢠ 0x8a0
+ࢡ	arabic letter beh with hamza above	all	never	# ࢡ 0x8a1
+ࢢ	arabic letter jeem with two dots above	all	never	# ࢢ 0x8a2
+ࢣ	arabic letter tah with two dots above	all	never	# ࢣ 0x8a3
+ࢤ	arabic letter feh with dot below and three dots above	all	never	# ࢤ 0x8a4
+ࢥ	arabic letter qaf with dot below	all	never	# ࢥ 0x8a5
+ࢦ	arabic letter lam with double bar	all	never	# ࢦ 0x8a6
+ࢧ	arabic letter meem with three dots above	all	never	# ࢧ 0x8a7
+ࢨ	arabic letter yeh with two dots below and hamza above	all	never	# ࢨ 0x8a8
+ࢩ	arabic letter yeh with two dots below and dot above	all	never	# ࢩ 0x8a9
+ࢪ	arabic letter reh with loop	all	never	# ࢪ 0x8aa
+ࢫ	arabic letter waw with dot within	all	never	# ࢫ 0x8ab
+ࢬ	arabic letter rohingya yeh	all	never	# ࢬ 0x8ac
+ࢭ	arabic letter low alef	all	never	# ࢭ 0x8ad
+ࢮ	arabic letter dal with three dots below	all	never	# ࢮ 0x8ae
+ࢯ	arabic letter sad with three dots below	all	never	# ࢯ 0x8af
+ࢰ	arabic letter gaf with inverted stroke	all	never	# ࢰ 0x8b0
+ࢱ	arabic letter straight waw	all	never	# ࢱ 0x8b1
+ࢲ	arabic letter zain with inverted V above	all	never	# ࢲ 0x8b2
+ࢳ	arabic letter ain with three dots below	all	never	# ࢳ 0x8b3
+ࢴ	arabic letter kaf with dot below	all	never	# ࢴ 0x8b4
+ࢶ	arabic letter beh with small meem above	all	never	# ࢶ 0x8b6
+ࢷ	arabic letter peh with small meem above	all	never	# ࢷ 0x8b7
+ࢸ	arabic letter teh with small teh above	all	never	# ࢸ 0x8b8
+ࢹ	arabic letter reh with small noon above	all	never	# ࢹ 0x8b9
+ࢺ	arabic letter yeh with two dots below and small noon above	all	never	# ࢺ 0x8ba
+ࢻ	arabic letter african feh	all	never	# ࢻ 0x8bb
+ࢼ	arabic letter african qaf	all	never	# ࢼ 0x8bc
+ࢽ	arabic letter african noon	all	never	# ࢽ 0x8bd
+ࣔ	arabic small high word ar-rub	all	never	# ࣔ 0x8d4
+ࣕ	arabic small high sad	all	never	# ࣕ 0x8d5
+ࣖ	arabic small high ain	all	never	# ࣖ 0x8d6
+ࣗ	arabic small high qaf	all	never	# ࣗ 0x8d7
+ࣘ	arabic small high noon with kasra	all	never	# ࣘ 0x8d8
+ࣙ	arabic small low noon with kasra	all	never	# ࣙ 0x8d9
+ࣚ	arabic small high word ath-thalatha	all	never	# ࣚ 0x8da
+ࣛ	arabic small high word as-sajda	all	never	# ࣛ 0x8db
+ࣜ	arabic small high word an-nisf	all	never	# ࣜ 0x8dc
+ࣝ	arabic small high word sakta	all	never	# ࣝ 0x8dd
+ࣞ	arabic small high word qif	all	never	# ࣞ 0x8de
+ࣟ	arabic small high word waqfa	all	never	# ࣟ 0x8df
+࣠	arabic small high footnote marker	all	never	# ࣠ 0x8e0
+࣡	arabic small high sign safha	all	never	# ࣡ 0x8e1
+࣢	arabic disputed end of ayah	all	never	# ࣢ 0x8e2
+ࣣ	arabic turned damma below	all	never	# ࣣ 0x8e3
+ࣤ	arabic curly fatha	all	never	# ࣤ 0x8e4
+ࣥ	arabic curly damma	all	never	# ࣥ 0x8e5
+ࣦ	arabic curly kasra	all	never	# ࣦ 0x8e6
+ࣧ	arabic curly fathatan	all	never	# ࣧ 0x8e7
+ࣨ	arabic curly dammatan	all	never	# ࣨ 0x8e8
+ࣩ	arabic curly kasratan	all	never	# ࣩ 0x8e9
+࣪	arabic tone one dot above	all	never	# ࣪ 0x8ea
+࣫	arabic tone two dots above	all	never	# ࣫ 0x8eb
+࣬	arabic tone loop above	all	never	# ࣬ 0x8ec
+࣭	arabic tone one dot below	all	never	# ࣭ 0x8ed
+࣮	arabic tone two dots below	all	never	# ࣮ 0x8ee
+࣯	arabic tone loop below	all	never	# ࣯ 0x8ef
+ࣰ	arabic open fathatan	all	never	# ࣰ 0x8f0
+ࣱ	arabic open dammatan	all	never	# ࣱ 0x8f1
+ࣲ	arabic open kasratan	all	never	# ࣲ 0x8f2
+ࣳ	arabic small high waw	all	never	# ࣳ 0x8f3
+ࣴ	arabic fatha with ring	all	never	# ࣴ 0x8f4
+ࣵ	arabic fatha with dot above	all	never	# ࣵ 0x8f5
+ࣶ	arabic kasra with dot below	all	never	# ࣶ 0x8f6
+ࣷ	arabic left arrowhead above	all	never	# ࣷ 0x8f7
+ࣸ	arabic right arrowhead above	all	never	# ࣸ 0x8f8
+ࣹ	arabic left arrowhead below	all	never	# ࣹ 0x8f9
+ࣺ	arabic right arrowhead below	all	never	# ࣺ 0x8fa
+ࣻ	arabic double right arrowhead above	all	never	# ࣻ 0x8fb
+ࣼ	arabic double right arrowhead above with dot	all	never	# ࣼ 0x8fc
+ࣽ	arabic right arrowhead above with dot	all	never	# ࣽ 0x8fd
+ࣾ	arabic damma with dot	all	never	# ࣾ 0x8fe
+ࣿ	arabic mark sideways noon ghunna	all	never	# ࣿ 0x8ff

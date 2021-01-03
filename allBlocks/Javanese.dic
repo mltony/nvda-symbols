@@ -1,0 +1,92 @@
+# # Javanese
+ꦀ	javanese sign panyangga	all	never	# ꦀ 0xa980
+ꦁ	javanese sign cecak	all	never	# ꦁ 0xa981
+ꦂ	javanese sign layar	all	never	# ꦂ 0xa982
+ꦃ	javanese sign wignyan	all	never	# ꦃ 0xa983
+ꦄ	javanese letter A	all	never	# ꦄ 0xa984
+ꦅ	javanese letter I kawi	all	never	# ꦅ 0xa985
+ꦆ	javanese letter I	all	never	# ꦆ 0xa986
+ꦇ	javanese letter ii	all	never	# ꦇ 0xa987
+ꦈ	javanese letter U	all	never	# ꦈ 0xa988
+ꦉ	javanese letter pa cerek	all	never	# ꦉ 0xa989
+ꦊ	javanese letter nga lelet	all	never	# ꦊ 0xa98a
+ꦋ	javanese letter nga lelet raswadi	all	never	# ꦋ 0xa98b
+ꦌ	javanese letter E	all	never	# ꦌ 0xa98c
+ꦍ	javanese letter ai	all	never	# ꦍ 0xa98d
+ꦎ	javanese letter O	all	never	# ꦎ 0xa98e
+ꦏ	javanese letter ka	all	never	# ꦏ 0xa98f
+ꦐ	javanese letter ka sasak	all	never	# ꦐ 0xa990
+ꦑ	javanese letter ka murda	all	never	# ꦑ 0xa991
+ꦒ	javanese letter ga	all	never	# ꦒ 0xa992
+ꦓ	javanese letter ga murda	all	never	# ꦓ 0xa993
+ꦔ	javanese letter nga	all	never	# ꦔ 0xa994
+ꦕ	javanese letter ca	all	never	# ꦕ 0xa995
+ꦖ	javanese letter ca murda	all	never	# ꦖ 0xa996
+ꦗ	javanese letter ja	all	never	# ꦗ 0xa997
+ꦘ	javanese letter nya murda	all	never	# ꦘ 0xa998
+ꦙ	javanese letter ja mahaprana	all	never	# ꦙ 0xa999
+ꦚ	javanese letter nya	all	never	# ꦚ 0xa99a
+ꦛ	javanese letter tta	all	never	# ꦛ 0xa99b
+ꦜ	javanese letter tta mahaprana	all	never	# ꦜ 0xa99c
+ꦝ	javanese letter dda	all	never	# ꦝ 0xa99d
+ꦞ	javanese letter dda mahaprana	all	never	# ꦞ 0xa99e
+ꦟ	javanese letter na murda	all	never	# ꦟ 0xa99f
+ꦠ	javanese letter ta	all	never	# ꦠ 0xa9a0
+ꦡ	javanese letter ta murda	all	never	# ꦡ 0xa9a1
+ꦢ	javanese letter da	all	never	# ꦢ 0xa9a2
+ꦣ	javanese letter da mahaprana	all	never	# ꦣ 0xa9a3
+ꦤ	javanese letter na	all	never	# ꦤ 0xa9a4
+ꦥ	javanese letter pa	all	never	# ꦥ 0xa9a5
+ꦦ	javanese letter pa murda	all	never	# ꦦ 0xa9a6
+ꦧ	javanese letter ba	all	never	# ꦧ 0xa9a7
+ꦨ	javanese letter ba murda	all	never	# ꦨ 0xa9a8
+ꦩ	javanese letter ma	all	never	# ꦩ 0xa9a9
+ꦪ	javanese letter ya	all	never	# ꦪ 0xa9aa
+ꦫ	javanese letter ra	all	never	# ꦫ 0xa9ab
+ꦬ	javanese letter ra agung	all	never	# ꦬ 0xa9ac
+ꦭ	javanese letter la	all	never	# ꦭ 0xa9ad
+ꦮ	javanese letter wa	all	never	# ꦮ 0xa9ae
+ꦯ	javanese letter sa murda	all	never	# ꦯ 0xa9af
+ꦰ	javanese letter sa mahaprana	all	never	# ꦰ 0xa9b0
+ꦱ	javanese letter sa	all	never	# ꦱ 0xa9b1
+ꦲ	javanese letter ha	all	never	# ꦲ 0xa9b2
+꦳	javanese sign cecak telu	all	never	# ꦳ 0xa9b3
+ꦴ	javanese vowel sign tarung	all	never	# ꦴ 0xa9b4
+ꦵ	javanese vowel sign tolong	all	never	# ꦵ 0xa9b5
+ꦶ	javanese vowel sign wulu	all	never	# ꦶ 0xa9b6
+ꦷ	javanese vowel sign wulu melik	all	never	# ꦷ 0xa9b7
+ꦸ	javanese vowel sign suku	all	never	# ꦸ 0xa9b8
+ꦹ	javanese vowel sign suku mendut	all	never	# ꦹ 0xa9b9
+ꦺ	javanese vowel sign taling	all	never	# ꦺ 0xa9ba
+ꦻ	javanese vowel sign dirga mure	all	never	# ꦻ 0xa9bb
+ꦼ	javanese vowel sign pepet	all	never	# ꦼ 0xa9bc
+ꦽ	javanese consonant sign keret	all	never	# ꦽ 0xa9bd
+ꦾ	javanese consonant sign pengkal	all	never	# ꦾ 0xa9be
+ꦿ	javanese consonant sign cakra	all	never	# ꦿ 0xa9bf
+꧀	javanese pangkon	all	never	# ꧀ 0xa9c0
+꧁	javanese left rerenggan	all	never	# ꧁ 0xa9c1
+꧂	javanese right rerenggan	all	never	# ꧂ 0xa9c2
+꧃	javanese pada andap	all	never	# ꧃ 0xa9c3
+꧄	javanese pada madya	all	never	# ꧄ 0xa9c4
+꧅	javanese pada luhur	all	never	# ꧅ 0xa9c5
+꧆	javanese pada windu	all	never	# ꧆ 0xa9c6
+꧇	javanese pada pangkat	all	never	# ꧇ 0xa9c7
+꧈	javanese pada lingsa	all	never	# ꧈ 0xa9c8
+꧉	javanese pada lungsi	all	never	# ꧉ 0xa9c9
+꧊	javanese pada adeg	all	never	# ꧊ 0xa9ca
+꧋	javanese pada adeg adeg	all	never	# ꧋ 0xa9cb
+꧌	javanese pada piseleh	all	never	# ꧌ 0xa9cc
+꧍	javanese turned pada piseleh	all	never	# ꧍ 0xa9cd
+ꧏ	javanese pangrangkep	all	never	# ꧏ 0xa9cf
+꧐	javanese digit zero	all	never	# ꧐ 0xa9d0
+꧑	javanese digit one	all	never	# ꧑ 0xa9d1
+꧒	javanese digit two	all	never	# ꧒ 0xa9d2
+꧓	javanese digit three	all	never	# ꧓ 0xa9d3
+꧔	javanese digit four	all	never	# ꧔ 0xa9d4
+꧕	javanese digit five	all	never	# ꧕ 0xa9d5
+꧖	javanese digit six	all	never	# ꧖ 0xa9d6
+꧗	javanese digit seven	all	never	# ꧗ 0xa9d7
+꧘	javanese digit eight	all	never	# ꧘ 0xa9d8
+꧙	javanese digit nine	all	never	# ꧙ 0xa9d9
+꧞	javanese pada tirta tumetes	all	never	# ꧞ 0xa9de
+꧟	javanese pada isen-isen	all	never	# ꧟ 0xa9df

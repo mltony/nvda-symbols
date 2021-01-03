@@ -1,0 +1,65 @@
+# # cjk Symbols and Punctuation
+　	ideographic space	all	never	# 　 0x3000
+、	ideographic comma	all	never	# 、 0x3001
+。	ideographic full stop	all	never	# 。 0x3002
+〃	ditto mark	all	never	# 〃 0x3003
+〄	japanese industrial standard symbol	all	never	# 〄 0x3004
+々	ideographic iteration mark	all	never	# 々 0x3005
+〆	ideographic closing mark	all	never	# 〆 0x3006
+〇	ideographic number zero	all	never	# 〇 0x3007
+〈	left angle bracket	all	never	# 〈 0x3008
+〉	right angle bracket	all	never	# 〉 0x3009
+《	left double angle bracket	all	never	# 《 0x300a
+》	right double angle bracket	all	never	# 》 0x300b
+「	left corner bracket	all	never	# 「 0x300c
+」	right corner bracket	all	never	# 」 0x300d
+『	left white corner bracket	all	never	# 『 0x300e
+』	right white corner bracket	all	never	# 』 0x300f
+【	left black lenticular bracket	all	never	# 【 0x3010
+】	right black lenticular bracket	all	never	# 】 0x3011
+〒	postal mark	all	never	# 〒 0x3012
+〓	geta mark	all	never	# 〓 0x3013
+〔	left tortoise shell bracket	all	never	# 〔 0x3014
+〕	right tortoise shell bracket	all	never	# 〕 0x3015
+〖	left white lenticular bracket	all	never	# 〖 0x3016
+〗	right white lenticular bracket	all	never	# 〗 0x3017
+〘	left white tortoise shell bracket	all	never	# 〘 0x3018
+〙	right white tortoise shell bracket	all	never	# 〙 0x3019
+〚	left white square bracket	all	never	# 〚 0x301a
+〛	right white square bracket	all	never	# 〛 0x301b
+〜	wave dash	all	never	# 〜 0x301c
+〝	reversed double prime quotation mark	all	never	# 〝 0x301d
+〞	double prime quotation mark	all	never	# 〞 0x301e
+〟	low double prime quotation mark	all	never	# 〟 0x301f
+〠	postal mark face	all	never	# 〠 0x3020
+〡	hangzhou numeral one	all	never	# 〡 0x3021
+〢	hangzhou numeral two	all	never	# 〢 0x3022
+〣	hangzhou numeral three	all	never	# 〣 0x3023
+〤	hangzhou numeral four	all	never	# 〤 0x3024
+〥	hangzhou numeral five	all	never	# 〥 0x3025
+〦	hangzhou numeral six	all	never	# 〦 0x3026
+〧	hangzhou numeral seven	all	never	# 〧 0x3027
+〨	hangzhou numeral eight	all	never	# 〨 0x3028
+〩	hangzhou numeral nine	all	never	# 〩 0x3029
+〪	ideographic level tone mark	all	never	# 〪 0x302a
+〫	ideographic rising tone mark	all	never	# 〫 0x302b
+〬	ideographic departing tone mark	all	never	# 〬 0x302c
+〭	ideographic entering tone mark	all	never	# 〭 0x302d
+〮	hangul single dot tone mark	all	never	# 〮 0x302e
+〯	hangul double dot tone mark	all	never	# 〯 0x302f
+〰	wavy dash	all	never	# 〰 0x3030
+〱	vertical kana repeat mark	all	never	# 〱 0x3031
+〲	vertical kana repeat with voiced sound mark	all	never	# 〲 0x3032
+〳	vertical kana repeat mark upper half	all	never	# 〳 0x3033
+〴	vertical kana repeat with voiced sound mark upper half	all	never	# 〴 0x3034
+〵	vertical kana repeat mark lower half	all	never	# 〵 0x3035
+〶	circled postal mark	all	never	# 〶 0x3036
+〷	ideographic telegraph line feed separator symbol	all	never	# 〷 0x3037
+〸	hangzhou numeral ten	all	never	# 〸 0x3038
+〹	hangzhou numeral twenty	all	never	# 〹 0x3039
+〺	hangzhou numeral thirty	all	never	# 〺 0x303a
+〻	vertical ideographic iteration mark	all	never	# 〻 0x303b
+〼	masu mark	all	never	# 〼 0x303c
+〽	part alternation mark	all	never	# 〽 0x303d
+〾	ideographic variation indicator	all	never	# 〾 0x303e
+〿	ideographic half fill space	all	never	# 〿 0x303f

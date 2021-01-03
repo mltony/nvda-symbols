@@ -1,0 +1,255 @@
+# # Enclosed cjk Letters and Months
+㈀	parenthesized hangul kiyeok	all	never	# ㈀ 0x3200
+㈁	parenthesized hangul nieun	all	never	# ㈁ 0x3201
+㈂	parenthesized hangul tikeut	all	never	# ㈂ 0x3202
+㈃	parenthesized hangul rieul	all	never	# ㈃ 0x3203
+㈄	parenthesized hangul mieum	all	never	# ㈄ 0x3204
+㈅	parenthesized hangul pieup	all	never	# ㈅ 0x3205
+㈆	parenthesized hangul sios	all	never	# ㈆ 0x3206
+㈇	parenthesized hangul ieung	all	never	# ㈇ 0x3207
+㈈	parenthesized hangul cieuc	all	never	# ㈈ 0x3208
+㈉	parenthesized hangul chieuch	all	never	# ㈉ 0x3209
+㈊	parenthesized hangul khieukh	all	never	# ㈊ 0x320a
+㈋	parenthesized hangul thieuth	all	never	# ㈋ 0x320b
+㈌	parenthesized hangul phieuph	all	never	# ㈌ 0x320c
+㈍	parenthesized hangul hieuh	all	never	# ㈍ 0x320d
+㈎	parenthesized hangul kiyeok A	all	never	# ㈎ 0x320e
+㈏	parenthesized hangul nieun A	all	never	# ㈏ 0x320f
+㈐	parenthesized hangul tikeut A	all	never	# ㈐ 0x3210
+㈑	parenthesized hangul rieul A	all	never	# ㈑ 0x3211
+㈒	parenthesized hangul mieum A	all	never	# ㈒ 0x3212
+㈓	parenthesized hangul pieup A	all	never	# ㈓ 0x3213
+㈔	parenthesized hangul sios A	all	never	# ㈔ 0x3214
+㈕	parenthesized hangul ieung A	all	never	# ㈕ 0x3215
+㈖	parenthesized hangul cieuc A	all	never	# ㈖ 0x3216
+㈗	parenthesized hangul chieuch A	all	never	# ㈗ 0x3217
+㈘	parenthesized hangul khieukh A	all	never	# ㈘ 0x3218
+㈙	parenthesized hangul thieuth A	all	never	# ㈙ 0x3219
+㈚	parenthesized hangul phieuph A	all	never	# ㈚ 0x321a
+㈛	parenthesized hangul hieuh A	all	never	# ㈛ 0x321b
+㈜	parenthesized hangul cieuc U	all	never	# ㈜ 0x321c
+㈝	parenthesized korean character ojeon	all	never	# ㈝ 0x321d
+㈞	parenthesized korean character O hu	all	never	# ㈞ 0x321e
+㈠	parenthesized ideograph one	all	never	# ㈠ 0x3220
+㈡	parenthesized ideograph two	all	never	# ㈡ 0x3221
+㈢	parenthesized ideograph three	all	never	# ㈢ 0x3222
+㈣	parenthesized ideograph four	all	never	# ㈣ 0x3223
+㈤	parenthesized ideograph five	all	never	# ㈤ 0x3224
+㈥	parenthesized ideograph six	all	never	# ㈥ 0x3225
+㈦	parenthesized ideograph seven	all	never	# ㈦ 0x3226
+㈧	parenthesized ideograph eight	all	never	# ㈧ 0x3227
+㈨	parenthesized ideograph nine	all	never	# ㈨ 0x3228
+㈩	parenthesized ideograph ten	all	never	# ㈩ 0x3229
+㈪	parenthesized ideograph moon	all	never	# ㈪ 0x322a
+㈫	parenthesized ideograph fire	all	never	# ㈫ 0x322b
+㈬	parenthesized ideograph water	all	never	# ㈬ 0x322c
+㈭	parenthesized ideograph wood	all	never	# ㈭ 0x322d
+㈮	parenthesized ideograph metal	all	never	# ㈮ 0x322e
+㈯	parenthesized ideograph earth	all	never	# ㈯ 0x322f
+㈰	parenthesized ideograph sun	all	never	# ㈰ 0x3230
+㈱	parenthesized ideograph stock	all	never	# ㈱ 0x3231
+㈲	parenthesized ideograph have	all	never	# ㈲ 0x3232
+㈳	parenthesized ideograph society	all	never	# ㈳ 0x3233
+㈴	parenthesized ideograph name	all	never	# ㈴ 0x3234
+㈵	parenthesized ideograph special	all	never	# ㈵ 0x3235
+㈶	parenthesized ideograph financial	all	never	# ㈶ 0x3236
+㈷	parenthesized ideograph congratulation	all	never	# ㈷ 0x3237
+㈸	parenthesized ideograph labor	all	never	# ㈸ 0x3238
+㈹	parenthesized ideograph represent	all	never	# ㈹ 0x3239
+㈺	parenthesized ideograph call	all	never	# ㈺ 0x323a
+㈻	parenthesized ideograph study	all	never	# ㈻ 0x323b
+㈼	parenthesized ideograph supervise	all	never	# ㈼ 0x323c
+㈽	parenthesized ideograph enterprise	all	never	# ㈽ 0x323d
+㈾	parenthesized ideograph resource	all	never	# ㈾ 0x323e
+㈿	parenthesized ideograph alliance	all	never	# ㈿ 0x323f
+㉀	parenthesized ideograph festival	all	never	# ㉀ 0x3240
+㉁	parenthesized ideograph rest	all	never	# ㉁ 0x3241
+㉂	parenthesized ideograph self	all	never	# ㉂ 0x3242
+㉃	parenthesized ideograph reach	all	never	# ㉃ 0x3243
+㉄	circled ideograph question	all	never	# ㉄ 0x3244
+㉅	circled ideograph kindergarten	all	never	# ㉅ 0x3245
+㉆	circled ideograph school	all	never	# ㉆ 0x3246
+㉇	circled ideograph koto	all	never	# ㉇ 0x3247
+㉈	circled number ten on black square	all	never	# ㉈ 0x3248
+㉉	circled number twenty on black square	all	never	# ㉉ 0x3249
+㉊	circled number thirty on black square	all	never	# ㉊ 0x324a
+㉋	circled number forty on black square	all	never	# ㉋ 0x324b
+㉌	circled number fifty on black square	all	never	# ㉌ 0x324c
+㉍	circled number sixty on black square	all	never	# ㉍ 0x324d
+㉎	circled number seventy on black square	all	never	# ㉎ 0x324e
+㉏	circled number eighty on black square	all	never	# ㉏ 0x324f
+㉐	partnership sign	all	never	# ㉐ 0x3250
+㉑	circled number twenty one	all	never	# ㉑ 0x3251
+㉒	circled number twenty two	all	never	# ㉒ 0x3252
+㉓	circled number twenty three	all	never	# ㉓ 0x3253
+㉔	circled number twenty four	all	never	# ㉔ 0x3254
+㉕	circled number twenty five	all	never	# ㉕ 0x3255
+㉖	circled number twenty six	all	never	# ㉖ 0x3256
+㉗	circled number twenty seven	all	never	# ㉗ 0x3257
+㉘	circled number twenty eight	all	never	# ㉘ 0x3258
+㉙	circled number twenty nine	all	never	# ㉙ 0x3259
+㉚	circled number thirty	all	never	# ㉚ 0x325a
+㉛	circled number thirty one	all	never	# ㉛ 0x325b
+㉜	circled number thirty two	all	never	# ㉜ 0x325c
+㉝	circled number thirty three	all	never	# ㉝ 0x325d
+㉞	circled number thirty four	all	never	# ㉞ 0x325e
+㉟	circled number thirty five	all	never	# ㉟ 0x325f
+㉠	circled hangul kiyeok	all	never	# ㉠ 0x3260
+㉡	circled hangul nieun	all	never	# ㉡ 0x3261
+㉢	circled hangul tikeut	all	never	# ㉢ 0x3262
+㉣	circled hangul rieul	all	never	# ㉣ 0x3263
+㉤	circled hangul mieum	all	never	# ㉤ 0x3264
+㉥	circled hangul pieup	all	never	# ㉥ 0x3265
+㉦	circled hangul sios	all	never	# ㉦ 0x3266
+㉧	circled hangul ieung	all	never	# ㉧ 0x3267
+㉨	circled hangul cieuc	all	never	# ㉨ 0x3268
+㉩	circled hangul chieuch	all	never	# ㉩ 0x3269
+㉪	circled hangul khieukh	all	never	# ㉪ 0x326a
+㉫	circled hangul thieuth	all	never	# ㉫ 0x326b
+㉬	circled hangul phieuph	all	never	# ㉬ 0x326c
+㉭	circled hangul hieuh	all	never	# ㉭ 0x326d
+㉮	circled hangul kiyeok A	all	never	# ㉮ 0x326e
+㉯	circled hangul nieun A	all	never	# ㉯ 0x326f
+㉰	circled hangul tikeut A	all	never	# ㉰ 0x3270
+㉱	circled hangul rieul A	all	never	# ㉱ 0x3271
+㉲	circled hangul mieum A	all	never	# ㉲ 0x3272
+㉳	circled hangul pieup A	all	never	# ㉳ 0x3273
+㉴	circled hangul sios A	all	never	# ㉴ 0x3274
+㉵	circled hangul ieung A	all	never	# ㉵ 0x3275
+㉶	circled hangul cieuc A	all	never	# ㉶ 0x3276
+㉷	circled hangul chieuch A	all	never	# ㉷ 0x3277
+㉸	circled hangul khieukh A	all	never	# ㉸ 0x3278
+㉹	circled hangul thieuth A	all	never	# ㉹ 0x3279
+㉺	circled hangul phieuph A	all	never	# ㉺ 0x327a
+㉻	circled hangul hieuh A	all	never	# ㉻ 0x327b
+㉼	circled korean character chamko	all	never	# ㉼ 0x327c
+㉽	circled korean character jueui	all	never	# ㉽ 0x327d
+㉾	circled hangul ieung U	all	never	# ㉾ 0x327e
+㉿	korean standard symbol	all	never	# ㉿ 0x327f
+㊀	circled ideograph one	all	never	# ㊀ 0x3280
+㊁	circled ideograph two	all	never	# ㊁ 0x3281
+㊂	circled ideograph three	all	never	# ㊂ 0x3282
+㊃	circled ideograph four	all	never	# ㊃ 0x3283
+㊄	circled ideograph five	all	never	# ㊄ 0x3284
+㊅	circled ideograph six	all	never	# ㊅ 0x3285
+㊆	circled ideograph seven	all	never	# ㊆ 0x3286
+㊇	circled ideograph eight	all	never	# ㊇ 0x3287
+㊈	circled ideograph nine	all	never	# ㊈ 0x3288
+㊉	circled ideograph ten	all	never	# ㊉ 0x3289
+㊊	circled ideograph moon	all	never	# ㊊ 0x328a
+㊋	circled ideograph fire	all	never	# ㊋ 0x328b
+㊌	circled ideograph water	all	never	# ㊌ 0x328c
+㊍	circled ideograph wood	all	never	# ㊍ 0x328d
+㊎	circled ideograph metal	all	never	# ㊎ 0x328e
+㊏	circled ideograph earth	all	never	# ㊏ 0x328f
+㊐	circled ideograph sun	all	never	# ㊐ 0x3290
+㊑	circled ideograph stock	all	never	# ㊑ 0x3291
+㊒	circled ideograph have	all	never	# ㊒ 0x3292
+㊓	circled ideograph society	all	never	# ㊓ 0x3293
+㊔	circled ideograph name	all	never	# ㊔ 0x3294
+㊕	circled ideograph special	all	never	# ㊕ 0x3295
+㊖	circled ideograph financial	all	never	# ㊖ 0x3296
+㊗	circled ideograph congratulation	all	never	# ㊗ 0x3297
+㊘	circled ideograph labor	all	never	# ㊘ 0x3298
+㊙	circled ideograph secret	all	never	# ㊙ 0x3299
+㊚	circled ideograph male	all	never	# ㊚ 0x329a
+㊛	circled ideograph female	all	never	# ㊛ 0x329b
+㊜	circled ideograph suitable	all	never	# ㊜ 0x329c
+㊝	circled ideograph excellent	all	never	# ㊝ 0x329d
+㊞	circled ideograph print	all	never	# ㊞ 0x329e
+㊟	circled ideograph attention	all	never	# ㊟ 0x329f
+㊠	circled ideograph item	all	never	# ㊠ 0x32a0
+㊡	circled ideograph rest	all	never	# ㊡ 0x32a1
+㊢	circled ideograph copy	all	never	# ㊢ 0x32a2
+㊣	circled ideograph correct	all	never	# ㊣ 0x32a3
+㊤	circled ideograph high	all	never	# ㊤ 0x32a4
+㊥	circled ideograph centre	all	never	# ㊥ 0x32a5
+㊦	circled ideograph low	all	never	# ㊦ 0x32a6
+㊧	circled ideograph left	all	never	# ㊧ 0x32a7
+㊨	circled ideograph right	all	never	# ㊨ 0x32a8
+㊩	circled ideograph medicine	all	never	# ㊩ 0x32a9
+㊪	circled ideograph religion	all	never	# ㊪ 0x32aa
+㊫	circled ideograph study	all	never	# ㊫ 0x32ab
+㊬	circled ideograph supervise	all	never	# ㊬ 0x32ac
+㊭	circled ideograph enterprise	all	never	# ㊭ 0x32ad
+㊮	circled ideograph resource	all	never	# ㊮ 0x32ae
+㊯	circled ideograph alliance	all	never	# ㊯ 0x32af
+㊰	circled ideograph night	all	never	# ㊰ 0x32b0
+㊱	circled number thirty six	all	never	# ㊱ 0x32b1
+㊲	circled number thirty seven	all	never	# ㊲ 0x32b2
+㊳	circled number thirty eight	all	never	# ㊳ 0x32b3
+㊴	circled number thirty nine	all	never	# ㊴ 0x32b4
+㊵	circled number forty	all	never	# ㊵ 0x32b5
+㊶	circled number forty one	all	never	# ㊶ 0x32b6
+㊷	circled number forty two	all	never	# ㊷ 0x32b7
+㊸	circled number forty three	all	never	# ㊸ 0x32b8
+㊹	circled number forty four	all	never	# ㊹ 0x32b9
+㊺	circled number forty five	all	never	# ㊺ 0x32ba
+㊻	circled number forty six	all	never	# ㊻ 0x32bb
+㊼	circled number forty seven	all	never	# ㊼ 0x32bc
+㊽	circled number forty eight	all	never	# ㊽ 0x32bd
+㊾	circled number forty nine	all	never	# ㊾ 0x32be
+㊿	circled number fifty	all	never	# ㊿ 0x32bf
+㋀	ideographic telegraph symbol for january	all	never	# ㋀ 0x32c0
+㋁	ideographic telegraph symbol for february	all	never	# ㋁ 0x32c1
+㋂	ideographic telegraph symbol for march	all	never	# ㋂ 0x32c2
+㋃	ideographic telegraph symbol for april	all	never	# ㋃ 0x32c3
+㋄	ideographic telegraph symbol for may	all	never	# ㋄ 0x32c4
+㋅	ideographic telegraph symbol for june	all	never	# ㋅ 0x32c5
+㋆	ideographic telegraph symbol for july	all	never	# ㋆ 0x32c6
+㋇	ideographic telegraph symbol for august	all	never	# ㋇ 0x32c7
+㋈	ideographic telegraph symbol for september	all	never	# ㋈ 0x32c8
+㋉	ideographic telegraph symbol for october	all	never	# ㋉ 0x32c9
+㋊	ideographic telegraph symbol for november	all	never	# ㋊ 0x32ca
+㋋	ideographic telegraph symbol for december	all	never	# ㋋ 0x32cb
+㋌	square hg	all	never	# ㋌ 0x32cc
+㋍	square erg	all	never	# ㋍ 0x32cd
+㋎	square ev	all	never	# ㋎ 0x32ce
+㋏	limited liability sign	all	never	# ㋏ 0x32cf
+㋐	circled katakana A	all	never	# ㋐ 0x32d0
+㋑	circled katakana I	all	never	# ㋑ 0x32d1
+㋒	circled katakana U	all	never	# ㋒ 0x32d2
+㋓	circled katakana E	all	never	# ㋓ 0x32d3
+㋔	circled katakana O	all	never	# ㋔ 0x32d4
+㋕	circled katakana ka	all	never	# ㋕ 0x32d5
+㋖	circled katakana ki	all	never	# ㋖ 0x32d6
+㋗	circled katakana ku	all	never	# ㋗ 0x32d7
+㋘	circled katakana ke	all	never	# ㋘ 0x32d8
+㋙	circled katakana ko	all	never	# ㋙ 0x32d9
+㋚	circled katakana sa	all	never	# ㋚ 0x32da
+㋛	circled katakana si	all	never	# ㋛ 0x32db
+㋜	circled katakana su	all	never	# ㋜ 0x32dc
+㋝	circled katakana se	all	never	# ㋝ 0x32dd
+㋞	circled katakana so	all	never	# ㋞ 0x32de
+㋟	circled katakana ta	all	never	# ㋟ 0x32df
+㋠	circled katakana ti	all	never	# ㋠ 0x32e0
+㋡	circled katakana tu	all	never	# ㋡ 0x32e1
+㋢	circled katakana te	all	never	# ㋢ 0x32e2
+㋣	circled katakana to	all	never	# ㋣ 0x32e3
+㋤	circled katakana na	all	never	# ㋤ 0x32e4
+㋥	circled katakana ni	all	never	# ㋥ 0x32e5
+㋦	circled katakana nu	all	never	# ㋦ 0x32e6
+㋧	circled katakana ne	all	never	# ㋧ 0x32e7
+㋨	circled katakana no	all	never	# ㋨ 0x32e8
+㋩	circled katakana ha	all	never	# ㋩ 0x32e9
+㋪	circled katakana hi	all	never	# ㋪ 0x32ea
+㋫	circled katakana hu	all	never	# ㋫ 0x32eb
+㋬	circled katakana he	all	never	# ㋬ 0x32ec
+㋭	circled katakana ho	all	never	# ㋭ 0x32ed
+㋮	circled katakana ma	all	never	# ㋮ 0x32ee
+㋯	circled katakana mi	all	never	# ㋯ 0x32ef
+㋰	circled katakana mu	all	never	# ㋰ 0x32f0
+㋱	circled katakana me	all	never	# ㋱ 0x32f1
+㋲	circled katakana mo	all	never	# ㋲ 0x32f2
+㋳	circled katakana ya	all	never	# ㋳ 0x32f3
+㋴	circled katakana yu	all	never	# ㋴ 0x32f4
+㋵	circled katakana yo	all	never	# ㋵ 0x32f5
+㋶	circled katakana ra	all	never	# ㋶ 0x32f6
+㋷	circled katakana ri	all	never	# ㋷ 0x32f7
+㋸	circled katakana ru	all	never	# ㋸ 0x32f8
+㋹	circled katakana re	all	never	# ㋹ 0x32f9
+㋺	circled katakana ro	all	never	# ㋺ 0x32fa
+㋻	circled katakana wa	all	never	# ㋻ 0x32fb
+㋼	circled katakana wi	all	never	# ㋼ 0x32fc
+㋽	circled katakana we	all	never	# ㋽ 0x32fd
+㋾	circled katakana wo	all	never	# ㋾ 0x32fe

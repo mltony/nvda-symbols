@@ -1,0 +1,33 @@
+# # Modifier Tone Letters
+꜀	modifier letter chinese tone yin ping	all	never	# ꜀ 0xa700
+꜁	modifier letter chinese tone yang ping	all	never	# ꜁ 0xa701
+꜂	modifier letter chinese tone yin shang	all	never	# ꜂ 0xa702
+꜃	modifier letter chinese tone yang shang	all	never	# ꜃ 0xa703
+꜄	modifier letter chinese tone yin qu	all	never	# ꜄ 0xa704
+꜅	modifier letter chinese tone yang qu	all	never	# ꜅ 0xa705
+꜆	modifier letter chinese tone yin ru	all	never	# ꜆ 0xa706
+꜇	modifier letter chinese tone yang ru	all	never	# ꜇ 0xa707
+꜈	modifier letter extra-high dotted tone bar	all	never	# ꜈ 0xa708
+꜉	modifier letter high dotted tone bar	all	never	# ꜉ 0xa709
+꜊	modifier letter mid dotted tone bar	all	never	# ꜊ 0xa70a
+꜋	modifier letter low dotted tone bar	all	never	# ꜋ 0xa70b
+꜌	modifier letter extra-low dotted tone bar	all	never	# ꜌ 0xa70c
+꜍	modifier letter extra-high dotted left-stem tone bar	all	never	# ꜍ 0xa70d
+꜎	modifier letter high dotted left-stem tone bar	all	never	# ꜎ 0xa70e
+꜏	modifier letter mid dotted left-stem tone bar	all	never	# ꜏ 0xa70f
+꜐	modifier letter low dotted left-stem tone bar	all	never	# ꜐ 0xa710
+꜑	modifier letter extra-low dotted left-stem tone bar	all	never	# ꜑ 0xa711
+꜒	modifier letter extra-high left-stem tone bar	all	never	# ꜒ 0xa712
+꜓	modifier letter high left-stem tone bar	all	never	# ꜓ 0xa713
+꜔	modifier letter mid left-stem tone bar	all	never	# ꜔ 0xa714
+꜕	modifier letter low left-stem tone bar	all	never	# ꜕ 0xa715
+꜖	modifier letter extra-low left-stem tone bar	all	never	# ꜖ 0xa716
+ꜗ	modifier letter dot vertical bar	all	never	# ꜗ 0xa717
+ꜘ	modifier letter dot slash	all	never	# ꜘ 0xa718
+ꜙ	modifier letter dot horizontal bar	all	never	# ꜙ 0xa719
+ꜚ	modifier letter lower right corner angle	all	never	# ꜚ 0xa71a
+ꜛ	modifier letter raised up arrow	all	never	# ꜛ 0xa71b
+ꜜ	modifier letter raised down arrow	all	never	# ꜜ 0xa71c
+ꜝ	modifier letter raised exclamation mark	all	never	# ꜝ 0xa71d
+ꜞ	modifier letter raised inverted exclamation mark	all	never	# ꜞ 0xa71e
+ꜟ	modifier letter low inverted exclamation mark	all	never	# ꜟ 0xa71f

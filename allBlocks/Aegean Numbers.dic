@@ -1,0 +1,58 @@
+# # Aegean Numbers
+𐄀	aegean word separator line	all	never	# 𐄀 0x10100
+𐄁	aegean word separator dot	all	never	# 𐄁 0x10101
+𐄂	aegean check mark	all	never	# 𐄂 0x10102
+𐄇	aegean number one	all	never	# 𐄇 0x10107
+𐄈	aegean number two	all	never	# 𐄈 0x10108
+𐄉	aegean number three	all	never	# 𐄉 0x10109
+𐄊	aegean number four	all	never	# 𐄊 0x1010a
+𐄋	aegean number five	all	never	# 𐄋 0x1010b
+𐄌	aegean number six	all	never	# 𐄌 0x1010c
+𐄍	aegean number seven	all	never	# 𐄍 0x1010d
+𐄎	aegean number eight	all	never	# 𐄎 0x1010e
+𐄏	aegean number nine	all	never	# 𐄏 0x1010f
+𐄐	aegean number ten	all	never	# 𐄐 0x10110
+𐄑	aegean number twenty	all	never	# 𐄑 0x10111
+𐄒	aegean number thirty	all	never	# 𐄒 0x10112
+𐄓	aegean number forty	all	never	# 𐄓 0x10113
+𐄔	aegean number fifty	all	never	# 𐄔 0x10114
+𐄕	aegean number sixty	all	never	# 𐄕 0x10115
+𐄖	aegean number seventy	all	never	# 𐄖 0x10116
+𐄗	aegean number eighty	all	never	# 𐄗 0x10117
+𐄘	aegean number ninety	all	never	# 𐄘 0x10118
+𐄙	aegean number one hundred	all	never	# 𐄙 0x10119
+𐄚	aegean number two hundred	all	never	# 𐄚 0x1011a
+𐄛	aegean number three hundred	all	never	# 𐄛 0x1011b
+𐄜	aegean number four hundred	all	never	# 𐄜 0x1011c
+𐄝	aegean number five hundred	all	never	# 𐄝 0x1011d
+𐄞	aegean number six hundred	all	never	# 𐄞 0x1011e
+𐄟	aegean number seven hundred	all	never	# 𐄟 0x1011f
+𐄠	aegean number eight hundred	all	never	# 𐄠 0x10120
+𐄡	aegean number nine hundred	all	never	# 𐄡 0x10121
+𐄢	aegean number one thousand	all	never	# 𐄢 0x10122
+𐄣	aegean number two thousand	all	never	# 𐄣 0x10123
+𐄤	aegean number three thousand	all	never	# 𐄤 0x10124
+𐄥	aegean number four thousand	all	never	# 𐄥 0x10125
+𐄦	aegean number five thousand	all	never	# 𐄦 0x10126
+𐄧	aegean number six thousand	all	never	# 𐄧 0x10127
+𐄨	aegean number seven thousand	all	never	# 𐄨 0x10128
+𐄩	aegean number eight thousand	all	never	# 𐄩 0x10129
+𐄪	aegean number nine thousand	all	never	# 𐄪 0x1012a
+𐄫	aegean number ten thousand	all	never	# 𐄫 0x1012b
+𐄬	aegean number twenty thousand	all	never	# 𐄬 0x1012c
+𐄭	aegean number thirty thousand	all	never	# 𐄭 0x1012d
+𐄮	aegean number forty thousand	all	never	# 𐄮 0x1012e
+𐄯	aegean number fifty thousand	all	never	# 𐄯 0x1012f
+𐄰	aegean number sixty thousand	all	never	# 𐄰 0x10130
+𐄱	aegean number seventy thousand	all	never	# 𐄱 0x10131
+𐄲	aegean number eighty thousand	all	never	# 𐄲 0x10132
+𐄳	aegean number ninety thousand	all	never	# 𐄳 0x10133
+𐄷	aegean weight base unit	all	never	# 𐄷 0x10137
+𐄸	aegean weight first subunit	all	never	# 𐄸 0x10138
+𐄹	aegean weight second subunit	all	never	# 𐄹 0x10139
+𐄺	aegean weight third subunit	all	never	# 𐄺 0x1013a
+𐄻	aegean weight fourth subunit	all	never	# 𐄻 0x1013b
+𐄼	aegean dry measure first subunit	all	never	# 𐄼 0x1013c
+𐄽	aegean liquid measure first subunit	all	never	# 𐄽 0x1013d
+𐄾	aegean measure second subunit	all	never	# 𐄾 0x1013e
+𐄿	aegean measure third subunit	all	never	# 𐄿 0x1013f

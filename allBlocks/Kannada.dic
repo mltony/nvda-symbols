@@ -1,0 +1,89 @@
+# # Kannada
+ಀ	kannada sign spacing candrabindu	all	never	# ಀ 0xc80
+ಁ	kannada sign candrabindu	all	never	# ಁ 0xc81
+ಂ	kannada sign anusvara	all	never	# ಂ 0xc82
+ಃ	kannada sign visarga	all	never	# ಃ 0xc83
+ಅ	kannada letter A	all	never	# ಅ 0xc85
+ಆ	kannada letter aa	all	never	# ಆ 0xc86
+ಇ	kannada letter I	all	never	# ಇ 0xc87
+ಈ	kannada letter ii	all	never	# ಈ 0xc88
+ಉ	kannada letter U	all	never	# ಉ 0xc89
+ಊ	kannada letter uu	all	never	# ಊ 0xc8a
+ಋ	kannada letter vocalic R	all	never	# ಋ 0xc8b
+ಌ	kannada letter vocalic L	all	never	# ಌ 0xc8c
+ಎ	kannada letter E	all	never	# ಎ 0xc8e
+ಏ	kannada letter ee	all	never	# ಏ 0xc8f
+ಐ	kannada letter ai	all	never	# ಐ 0xc90
+ಒ	kannada letter O	all	never	# ಒ 0xc92
+ಓ	kannada letter oo	all	never	# ಓ 0xc93
+ಔ	kannada letter au	all	never	# ಔ 0xc94
+ಕ	kannada letter ka	all	never	# ಕ 0xc95
+ಖ	kannada letter kha	all	never	# ಖ 0xc96
+ಗ	kannada letter ga	all	never	# ಗ 0xc97
+ಘ	kannada letter gha	all	never	# ಘ 0xc98
+ಙ	kannada letter nga	all	never	# ಙ 0xc99
+ಚ	kannada letter ca	all	never	# ಚ 0xc9a
+ಛ	kannada letter cha	all	never	# ಛ 0xc9b
+ಜ	kannada letter ja	all	never	# ಜ 0xc9c
+ಝ	kannada letter jha	all	never	# ಝ 0xc9d
+ಞ	kannada letter nya	all	never	# ಞ 0xc9e
+ಟ	kannada letter tta	all	never	# ಟ 0xc9f
+ಠ	kannada letter ttha	all	never	# ಠ 0xca0
+ಡ	kannada letter dda	all	never	# ಡ 0xca1
+ಢ	kannada letter ddha	all	never	# ಢ 0xca2
+ಣ	kannada letter nna	all	never	# ಣ 0xca3
+ತ	kannada letter ta	all	never	# ತ 0xca4
+ಥ	kannada letter tha	all	never	# ಥ 0xca5
+ದ	kannada letter da	all	never	# ದ 0xca6
+ಧ	kannada letter dha	all	never	# ಧ 0xca7
+ನ	kannada letter na	all	never	# ನ 0xca8
+ಪ	kannada letter pa	all	never	# ಪ 0xcaa
+ಫ	kannada letter pha	all	never	# ಫ 0xcab
+ಬ	kannada letter ba	all	never	# ಬ 0xcac
+ಭ	kannada letter bha	all	never	# ಭ 0xcad
+ಮ	kannada letter ma	all	never	# ಮ 0xcae
+ಯ	kannada letter ya	all	never	# ಯ 0xcaf
+ರ	kannada letter ra	all	never	# ರ 0xcb0
+ಱ	kannada letter rra	all	never	# ಱ 0xcb1
+ಲ	kannada letter la	all	never	# ಲ 0xcb2
+ಳ	kannada letter lla	all	never	# ಳ 0xcb3
+ವ	kannada letter va	all	never	# ವ 0xcb5
+ಶ	kannada letter sha	all	never	# ಶ 0xcb6
+ಷ	kannada letter ssa	all	never	# ಷ 0xcb7
+ಸ	kannada letter sa	all	never	# ಸ 0xcb8
+ಹ	kannada letter ha	all	never	# ಹ 0xcb9
+಼	kannada sign nukta	all	never	# ಼ 0xcbc
+ಽ	kannada sign avagraha	all	never	# ಽ 0xcbd
+ಾ	kannada vowel sign aa	all	never	# ಾ 0xcbe
+ಿ	kannada vowel sign I	all	never	# ಿ 0xcbf
+ೀ	kannada vowel sign ii	all	never	# ೀ 0xcc0
+ು	kannada vowel sign U	all	never	# ು 0xcc1
+ೂ	kannada vowel sign uu	all	never	# ೂ 0xcc2
+ೃ	kannada vowel sign vocalic R	all	never	# ೃ 0xcc3
+ೄ	kannada vowel sign vocalic rr	all	never	# ೄ 0xcc4
+ೆ	kannada vowel sign E	all	never	# ೆ 0xcc6
+ೇ	kannada vowel sign ee	all	never	# ೇ 0xcc7
+ೈ	kannada vowel sign ai	all	never	# ೈ 0xcc8
+ೊ	kannada vowel sign O	all	never	# ೊ 0xcca
+ೋ	kannada vowel sign oo	all	never	# ೋ 0xccb
+ೌ	kannada vowel sign au	all	never	# ೌ 0xccc
+್	kannada sign virama	all	never	# ್ 0xccd
+ೕ	kannada length mark	all	never	# ೕ 0xcd5
+ೖ	kannada ai length mark	all	never	# ೖ 0xcd6
+ೞ	kannada letter fa	all	never	# ೞ 0xcde
+ೠ	kannada letter vocalic rr	all	never	# ೠ 0xce0
+ೡ	kannada letter vocalic ll	all	never	# ೡ 0xce1
+ೢ	kannada vowel sign vocalic L	all	never	# ೢ 0xce2
+ೣ	kannada vowel sign vocalic ll	all	never	# ೣ 0xce3
+೦	kannada digit zero	all	never	# ೦ 0xce6
+೧	kannada digit one	all	never	# ೧ 0xce7
+೨	kannada digit two	all	never	# ೨ 0xce8
+೩	kannada digit three	all	never	# ೩ 0xce9
+೪	kannada digit four	all	never	# ೪ 0xcea
+೫	kannada digit five	all	never	# ೫ 0xceb
+೬	kannada digit six	all	never	# ೬ 0xcec
+೭	kannada digit seven	all	never	# ೭ 0xced
+೮	kannada digit eight	all	never	# ೮ 0xcee
+೯	kannada digit nine	all	never	# ೯ 0xcef
+ೱ	kannada sign jihvamuliya	all	never	# ೱ 0xcf1
+ೲ	kannada sign upadhmaniya	all	never	# ೲ 0xcf2

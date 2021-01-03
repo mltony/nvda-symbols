@@ -1,0 +1,97 @@
+# # Latin-1 Supplement
+#  	no-break space	all	never	#   0xa0
+# ¡	inverted exclamation mark	all	never	# ¡ 0xa1
+# ¢	cent sign	all	never	# ¢ 0xa2
+# £	pound sign	all	never	# £ 0xa3
+# ¤	currency sign	all	never	# ¤ 0xa4
+# ¥	yen sign	all	never	# ¥ 0xa5
+# ¦	broken bar	all	never	# ¦ 0xa6
+# §	section sign	all	never	# § 0xa7
+# ¨	diaeresis	all	never	# ¨ 0xa8
+# ©	copyright sign	all	never	# © 0xa9
+# ª	feminine ordinal indicator	all	never	# ª 0xaa
+# «	left-pointing double angle quotation mark	all	never	# « 0xab
+# ¬	not sign	all	never	# ¬ 0xac
+# ­	soft hyphen	all	never	# ­ 0xad
+# ®	registered sign	all	never	# ® 0xae
+# ¯	macron	all	never	# ¯ 0xaf
+# °	degree sign	all	never	# ° 0xb0
+# ±	plus-minus sign	all	never	# ± 0xb1
+# ²	superscript two	all	never	# ² 0xb2
+# ³	superscript three	all	never	# ³ 0xb3
+# ´	acute accent	all	never	# ´ 0xb4
+# µ	micro sign	all	never	# µ 0xb5
+# ¶	pilcrow sign	all	never	# ¶ 0xb6
+# ·	middle dot	all	never	# · 0xb7
+# ¸	cedilla	all	never	# ¸ 0xb8
+# ¹	superscript one	all	never	# ¹ 0xb9
+# º	masculine ordinal indicator	all	never	# º 0xba
+# »	right-pointing double angle quotation mark	all	never	# » 0xbb
+# ¼	vulgar fraction one quarter	all	never	# ¼ 0xbc
+# ½	vulgar fraction one half	all	never	# ½ 0xbd
+# ¾	vulgar fraction three quarters	all	never	# ¾ 0xbe
+# ¿	inverted question mark	all	never	# ¿ 0xbf
+À	latin capital letter A with grave	all	never	# À 0xc0
+Á	latin capital letter A with acute	all	never	# Á 0xc1
+Â	latin capital letter A with circumflex	all	never	# Â 0xc2
+Ã	latin capital letter A with tilde	all	never	# Ã 0xc3
+Ä	latin capital letter A with diaeresis	all	never	# Ä 0xc4
+Å	latin capital letter A with ring above	all	never	# Å 0xc5
+Æ	latin capital letter ae	all	never	# Æ 0xc6
+Ç	latin capital letter C with cedilla	all	never	# Ç 0xc7
+È	latin capital letter E with grave	all	never	# È 0xc8
+É	latin capital letter E with acute	all	never	# É 0xc9
+Ê	latin capital letter E with circumflex	all	never	# Ê 0xca
+Ë	latin capital letter E with diaeresis	all	never	# Ë 0xcb
+Ì	latin capital letter I with grave	all	never	# Ì 0xcc
+Í	latin capital letter I with acute	all	never	# Í 0xcd
+Î	latin capital letter I with circumflex	all	never	# Î 0xce
+Ï	latin capital letter I with diaeresis	all	never	# Ï 0xcf
+Ð	latin capital letter eth	all	never	# Ð 0xd0
+Ñ	latin capital letter N with tilde	all	never	# Ñ 0xd1
+Ò	latin capital letter O with grave	all	never	# Ò 0xd2
+Ó	latin capital letter O with acute	all	never	# Ó 0xd3
+Ô	latin capital letter O with circumflex	all	never	# Ô 0xd4
+Õ	latin capital letter O with tilde	all	never	# Õ 0xd5
+Ö	latin capital letter O with diaeresis	all	never	# Ö 0xd6
+# ×	multiplication sign	all	never	# × 0xd7
+Ø	latin capital letter O with stroke	all	never	# Ø 0xd8
+Ù	latin capital letter U with grave	all	never	# Ù 0xd9
+Ú	latin capital letter U with acute	all	never	# Ú 0xda
+Û	latin capital letter U with circumflex	all	never	# Û 0xdb
+Ü	latin capital letter U with diaeresis	all	never	# Ü 0xdc
+Ý	latin capital letter Y with acute	all	never	# Ý 0xdd
+Þ	latin capital letter thorn	all	never	# Þ 0xde
+ß	latin small letter sharp S	all	never	# ß 0xdf
+à	latin small letter A with grave	all	never	# à 0xe0
+á	latin small letter A with acute	all	never	# á 0xe1
+â	latin small letter A with circumflex	all	never	# â 0xe2
+ã	latin small letter A with tilde	all	never	# ã 0xe3
+ä	latin small letter A with diaeresis	all	never	# ä 0xe4
+å	latin small letter A with ring above	all	never	# å 0xe5
+æ	latin small letter ae	all	never	# æ 0xe6
+ç	latin small letter C with cedilla	all	never	# ç 0xe7
+è	latin small letter E with grave	all	never	# è 0xe8
+é	latin small letter E with acute	all	never	# é 0xe9
+ê	latin small letter E with circumflex	all	never	# ê 0xea
+ë	latin small letter E with diaeresis	all	never	# ë 0xeb
+ì	latin small letter I with grave	all	never	# ì 0xec
+í	latin small letter I with acute	all	never	# í 0xed
+î	latin small letter I with circumflex	all	never	# î 0xee
+ï	latin small letter I with diaeresis	all	never	# ï 0xef
+ð	latin small letter eth	all	never	# ð 0xf0
+ñ	latin small letter N with tilde	all	never	# ñ 0xf1
+ò	latin small letter O with grave	all	never	# ò 0xf2
+ó	latin small letter O with acute	all	never	# ó 0xf3
+ô	latin small letter O with circumflex	all	never	# ô 0xf4
+õ	latin small letter O with tilde	all	never	# õ 0xf5
+ö	latin small letter O with diaeresis	all	never	# ö 0xf6
+# ÷	division sign	all	never	# ÷ 0xf7
+ø	latin small letter O with stroke	all	never	# ø 0xf8
+ù	latin small letter U with grave	all	never	# ù 0xf9
+ú	latin small letter U with acute	all	never	# ú 0xfa
+û	latin small letter U with circumflex	all	never	# û 0xfb
+ü	latin small letter U with diaeresis	all	never	# ü 0xfc
+ý	latin small letter Y with acute	all	never	# ý 0xfd
+þ	latin small letter thorn	all	never	# þ 0xfe
+ÿ	latin small letter Y with diaeresis	all	never	# ÿ 0xff

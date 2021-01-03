@@ -1,0 +1,75 @@
+# # Lepcha
+ᰀ	lepcha letter ka	all	never	# ᰀ 0x1c00
+ᰁ	lepcha letter kla	all	never	# ᰁ 0x1c01
+ᰂ	lepcha letter kha	all	never	# ᰂ 0x1c02
+ᰃ	lepcha letter ga	all	never	# ᰃ 0x1c03
+ᰄ	lepcha letter gla	all	never	# ᰄ 0x1c04
+ᰅ	lepcha letter nga	all	never	# ᰅ 0x1c05
+ᰆ	lepcha letter ca	all	never	# ᰆ 0x1c06
+ᰇ	lepcha letter cha	all	never	# ᰇ 0x1c07
+ᰈ	lepcha letter ja	all	never	# ᰈ 0x1c08
+ᰉ	lepcha letter nya	all	never	# ᰉ 0x1c09
+ᰊ	lepcha letter ta	all	never	# ᰊ 0x1c0a
+ᰋ	lepcha letter tha	all	never	# ᰋ 0x1c0b
+ᰌ	lepcha letter da	all	never	# ᰌ 0x1c0c
+ᰍ	lepcha letter na	all	never	# ᰍ 0x1c0d
+ᰎ	lepcha letter pa	all	never	# ᰎ 0x1c0e
+ᰏ	lepcha letter pla	all	never	# ᰏ 0x1c0f
+ᰐ	lepcha letter pha	all	never	# ᰐ 0x1c10
+ᰑ	lepcha letter fa	all	never	# ᰑ 0x1c11
+ᰒ	lepcha letter fla	all	never	# ᰒ 0x1c12
+ᰓ	lepcha letter ba	all	never	# ᰓ 0x1c13
+ᰔ	lepcha letter bla	all	never	# ᰔ 0x1c14
+ᰕ	lepcha letter ma	all	never	# ᰕ 0x1c15
+ᰖ	lepcha letter mla	all	never	# ᰖ 0x1c16
+ᰗ	lepcha letter tsa	all	never	# ᰗ 0x1c17
+ᰘ	lepcha letter tsha	all	never	# ᰘ 0x1c18
+ᰙ	lepcha letter dza	all	never	# ᰙ 0x1c19
+ᰚ	lepcha letter ya	all	never	# ᰚ 0x1c1a
+ᰛ	lepcha letter ra	all	never	# ᰛ 0x1c1b
+ᰜ	lepcha letter la	all	never	# ᰜ 0x1c1c
+ᰝ	lepcha letter ha	all	never	# ᰝ 0x1c1d
+ᰞ	lepcha letter hla	all	never	# ᰞ 0x1c1e
+ᰟ	lepcha letter va	all	never	# ᰟ 0x1c1f
+ᰠ	lepcha letter sa	all	never	# ᰠ 0x1c20
+ᰡ	lepcha letter sha	all	never	# ᰡ 0x1c21
+ᰢ	lepcha letter wa	all	never	# ᰢ 0x1c22
+ᰣ	lepcha letter A	all	never	# ᰣ 0x1c23
+ᰤ	lepcha subjoined letter ya	all	never	# ᰤ 0x1c24
+ᰥ	lepcha subjoined letter ra	all	never	# ᰥ 0x1c25
+ᰦ	lepcha vowel sign aa	all	never	# ᰦ 0x1c26
+ᰧ	lepcha vowel sign I	all	never	# ᰧ 0x1c27
+ᰨ	lepcha vowel sign O	all	never	# ᰨ 0x1c28
+ᰩ	lepcha vowel sign oo	all	never	# ᰩ 0x1c29
+ᰪ	lepcha vowel sign U	all	never	# ᰪ 0x1c2a
+ᰫ	lepcha vowel sign uu	all	never	# ᰫ 0x1c2b
+ᰬ	lepcha vowel sign E	all	never	# ᰬ 0x1c2c
+ᰭ	lepcha consonant sign K	all	never	# ᰭ 0x1c2d
+ᰮ	lepcha consonant sign M	all	never	# ᰮ 0x1c2e
+ᰯ	lepcha consonant sign L	all	never	# ᰯ 0x1c2f
+ᰰ	lepcha consonant sign N	all	never	# ᰰ 0x1c30
+ᰱ	lepcha consonant sign P	all	never	# ᰱ 0x1c31
+ᰲ	lepcha consonant sign R	all	never	# ᰲ 0x1c32
+ᰳ	lepcha consonant sign T	all	never	# ᰳ 0x1c33
+ᰴ	lepcha consonant sign nyin-do	all	never	# ᰴ 0x1c34
+ᰵ	lepcha consonant sign kang	all	never	# ᰵ 0x1c35
+ᰶ	lepcha sign ran	all	never	# ᰶ 0x1c36
+᰷	lepcha sign nukta	all	never	# ᰷ 0x1c37
+᰻	lepcha punctuation ta-rol	all	never	# ᰻ 0x1c3b
+᰼	lepcha punctuation nyet thyoom ta-rol	all	never	# ᰼ 0x1c3c
+᰽	lepcha punctuation cer-wa	all	never	# ᰽ 0x1c3d
+᰾	lepcha punctuation tshook cer-wa	all	never	# ᰾ 0x1c3e
+᰿	lepcha punctuation tshook	all	never	# ᰿ 0x1c3f
+᱀	lepcha digit zero	all	never	# ᱀ 0x1c40
+᱁	lepcha digit one	all	never	# ᱁ 0x1c41
+᱂	lepcha digit two	all	never	# ᱂ 0x1c42
+᱃	lepcha digit three	all	never	# ᱃ 0x1c43
+᱄	lepcha digit four	all	never	# ᱄ 0x1c44
+᱅	lepcha digit five	all	never	# ᱅ 0x1c45
+᱆	lepcha digit six	all	never	# ᱆ 0x1c46
+᱇	lepcha digit seven	all	never	# ᱇ 0x1c47
+᱈	lepcha digit eight	all	never	# ᱈ 0x1c48
+᱉	lepcha digit nine	all	never	# ᱉ 0x1c49
+ᱍ	lepcha letter tta	all	never	# ᱍ 0x1c4d
+ᱎ	lepcha letter ttha	all	never	# ᱎ 0x1c4e
+ᱏ	lepcha letter dda	all	never	# ᱏ 0x1c4f

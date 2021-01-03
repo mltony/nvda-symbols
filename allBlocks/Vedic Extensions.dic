@@ -1,0 +1,42 @@
+# # Vedic Extensions
+᳐	vedic tone karshana	all	never	# ᳐ 0x1cd0
+᳑	vedic tone shara	all	never	# ᳑ 0x1cd1
+᳒	vedic tone prenkha	all	never	# ᳒ 0x1cd2
+᳓	vedic sign nihshvasa	all	never	# ᳓ 0x1cd3
+᳔	vedic sign yajurvedic midline svarita	all	never	# ᳔ 0x1cd4
+᳕	vedic tone yajurvedic aggravated independent svarita	all	never	# ᳕ 0x1cd5
+᳖	vedic tone yajurvedic independent svarita	all	never	# ᳖ 0x1cd6
+᳗	vedic tone yajurvedic kathaka independent svarita	all	never	# ᳗ 0x1cd7
+᳘	vedic tone candra below	all	never	# ᳘ 0x1cd8
+᳙	vedic tone yajurvedic kathaka independent svarita schroeder	all	never	# ᳙ 0x1cd9
+᳚	vedic tone double svarita	all	never	# ᳚ 0x1cda
+᳛	vedic tone triple svarita	all	never	# ᳛ 0x1cdb
+᳜	vedic tone kathaka anudatta	all	never	# ᳜ 0x1cdc
+᳝	vedic tone dot below	all	never	# ᳝ 0x1cdd
+᳞	vedic tone two dots below	all	never	# ᳞ 0x1cde
+᳟	vedic tone three dots below	all	never	# ᳟ 0x1cdf
+᳠	vedic tone rigvedic kashmiri independent svarita	all	never	# ᳠ 0x1ce0
+᳡	vedic tone atharvavedic independent svarita	all	never	# ᳡ 0x1ce1
+᳢	vedic sign visarga svarita	all	never	# ᳢ 0x1ce2
+᳣	vedic sign visarga udatta	all	never	# ᳣ 0x1ce3
+᳤	vedic sign reversed visarga udatta	all	never	# ᳤ 0x1ce4
+᳥	vedic sign visarga anudatta	all	never	# ᳥ 0x1ce5
+᳦	vedic sign reversed visarga anudatta	all	never	# ᳦ 0x1ce6
+᳧	vedic sign visarga udatta with tail	all	never	# ᳧ 0x1ce7
+᳨	vedic sign visarga anudatta with tail	all	never	# ᳨ 0x1ce8
+ᳩ	vedic sign anusvara antargomukha	all	never	# ᳩ 0x1ce9
+ᳪ	vedic sign anusvara bahirgomukha	all	never	# ᳪ 0x1cea
+ᳫ	vedic sign anusvara vamagomukha	all	never	# ᳫ 0x1ceb
+ᳬ	vedic sign anusvara vamagomukha with tail	all	never	# ᳬ 0x1cec
+᳭	vedic sign tiryak	all	never	# ᳭ 0x1ced
+ᳮ	vedic sign hexiform long anusvara	all	never	# ᳮ 0x1cee
+ᳯ	vedic sign long anusvara	all	never	# ᳯ 0x1cef
+ᳰ	vedic sign rthang long anusvara	all	never	# ᳰ 0x1cf0
+ᳱ	vedic sign anusvara ubhayato mukha	all	never	# ᳱ 0x1cf1
+ᳲ	vedic sign ardhavisarga	all	never	# ᳲ 0x1cf2
+ᳳ	vedic sign rotated ardhavisarga	all	never	# ᳳ 0x1cf3
+᳴	vedic tone candra above	all	never	# ᳴ 0x1cf4
+ᳵ	vedic sign jihvamuliya	all	never	# ᳵ 0x1cf5
+ᳶ	vedic sign upadhmaniya	all	never	# ᳶ 0x1cf6
+᳸	vedic tone ring above	all	never	# ᳸ 0x1cf8
+᳹	vedic tone double ring above	all	never	# ᳹ 0x1cf9

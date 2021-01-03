@@ -1,0 +1,90 @@
+# # Runic
+ᚠ	runic letter fehu feoh fe F	all	never	# ᚠ 0x16a0
+ᚡ	runic letter V	all	never	# ᚡ 0x16a1
+ᚢ	runic letter uruz ur U	all	never	# ᚢ 0x16a2
+ᚣ	runic letter yr	all	never	# ᚣ 0x16a3
+ᚤ	runic letter Y	all	never	# ᚤ 0x16a4
+ᚥ	runic letter W	all	never	# ᚥ 0x16a5
+ᚦ	runic letter thurisaz thurs thorn	all	never	# ᚦ 0x16a6
+ᚧ	runic letter eth	all	never	# ᚧ 0x16a7
+ᚨ	runic letter ansuz A	all	never	# ᚨ 0x16a8
+ᚩ	runic letter os O	all	never	# ᚩ 0x16a9
+ᚪ	runic letter ac A	all	never	# ᚪ 0x16aa
+ᚫ	runic letter aesc	all	never	# ᚫ 0x16ab
+ᚬ	runic letter long-branch-oss O	all	never	# ᚬ 0x16ac
+ᚭ	runic letter short-twig-oss O	all	never	# ᚭ 0x16ad
+ᚮ	runic letter O	all	never	# ᚮ 0x16ae
+ᚯ	runic letter oe	all	never	# ᚯ 0x16af
+ᚰ	runic letter on	all	never	# ᚰ 0x16b0
+ᚱ	runic letter raido rad reid R	all	never	# ᚱ 0x16b1
+ᚲ	runic letter kauna	all	never	# ᚲ 0x16b2
+ᚳ	runic letter cen	all	never	# ᚳ 0x16b3
+ᚴ	runic letter kaun K	all	never	# ᚴ 0x16b4
+ᚵ	runic letter G	all	never	# ᚵ 0x16b5
+ᚶ	runic letter eng	all	never	# ᚶ 0x16b6
+ᚷ	runic letter gebo gyfu G	all	never	# ᚷ 0x16b7
+ᚸ	runic letter gar	all	never	# ᚸ 0x16b8
+ᚹ	runic letter wunjo wynn W	all	never	# ᚹ 0x16b9
+ᚺ	runic letter haglaz H	all	never	# ᚺ 0x16ba
+ᚻ	runic letter haegl H	all	never	# ᚻ 0x16bb
+ᚼ	runic letter long-branch-hagall H	all	never	# ᚼ 0x16bc
+ᚽ	runic letter short-twig-hagall H	all	never	# ᚽ 0x16bd
+ᚾ	runic letter naudiz nyd naud N	all	never	# ᚾ 0x16be
+ᚿ	runic letter short-twig-naud N	all	never	# ᚿ 0x16bf
+ᛀ	runic letter dotted-N	all	never	# ᛀ 0x16c0
+ᛁ	runic letter isaz is iss I	all	never	# ᛁ 0x16c1
+ᛂ	runic letter E	all	never	# ᛂ 0x16c2
+ᛃ	runic letter jeran J	all	never	# ᛃ 0x16c3
+ᛄ	runic letter ger	all	never	# ᛄ 0x16c4
+ᛅ	runic letter long-branch-ar ae	all	never	# ᛅ 0x16c5
+ᛆ	runic letter short-twig-ar A	all	never	# ᛆ 0x16c6
+ᛇ	runic letter iwaz eoh	all	never	# ᛇ 0x16c7
+ᛈ	runic letter pertho peorth P	all	never	# ᛈ 0x16c8
+ᛉ	runic letter algiz eolhx	all	never	# ᛉ 0x16c9
+ᛊ	runic letter sowilo S	all	never	# ᛊ 0x16ca
+ᛋ	runic letter sigel long-branch-sol S	all	never	# ᛋ 0x16cb
+ᛌ	runic letter short-twig-sol S	all	never	# ᛌ 0x16cc
+ᛍ	runic letter C	all	never	# ᛍ 0x16cd
+ᛎ	runic letter Z	all	never	# ᛎ 0x16ce
+ᛏ	runic letter tiwaz tir tyr T	all	never	# ᛏ 0x16cf
+ᛐ	runic letter short-twig-tyr T	all	never	# ᛐ 0x16d0
+ᛑ	runic letter D	all	never	# ᛑ 0x16d1
+ᛒ	runic letter berkanan beorc bjarkan B	all	never	# ᛒ 0x16d2
+ᛓ	runic letter short-twig-bjarkan B	all	never	# ᛓ 0x16d3
+ᛔ	runic letter dotted-P	all	never	# ᛔ 0x16d4
+ᛕ	runic letter open-P	all	never	# ᛕ 0x16d5
+ᛖ	runic letter ehwaz eh E	all	never	# ᛖ 0x16d6
+ᛗ	runic letter mannaz man M	all	never	# ᛗ 0x16d7
+ᛘ	runic letter long-branch-madr M	all	never	# ᛘ 0x16d8
+ᛙ	runic letter short-twig-madr M	all	never	# ᛙ 0x16d9
+ᛚ	runic letter laukaz lagu logr L	all	never	# ᛚ 0x16da
+ᛛ	runic letter dotted-L	all	never	# ᛛ 0x16db
+ᛜ	runic letter ingwaz	all	never	# ᛜ 0x16dc
+ᛝ	runic letter ing	all	never	# ᛝ 0x16dd
+ᛞ	runic letter dagaz daeg D	all	never	# ᛞ 0x16de
+ᛟ	runic letter othalan ethel O	all	never	# ᛟ 0x16df
+ᛠ	runic letter ear	all	never	# ᛠ 0x16e0
+ᛡ	runic letter ior	all	never	# ᛡ 0x16e1
+ᛢ	runic letter cweorth	all	never	# ᛢ 0x16e2
+ᛣ	runic letter calc	all	never	# ᛣ 0x16e3
+ᛤ	runic letter cealc	all	never	# ᛤ 0x16e4
+ᛥ	runic letter stan	all	never	# ᛥ 0x16e5
+ᛦ	runic letter long-branch-yr	all	never	# ᛦ 0x16e6
+ᛧ	runic letter short-twig-yr	all	never	# ᛧ 0x16e7
+ᛨ	runic letter icelandic-yr	all	never	# ᛨ 0x16e8
+ᛩ	runic letter Q	all	never	# ᛩ 0x16e9
+ᛪ	runic letter X	all	never	# ᛪ 0x16ea
+᛫	runic single punctuation	all	never	# ᛫ 0x16eb
+᛬	runic multiple punctuation	all	never	# ᛬ 0x16ec
+᛭	runic cross punctuation	all	never	# ᛭ 0x16ed
+ᛮ	runic arlaug symbol	all	never	# ᛮ 0x16ee
+ᛯ	runic tvimadur symbol	all	never	# ᛯ 0x16ef
+ᛰ	runic belgthor symbol	all	never	# ᛰ 0x16f0
+ᛱ	runic letter K	all	never	# ᛱ 0x16f1
+ᛲ	runic letter sh	all	never	# ᛲ 0x16f2
+ᛳ	runic letter oo	all	never	# ᛳ 0x16f3
+ᛴ	runic letter franks casket os	all	never	# ᛴ 0x16f4
+ᛵ	runic letter franks casket is	all	never	# ᛵ 0x16f5
+ᛶ	runic letter franks casket eh	all	never	# ᛶ 0x16f6
+ᛷ	runic letter franks casket ac	all	never	# ᛷ 0x16f7
+ᛸ	runic letter franks casket aesc	all	never	# ᛸ 0x16f8

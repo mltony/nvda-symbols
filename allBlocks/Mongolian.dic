@@ -1,0 +1,157 @@
+# # Mongolian
+᠀	mongolian birga	all	never	# ᠀ 0x1800
+᠁	mongolian ellipsis	all	never	# ᠁ 0x1801
+᠂	mongolian comma	all	never	# ᠂ 0x1802
+᠃	mongolian full stop	all	never	# ᠃ 0x1803
+᠄	mongolian colon	all	never	# ᠄ 0x1804
+᠅	mongolian four dots	all	never	# ᠅ 0x1805
+᠆	mongolian todo soft hyphen	all	never	# ᠆ 0x1806
+᠇	mongolian sibe syllable boundary marker	all	never	# ᠇ 0x1807
+᠈	mongolian manchu comma	all	never	# ᠈ 0x1808
+᠉	mongolian manchu full stop	all	never	# ᠉ 0x1809
+᠊	mongolian nirugu	all	never	# ᠊ 0x180a
+᠋	mongolian free variation selector one	all	never	# ᠋ 0x180b
+᠌	mongolian free variation selector two	all	never	# ᠌ 0x180c
+᠍	mongolian free variation selector three	all	never	# ᠍ 0x180d
+᠎	mongolian vowel separator	all	never	# ᠎ 0x180e
+᠐	mongolian digit zero	all	never	# ᠐ 0x1810
+᠑	mongolian digit one	all	never	# ᠑ 0x1811
+᠒	mongolian digit two	all	never	# ᠒ 0x1812
+᠓	mongolian digit three	all	never	# ᠓ 0x1813
+᠔	mongolian digit four	all	never	# ᠔ 0x1814
+᠕	mongolian digit five	all	never	# ᠕ 0x1815
+᠖	mongolian digit six	all	never	# ᠖ 0x1816
+᠗	mongolian digit seven	all	never	# ᠗ 0x1817
+᠘	mongolian digit eight	all	never	# ᠘ 0x1818
+᠙	mongolian digit nine	all	never	# ᠙ 0x1819
+ᠠ	mongolian letter A	all	never	# ᠠ 0x1820
+ᠡ	mongolian letter E	all	never	# ᠡ 0x1821
+ᠢ	mongolian letter I	all	never	# ᠢ 0x1822
+ᠣ	mongolian letter O	all	never	# ᠣ 0x1823
+ᠤ	mongolian letter U	all	never	# ᠤ 0x1824
+ᠥ	mongolian letter oe	all	never	# ᠥ 0x1825
+ᠦ	mongolian letter ue	all	never	# ᠦ 0x1826
+ᠧ	mongolian letter ee	all	never	# ᠧ 0x1827
+ᠨ	mongolian letter na	all	never	# ᠨ 0x1828
+ᠩ	mongolian letter ang	all	never	# ᠩ 0x1829
+ᠪ	mongolian letter ba	all	never	# ᠪ 0x182a
+ᠫ	mongolian letter pa	all	never	# ᠫ 0x182b
+ᠬ	mongolian letter qa	all	never	# ᠬ 0x182c
+ᠭ	mongolian letter ga	all	never	# ᠭ 0x182d
+ᠮ	mongolian letter ma	all	never	# ᠮ 0x182e
+ᠯ	mongolian letter la	all	never	# ᠯ 0x182f
+ᠰ	mongolian letter sa	all	never	# ᠰ 0x1830
+ᠱ	mongolian letter sha	all	never	# ᠱ 0x1831
+ᠲ	mongolian letter ta	all	never	# ᠲ 0x1832
+ᠳ	mongolian letter da	all	never	# ᠳ 0x1833
+ᠴ	mongolian letter cha	all	never	# ᠴ 0x1834
+ᠵ	mongolian letter ja	all	never	# ᠵ 0x1835
+ᠶ	mongolian letter ya	all	never	# ᠶ 0x1836
+ᠷ	mongolian letter ra	all	never	# ᠷ 0x1837
+ᠸ	mongolian letter wa	all	never	# ᠸ 0x1838
+ᠹ	mongolian letter fa	all	never	# ᠹ 0x1839
+ᠺ	mongolian letter ka	all	never	# ᠺ 0x183a
+ᠻ	mongolian letter kha	all	never	# ᠻ 0x183b
+ᠼ	mongolian letter tsa	all	never	# ᠼ 0x183c
+ᠽ	mongolian letter za	all	never	# ᠽ 0x183d
+ᠾ	mongolian letter haa	all	never	# ᠾ 0x183e
+ᠿ	mongolian letter zra	all	never	# ᠿ 0x183f
+ᡀ	mongolian letter lha	all	never	# ᡀ 0x1840
+ᡁ	mongolian letter zhi	all	never	# ᡁ 0x1841
+ᡂ	mongolian letter chi	all	never	# ᡂ 0x1842
+ᡃ	mongolian letter todo long vowel sign	all	never	# ᡃ 0x1843
+ᡄ	mongolian letter todo E	all	never	# ᡄ 0x1844
+ᡅ	mongolian letter todo I	all	never	# ᡅ 0x1845
+ᡆ	mongolian letter todo O	all	never	# ᡆ 0x1846
+ᡇ	mongolian letter todo U	all	never	# ᡇ 0x1847
+ᡈ	mongolian letter todo oe	all	never	# ᡈ 0x1848
+ᡉ	mongolian letter todo ue	all	never	# ᡉ 0x1849
+ᡊ	mongolian letter todo ang	all	never	# ᡊ 0x184a
+ᡋ	mongolian letter todo ba	all	never	# ᡋ 0x184b
+ᡌ	mongolian letter todo pa	all	never	# ᡌ 0x184c
+ᡍ	mongolian letter todo qa	all	never	# ᡍ 0x184d
+ᡎ	mongolian letter todo ga	all	never	# ᡎ 0x184e
+ᡏ	mongolian letter todo ma	all	never	# ᡏ 0x184f
+ᡐ	mongolian letter todo ta	all	never	# ᡐ 0x1850
+ᡑ	mongolian letter todo da	all	never	# ᡑ 0x1851
+ᡒ	mongolian letter todo cha	all	never	# ᡒ 0x1852
+ᡓ	mongolian letter todo ja	all	never	# ᡓ 0x1853
+ᡔ	mongolian letter todo tsa	all	never	# ᡔ 0x1854
+ᡕ	mongolian letter todo ya	all	never	# ᡕ 0x1855
+ᡖ	mongolian letter todo wa	all	never	# ᡖ 0x1856
+ᡗ	mongolian letter todo ka	all	never	# ᡗ 0x1857
+ᡘ	mongolian letter todo gaa	all	never	# ᡘ 0x1858
+ᡙ	mongolian letter todo haa	all	never	# ᡙ 0x1859
+ᡚ	mongolian letter todo jia	all	never	# ᡚ 0x185a
+ᡛ	mongolian letter todo nia	all	never	# ᡛ 0x185b
+ᡜ	mongolian letter todo dza	all	never	# ᡜ 0x185c
+ᡝ	mongolian letter sibe E	all	never	# ᡝ 0x185d
+ᡞ	mongolian letter sibe I	all	never	# ᡞ 0x185e
+ᡟ	mongolian letter sibe iy	all	never	# ᡟ 0x185f
+ᡠ	mongolian letter sibe ue	all	never	# ᡠ 0x1860
+ᡡ	mongolian letter sibe U	all	never	# ᡡ 0x1861
+ᡢ	mongolian letter sibe ang	all	never	# ᡢ 0x1862
+ᡣ	mongolian letter sibe ka	all	never	# ᡣ 0x1863
+ᡤ	mongolian letter sibe ga	all	never	# ᡤ 0x1864
+ᡥ	mongolian letter sibe ha	all	never	# ᡥ 0x1865
+ᡦ	mongolian letter sibe pa	all	never	# ᡦ 0x1866
+ᡧ	mongolian letter sibe sha	all	never	# ᡧ 0x1867
+ᡨ	mongolian letter sibe ta	all	never	# ᡨ 0x1868
+ᡩ	mongolian letter sibe da	all	never	# ᡩ 0x1869
+ᡪ	mongolian letter sibe ja	all	never	# ᡪ 0x186a
+ᡫ	mongolian letter sibe fa	all	never	# ᡫ 0x186b
+ᡬ	mongolian letter sibe gaa	all	never	# ᡬ 0x186c
+ᡭ	mongolian letter sibe haa	all	never	# ᡭ 0x186d
+ᡮ	mongolian letter sibe tsa	all	never	# ᡮ 0x186e
+ᡯ	mongolian letter sibe za	all	never	# ᡯ 0x186f
+ᡰ	mongolian letter sibe raa	all	never	# ᡰ 0x1870
+ᡱ	mongolian letter sibe cha	all	never	# ᡱ 0x1871
+ᡲ	mongolian letter sibe zha	all	never	# ᡲ 0x1872
+ᡳ	mongolian letter manchu I	all	never	# ᡳ 0x1873
+ᡴ	mongolian letter manchu ka	all	never	# ᡴ 0x1874
+ᡵ	mongolian letter manchu ra	all	never	# ᡵ 0x1875
+ᡶ	mongolian letter manchu fa	all	never	# ᡶ 0x1876
+ᡷ	mongolian letter manchu zha	all	never	# ᡷ 0x1877
+ᢀ	mongolian letter ali gali anusvara one	all	never	# ᢀ 0x1880
+ᢁ	mongolian letter ali gali visarga one	all	never	# ᢁ 0x1881
+ᢂ	mongolian letter ali gali damaru	all	never	# ᢂ 0x1882
+ᢃ	mongolian letter ali gali ubadama	all	never	# ᢃ 0x1883
+ᢄ	mongolian letter ali gali inverted ubadama	all	never	# ᢄ 0x1884
+ᢅ	mongolian letter ali gali baluda	all	never	# ᢅ 0x1885
+ᢆ	mongolian letter ali gali three baluda	all	never	# ᢆ 0x1886
+ᢇ	mongolian letter ali gali A	all	never	# ᢇ 0x1887
+ᢈ	mongolian letter ali gali I	all	never	# ᢈ 0x1888
+ᢉ	mongolian letter ali gali ka	all	never	# ᢉ 0x1889
+ᢊ	mongolian letter ali gali nga	all	never	# ᢊ 0x188a
+ᢋ	mongolian letter ali gali ca	all	never	# ᢋ 0x188b
+ᢌ	mongolian letter ali gali tta	all	never	# ᢌ 0x188c
+ᢍ	mongolian letter ali gali ttha	all	never	# ᢍ 0x188d
+ᢎ	mongolian letter ali gali dda	all	never	# ᢎ 0x188e
+ᢏ	mongolian letter ali gali nna	all	never	# ᢏ 0x188f
+ᢐ	mongolian letter ali gali ta	all	never	# ᢐ 0x1890
+ᢑ	mongolian letter ali gali da	all	never	# ᢑ 0x1891
+ᢒ	mongolian letter ali gali pa	all	never	# ᢒ 0x1892
+ᢓ	mongolian letter ali gali pha	all	never	# ᢓ 0x1893
+ᢔ	mongolian letter ali gali ssa	all	never	# ᢔ 0x1894
+ᢕ	mongolian letter ali gali zha	all	never	# ᢕ 0x1895
+ᢖ	mongolian letter ali gali za	all	never	# ᢖ 0x1896
+ᢗ	mongolian letter ali gali ah	all	never	# ᢗ 0x1897
+ᢘ	mongolian letter todo ali gali ta	all	never	# ᢘ 0x1898
+ᢙ	mongolian letter todo ali gali zha	all	never	# ᢙ 0x1899
+ᢚ	mongolian letter manchu ali gali gha	all	never	# ᢚ 0x189a
+ᢛ	mongolian letter manchu ali gali nga	all	never	# ᢛ 0x189b
+ᢜ	mongolian letter manchu ali gali ca	all	never	# ᢜ 0x189c
+ᢝ	mongolian letter manchu ali gali jha	all	never	# ᢝ 0x189d
+ᢞ	mongolian letter manchu ali gali tta	all	never	# ᢞ 0x189e
+ᢟ	mongolian letter manchu ali gali ddha	all	never	# ᢟ 0x189f
+ᢠ	mongolian letter manchu ali gali ta	all	never	# ᢠ 0x18a0
+ᢡ	mongolian letter manchu ali gali dha	all	never	# ᢡ 0x18a1
+ᢢ	mongolian letter manchu ali gali ssa	all	never	# ᢢ 0x18a2
+ᢣ	mongolian letter manchu ali gali cya	all	never	# ᢣ 0x18a3
+ᢤ	mongolian letter manchu ali gali zha	all	never	# ᢤ 0x18a4
+ᢥ	mongolian letter manchu ali gali za	all	never	# ᢥ 0x18a5
+ᢦ	mongolian letter ali gali half U	all	never	# ᢦ 0x18a6
+ᢧ	mongolian letter ali gali half ya	all	never	# ᢧ 0x18a7
+ᢨ	mongolian letter manchu ali gali bha	all	never	# ᢨ 0x18a8
+ᢩ	mongolian letter ali gali dagalga	all	never	# ᢩ 0x18a9
+ᢪ	mongolian letter manchu ali gali lha	all	never	# ᢪ 0x18aa

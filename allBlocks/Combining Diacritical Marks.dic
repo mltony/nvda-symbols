@@ -1,0 +1,113 @@
+# # Combining Diacritical Marks
+̀	combining grave accent	all	never	# ̀ 0x300
+́	combining acute accent	all	never	# ́ 0x301
+̂	combining circumflex accent	all	never	# ̂ 0x302
+̃	combining tilde	all	never	# ̃ 0x303
+̄	combining macron	all	never	# ̄ 0x304
+̅	combining overline	all	never	# ̅ 0x305
+̆	combining breve	all	never	# ̆ 0x306
+̇	combining dot above	all	never	# ̇ 0x307
+̈	combining diaeresis	all	never	# ̈ 0x308
+̉	combining hook above	all	never	# ̉ 0x309
+̊	combining ring above	all	never	# ̊ 0x30a
+̋	combining double acute accent	all	never	# ̋ 0x30b
+̌	combining caron	all	never	# ̌ 0x30c
+̍	combining vertical line above	all	never	# ̍ 0x30d
+̎	combining double vertical line above	all	never	# ̎ 0x30e
+̏	combining double grave accent	all	never	# ̏ 0x30f
+̐	combining candrabindu	all	never	# ̐ 0x310
+̑	combining inverted breve	all	never	# ̑ 0x311
+̒	combining turned comma above	all	never	# ̒ 0x312
+̓	combining comma above	all	never	# ̓ 0x313
+̔	combining reversed comma above	all	never	# ̔ 0x314
+̕	combining comma above right	all	never	# ̕ 0x315
+̖	combining grave accent below	all	never	# ̖ 0x316
+̗	combining acute accent below	all	never	# ̗ 0x317
+̘	combining left tack below	all	never	# ̘ 0x318
+̙	combining right tack below	all	never	# ̙ 0x319
+̚	combining left angle above	all	never	# ̚ 0x31a
+̛	combining horn	all	never	# ̛ 0x31b
+̜	combining left half ring below	all	never	# ̜ 0x31c
+̝	combining up tack below	all	never	# ̝ 0x31d
+̞	combining down tack below	all	never	# ̞ 0x31e
+̟	combining plus sign below	all	never	# ̟ 0x31f
+̠	combining minus sign below	all	never	# ̠ 0x320
+̡	combining palatalized hook below	all	never	# ̡ 0x321
+̢	combining retroflex hook below	all	never	# ̢ 0x322
+̣	combining dot below	all	never	# ̣ 0x323
+̤	combining diaeresis below	all	never	# ̤ 0x324
+̥	combining ring below	all	never	# ̥ 0x325
+̦	combining comma below	all	never	# ̦ 0x326
+̧	combining cedilla	all	never	# ̧ 0x327
+̨	combining ogonek	all	never	# ̨ 0x328
+̩	combining vertical line below	all	never	# ̩ 0x329
+̪	combining bridge below	all	never	# ̪ 0x32a
+̫	combining inverted double arch below	all	never	# ̫ 0x32b
+̬	combining caron below	all	never	# ̬ 0x32c
+̭	combining circumflex accent below	all	never	# ̭ 0x32d
+̮	combining breve below	all	never	# ̮ 0x32e
+̯	combining inverted breve below	all	never	# ̯ 0x32f
+̰	combining tilde below	all	never	# ̰ 0x330
+̱	combining macron below	all	never	# ̱ 0x331
+̲	combining low line	all	never	# ̲ 0x332
+̳	combining double low line	all	never	# ̳ 0x333
+̴	combining tilde overlay	all	never	# ̴ 0x334
+̵	combining short stroke overlay	all	never	# ̵ 0x335
+̶	combining long stroke overlay	all	never	# ̶ 0x336
+̷	combining short solidus overlay	all	never	# ̷ 0x337
+̸	combining long solidus overlay	all	never	# ̸ 0x338
+̹	combining right half ring below	all	never	# ̹ 0x339
+̺	combining inverted bridge below	all	never	# ̺ 0x33a
+̻	combining square below	all	never	# ̻ 0x33b
+̼	combining seagull below	all	never	# ̼ 0x33c
+̽	combining X above	all	never	# ̽ 0x33d
+̾	combining vertical tilde	all	never	# ̾ 0x33e
+̿	combining double overline	all	never	# ̿ 0x33f
+̀	combining grave tone mark	all	never	# ̀ 0x340
+́	combining acute tone mark	all	never	# ́ 0x341
+͂	combining greek perispomeni	all	never	# ͂ 0x342
+̓	combining greek koronis	all	never	# ̓ 0x343
+̈́	combining greek dialytika tonos	all	never	# ̈́ 0x344
+ͅ	combining greek ypogegrammeni	all	never	# ͅ 0x345
+͆	combining bridge above	all	never	# ͆ 0x346
+͇	combining equals sign below	all	never	# ͇ 0x347
+͈	combining double vertical line below	all	never	# ͈ 0x348
+͉	combining left angle below	all	never	# ͉ 0x349
+͊	combining not tilde above	all	never	# ͊ 0x34a
+͋	combining homothetic above	all	never	# ͋ 0x34b
+͌	combining almost equal to above	all	never	# ͌ 0x34c
+͍	combining left right arrow below	all	never	# ͍ 0x34d
+͎	combining upwards arrow below	all	never	# ͎ 0x34e
+͏	combining grapheme joiner	all	never	# ͏ 0x34f
+͐	combining right arrowhead above	all	never	# ͐ 0x350
+͑	combining left half ring above	all	never	# ͑ 0x351
+͒	combining fermata	all	never	# ͒ 0x352
+͓	combining X below	all	never	# ͓ 0x353
+͔	combining left arrowhead below	all	never	# ͔ 0x354
+͕	combining right arrowhead below	all	never	# ͕ 0x355
+͖	combining right arrowhead and up arrowhead below	all	never	# ͖ 0x356
+͗	combining right half ring above	all	never	# ͗ 0x357
+͘	combining dot above right	all	never	# ͘ 0x358
+͙	combining asterisk below	all	never	# ͙ 0x359
+͚	combining double ring below	all	never	# ͚ 0x35a
+͛	combining zigzag above	all	never	# ͛ 0x35b
+͜	combining double breve below	all	never	# ͜ 0x35c
+͝	combining double breve	all	never	# ͝ 0x35d
+͞	combining double macron	all	never	# ͞ 0x35e
+͟	combining double macron below	all	never	# ͟ 0x35f
+͠	combining double tilde	all	never	# ͠ 0x360
+͡	combining double inverted breve	all	never	# ͡ 0x361
+͢	combining double rightwards arrow below	all	never	# ͢ 0x362
+ͣ	combining latin small letter A	all	never	# ͣ 0x363
+ͤ	combining latin small letter E	all	never	# ͤ 0x364
+ͥ	combining latin small letter I	all	never	# ͥ 0x365
+ͦ	combining latin small letter O	all	never	# ͦ 0x366
+ͧ	combining latin small letter U	all	never	# ͧ 0x367
+ͨ	combining latin small letter C	all	never	# ͨ 0x368
+ͩ	combining latin small letter D	all	never	# ͩ 0x369
+ͪ	combining latin small letter H	all	never	# ͪ 0x36a
+ͫ	combining latin small letter M	all	never	# ͫ 0x36b
+ͬ	combining latin small letter R	all	never	# ͬ 0x36c
+ͭ	combining latin small letter T	all	never	# ͭ 0x36d
+ͮ	combining latin small letter V	all	never	# ͮ 0x36e
+ͯ	combining latin small letter X	all	never	# ͯ 0x36f

@@ -1,0 +1,5 @@
+# # Shorthand Format Controls
+𛲠	shorthand format letter overlap	all	never	# 𛲠 0x1bca0
+𛲡	shorthand format continuing overlap	all	never	# 𛲡 0x1bca1
+𛲢	shorthand format down step	all	never	# 𛲢 0x1bca2
+𛲣	shorthand format up step	all	never	# 𛲣 0x1bca3

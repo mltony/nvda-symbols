@@ -1,0 +1,70 @@
+# # Supplemental Punctuation
+⸀	right angle substitution marker	all	never	# ⸀ 0x2e00
+⸁	right angle dotted substitution marker	all	never	# ⸁ 0x2e01
+⸂	left substitution bracket	all	never	# ⸂ 0x2e02
+⸃	right substitution bracket	all	never	# ⸃ 0x2e03
+⸄	left dotted substitution bracket	all	never	# ⸄ 0x2e04
+⸅	right dotted substitution bracket	all	never	# ⸅ 0x2e05
+⸆	raised interpolation marker	all	never	# ⸆ 0x2e06
+⸇	raised dotted interpolation marker	all	never	# ⸇ 0x2e07
+⸈	dotted transposition marker	all	never	# ⸈ 0x2e08
+⸉	left transposition bracket	all	never	# ⸉ 0x2e09
+⸊	right transposition bracket	all	never	# ⸊ 0x2e0a
+⸋	raised square	all	never	# ⸋ 0x2e0b
+⸌	left raised omission bracket	all	never	# ⸌ 0x2e0c
+⸍	right raised omission bracket	all	never	# ⸍ 0x2e0d
+⸎	editorial coronis	all	never	# ⸎ 0x2e0e
+⸏	paragraphos	all	never	# ⸏ 0x2e0f
+⸐	forked paragraphos	all	never	# ⸐ 0x2e10
+⸑	reversed forked paragraphos	all	never	# ⸑ 0x2e11
+⸒	hypodiastole	all	never	# ⸒ 0x2e12
+⸓	dotted obelos	all	never	# ⸓ 0x2e13
+⸔	downwards ancora	all	never	# ⸔ 0x2e14
+⸕	upwards ancora	all	never	# ⸕ 0x2e15
+⸖	dotted right-pointing angle	all	never	# ⸖ 0x2e16
+⸗	double oblique hyphen	all	never	# ⸗ 0x2e17
+⸘	inverted interrobang	all	never	# ⸘ 0x2e18
+⸙	palm branch	all	never	# ⸙ 0x2e19
+⸚	hyphen with diaeresis	all	never	# ⸚ 0x2e1a
+⸛	tilde with ring above	all	never	# ⸛ 0x2e1b
+⸜	left low paraphrase bracket	all	never	# ⸜ 0x2e1c
+⸝	right low paraphrase bracket	all	never	# ⸝ 0x2e1d
+⸞	tilde with dot above	all	never	# ⸞ 0x2e1e
+⸟	tilde with dot below	all	never	# ⸟ 0x2e1f
+⸠	left vertical bar with quill	all	never	# ⸠ 0x2e20
+⸡	right vertical bar with quill	all	never	# ⸡ 0x2e21
+⸢	top left half bracket	all	never	# ⸢ 0x2e22
+⸣	top right half bracket	all	never	# ⸣ 0x2e23
+⸤	bottom left half bracket	all	never	# ⸤ 0x2e24
+⸥	bottom right half bracket	all	never	# ⸥ 0x2e25
+⸦	left sideways U bracket	all	never	# ⸦ 0x2e26
+⸧	right sideways U bracket	all	never	# ⸧ 0x2e27
+⸨	left double parenthesis	all	never	# ⸨ 0x2e28
+⸩	right double parenthesis	all	never	# ⸩ 0x2e29
+⸪	two dots over one dot punctuation	all	never	# ⸪ 0x2e2a
+⸫	one dot over two dots punctuation	all	never	# ⸫ 0x2e2b
+⸬	squared four dot punctuation	all	never	# ⸬ 0x2e2c
+⸭	five dot mark	all	never	# ⸭ 0x2e2d
+⸮	reversed question mark	all	never	# ⸮ 0x2e2e
+ⸯ	vertical tilde	all	never	# ⸯ 0x2e2f
+⸰	ring point	all	never	# ⸰ 0x2e30
+⸱	word separator middle dot	all	never	# ⸱ 0x2e31
+⸲	turned comma	all	never	# ⸲ 0x2e32
+⸳	raised dot	all	never	# ⸳ 0x2e33
+⸴	raised comma	all	never	# ⸴ 0x2e34
+⸵	turned semicolon	all	never	# ⸵ 0x2e35
+⸶	dagger with left guard	all	never	# ⸶ 0x2e36
+⸷	dagger with right guard	all	never	# ⸷ 0x2e37
+⸸	turned dagger	all	never	# ⸸ 0x2e38
+⸹	top half section sign	all	never	# ⸹ 0x2e39
+⸺	two-em dash	all	never	# ⸺ 0x2e3a
+⸻	three-em dash	all	never	# ⸻ 0x2e3b
+⸼	stenographic full stop	all	never	# ⸼ 0x2e3c
+⸽	vertical six dots	all	never	# ⸽ 0x2e3d
+⸾	wiggly vertical line	all	never	# ⸾ 0x2e3e
+⸿	capitulum	all	never	# ⸿ 0x2e3f
+⹀	double hyphen	all	never	# ⹀ 0x2e40
+⹁	reversed comma	all	never	# ⹁ 0x2e41
+⹂	double low-reversed-9 quotation mark	all	never	# ⹂ 0x2e42
+⹃	dash with left upturn	all	never	# ⹃ 0x2e43
+⹄	double suspension mark	all	never	# ⹄ 0x2e44

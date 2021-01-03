@@ -1,0 +1,40 @@
+# # Control Pictures
+␀	symbol for null	all	never	# ␀ 0x2400
+␁	symbol for start of heading	all	never	# ␁ 0x2401
+␂	symbol for start of text	all	never	# ␂ 0x2402
+␃	symbol for end of text	all	never	# ␃ 0x2403
+␄	symbol for end of transmission	all	never	# ␄ 0x2404
+␅	symbol for enquiry	all	never	# ␅ 0x2405
+␆	symbol for acknowledge	all	never	# ␆ 0x2406
+␇	symbol for bell	all	never	# ␇ 0x2407
+␈	symbol for backspace	all	never	# ␈ 0x2408
+␉	symbol for horizontal tabulation	all	never	# ␉ 0x2409
+␊	symbol for line feed	all	never	# ␊ 0x240a
+␋	symbol for vertical tabulation	all	never	# ␋ 0x240b
+␌	symbol for form feed	all	never	# ␌ 0x240c
+␍	symbol for carriage return	all	never	# ␍ 0x240d
+␎	symbol for shift out	all	never	# ␎ 0x240e
+␏	symbol for shift in	all	never	# ␏ 0x240f
+␐	symbol for data link escape	all	never	# ␐ 0x2410
+␑	symbol for device control one	all	never	# ␑ 0x2411
+␒	symbol for device control two	all	never	# ␒ 0x2412
+␓	symbol for device control three	all	never	# ␓ 0x2413
+␔	symbol for device control four	all	never	# ␔ 0x2414
+␕	symbol for negative acknowledge	all	never	# ␕ 0x2415
+␖	symbol for synchronous idle	all	never	# ␖ 0x2416
+␗	symbol for end of transmission block	all	never	# ␗ 0x2417
+␘	symbol for cancel	all	never	# ␘ 0x2418
+␙	symbol for end of medium	all	never	# ␙ 0x2419
+␚	symbol for substitute	all	never	# ␚ 0x241a
+␛	symbol for escape	all	never	# ␛ 0x241b
+␜	symbol for file separator	all	never	# ␜ 0x241c
+␝	symbol for group separator	all	never	# ␝ 0x241d
+␞	symbol for record separator	all	never	# ␞ 0x241e
+␟	symbol for unit separator	all	never	# ␟ 0x241f
+␠	symbol for space	all	never	# ␠ 0x2420
+␡	symbol for delete	all	never	# ␡ 0x2421
+␢	blank symbol	all	never	# ␢ 0x2422
+␣	open box	all	never	# ␣ 0x2423
+␤	symbol for newline	all	never	# ␤ 0x2424
+␥	symbol for delete form two	all	never	# ␥ 0x2425
+␦	symbol for substitute form two	all	never	# ␦ 0x2426

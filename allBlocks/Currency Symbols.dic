@@ -1,0 +1,32 @@
+# # Currency Symbols
+₠	euro-currency sign	all	never	# ₠ 0x20a0
+₡	colon sign	all	never	# ₡ 0x20a1
+₢	cruzeiro sign	all	never	# ₢ 0x20a2
+₣	french franc sign	all	never	# ₣ 0x20a3
+₤	lira sign	all	never	# ₤ 0x20a4
+₥	mill sign	all	never	# ₥ 0x20a5
+₦	naira sign	all	never	# ₦ 0x20a6
+₧	peseta sign	all	never	# ₧ 0x20a7
+₨	rupee sign	all	never	# ₨ 0x20a8
+₩	won sign	all	never	# ₩ 0x20a9
+₪	new sheqel sign	all	never	# ₪ 0x20aa
+₫	dong sign	all	never	# ₫ 0x20ab
+# €	euro sign	all	never	# € 0x20ac
+₭	kip sign	all	never	# ₭ 0x20ad
+₮	tugrik sign	all	never	# ₮ 0x20ae
+₯	drachma sign	all	never	# ₯ 0x20af
+₰	german penny sign	all	never	# ₰ 0x20b0
+₱	peso sign	all	never	# ₱ 0x20b1
+₲	guarani sign	all	never	# ₲ 0x20b2
+₳	austral sign	all	never	# ₳ 0x20b3
+₴	hryvnia sign	all	never	# ₴ 0x20b4
+₵	cedi sign	all	never	# ₵ 0x20b5
+₶	livre tournois sign	all	never	# ₶ 0x20b6
+₷	spesmilo sign	all	never	# ₷ 0x20b7
+₸	tenge sign	all	never	# ₸ 0x20b8
+# ₹	indian rupee sign	all	never	# ₹ 0x20b9
+₺	turkish lira sign	all	never	# ₺ 0x20ba
+₻	nordic mark sign	all	never	# ₻ 0x20bb
+₼	manat sign	all	never	# ₼ 0x20bc
+₽	ruble sign	all	never	# ₽ 0x20bd
+₾	lari sign	all	never	# ₾ 0x20be

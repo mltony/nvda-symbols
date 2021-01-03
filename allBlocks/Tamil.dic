@@ -1,0 +1,73 @@
+# # Tamil
+ஂ	tamil sign anusvara	all	never	# ஂ 0xb82
+ஃ	tamil sign visarga	all	never	# ஃ 0xb83
+அ	tamil letter A	all	never	# அ 0xb85
+ஆ	tamil letter aa	all	never	# ஆ 0xb86
+இ	tamil letter I	all	never	# இ 0xb87
+ஈ	tamil letter ii	all	never	# ஈ 0xb88
+உ	tamil letter U	all	never	# உ 0xb89
+ஊ	tamil letter uu	all	never	# ஊ 0xb8a
+எ	tamil letter E	all	never	# எ 0xb8e
+ஏ	tamil letter ee	all	never	# ஏ 0xb8f
+ஐ	tamil letter ai	all	never	# ஐ 0xb90
+ஒ	tamil letter O	all	never	# ஒ 0xb92
+ஓ	tamil letter oo	all	never	# ஓ 0xb93
+ஔ	tamil letter au	all	never	# ஔ 0xb94
+க	tamil letter ka	all	never	# க 0xb95
+ங	tamil letter nga	all	never	# ங 0xb99
+ச	tamil letter ca	all	never	# ச 0xb9a
+ஜ	tamil letter ja	all	never	# ஜ 0xb9c
+ஞ	tamil letter nya	all	never	# ஞ 0xb9e
+ட	tamil letter tta	all	never	# ட 0xb9f
+ண	tamil letter nna	all	never	# ண 0xba3
+த	tamil letter ta	all	never	# த 0xba4
+ந	tamil letter na	all	never	# ந 0xba8
+ன	tamil letter nnna	all	never	# ன 0xba9
+ப	tamil letter pa	all	never	# ப 0xbaa
+ம	tamil letter ma	all	never	# ம 0xbae
+ய	tamil letter ya	all	never	# ய 0xbaf
+ர	tamil letter ra	all	never	# ர 0xbb0
+ற	tamil letter rra	all	never	# ற 0xbb1
+ல	tamil letter la	all	never	# ல 0xbb2
+ள	tamil letter lla	all	never	# ள 0xbb3
+ழ	tamil letter llla	all	never	# ழ 0xbb4
+வ	tamil letter va	all	never	# வ 0xbb5
+ஶ	tamil letter sha	all	never	# ஶ 0xbb6
+ஷ	tamil letter ssa	all	never	# ஷ 0xbb7
+ஸ	tamil letter sa	all	never	# ஸ 0xbb8
+ஹ	tamil letter ha	all	never	# ஹ 0xbb9
+ா	tamil vowel sign aa	all	never	# ா 0xbbe
+ி	tamil vowel sign I	all	never	# ி 0xbbf
+ீ	tamil vowel sign ii	all	never	# ீ 0xbc0
+ு	tamil vowel sign U	all	never	# ு 0xbc1
+ூ	tamil vowel sign uu	all	never	# ூ 0xbc2
+ெ	tamil vowel sign E	all	never	# ெ 0xbc6
+ே	tamil vowel sign ee	all	never	# ே 0xbc7
+ை	tamil vowel sign ai	all	never	# ை 0xbc8
+ொ	tamil vowel sign O	all	never	# ொ 0xbca
+ோ	tamil vowel sign oo	all	never	# ோ 0xbcb
+ௌ	tamil vowel sign au	all	never	# ௌ 0xbcc
+்	tamil sign virama	all	never	# ் 0xbcd
+ௐ	tamil om	all	never	# ௐ 0xbd0
+ௗ	tamil au length mark	all	never	# ௗ 0xbd7
+௦	tamil digit zero	all	never	# ௦ 0xbe6
+௧	tamil digit one	all	never	# ௧ 0xbe7
+௨	tamil digit two	all	never	# ௨ 0xbe8
+௩	tamil digit three	all	never	# ௩ 0xbe9
+௪	tamil digit four	all	never	# ௪ 0xbea
+௫	tamil digit five	all	never	# ௫ 0xbeb
+௬	tamil digit six	all	never	# ௬ 0xbec
+௭	tamil digit seven	all	never	# ௭ 0xbed
+௮	tamil digit eight	all	never	# ௮ 0xbee
+௯	tamil digit nine	all	never	# ௯ 0xbef
+௰	tamil number ten	all	never	# ௰ 0xbf0
+௱	tamil number one hundred	all	never	# ௱ 0xbf1
+௲	tamil number one thousand	all	never	# ௲ 0xbf2
+௳	tamil day sign	all	never	# ௳ 0xbf3
+௴	tamil month sign	all	never	# ௴ 0xbf4
+௵	tamil year sign	all	never	# ௵ 0xbf5
+௶	tamil debit sign	all	never	# ௶ 0xbf6
+௷	tamil credit sign	all	never	# ௷ 0xbf7
+௸	tamil as above sign	all	never	# ௸ 0xbf8
+௹	tamil rupee sign	all	never	# ௹ 0xbf9
+௺	tamil number sign	all	never	# ௺ 0xbfa

@@ -1,0 +1,923 @@
+# # Cuneiform
+𒀀	cuneiform sign A	all	never	# 𒀀 0x12000
+𒀁	cuneiform sign A times A	all	never	# 𒀁 0x12001
+𒀂	cuneiform sign A times bad	all	never	# 𒀂 0x12002
+𒀃	cuneiform sign A times GAN2 tenu	all	never	# 𒀃 0x12003
+𒀄	cuneiform sign A times ha	all	never	# 𒀄 0x12004
+𒀅	cuneiform sign A times igi	all	never	# 𒀅 0x12005
+𒀆	cuneiform sign A times lagar gunu	all	never	# 𒀆 0x12006
+𒀇	cuneiform sign A times mush	all	never	# 𒀇 0x12007
+𒀈	cuneiform sign A times sag	all	never	# 𒀈 0x12008
+𒀉	cuneiform sign A2	all	never	# 𒀉 0x12009
+𒀊	cuneiform sign ab	all	never	# 𒀊 0x1200a
+𒀋	cuneiform sign ab times ASH2	all	never	# 𒀋 0x1200b
+𒀌	cuneiform sign ab times DUN3 gunu	all	never	# 𒀌 0x1200c
+𒀍	cuneiform sign ab times gal	all	never	# 𒀍 0x1200d
+𒀎	cuneiform sign ab times GAN2 tenu	all	never	# 𒀎 0x1200e
+𒀏	cuneiform sign ab times ha	all	never	# 𒀏 0x1200f
+𒀐	cuneiform sign ab times igi gunu	all	never	# 𒀐 0x12010
+𒀑	cuneiform sign ab times imin	all	never	# 𒀑 0x12011
+𒀒	cuneiform sign ab times lagab	all	never	# 𒀒 0x12012
+𒀓	cuneiform sign ab times shesh	all	never	# 𒀓 0x12013
+𒀔	cuneiform sign ab times U plus U plus U	all	never	# 𒀔 0x12014
+𒀕	cuneiform sign ab gunu	all	never	# 𒀕 0x12015
+𒀖	cuneiform sign AB2	all	never	# 𒀖 0x12016
+𒀗	cuneiform sign AB2 times balag	all	never	# 𒀗 0x12017
+𒀘	cuneiform sign AB2 times GAN2 tenu	all	never	# 𒀘 0x12018
+𒀙	cuneiform sign AB2 times me plus en	all	never	# 𒀙 0x12019
+𒀚	cuneiform sign AB2 times SHA3	all	never	# 𒀚 0x1201a
+𒀛	cuneiform sign AB2 times TAK4	all	never	# 𒀛 0x1201b
+𒀜	cuneiform sign ad	all	never	# 𒀜 0x1201c
+𒀝	cuneiform sign ak	all	never	# 𒀝 0x1201d
+𒀞	cuneiform sign ak times ERIN2	all	never	# 𒀞 0x1201e
+𒀟	cuneiform sign ak times shita plus gish	all	never	# 𒀟 0x1201f
+𒀠	cuneiform sign al	all	never	# 𒀠 0x12020
+𒀡	cuneiform sign al times al	all	never	# 𒀡 0x12021
+𒀢	cuneiform sign al times DIM2	all	never	# 𒀢 0x12022
+𒀣	cuneiform sign al times gish	all	never	# 𒀣 0x12023
+𒀤	cuneiform sign al times ha	all	never	# 𒀤 0x12024
+𒀥	cuneiform sign al times KAD3	all	never	# 𒀥 0x12025
+𒀦	cuneiform sign al times ki	all	never	# 𒀦 0x12026
+𒀧	cuneiform sign al times she	all	never	# 𒀧 0x12027
+𒀨	cuneiform sign al times ush	all	never	# 𒀨 0x12028
+𒀩	cuneiform sign alan	all	never	# 𒀩 0x12029
+𒀪	cuneiform sign aleph	all	never	# 𒀪 0x1202a
+𒀫	cuneiform sign amar	all	never	# 𒀫 0x1202b
+𒀬	cuneiform sign amar times she	all	never	# 𒀬 0x1202c
+𒀭	cuneiform sign an	all	never	# 𒀭 0x1202d
+𒀮	cuneiform sign an over an	all	never	# 𒀮 0x1202e
+𒀯	cuneiform sign an three times	all	never	# 𒀯 0x1202f
+𒀰	cuneiform sign an plus naga opposing an plus naga	all	never	# 𒀰 0x12030
+𒀱	cuneiform sign an plus naga squared	all	never	# 𒀱 0x12031
+𒀲	cuneiform sign anshe	all	never	# 𒀲 0x12032
+𒀳	cuneiform sign apin	all	never	# 𒀳 0x12033
+𒀴	cuneiform sign arad	all	never	# 𒀴 0x12034
+𒀵	cuneiform sign arad times kur	all	never	# 𒀵 0x12035
+𒀶	cuneiform sign arkab	all	never	# 𒀶 0x12036
+𒀷	cuneiform sign ASAL2	all	never	# 𒀷 0x12037
+𒀸	cuneiform sign ash	all	never	# 𒀸 0x12038
+𒀹	cuneiform sign ash zida tenu	all	never	# 𒀹 0x12039
+𒀺	cuneiform sign ash kaba tenu	all	never	# 𒀺 0x1203a
+𒀻	cuneiform sign ash over ash TUG2 over TUG2 TUG2 over TUG2 pap	all	never	# 𒀻 0x1203b
+𒀼	cuneiform sign ash over ash over ash	all	never	# 𒀼 0x1203c
+𒀽	cuneiform sign ash over ash over ash crossing ash over ash over ash	all	never	# 𒀽 0x1203d
+𒀾	cuneiform sign ASH2	all	never	# 𒀾 0x1203e
+𒀿	cuneiform sign ashgab	all	never	# 𒀿 0x1203f
+𒁀	cuneiform sign ba	all	never	# 𒁀 0x12040
+𒁁	cuneiform sign bad	all	never	# 𒁁 0x12041
+𒁂	cuneiform sign BAG3	all	never	# 𒁂 0x12042
+𒁃	cuneiform sign BAHAR2	all	never	# 𒁃 0x12043
+𒁄	cuneiform sign bal	all	never	# 𒁄 0x12044
+𒁅	cuneiform sign bal over bal	all	never	# 𒁅 0x12045
+𒁆	cuneiform sign balag	all	never	# 𒁆 0x12046
+𒁇	cuneiform sign bar	all	never	# 𒁇 0x12047
+𒁈	cuneiform sign BARA2	all	never	# 𒁈 0x12048
+𒁉	cuneiform sign bi	all	never	# 𒁉 0x12049
+𒁊	cuneiform sign bi times A	all	never	# 𒁊 0x1204a
+𒁋	cuneiform sign bi times gar	all	never	# 𒁋 0x1204b
+𒁌	cuneiform sign bi times igi gunu	all	never	# 𒁌 0x1204c
+𒁍	cuneiform sign bu	all	never	# 𒁍 0x1204d
+𒁎	cuneiform sign bu over bu ab	all	never	# 𒁎 0x1204e
+𒁏	cuneiform sign bu over bu un	all	never	# 𒁏 0x1204f
+𒁐	cuneiform sign bu crossing bu	all	never	# 𒁐 0x12050
+𒁑	cuneiform sign bulug	all	never	# 𒁑 0x12051
+𒁒	cuneiform sign bulug over bulug	all	never	# 𒁒 0x12052
+𒁓	cuneiform sign bur	all	never	# 𒁓 0x12053
+𒁔	cuneiform sign BUR2	all	never	# 𒁔 0x12054
+𒁕	cuneiform sign da	all	never	# 𒁕 0x12055
+𒁖	cuneiform sign dag	all	never	# 𒁖 0x12056
+𒁗	cuneiform sign dag KISIM5 times A plus mash	all	never	# 𒁗 0x12057
+𒁘	cuneiform sign dag KISIM5 times amar	all	never	# 𒁘 0x12058
+𒁙	cuneiform sign dag KISIM5 times balag	all	never	# 𒁙 0x12059
+𒁚	cuneiform sign dag KISIM5 times bi	all	never	# 𒁚 0x1205a
+𒁛	cuneiform sign dag KISIM5 times ga	all	never	# 𒁛 0x1205b
+𒁜	cuneiform sign dag KISIM5 times ga plus mash	all	never	# 𒁜 0x1205c
+𒁝	cuneiform sign dag KISIM5 times gi	all	never	# 𒁝 0x1205d
+𒁞	cuneiform sign dag KISIM5 times GIR2	all	never	# 𒁞 0x1205e
+𒁟	cuneiform sign dag KISIM5 times gud	all	never	# 𒁟 0x1205f
+𒁠	cuneiform sign dag KISIM5 times ha	all	never	# 𒁠 0x12060
+𒁡	cuneiform sign dag KISIM5 times ir	all	never	# 𒁡 0x12061
+𒁢	cuneiform sign dag KISIM5 times ir plus lu	all	never	# 𒁢 0x12062
+𒁣	cuneiform sign dag KISIM5 times kak	all	never	# 𒁣 0x12063
+𒁤	cuneiform sign dag KISIM5 times la	all	never	# 𒁤 0x12064
+𒁥	cuneiform sign dag KISIM5 times lu	all	never	# 𒁥 0x12065
+𒁦	cuneiform sign dag KISIM5 times lu plus MASH2	all	never	# 𒁦 0x12066
+𒁧	cuneiform sign dag KISIM5 times lum	all	never	# 𒁧 0x12067
+𒁨	cuneiform sign dag KISIM5 times ne	all	never	# 𒁨 0x12068
+𒁩	cuneiform sign dag KISIM5 times pap plus pap	all	never	# 𒁩 0x12069
+𒁪	cuneiform sign dag KISIM5 times si	all	never	# 𒁪 0x1206a
+𒁫	cuneiform sign dag KISIM5 times TAK4	all	never	# 𒁫 0x1206b
+𒁬	cuneiform sign dag KISIM5 times U2 plus GIR2	all	never	# 𒁬 0x1206c
+𒁭	cuneiform sign dag KISIM5 times ush	all	never	# 𒁭 0x1206d
+𒁮	cuneiform sign dam	all	never	# 𒁮 0x1206e
+𒁯	cuneiform sign dar	all	never	# 𒁯 0x1206f
+𒁰	cuneiform sign DARA3	all	never	# 𒁰 0x12070
+𒁱	cuneiform sign DARA4	all	never	# 𒁱 0x12071
+𒁲	cuneiform sign di	all	never	# 𒁲 0x12072
+𒁳	cuneiform sign dib	all	never	# 𒁳 0x12073
+𒁴	cuneiform sign dim	all	never	# 𒁴 0x12074
+𒁵	cuneiform sign dim times she	all	never	# 𒁵 0x12075
+𒁶	cuneiform sign DIM2	all	never	# 𒁶 0x12076
+𒁷	cuneiform sign din	all	never	# 𒁷 0x12077
+𒁸	cuneiform sign din kaskal U gunu dish	all	never	# 𒁸 0x12078
+𒁹	cuneiform sign dish	all	never	# 𒁹 0x12079
+𒁺	cuneiform sign du	all	never	# 𒁺 0x1207a
+𒁻	cuneiform sign du over du	all	never	# 𒁻 0x1207b
+𒁼	cuneiform sign du gunu	all	never	# 𒁼 0x1207c
+𒁽	cuneiform sign du sheshig	all	never	# 𒁽 0x1207d
+𒁾	cuneiform sign dub	all	never	# 𒁾 0x1207e
+𒁿	cuneiform sign dub times ESH2	all	never	# 𒁿 0x1207f
+𒂀	cuneiform sign DUB2	all	never	# 𒂀 0x12080
+𒂁	cuneiform sign dug	all	never	# 𒂁 0x12081
+𒂂	cuneiform sign dugud	all	never	# 𒂂 0x12082
+𒂃	cuneiform sign duh	all	never	# 𒂃 0x12083
+𒂄	cuneiform sign dun	all	never	# 𒂄 0x12084
+𒂅	cuneiform sign DUN3	all	never	# 𒂅 0x12085
+𒂆	cuneiform sign DUN3 gunu	all	never	# 𒂆 0x12086
+𒂇	cuneiform sign DUN3 gunu gunu	all	never	# 𒂇 0x12087
+𒂈	cuneiform sign DUN4	all	never	# 𒂈 0x12088
+𒂉	cuneiform sign DUR2	all	never	# 𒂉 0x12089
+𒂊	cuneiform sign E	all	never	# 𒂊 0x1208a
+𒂋	cuneiform sign E times pap	all	never	# 𒂋 0x1208b
+𒂌	cuneiform sign E over E nun over nun	all	never	# 𒂌 0x1208c
+𒂍	cuneiform sign E2	all	never	# 𒂍 0x1208d
+𒂎	cuneiform sign E2 times A plus ha plus da	all	never	# 𒂎 0x1208e
+𒂏	cuneiform sign E2 times gar	all	never	# 𒂏 0x1208f
+𒂐	cuneiform sign E2 times mi	all	never	# 𒂐 0x12090
+𒂑	cuneiform sign E2 times sal	all	never	# 𒂑 0x12091
+𒂒	cuneiform sign E2 times she	all	never	# 𒂒 0x12092
+𒂓	cuneiform sign E2 times U	all	never	# 𒂓 0x12093
+𒂔	cuneiform sign edin	all	never	# 𒂔 0x12094
+𒂕	cuneiform sign egir	all	never	# 𒂕 0x12095
+𒂖	cuneiform sign el	all	never	# 𒂖 0x12096
+𒂗	cuneiform sign en	all	never	# 𒂗 0x12097
+𒂘	cuneiform sign en times GAN2	all	never	# 𒂘 0x12098
+𒂙	cuneiform sign en times GAN2 tenu	all	never	# 𒂙 0x12099
+𒂚	cuneiform sign en times me	all	never	# 𒂚 0x1209a
+𒂛	cuneiform sign en crossing en	all	never	# 𒂛 0x1209b
+𒂜	cuneiform sign en opposing en	all	never	# 𒂜 0x1209c
+𒂝	cuneiform sign en squared	all	never	# 𒂝 0x1209d
+𒂞	cuneiform sign eren	all	never	# 𒂞 0x1209e
+𒂟	cuneiform sign ERIN2	all	never	# 𒂟 0x1209f
+𒂠	cuneiform sign ESH2	all	never	# 𒂠 0x120a0
+𒂡	cuneiform sign ezen	all	never	# 𒂡 0x120a1
+𒂢	cuneiform sign ezen times A	all	never	# 𒂢 0x120a2
+𒂣	cuneiform sign ezen times A plus lal	all	never	# 𒂣 0x120a3
+𒂤	cuneiform sign ezen times A plus lal times lal	all	never	# 𒂤 0x120a4
+𒂥	cuneiform sign ezen times an	all	never	# 𒂥 0x120a5
+𒂦	cuneiform sign ezen times bad	all	never	# 𒂦 0x120a6
+𒂧	cuneiform sign ezen times DUN3 gunu	all	never	# 𒂧 0x120a7
+𒂨	cuneiform sign ezen times DUN3 gunu gunu	all	never	# 𒂨 0x120a8
+𒂩	cuneiform sign ezen times ha	all	never	# 𒂩 0x120a9
+𒂪	cuneiform sign ezen times ha gunu	all	never	# 𒂪 0x120aa
+𒂫	cuneiform sign ezen times igi gunu	all	never	# 𒂫 0x120ab
+𒂬	cuneiform sign ezen times kaskal	all	never	# 𒂬 0x120ac
+𒂭	cuneiform sign ezen times kaskal squared	all	never	# 𒂭 0x120ad
+𒂮	cuneiform sign ezen times KU3	all	never	# 𒂮 0x120ae
+𒂯	cuneiform sign ezen times la	all	never	# 𒂯 0x120af
+𒂰	cuneiform sign ezen times lal times lal	all	never	# 𒂰 0x120b0
+𒂱	cuneiform sign ezen times li	all	never	# 𒂱 0x120b1
+𒂲	cuneiform sign ezen times lu	all	never	# 𒂲 0x120b2
+𒂳	cuneiform sign ezen times U2	all	never	# 𒂳 0x120b3
+𒂴	cuneiform sign ezen times ud	all	never	# 𒂴 0x120b4
+𒂵	cuneiform sign ga	all	never	# 𒂵 0x120b5
+𒂶	cuneiform sign ga gunu	all	never	# 𒂶 0x120b6
+𒂷	cuneiform sign GA2	all	never	# 𒂷 0x120b7
+𒂸	cuneiform sign GA2 times A plus da plus ha	all	never	# 𒂸 0x120b8
+𒂹	cuneiform sign GA2 times A plus ha	all	never	# 𒂹 0x120b9
+𒂺	cuneiform sign GA2 times A plus igi	all	never	# 𒂺 0x120ba
+𒂻	cuneiform sign GA2 times AB2 tenu plus tab	all	never	# 𒂻 0x120bb
+𒂼	cuneiform sign GA2 times an	all	never	# 𒂼 0x120bc
+𒂽	cuneiform sign GA2 times ash	all	never	# 𒂽 0x120bd
+𒂾	cuneiform sign GA2 times ASH2 plus gal	all	never	# 𒂾 0x120be
+𒂿	cuneiform sign GA2 times bad	all	never	# 𒂿 0x120bf
+𒃀	cuneiform sign GA2 times bar plus ra	all	never	# 𒃀 0x120c0
+𒃁	cuneiform sign GA2 times bur	all	never	# 𒃁 0x120c1
+𒃂	cuneiform sign GA2 times bur plus ra	all	never	# 𒃂 0x120c2
+𒃃	cuneiform sign GA2 times da	all	never	# 𒃃 0x120c3
+𒃄	cuneiform sign GA2 times di	all	never	# 𒃄 0x120c4
+𒃅	cuneiform sign GA2 times dim times she	all	never	# 𒃅 0x120c5
+𒃆	cuneiform sign GA2 times dub	all	never	# 𒃆 0x120c6
+𒃇	cuneiform sign GA2 times el	all	never	# 𒃇 0x120c7
+𒃈	cuneiform sign GA2 times el plus la	all	never	# 𒃈 0x120c8
+𒃉	cuneiform sign GA2 times en	all	never	# 𒃉 0x120c9
+𒃊	cuneiform sign GA2 times en times GAN2 tenu	all	never	# 𒃊 0x120ca
+𒃋	cuneiform sign GA2 times GAN2 tenu	all	never	# 𒃋 0x120cb
+𒃌	cuneiform sign GA2 times gar	all	never	# 𒃌 0x120cc
+𒃍	cuneiform sign GA2 times gi	all	never	# 𒃍 0x120cd
+𒃎	cuneiform sign GA2 times GI4	all	never	# 𒃎 0x120ce
+𒃏	cuneiform sign GA2 times GI4 plus A	all	never	# 𒃏 0x120cf
+𒃐	cuneiform sign GA2 times GIR2 plus su	all	never	# 𒃐 0x120d0
+𒃑	cuneiform sign GA2 times ha plus lu plus ESH2	all	never	# 𒃑 0x120d1
+𒃒	cuneiform sign GA2 times hal	all	never	# 𒃒 0x120d2
+𒃓	cuneiform sign GA2 times hal plus la	all	never	# 𒃓 0x120d3
+𒃔	cuneiform sign GA2 times hi plus li	all	never	# 𒃔 0x120d4
+𒃕	cuneiform sign GA2 times HUB2	all	never	# 𒃕 0x120d5
+𒃖	cuneiform sign GA2 times igi gunu	all	never	# 𒃖 0x120d6
+𒃗	cuneiform sign GA2 times ish plus hu plus ash	all	never	# 𒃗 0x120d7
+𒃘	cuneiform sign GA2 times kak	all	never	# 𒃘 0x120d8
+𒃙	cuneiform sign GA2 times kaskal	all	never	# 𒃙 0x120d9
+𒃚	cuneiform sign GA2 times kid	all	never	# 𒃚 0x120da
+𒃛	cuneiform sign GA2 times kid plus lal	all	never	# 𒃛 0x120db
+𒃜	cuneiform sign GA2 times KU3 plus an	all	never	# 𒃜 0x120dc
+𒃝	cuneiform sign GA2 times la	all	never	# 𒃝 0x120dd
+𒃞	cuneiform sign GA2 times me plus en	all	never	# 𒃞 0x120de
+𒃟	cuneiform sign GA2 times mi	all	never	# 𒃟 0x120df
+𒃠	cuneiform sign GA2 times nun	all	never	# 𒃠 0x120e0
+𒃡	cuneiform sign GA2 times nun over nun	all	never	# 𒃡 0x120e1
+𒃢	cuneiform sign GA2 times pa	all	never	# 𒃢 0x120e2
+𒃣	cuneiform sign GA2 times sal	all	never	# 𒃣 0x120e3
+𒃤	cuneiform sign GA2 times sar	all	never	# 𒃤 0x120e4
+𒃥	cuneiform sign GA2 times she	all	never	# 𒃥 0x120e5
+𒃦	cuneiform sign GA2 times she plus tur	all	never	# 𒃦 0x120e6
+𒃧	cuneiform sign GA2 times shid	all	never	# 𒃧 0x120e7
+𒃨	cuneiform sign GA2 times sum	all	never	# 𒃨 0x120e8
+𒃩	cuneiform sign GA2 times TAK4	all	never	# 𒃩 0x120e9
+𒃪	cuneiform sign GA2 times U	all	never	# 𒃪 0x120ea
+𒃫	cuneiform sign GA2 times ud	all	never	# 𒃫 0x120eb
+𒃬	cuneiform sign GA2 times ud plus du	all	never	# 𒃬 0x120ec
+𒃭	cuneiform sign GA2 over GA2	all	never	# 𒃭 0x120ed
+𒃮	cuneiform sign gaba	all	never	# 𒃮 0x120ee
+𒃯	cuneiform sign gaba crossing gaba	all	never	# 𒃯 0x120ef
+𒃰	cuneiform sign gad	all	never	# 𒃰 0x120f0
+𒃱	cuneiform sign gad over gad gar over gar	all	never	# 𒃱 0x120f1
+𒃲	cuneiform sign gal	all	never	# 𒃲 0x120f2
+𒃳	cuneiform sign gal gad over gad gar over gar	all	never	# 𒃳 0x120f3
+𒃴	cuneiform sign galam	all	never	# 𒃴 0x120f4
+𒃵	cuneiform sign gam	all	never	# 𒃵 0x120f5
+𒃶	cuneiform sign gan	all	never	# 𒃶 0x120f6
+𒃷	cuneiform sign GAN2	all	never	# 𒃷 0x120f7
+𒃸	cuneiform sign GAN2 tenu	all	never	# 𒃸 0x120f8
+𒃹	cuneiform sign GAN2 over GAN2	all	never	# 𒃹 0x120f9
+𒃺	cuneiform sign GAN2 crossing GAN2	all	never	# 𒃺 0x120fa
+𒃻	cuneiform sign gar	all	never	# 𒃻 0x120fb
+𒃼	cuneiform sign GAR3	all	never	# 𒃼 0x120fc
+𒃽	cuneiform sign gashan	all	never	# 𒃽 0x120fd
+𒃾	cuneiform sign geshtin	all	never	# 𒃾 0x120fe
+𒃿	cuneiform sign geshtin times kur	all	never	# 𒃿 0x120ff
+𒄀	cuneiform sign gi	all	never	# 𒄀 0x12100
+𒄁	cuneiform sign gi times E	all	never	# 𒄁 0x12101
+𒄂	cuneiform sign gi times U	all	never	# 𒄂 0x12102
+𒄃	cuneiform sign gi crossing gi	all	never	# 𒄃 0x12103
+𒄄	cuneiform sign GI4	all	never	# 𒄄 0x12104
+𒄅	cuneiform sign GI4 over GI4	all	never	# 𒄅 0x12105
+𒄆	cuneiform sign GI4 crossing GI4	all	never	# 𒄆 0x12106
+𒄇	cuneiform sign gidim	all	never	# 𒄇 0x12107
+𒄈	cuneiform sign GIR2	all	never	# 𒄈 0x12108
+𒄉	cuneiform sign GIR2 gunu	all	never	# 𒄉 0x12109
+𒄊	cuneiform sign GIR3	all	never	# 𒄊 0x1210a
+𒄋	cuneiform sign GIR3 times A plus igi	all	never	# 𒄋 0x1210b
+𒄌	cuneiform sign GIR3 times GAN2 tenu	all	never	# 𒄌 0x1210c
+𒄍	cuneiform sign GIR3 times igi	all	never	# 𒄍 0x1210d
+𒄎	cuneiform sign GIR3 times lu plus igi	all	never	# 𒄎 0x1210e
+𒄏	cuneiform sign GIR3 times pa	all	never	# 𒄏 0x1210f
+𒄐	cuneiform sign gisal	all	never	# 𒄐 0x12110
+𒄑	cuneiform sign gish	all	never	# 𒄑 0x12111
+𒄒	cuneiform sign gish crossing gish	all	never	# 𒄒 0x12112
+𒄓	cuneiform sign gish times bad	all	never	# 𒄓 0x12113
+𒄔	cuneiform sign gish times TAK4	all	never	# 𒄔 0x12114
+𒄕	cuneiform sign gish tenu	all	never	# 𒄕 0x12115
+𒄖	cuneiform sign gu	all	never	# 𒄖 0x12116
+𒄗	cuneiform sign gu crossing gu	all	never	# 𒄗 0x12117
+𒄘	cuneiform sign GU2	all	never	# 𒄘 0x12118
+𒄙	cuneiform sign GU2 times kak	all	never	# 𒄙 0x12119
+𒄚	cuneiform sign GU2 times kak times igi gunu	all	never	# 𒄚 0x1211a
+𒄛	cuneiform sign GU2 times nun	all	never	# 𒄛 0x1211b
+𒄜	cuneiform sign GU2 times sal plus TUG2	all	never	# 𒄜 0x1211c
+𒄝	cuneiform sign GU2 gunu	all	never	# 𒄝 0x1211d
+𒄞	cuneiform sign gud	all	never	# 𒄞 0x1211e
+𒄟	cuneiform sign gud times A plus kur	all	never	# 𒄟 0x1211f
+𒄠	cuneiform sign gud times kur	all	never	# 𒄠 0x12120
+𒄡	cuneiform sign gud over gud lugal	all	never	# 𒄡 0x12121
+𒄢	cuneiform sign gul	all	never	# 𒄢 0x12122
+𒄣	cuneiform sign gum	all	never	# 𒄣 0x12123
+𒄤	cuneiform sign gum times she	all	never	# 𒄤 0x12124
+𒄥	cuneiform sign gur	all	never	# 𒄥 0x12125
+𒄦	cuneiform sign GUR7	all	never	# 𒄦 0x12126
+𒄧	cuneiform sign gurun	all	never	# 𒄧 0x12127
+𒄨	cuneiform sign gurush	all	never	# 𒄨 0x12128
+𒄩	cuneiform sign ha	all	never	# 𒄩 0x12129
+𒄪	cuneiform sign ha tenu	all	never	# 𒄪 0x1212a
+𒄫	cuneiform sign ha gunu	all	never	# 𒄫 0x1212b
+𒄬	cuneiform sign hal	all	never	# 𒄬 0x1212c
+𒄭	cuneiform sign hi	all	never	# 𒄭 0x1212d
+𒄮	cuneiform sign hi times ash	all	never	# 𒄮 0x1212e
+𒄯	cuneiform sign hi times ASH2	all	never	# 𒄯 0x1212f
+𒄰	cuneiform sign hi times bad	all	never	# 𒄰 0x12130
+𒄱	cuneiform sign hi times dish	all	never	# 𒄱 0x12131
+𒄲	cuneiform sign hi times gad	all	never	# 𒄲 0x12132
+𒄳	cuneiform sign hi times kin	all	never	# 𒄳 0x12133
+𒄴	cuneiform sign hi times nun	all	never	# 𒄴 0x12134
+𒄵	cuneiform sign hi times she	all	never	# 𒄵 0x12135
+𒄶	cuneiform sign hi times U	all	never	# 𒄶 0x12136
+𒄷	cuneiform sign hu	all	never	# 𒄷 0x12137
+𒄸	cuneiform sign HUB2	all	never	# 𒄸 0x12138
+𒄹	cuneiform sign HUB2 times an	all	never	# 𒄹 0x12139
+𒄺	cuneiform sign HUB2 times hal	all	never	# 𒄺 0x1213a
+𒄻	cuneiform sign HUB2 times kaskal	all	never	# 𒄻 0x1213b
+𒄼	cuneiform sign HUB2 times lish	all	never	# 𒄼 0x1213c
+𒄽	cuneiform sign HUB2 times ud	all	never	# 𒄽 0x1213d
+𒄾	cuneiform sign HUL2	all	never	# 𒄾 0x1213e
+𒄿	cuneiform sign I	all	never	# 𒄿 0x1213f
+𒅀	cuneiform sign I A	all	never	# 𒅀 0x12140
+𒅁	cuneiform sign ib	all	never	# 𒅁 0x12141
+𒅂	cuneiform sign idim	all	never	# 𒅂 0x12142
+𒅃	cuneiform sign idim over idim bur	all	never	# 𒅃 0x12143
+𒅄	cuneiform sign idim over idim squared	all	never	# 𒅄 0x12144
+𒅅	cuneiform sign ig	all	never	# 𒅅 0x12145
+𒅆	cuneiform sign igi	all	never	# 𒅆 0x12146
+𒅇	cuneiform sign igi dib	all	never	# 𒅇 0x12147
+𒅈	cuneiform sign igi ri	all	never	# 𒅈 0x12148
+𒅉	cuneiform sign igi over igi shir over shir ud over ud	all	never	# 𒅉 0x12149
+𒅊	cuneiform sign igi gunu	all	never	# 𒅊 0x1214a
+𒅋	cuneiform sign il	all	never	# 𒅋 0x1214b
+𒅌	cuneiform sign il times GAN2 tenu	all	never	# 𒅌 0x1214c
+𒅍	cuneiform sign IL2	all	never	# 𒅍 0x1214d
+𒅎	cuneiform sign im	all	never	# 𒅎 0x1214e
+𒅏	cuneiform sign im times TAK4	all	never	# 𒅏 0x1214f
+𒅐	cuneiform sign im crossing im	all	never	# 𒅐 0x12150
+𒅑	cuneiform sign im opposing im	all	never	# 𒅑 0x12151
+𒅒	cuneiform sign im squared	all	never	# 𒅒 0x12152
+𒅓	cuneiform sign imin	all	never	# 𒅓 0x12153
+𒅔	cuneiform sign in	all	never	# 𒅔 0x12154
+𒅕	cuneiform sign ir	all	never	# 𒅕 0x12155
+𒅖	cuneiform sign ish	all	never	# 𒅖 0x12156
+𒅗	cuneiform sign ka	all	never	# 𒅗 0x12157
+𒅘	cuneiform sign ka times A	all	never	# 𒅘 0x12158
+𒅙	cuneiform sign ka times ad	all	never	# 𒅙 0x12159
+𒅚	cuneiform sign ka times ad plus KU3	all	never	# 𒅚 0x1215a
+𒅛	cuneiform sign ka times ASH2	all	never	# 𒅛 0x1215b
+𒅜	cuneiform sign ka times bad	all	never	# 𒅜 0x1215c
+𒅝	cuneiform sign ka times balag	all	never	# 𒅝 0x1215d
+𒅞	cuneiform sign ka times bar	all	never	# 𒅞 0x1215e
+𒅟	cuneiform sign ka times bi	all	never	# 𒅟 0x1215f
+𒅠	cuneiform sign ka times ERIN2	all	never	# 𒅠 0x12160
+𒅡	cuneiform sign ka times ESH2	all	never	# 𒅡 0x12161
+𒅢	cuneiform sign ka times ga	all	never	# 𒅢 0x12162
+𒅣	cuneiform sign ka times gal	all	never	# 𒅣 0x12163
+𒅤	cuneiform sign ka times GAN2 tenu	all	never	# 𒅤 0x12164
+𒅥	cuneiform sign ka times gar	all	never	# 𒅥 0x12165
+𒅦	cuneiform sign ka times gar plus SHA3 plus A	all	never	# 𒅦 0x12166
+𒅧	cuneiform sign ka times gi	all	never	# 𒅧 0x12167
+𒅨	cuneiform sign ka times GIR2	all	never	# 𒅨 0x12168
+𒅩	cuneiform sign ka times gish plus sar	all	never	# 𒅩 0x12169
+𒅪	cuneiform sign ka times gish crossing gish	all	never	# 𒅪 0x1216a
+𒅫	cuneiform sign ka times gu	all	never	# 𒅫 0x1216b
+𒅬	cuneiform sign ka times GUR7	all	never	# 𒅬 0x1216c
+𒅭	cuneiform sign ka times igi	all	never	# 𒅭 0x1216d
+𒅮	cuneiform sign ka times im	all	never	# 𒅮 0x1216e
+𒅯	cuneiform sign ka times kak	all	never	# 𒅯 0x1216f
+𒅰	cuneiform sign ka times ki	all	never	# 𒅰 0x12170
+𒅱	cuneiform sign ka times kid	all	never	# 𒅱 0x12171
+𒅲	cuneiform sign ka times li	all	never	# 𒅲 0x12172
+𒅳	cuneiform sign ka times lu	all	never	# 𒅳 0x12173
+𒅴	cuneiform sign ka times me	all	never	# 𒅴 0x12174
+𒅵	cuneiform sign ka times me plus du	all	never	# 𒅵 0x12175
+𒅶	cuneiform sign ka times me plus gi	all	never	# 𒅶 0x12176
+𒅷	cuneiform sign ka times me plus te	all	never	# 𒅷 0x12177
+𒅸	cuneiform sign ka times mi	all	never	# 𒅸 0x12178
+𒅹	cuneiform sign ka times mi plus nunuz	all	never	# 𒅹 0x12179
+𒅺	cuneiform sign ka times ne	all	never	# 𒅺 0x1217a
+𒅻	cuneiform sign ka times nun	all	never	# 𒅻 0x1217b
+𒅼	cuneiform sign ka times pi	all	never	# 𒅼 0x1217c
+𒅽	cuneiform sign ka times ru	all	never	# 𒅽 0x1217d
+𒅾	cuneiform sign ka times sa	all	never	# 𒅾 0x1217e
+𒅿	cuneiform sign ka times sar	all	never	# 𒅿 0x1217f
+𒆀	cuneiform sign ka times sha	all	never	# 𒆀 0x12180
+𒆁	cuneiform sign ka times she	all	never	# 𒆁 0x12181
+𒆂	cuneiform sign ka times shid	all	never	# 𒆂 0x12182
+𒆃	cuneiform sign ka times shu	all	never	# 𒆃 0x12183
+𒆄	cuneiform sign ka times sig	all	never	# 𒆄 0x12184
+𒆅	cuneiform sign ka times suhur	all	never	# 𒆅 0x12185
+𒆆	cuneiform sign ka times tar	all	never	# 𒆆 0x12186
+𒆇	cuneiform sign ka times U	all	never	# 𒆇 0x12187
+𒆈	cuneiform sign ka times U2	all	never	# 𒆈 0x12188
+𒆉	cuneiform sign ka times ud	all	never	# 𒆉 0x12189
+𒆊	cuneiform sign ka times umum times pa	all	never	# 𒆊 0x1218a
+𒆋	cuneiform sign ka times ush	all	never	# 𒆋 0x1218b
+𒆌	cuneiform sign ka times zi	all	never	# 𒆌 0x1218c
+𒆍	cuneiform sign KA2	all	never	# 𒆍 0x1218d
+𒆎	cuneiform sign KA2 crossing KA2	all	never	# 𒆎 0x1218e
+𒆏	cuneiform sign kab	all	never	# 𒆏 0x1218f
+𒆐	cuneiform sign KAD2	all	never	# 𒆐 0x12190
+𒆑	cuneiform sign KAD3	all	never	# 𒆑 0x12191
+𒆒	cuneiform sign KAD4	all	never	# 𒆒 0x12192
+𒆓	cuneiform sign KAD5	all	never	# 𒆓 0x12193
+𒆔	cuneiform sign KAD5 over KAD5	all	never	# 𒆔 0x12194
+𒆕	cuneiform sign kak	all	never	# 𒆕 0x12195
+𒆖	cuneiform sign kak times igi gunu	all	never	# 𒆖 0x12196
+𒆗	cuneiform sign kal	all	never	# 𒆗 0x12197
+𒆘	cuneiform sign kal times bad	all	never	# 𒆘 0x12198
+𒆙	cuneiform sign kal crossing kal	all	never	# 𒆙 0x12199
+𒆚	cuneiform sign KAM2	all	never	# 𒆚 0x1219a
+𒆛	cuneiform sign KAM4	all	never	# 𒆛 0x1219b
+𒆜	cuneiform sign kaskal	all	never	# 𒆜 0x1219c
+𒆝	cuneiform sign kaskal lagab times U over lagab times U	all	never	# 𒆝 0x1219d
+𒆞	cuneiform sign kaskal over kaskal lagab times U over lagab times U	all	never	# 𒆞 0x1219e
+𒆟	cuneiform sign KESH2	all	never	# 𒆟 0x1219f
+𒆠	cuneiform sign ki	all	never	# 𒆠 0x121a0
+𒆡	cuneiform sign ki times bad	all	never	# 𒆡 0x121a1
+𒆢	cuneiform sign ki times U	all	never	# 𒆢 0x121a2
+𒆣	cuneiform sign ki times ud	all	never	# 𒆣 0x121a3
+𒆤	cuneiform sign kid	all	never	# 𒆤 0x121a4
+𒆥	cuneiform sign kin	all	never	# 𒆥 0x121a5
+𒆦	cuneiform sign kisal	all	never	# 𒆦 0x121a6
+𒆧	cuneiform sign kish	all	never	# 𒆧 0x121a7
+𒆨	cuneiform sign KISIM5	all	never	# 𒆨 0x121a8
+𒆩	cuneiform sign KISIM5 over KISIM5	all	never	# 𒆩 0x121a9
+𒆪	cuneiform sign ku	all	never	# 𒆪 0x121aa
+𒆫	cuneiform sign ku over hi times ASH2 ku over hi times ASH2	all	never	# 𒆫 0x121ab
+𒆬	cuneiform sign KU3	all	never	# 𒆬 0x121ac
+𒆭	cuneiform sign KU4	all	never	# 𒆭 0x121ad
+𒆮	cuneiform sign KU4 variant form	all	never	# 𒆮 0x121ae
+𒆯	cuneiform sign KU7	all	never	# 𒆯 0x121af
+𒆰	cuneiform sign kul	all	never	# 𒆰 0x121b0
+𒆱	cuneiform sign kul gunu	all	never	# 𒆱 0x121b1
+𒆲	cuneiform sign kun	all	never	# 𒆲 0x121b2
+𒆳	cuneiform sign kur	all	never	# 𒆳 0x121b3
+𒆴	cuneiform sign kur opposing kur	all	never	# 𒆴 0x121b4
+𒆵	cuneiform sign KUSHU2	all	never	# 𒆵 0x121b5
+𒆶	cuneiform sign KWU318	all	never	# 𒆶 0x121b6
+𒆷	cuneiform sign la	all	never	# 𒆷 0x121b7
+𒆸	cuneiform sign lagab	all	never	# 𒆸 0x121b8
+𒆹	cuneiform sign lagab times A	all	never	# 𒆹 0x121b9
+𒆺	cuneiform sign lagab times A plus da plus ha	all	never	# 𒆺 0x121ba
+𒆻	cuneiform sign lagab times A plus gar	all	never	# 𒆻 0x121bb
+𒆼	cuneiform sign lagab times A plus lal	all	never	# 𒆼 0x121bc
+𒆽	cuneiform sign lagab times al	all	never	# 𒆽 0x121bd
+𒆾	cuneiform sign lagab times an	all	never	# 𒆾 0x121be
+𒆿	cuneiform sign lagab times ash zida tenu	all	never	# 𒆿 0x121bf
+𒇀	cuneiform sign lagab times bad	all	never	# 𒇀 0x121c0
+𒇁	cuneiform sign lagab times bi	all	never	# 𒇁 0x121c1
+𒇂	cuneiform sign lagab times dar	all	never	# 𒇂 0x121c2
+𒇃	cuneiform sign lagab times en	all	never	# 𒇃 0x121c3
+𒇄	cuneiform sign lagab times ga	all	never	# 𒇄 0x121c4
+𒇅	cuneiform sign lagab times gar	all	never	# 𒇅 0x121c5
+𒇆	cuneiform sign lagab times gud	all	never	# 𒇆 0x121c6
+𒇇	cuneiform sign lagab times gud plus gud	all	never	# 𒇇 0x121c7
+𒇈	cuneiform sign lagab times ha	all	never	# 𒇈 0x121c8
+𒇉	cuneiform sign lagab times hal	all	never	# 𒇉 0x121c9
+𒇊	cuneiform sign lagab times hi times nun	all	never	# 𒇊 0x121ca
+𒇋	cuneiform sign lagab times igi gunu	all	never	# 𒇋 0x121cb
+𒇌	cuneiform sign lagab times im	all	never	# 𒇌 0x121cc
+𒇍	cuneiform sign lagab times im plus ha	all	never	# 𒇍 0x121cd
+𒇎	cuneiform sign lagab times im plus lu	all	never	# 𒇎 0x121ce
+𒇏	cuneiform sign lagab times ki	all	never	# 𒇏 0x121cf
+𒇐	cuneiform sign lagab times kin	all	never	# 𒇐 0x121d0
+𒇑	cuneiform sign lagab times KU3	all	never	# 𒇑 0x121d1
+𒇒	cuneiform sign lagab times kul	all	never	# 𒇒 0x121d2
+𒇓	cuneiform sign lagab times kul plus hi plus A	all	never	# 𒇓 0x121d3
+𒇔	cuneiform sign lagab times lagab	all	never	# 𒇔 0x121d4
+𒇕	cuneiform sign lagab times lish	all	never	# 𒇕 0x121d5
+𒇖	cuneiform sign lagab times lu	all	never	# 𒇖 0x121d6
+𒇗	cuneiform sign lagab times lul	all	never	# 𒇗 0x121d7
+𒇘	cuneiform sign lagab times me	all	never	# 𒇘 0x121d8
+𒇙	cuneiform sign lagab times me plus en	all	never	# 𒇙 0x121d9
+𒇚	cuneiform sign lagab times mush	all	never	# 𒇚 0x121da
+𒇛	cuneiform sign lagab times ne	all	never	# 𒇛 0x121db
+𒇜	cuneiform sign lagab times she plus sum	all	never	# 𒇜 0x121dc
+𒇝	cuneiform sign lagab times shita plus gish plus ERIN2	all	never	# 𒇝 0x121dd
+𒇞	cuneiform sign lagab times shita plus gish tenu	all	never	# 𒇞 0x121de
+𒇟	cuneiform sign lagab times SHU2	all	never	# 𒇟 0x121df
+𒇠	cuneiform sign lagab times SHU2 plus SHU2	all	never	# 𒇠 0x121e0
+𒇡	cuneiform sign lagab times sum	all	never	# 𒇡 0x121e1
+𒇢	cuneiform sign lagab times tag	all	never	# 𒇢 0x121e2
+𒇣	cuneiform sign lagab times TAK4	all	never	# 𒇣 0x121e3
+𒇤	cuneiform sign lagab times te plus A plus su plus na	all	never	# 𒇤 0x121e4
+𒇥	cuneiform sign lagab times U	all	never	# 𒇥 0x121e5
+𒇦	cuneiform sign lagab times U plus A	all	never	# 𒇦 0x121e6
+𒇧	cuneiform sign lagab times U plus U plus U	all	never	# 𒇧 0x121e7
+𒇨	cuneiform sign lagab times U2 plus ash	all	never	# 𒇨 0x121e8
+𒇩	cuneiform sign lagab times ud	all	never	# 𒇩 0x121e9
+𒇪	cuneiform sign lagab times ush	all	never	# 𒇪 0x121ea
+𒇫	cuneiform sign lagab squared	all	never	# 𒇫 0x121eb
+𒇬	cuneiform sign lagar	all	never	# 𒇬 0x121ec
+𒇭	cuneiform sign lagar times she	all	never	# 𒇭 0x121ed
+𒇮	cuneiform sign lagar times she plus sum	all	never	# 𒇮 0x121ee
+𒇯	cuneiform sign lagar gunu	all	never	# 𒇯 0x121ef
+𒇰	cuneiform sign lagar gunu over lagar gunu she	all	never	# 𒇰 0x121f0
+𒇱	cuneiform sign lahshu	all	never	# 𒇱 0x121f1
+𒇲	cuneiform sign lal	all	never	# 𒇲 0x121f2
+𒇳	cuneiform sign lal times lal	all	never	# 𒇳 0x121f3
+𒇴	cuneiform sign lam	all	never	# 𒇴 0x121f4
+𒇵	cuneiform sign lam times kur	all	never	# 𒇵 0x121f5
+𒇶	cuneiform sign lam times kur plus ru	all	never	# 𒇶 0x121f6
+𒇷	cuneiform sign li	all	never	# 𒇷 0x121f7
+𒇸	cuneiform sign lil	all	never	# 𒇸 0x121f8
+𒇹	cuneiform sign LIMMU2	all	never	# 𒇹 0x121f9
+𒇺	cuneiform sign lish	all	never	# 𒇺 0x121fa
+𒇻	cuneiform sign lu	all	never	# 𒇻 0x121fb
+𒇼	cuneiform sign lu times bad	all	never	# 𒇼 0x121fc
+𒇽	cuneiform sign LU2	all	never	# 𒇽 0x121fd
+𒇾	cuneiform sign LU2 times al	all	never	# 𒇾 0x121fe
+𒇿	cuneiform sign LU2 times bad	all	never	# 𒇿 0x121ff
+𒈀	cuneiform sign LU2 times ESH2	all	never	# 𒈀 0x12200
+𒈁	cuneiform sign LU2 times ESH2 tenu	all	never	# 𒈁 0x12201
+𒈂	cuneiform sign LU2 times GAN2 tenu	all	never	# 𒈂 0x12202
+𒈃	cuneiform sign LU2 times hi times bad	all	never	# 𒈃 0x12203
+𒈄	cuneiform sign LU2 times im	all	never	# 𒈄 0x12204
+𒈅	cuneiform sign LU2 times KAD2	all	never	# 𒈅 0x12205
+𒈆	cuneiform sign LU2 times KAD3	all	never	# 𒈆 0x12206
+𒈇	cuneiform sign LU2 times KAD3 plus ash	all	never	# 𒈇 0x12207
+𒈈	cuneiform sign LU2 times ki	all	never	# 𒈈 0x12208
+𒈉	cuneiform sign LU2 times la plus ash	all	never	# 𒈉 0x12209
+𒈊	cuneiform sign LU2 times lagab	all	never	# 𒈊 0x1220a
+𒈋	cuneiform sign LU2 times me plus en	all	never	# 𒈋 0x1220b
+𒈌	cuneiform sign LU2 times ne	all	never	# 𒈌 0x1220c
+𒈍	cuneiform sign LU2 times nu	all	never	# 𒈍 0x1220d
+𒈎	cuneiform sign LU2 times si plus ash	all	never	# 𒈎 0x1220e
+𒈏	cuneiform sign LU2 times SIK2 plus bu	all	never	# 𒈏 0x1220f
+𒈐	cuneiform sign LU2 times TUG2	all	never	# 𒈐 0x12210
+𒈑	cuneiform sign LU2 tenu	all	never	# 𒈑 0x12211
+𒈒	cuneiform sign LU2 crossing LU2	all	never	# 𒈒 0x12212
+𒈓	cuneiform sign LU2 opposing LU2	all	never	# 𒈓 0x12213
+𒈔	cuneiform sign LU2 squared	all	never	# 𒈔 0x12214
+𒈕	cuneiform sign LU2 sheshig	all	never	# 𒈕 0x12215
+𒈖	cuneiform sign LU3	all	never	# 𒈖 0x12216
+𒈗	cuneiform sign lugal	all	never	# 𒈗 0x12217
+𒈘	cuneiform sign lugal over lugal	all	never	# 𒈘 0x12218
+𒈙	cuneiform sign lugal opposing lugal	all	never	# 𒈙 0x12219
+𒈚	cuneiform sign lugal sheshig	all	never	# 𒈚 0x1221a
+𒈛	cuneiform sign luh	all	never	# 𒈛 0x1221b
+𒈜	cuneiform sign lul	all	never	# 𒈜 0x1221c
+𒈝	cuneiform sign lum	all	never	# 𒈝 0x1221d
+𒈞	cuneiform sign lum over lum	all	never	# 𒈞 0x1221e
+𒈟	cuneiform sign lum over lum gar over gar	all	never	# 𒈟 0x1221f
+𒈠	cuneiform sign ma	all	never	# 𒈠 0x12220
+𒈡	cuneiform sign ma times TAK4	all	never	# 𒈡 0x12221
+𒈢	cuneiform sign ma gunu	all	never	# 𒈢 0x12222
+𒈣	cuneiform sign MA2	all	never	# 𒈣 0x12223
+𒈤	cuneiform sign mah	all	never	# 𒈤 0x12224
+𒈥	cuneiform sign mar	all	never	# 𒈥 0x12225
+𒈦	cuneiform sign mash	all	never	# 𒈦 0x12226
+𒈧	cuneiform sign MASH2	all	never	# 𒈧 0x12227
+𒈨	cuneiform sign me	all	never	# 𒈨 0x12228
+𒈩	cuneiform sign mes	all	never	# 𒈩 0x12229
+𒈪	cuneiform sign mi	all	never	# 𒈪 0x1222a
+𒈫	cuneiform sign min	all	never	# 𒈫 0x1222b
+𒈬	cuneiform sign mu	all	never	# 𒈬 0x1222c
+𒈭	cuneiform sign mu over mu	all	never	# 𒈭 0x1222d
+𒈮	cuneiform sign mug	all	never	# 𒈮 0x1222e
+𒈯	cuneiform sign mug gunu	all	never	# 𒈯 0x1222f
+𒈰	cuneiform sign munsub	all	never	# 𒈰 0x12230
+𒈱	cuneiform sign MURGU2	all	never	# 𒈱 0x12231
+𒈲	cuneiform sign mush	all	never	# 𒈲 0x12232
+𒈳	cuneiform sign mush times A	all	never	# 𒈳 0x12233
+𒈴	cuneiform sign mush times kur	all	never	# 𒈴 0x12234
+𒈵	cuneiform sign mush times za	all	never	# 𒈵 0x12235
+𒈶	cuneiform sign mush over mush	all	never	# 𒈶 0x12236
+𒈷	cuneiform sign mush over mush times A plus na	all	never	# 𒈷 0x12237
+𒈸	cuneiform sign mush crossing mush	all	never	# 𒈸 0x12238
+𒈹	cuneiform sign MUSH3	all	never	# 𒈹 0x12239
+𒈺	cuneiform sign MUSH3 times A	all	never	# 𒈺 0x1223a
+𒈻	cuneiform sign MUSH3 times A plus di	all	never	# 𒈻 0x1223b
+𒈼	cuneiform sign MUSH3 times di	all	never	# 𒈼 0x1223c
+𒈽	cuneiform sign MUSH3 gunu	all	never	# 𒈽 0x1223d
+𒈾	cuneiform sign na	all	never	# 𒈾 0x1223e
+𒈿	cuneiform sign NA2	all	never	# 𒈿 0x1223f
+𒉀	cuneiform sign naga	all	never	# 𒉀 0x12240
+𒉁	cuneiform sign naga inverted	all	never	# 𒉁 0x12241
+𒉂	cuneiform sign naga times shu tenu	all	never	# 𒉂 0x12242
+𒉃	cuneiform sign naga opposing naga	all	never	# 𒉃 0x12243
+𒉄	cuneiform sign nagar	all	never	# 𒉄 0x12244
+𒉅	cuneiform sign nam nutillu	all	never	# 𒉅 0x12245
+𒉆	cuneiform sign nam	all	never	# 𒉆 0x12246
+𒉇	cuneiform sign NAM2	all	never	# 𒉇 0x12247
+𒉈	cuneiform sign ne	all	never	# 𒉈 0x12248
+𒉉	cuneiform sign ne times A	all	never	# 𒉉 0x12249
+𒉊	cuneiform sign ne times ud	all	never	# 𒉊 0x1224a
+𒉋	cuneiform sign ne sheshig	all	never	# 𒉋 0x1224b
+𒉌	cuneiform sign ni	all	never	# 𒉌 0x1224c
+𒉍	cuneiform sign ni times E	all	never	# 𒉍 0x1224d
+𒉎	cuneiform sign NI2	all	never	# 𒉎 0x1224e
+𒉏	cuneiform sign nim	all	never	# 𒉏 0x1224f
+𒉐	cuneiform sign nim times GAN2 tenu	all	never	# 𒉐 0x12250
+𒉑	cuneiform sign nim times gar plus GAN2 tenu	all	never	# 𒉑 0x12251
+𒉒	cuneiform sign NINDA2	all	never	# 𒉒 0x12252
+𒉓	cuneiform sign NINDA2 times an	all	never	# 𒉓 0x12253
+𒉔	cuneiform sign NINDA2 times ash	all	never	# 𒉔 0x12254
+𒉕	cuneiform sign NINDA2 times ash plus ash	all	never	# 𒉕 0x12255
+𒉖	cuneiform sign NINDA2 times gud	all	never	# 𒉖 0x12256
+𒉗	cuneiform sign NINDA2 times me plus GAN2 tenu	all	never	# 𒉗 0x12257
+𒉘	cuneiform sign NINDA2 times ne	all	never	# 𒉘 0x12258
+𒉙	cuneiform sign NINDA2 times nun	all	never	# 𒉙 0x12259
+𒉚	cuneiform sign NINDA2 times she	all	never	# 𒉚 0x1225a
+𒉛	cuneiform sign NINDA2 times she plus A an	all	never	# 𒉛 0x1225b
+𒉜	cuneiform sign NINDA2 times she plus ash	all	never	# 𒉜 0x1225c
+𒉝	cuneiform sign NINDA2 times she plus ash plus ash	all	never	# 𒉝 0x1225d
+𒉞	cuneiform sign NINDA2 times U2 plus ash	all	never	# 𒉞 0x1225e
+𒉟	cuneiform sign NINDA2 times ush	all	never	# 𒉟 0x1225f
+𒉠	cuneiform sign nisag	all	never	# 𒉠 0x12260
+𒉡	cuneiform sign nu	all	never	# 𒉡 0x12261
+𒉢	cuneiform sign NU11	all	never	# 𒉢 0x12262
+𒉣	cuneiform sign nun	all	never	# 𒉣 0x12263
+𒉤	cuneiform sign nun lagar times gar	all	never	# 𒉤 0x12264
+𒉥	cuneiform sign nun lagar times mash	all	never	# 𒉥 0x12265
+𒉦	cuneiform sign nun lagar times sal	all	never	# 𒉦 0x12266
+𒉧	cuneiform sign nun lagar times sal over nun lagar times sal	all	never	# 𒉧 0x12267
+𒉨	cuneiform sign nun lagar times ush	all	never	# 𒉨 0x12268
+𒉩	cuneiform sign nun tenu	all	never	# 𒉩 0x12269
+𒉪	cuneiform sign nun over nun	all	never	# 𒉪 0x1226a
+𒉫	cuneiform sign nun crossing nun	all	never	# 𒉫 0x1226b
+𒉬	cuneiform sign nun crossing nun lagar over lagar	all	never	# 𒉬 0x1226c
+𒉭	cuneiform sign nunuz	all	never	# 𒉭 0x1226d
+𒉮	cuneiform sign nunuz AB2 times ashgab	all	never	# 𒉮 0x1226e
+𒉯	cuneiform sign nunuz AB2 times bi	all	never	# 𒉯 0x1226f
+𒉰	cuneiform sign nunuz AB2 times dug	all	never	# 𒉰 0x12270
+𒉱	cuneiform sign nunuz AB2 times gud	all	never	# 𒉱 0x12271
+𒉲	cuneiform sign nunuz AB2 times igi gunu	all	never	# 𒉲 0x12272
+𒉳	cuneiform sign nunuz AB2 times KAD3	all	never	# 𒉳 0x12273
+𒉴	cuneiform sign nunuz AB2 times la	all	never	# 𒉴 0x12274
+𒉵	cuneiform sign nunuz AB2 times ne	all	never	# 𒉵 0x12275
+𒉶	cuneiform sign nunuz AB2 times SILA3	all	never	# 𒉶 0x12276
+𒉷	cuneiform sign nunuz AB2 times U2	all	never	# 𒉷 0x12277
+𒉸	cuneiform sign nunuz KISIM5 times bi	all	never	# 𒉸 0x12278
+𒉹	cuneiform sign nunuz KISIM5 times bi U	all	never	# 𒉹 0x12279
+𒉺	cuneiform sign pa	all	never	# 𒉺 0x1227a
+𒉻	cuneiform sign pad	all	never	# 𒉻 0x1227b
+𒉼	cuneiform sign pan	all	never	# 𒉼 0x1227c
+𒉽	cuneiform sign pap	all	never	# 𒉽 0x1227d
+𒉾	cuneiform sign PESH2	all	never	# 𒉾 0x1227e
+𒉿	cuneiform sign pi	all	never	# 𒉿 0x1227f
+𒊀	cuneiform sign pi times A	all	never	# 𒊀 0x12280
+𒊁	cuneiform sign pi times ab	all	never	# 𒊁 0x12281
+𒊂	cuneiform sign pi times bi	all	never	# 𒊂 0x12282
+𒊃	cuneiform sign pi times bu	all	never	# 𒊃 0x12283
+𒊄	cuneiform sign pi times E	all	never	# 𒊄 0x12284
+𒊅	cuneiform sign pi times I	all	never	# 𒊅 0x12285
+𒊆	cuneiform sign pi times ib	all	never	# 𒊆 0x12286
+𒊇	cuneiform sign pi times U	all	never	# 𒊇 0x12287
+𒊈	cuneiform sign pi times U2	all	never	# 𒊈 0x12288
+𒊉	cuneiform sign pi crossing pi	all	never	# 𒊉 0x12289
+𒊊	cuneiform sign pirig	all	never	# 𒊊 0x1228a
+𒊋	cuneiform sign pirig times kal	all	never	# 𒊋 0x1228b
+𒊌	cuneiform sign pirig times ud	all	never	# 𒊌 0x1228c
+𒊍	cuneiform sign pirig times za	all	never	# 𒊍 0x1228d
+𒊎	cuneiform sign pirig opposing pirig	all	never	# 𒊎 0x1228e
+𒊏	cuneiform sign ra	all	never	# 𒊏 0x1228f
+𒊐	cuneiform sign rab	all	never	# 𒊐 0x12290
+𒊑	cuneiform sign ri	all	never	# 𒊑 0x12291
+𒊒	cuneiform sign ru	all	never	# 𒊒 0x12292
+𒊓	cuneiform sign sa	all	never	# 𒊓 0x12293
+𒊔	cuneiform sign sag nutillu	all	never	# 𒊔 0x12294
+𒊕	cuneiform sign sag	all	never	# 𒊕 0x12295
+𒊖	cuneiform sign sag times A	all	never	# 𒊖 0x12296
+𒊗	cuneiform sign sag times du	all	never	# 𒊗 0x12297
+𒊘	cuneiform sign sag times dub	all	never	# 𒊘 0x12298
+𒊙	cuneiform sign sag times ha	all	never	# 𒊙 0x12299
+𒊚	cuneiform sign sag times kak	all	never	# 𒊚 0x1229a
+𒊛	cuneiform sign sag times kur	all	never	# 𒊛 0x1229b
+𒊜	cuneiform sign sag times lum	all	never	# 𒊜 0x1229c
+𒊝	cuneiform sign sag times mi	all	never	# 𒊝 0x1229d
+𒊞	cuneiform sign sag times nun	all	never	# 𒊞 0x1229e
+𒊟	cuneiform sign sag times sal	all	never	# 𒊟 0x1229f
+𒊠	cuneiform sign sag times shid	all	never	# 𒊠 0x122a0
+𒊡	cuneiform sign sag times tab	all	never	# 𒊡 0x122a1
+𒊢	cuneiform sign sag times U2	all	never	# 𒊢 0x122a2
+𒊣	cuneiform sign sag times ub	all	never	# 𒊣 0x122a3
+𒊤	cuneiform sign sag times um	all	never	# 𒊤 0x122a4
+𒊥	cuneiform sign sag times ur	all	never	# 𒊥 0x122a5
+𒊦	cuneiform sign sag times ush	all	never	# 𒊦 0x122a6
+𒊧	cuneiform sign sag over sag	all	never	# 𒊧 0x122a7
+𒊨	cuneiform sign sag gunu	all	never	# 𒊨 0x122a8
+𒊩	cuneiform sign sal	all	never	# 𒊩 0x122a9
+𒊪	cuneiform sign sal lagab times ASH2	all	never	# 𒊪 0x122aa
+𒊫	cuneiform sign SANGA2	all	never	# 𒊫 0x122ab
+𒊬	cuneiform sign sar	all	never	# 𒊬 0x122ac
+𒊭	cuneiform sign sha	all	never	# 𒊭 0x122ad
+𒊮	cuneiform sign SHA3	all	never	# 𒊮 0x122ae
+𒊯	cuneiform sign SHA3 times A	all	never	# 𒊯 0x122af
+𒊰	cuneiform sign SHA3 times bad	all	never	# 𒊰 0x122b0
+𒊱	cuneiform sign SHA3 times gish	all	never	# 𒊱 0x122b1
+𒊲	cuneiform sign SHA3 times ne	all	never	# 𒊲 0x122b2
+𒊳	cuneiform sign SHA3 times SHU2	all	never	# 𒊳 0x122b3
+𒊴	cuneiform sign SHA3 times tur	all	never	# 𒊴 0x122b4
+𒊵	cuneiform sign SHA3 times U	all	never	# 𒊵 0x122b5
+𒊶	cuneiform sign SHA3 times U plus A	all	never	# 𒊶 0x122b6
+𒊷	cuneiform sign SHA6	all	never	# 𒊷 0x122b7
+𒊸	cuneiform sign SHAB6	all	never	# 𒊸 0x122b8
+𒊹	cuneiform sign SHAR2	all	never	# 𒊹 0x122b9
+𒊺	cuneiform sign she	all	never	# 𒊺 0x122ba
+𒊻	cuneiform sign she hu	all	never	# 𒊻 0x122bb
+𒊼	cuneiform sign she over she gad over gad gar over gar	all	never	# 𒊼 0x122bc
+𒊽	cuneiform sign she over she tab over tab gar over gar	all	never	# 𒊽 0x122bd
+𒊾	cuneiform sign SHEG9	all	never	# 𒊾 0x122be
+𒊿	cuneiform sign shen	all	never	# 𒊿 0x122bf
+𒋀	cuneiform sign shesh	all	never	# 𒋀 0x122c0
+𒋁	cuneiform sign SHESH2	all	never	# 𒋁 0x122c1
+𒋂	cuneiform sign sheshlam	all	never	# 𒋂 0x122c2
+𒋃	cuneiform sign shid	all	never	# 𒋃 0x122c3
+𒋄	cuneiform sign shid times A	all	never	# 𒋄 0x122c4
+𒋅	cuneiform sign shid times im	all	never	# 𒋅 0x122c5
+𒋆	cuneiform sign shim	all	never	# 𒋆 0x122c6
+𒋇	cuneiform sign shim times A	all	never	# 𒋇 0x122c7
+𒋈	cuneiform sign shim times bal	all	never	# 𒋈 0x122c8
+𒋉	cuneiform sign shim times bulug	all	never	# 𒋉 0x122c9
+𒋊	cuneiform sign shim times din	all	never	# 𒋊 0x122ca
+𒋋	cuneiform sign shim times gar	all	never	# 𒋋 0x122cb
+𒋌	cuneiform sign shim times igi	all	never	# 𒋌 0x122cc
+𒋍	cuneiform sign shim times igi gunu	all	never	# 𒋍 0x122cd
+𒋎	cuneiform sign shim times KUSHU2	all	never	# 𒋎 0x122ce
+𒋏	cuneiform sign shim times lul	all	never	# 𒋏 0x122cf
+𒋐	cuneiform sign shim times mug	all	never	# 𒋐 0x122d0
+𒋑	cuneiform sign shim times sal	all	never	# 𒋑 0x122d1
+𒋒	cuneiform sign shinig	all	never	# 𒋒 0x122d2
+𒋓	cuneiform sign shir	all	never	# 𒋓 0x122d3
+𒋔	cuneiform sign shir tenu	all	never	# 𒋔 0x122d4
+𒋕	cuneiform sign shir over shir bur over bur	all	never	# 𒋕 0x122d5
+𒋖	cuneiform sign shita	all	never	# 𒋖 0x122d6
+𒋗	cuneiform sign shu	all	never	# 𒋗 0x122d7
+𒋘	cuneiform sign shu over inverted shu	all	never	# 𒋘 0x122d8
+𒋙	cuneiform sign SHU2	all	never	# 𒋙 0x122d9
+𒋚	cuneiform sign shubur	all	never	# 𒋚 0x122da
+𒋛	cuneiform sign si	all	never	# 𒋛 0x122db
+𒋜	cuneiform sign si gunu	all	never	# 𒋜 0x122dc
+𒋝	cuneiform sign sig	all	never	# 𒋝 0x122dd
+𒋞	cuneiform sign SIG4	all	never	# 𒋞 0x122de
+𒋟	cuneiform sign SIG4 over SIG4 SHU2	all	never	# 𒋟 0x122df
+𒋠	cuneiform sign SIK2	all	never	# 𒋠 0x122e0
+𒋡	cuneiform sign SILA3	all	never	# 𒋡 0x122e1
+𒋢	cuneiform sign su	all	never	# 𒋢 0x122e2
+𒋣	cuneiform sign su over su	all	never	# 𒋣 0x122e3
+𒋤	cuneiform sign sud	all	never	# 𒋤 0x122e4
+𒋥	cuneiform sign SUD2	all	never	# 𒋥 0x122e5
+𒋦	cuneiform sign suhur	all	never	# 𒋦 0x122e6
+𒋧	cuneiform sign sum	all	never	# 𒋧 0x122e7
+𒋨	cuneiform sign sumash	all	never	# 𒋨 0x122e8
+𒋩	cuneiform sign sur	all	never	# 𒋩 0x122e9
+𒋪	cuneiform sign SUR9	all	never	# 𒋪 0x122ea
+𒋫	cuneiform sign ta	all	never	# 𒋫 0x122eb
+𒋬	cuneiform sign ta asterisk	all	never	# 𒋬 0x122ec
+𒋭	cuneiform sign ta times hi	all	never	# 𒋭 0x122ed
+𒋮	cuneiform sign ta times mi	all	never	# 𒋮 0x122ee
+𒋯	cuneiform sign ta gunu	all	never	# 𒋯 0x122ef
+𒋰	cuneiform sign tab	all	never	# 𒋰 0x122f0
+𒋱	cuneiform sign tab over tab ni over ni dish over dish	all	never	# 𒋱 0x122f1
+𒋲	cuneiform sign tab squared	all	never	# 𒋲 0x122f2
+𒋳	cuneiform sign tag	all	never	# 𒋳 0x122f3
+𒋴	cuneiform sign tag times bi	all	never	# 𒋴 0x122f4
+𒋵	cuneiform sign tag times gud	all	never	# 𒋵 0x122f5
+𒋶	cuneiform sign tag times she	all	never	# 𒋶 0x122f6
+𒋷	cuneiform sign tag times shu	all	never	# 𒋷 0x122f7
+𒋸	cuneiform sign tag times TUG2	all	never	# 𒋸 0x122f8
+𒋹	cuneiform sign tag times ud	all	never	# 𒋹 0x122f9
+𒋺	cuneiform sign TAK4	all	never	# 𒋺 0x122fa
+𒋻	cuneiform sign tar	all	never	# 𒋻 0x122fb
+𒋼	cuneiform sign te	all	never	# 𒋼 0x122fc
+𒋽	cuneiform sign te gunu	all	never	# 𒋽 0x122fd
+𒋾	cuneiform sign ti	all	never	# 𒋾 0x122fe
+𒋿	cuneiform sign ti tenu	all	never	# 𒋿 0x122ff
+𒌀	cuneiform sign til	all	never	# 𒌀 0x12300
+𒌁	cuneiform sign tir	all	never	# 𒌁 0x12301
+𒌂	cuneiform sign tir times TAK4	all	never	# 𒌂 0x12302
+𒌃	cuneiform sign tir over tir	all	never	# 𒌃 0x12303
+𒌄	cuneiform sign tir over tir gad over gad gar over gar	all	never	# 𒌄 0x12304
+𒌅	cuneiform sign tu	all	never	# 𒌅 0x12305
+𒌆	cuneiform sign TUG2	all	never	# 𒌆 0x12306
+𒌇	cuneiform sign tuk	all	never	# 𒌇 0x12307
+𒌈	cuneiform sign tum	all	never	# 𒌈 0x12308
+𒌉	cuneiform sign tur	all	never	# 𒌉 0x12309
+𒌊	cuneiform sign tur over tur za over za	all	never	# 𒌊 0x1230a
+𒌋	cuneiform sign U	all	never	# 𒌋 0x1230b
+𒌌	cuneiform sign U gud	all	never	# 𒌌 0x1230c
+𒌍	cuneiform sign U U U	all	never	# 𒌍 0x1230d
+𒌎	cuneiform sign U over U pa over pa gar over gar	all	never	# 𒌎 0x1230e
+𒌏	cuneiform sign U over U sur over sur	all	never	# 𒌏 0x1230f
+𒌐	cuneiform sign U over U U reversed over U reversed	all	never	# 𒌐 0x12310
+𒌑	cuneiform sign U2	all	never	# 𒌑 0x12311
+𒌒	cuneiform sign ub	all	never	# 𒌒 0x12312
+𒌓	cuneiform sign ud	all	never	# 𒌓 0x12313
+𒌔	cuneiform sign ud KUSHU2	all	never	# 𒌔 0x12314
+𒌕	cuneiform sign ud times bad	all	never	# 𒌕 0x12315
+𒌖	cuneiform sign ud times mi	all	never	# 𒌖 0x12316
+𒌗	cuneiform sign ud times U plus U plus U	all	never	# 𒌗 0x12317
+𒌘	cuneiform sign ud times U plus U plus U gunu	all	never	# 𒌘 0x12318
+𒌙	cuneiform sign ud gunu	all	never	# 𒌙 0x12319
+𒌚	cuneiform sign ud sheshig	all	never	# 𒌚 0x1231a
+𒌛	cuneiform sign ud sheshig times bad	all	never	# 𒌛 0x1231b
+𒌜	cuneiform sign udug	all	never	# 𒌜 0x1231c
+𒌝	cuneiform sign um	all	never	# 𒌝 0x1231d
+𒌞	cuneiform sign um times lagab	all	never	# 𒌞 0x1231e
+𒌟	cuneiform sign um times me plus da	all	never	# 𒌟 0x1231f
+𒌠	cuneiform sign um times SHA3	all	never	# 𒌠 0x12320
+𒌡	cuneiform sign um times U	all	never	# 𒌡 0x12321
+𒌢	cuneiform sign umbin	all	never	# 𒌢 0x12322
+𒌣	cuneiform sign umum	all	never	# 𒌣 0x12323
+𒌤	cuneiform sign umum times kaskal	all	never	# 𒌤 0x12324
+𒌥	cuneiform sign umum times pa	all	never	# 𒌥 0x12325
+𒌦	cuneiform sign un	all	never	# 𒌦 0x12326
+𒌧	cuneiform sign un gunu	all	never	# 𒌧 0x12327
+𒌨	cuneiform sign ur	all	never	# 𒌨 0x12328
+𒌩	cuneiform sign ur crossing ur	all	never	# 𒌩 0x12329
+𒌪	cuneiform sign ur sheshig	all	never	# 𒌪 0x1232a
+𒌫	cuneiform sign UR2	all	never	# 𒌫 0x1232b
+𒌬	cuneiform sign UR2 times A plus ha	all	never	# 𒌬 0x1232c
+𒌭	cuneiform sign UR2 times A plus na	all	never	# 𒌭 0x1232d
+𒌮	cuneiform sign UR2 times al	all	never	# 𒌮 0x1232e
+𒌯	cuneiform sign UR2 times ha	all	never	# 𒌯 0x1232f
+𒌰	cuneiform sign UR2 times nun	all	never	# 𒌰 0x12330
+𒌱	cuneiform sign UR2 times U2	all	never	# 𒌱 0x12331
+𒌲	cuneiform sign UR2 times U2 plus ash	all	never	# 𒌲 0x12332
+𒌳	cuneiform sign UR2 times U2 plus bi	all	never	# 𒌳 0x12333
+𒌴	cuneiform sign UR4	all	never	# 𒌴 0x12334
+𒌵	cuneiform sign uri	all	never	# 𒌵 0x12335
+𒌶	cuneiform sign URI3	all	never	# 𒌶 0x12336
+𒌷	cuneiform sign uru	all	never	# 𒌷 0x12337
+𒌸	cuneiform sign uru times A	all	never	# 𒌸 0x12338
+𒌹	cuneiform sign uru times ashgab	all	never	# 𒌹 0x12339
+𒌺	cuneiform sign uru times bar	all	never	# 𒌺 0x1233a
+𒌻	cuneiform sign uru times dun	all	never	# 𒌻 0x1233b
+𒌼	cuneiform sign uru times ga	all	never	# 𒌼 0x1233c
+𒌽	cuneiform sign uru times gal	all	never	# 𒌽 0x1233d
+𒌾	cuneiform sign uru times GAN2 tenu	all	never	# 𒌾 0x1233e
+𒌿	cuneiform sign uru times gar	all	never	# 𒌿 0x1233f
+𒍀	cuneiform sign uru times gu	all	never	# 𒍀 0x12340
+𒍁	cuneiform sign uru times ha	all	never	# 𒍁 0x12341
+𒍂	cuneiform sign uru times igi	all	never	# 𒍂 0x12342
+𒍃	cuneiform sign uru times im	all	never	# 𒍃 0x12343
+𒍄	cuneiform sign uru times ish	all	never	# 𒍄 0x12344
+𒍅	cuneiform sign uru times ki	all	never	# 𒍅 0x12345
+𒍆	cuneiform sign uru times lum	all	never	# 𒍆 0x12346
+𒍇	cuneiform sign uru times min	all	never	# 𒍇 0x12347
+𒍈	cuneiform sign uru times pa	all	never	# 𒍈 0x12348
+𒍉	cuneiform sign uru times she	all	never	# 𒍉 0x12349
+𒍊	cuneiform sign uru times SIG4	all	never	# 𒍊 0x1234a
+𒍋	cuneiform sign uru times tu	all	never	# 𒍋 0x1234b
+𒍌	cuneiform sign uru times U plus gud	all	never	# 𒍌 0x1234c
+𒍍	cuneiform sign uru times ud	all	never	# 𒍍 0x1234d
+𒍎	cuneiform sign uru times uruda	all	never	# 𒍎 0x1234e
+𒍏	cuneiform sign uruda	all	never	# 𒍏 0x1234f
+𒍐	cuneiform sign uruda times U	all	never	# 𒍐 0x12350
+𒍑	cuneiform sign ush	all	never	# 𒍑 0x12351
+𒍒	cuneiform sign ush times A	all	never	# 𒍒 0x12352
+𒍓	cuneiform sign ush times ku	all	never	# 𒍓 0x12353
+𒍔	cuneiform sign ush times kur	all	never	# 𒍔 0x12354
+𒍕	cuneiform sign ush times TAK4	all	never	# 𒍕 0x12355
+𒍖	cuneiform sign ushx	all	never	# 𒍖 0x12356
+𒍗	cuneiform sign USH2	all	never	# 𒍗 0x12357
+𒍘	cuneiform sign ushumx	all	never	# 𒍘 0x12358
+𒍙	cuneiform sign utuki	all	never	# 𒍙 0x12359
+𒍚	cuneiform sign UZ3	all	never	# 𒍚 0x1235a
+𒍛	cuneiform sign UZ3 times kaskal	all	never	# 𒍛 0x1235b
+𒍜	cuneiform sign uzu	all	never	# 𒍜 0x1235c
+𒍝	cuneiform sign za	all	never	# 𒍝 0x1235d
+𒍞	cuneiform sign za tenu	all	never	# 𒍞 0x1235e
+𒍟	cuneiform sign za squared times kur	all	never	# 𒍟 0x1235f
+𒍠	cuneiform sign zag	all	never	# 𒍠 0x12360
+𒍡	cuneiform sign zamx	all	never	# 𒍡 0x12361
+𒍢	cuneiform sign ZE2	all	never	# 𒍢 0x12362
+𒍣	cuneiform sign zi	all	never	# 𒍣 0x12363
+𒍤	cuneiform sign zi over zi	all	never	# 𒍤 0x12364
+𒍥	cuneiform sign ZI3	all	never	# 𒍥 0x12365
+𒍦	cuneiform sign zib	all	never	# 𒍦 0x12366
+𒍧	cuneiform sign zib kaba tenu	all	never	# 𒍧 0x12367
+𒍨	cuneiform sign zig	all	never	# 𒍨 0x12368
+𒍩	cuneiform sign ZIZ2	all	never	# 𒍩 0x12369
+𒍪	cuneiform sign zu	all	never	# 𒍪 0x1236a
+𒍫	cuneiform sign ZU5	all	never	# 𒍫 0x1236b
+𒍬	cuneiform sign ZU5 times A	all	never	# 𒍬 0x1236c
+𒍭	cuneiform sign zubur	all	never	# 𒍭 0x1236d
+𒍮	cuneiform sign zum	all	never	# 𒍮 0x1236e
+𒍯	cuneiform sign kap elamite	all	never	# 𒍯 0x1236f
+𒍰	cuneiform sign ab times nun	all	never	# 𒍰 0x12370
+𒍱	cuneiform sign AB2 times A	all	never	# 𒍱 0x12371
+𒍲	cuneiform sign amar times kug	all	never	# 𒍲 0x12372
+𒍳	cuneiform sign dag KISIM5 times U2 plus mash	all	never	# 𒍳 0x12373
+𒍴	cuneiform sign DAG3	all	never	# 𒍴 0x12374
+𒍵	cuneiform sign dish plus shu	all	never	# 𒍵 0x12375
+𒍶	cuneiform sign dub times she	all	never	# 𒍶 0x12376
+𒍷	cuneiform sign ezen times gud	all	never	# 𒍷 0x12377
+𒍸	cuneiform sign ezen times she	all	never	# 𒍸 0x12378
+𒍹	cuneiform sign GA2 times an plus kak plus A	all	never	# 𒍹 0x12379
+𒍺	cuneiform sign GA2 times ASH2	all	never	# 𒍺 0x1237a
+𒍻	cuneiform sign GE22	all	never	# 𒍻 0x1237b
+𒍼	cuneiform sign gig	all	never	# 𒍼 0x1237c
+𒍽	cuneiform sign hush	all	never	# 𒍽 0x1237d
+𒍾	cuneiform sign ka times anshe	all	never	# 𒍾 0x1237e
+𒍿	cuneiform sign ka times ASH3	all	never	# 𒍿 0x1237f
+𒎀	cuneiform sign ka times gish	all	never	# 𒎀 0x12380
+𒎁	cuneiform sign ka times gud	all	never	# 𒎁 0x12381
+𒎂	cuneiform sign ka times hi times ASH2	all	never	# 𒎂 0x12382
+𒎃	cuneiform sign ka times lum	all	never	# 𒎃 0x12383
+𒎄	cuneiform sign ka times pa	all	never	# 𒎄 0x12384
+𒎅	cuneiform sign ka times shul	all	never	# 𒎅 0x12385
+𒎆	cuneiform sign ka times tu	all	never	# 𒎆 0x12386
+𒎇	cuneiform sign ka times UR2	all	never	# 𒎇 0x12387
+𒎈	cuneiform sign lagab times gi	all	never	# 𒎈 0x12388
+𒎉	cuneiform sign LU2 sheshig times bad	all	never	# 𒎉 0x12389
+𒎊	cuneiform sign LU2 times ESH2 plus lal	all	never	# 𒎊 0x1238a
+𒎋	cuneiform sign LU2 times shu	all	never	# 𒎋 0x1238b
+𒎌	cuneiform sign mesh	all	never	# 𒎌 0x1238c
+𒎍	cuneiform sign MUSH3 times za	all	never	# 𒎍 0x1238d
+𒎎	cuneiform sign NA4	all	never	# 𒎎 0x1238e
+𒎏	cuneiform sign nin	all	never	# 𒎏 0x1238f
+𒎐	cuneiform sign NIN9	all	never	# 𒎐 0x12390
+𒎑	cuneiform sign NINDA2 times bal	all	never	# 𒎑 0x12391
+𒎒	cuneiform sign NINDA2 times gi	all	never	# 𒎒 0x12392
+𒎓	cuneiform sign NU11 rotated ninety degrees	all	never	# 𒎓 0x12393
+𒎔	cuneiform sign PESH2 asterisk	all	never	# 𒎔 0x12394
+𒎕	cuneiform sign PIR2	all	never	# 𒎕 0x12395
+𒎖	cuneiform sign sag times igi gunu	all	never	# 𒎖 0x12396
+𒎗	cuneiform sign TI2	all	never	# 𒎗 0x12397
+𒎘	cuneiform sign um times me	all	never	# 𒎘 0x12398
+𒎙	cuneiform sign U U	all	never	# 𒎙 0x12399

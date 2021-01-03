@@ -1,0 +1,65 @@
+# # Phonetic Extensions Supplement
+ᶀ	latin small letter B with palatal hook	all	never	# ᶀ 0x1d80
+ᶁ	latin small letter D with palatal hook	all	never	# ᶁ 0x1d81
+ᶂ	latin small letter F with palatal hook	all	never	# ᶂ 0x1d82
+ᶃ	latin small letter G with palatal hook	all	never	# ᶃ 0x1d83
+ᶄ	latin small letter K with palatal hook	all	never	# ᶄ 0x1d84
+ᶅ	latin small letter L with palatal hook	all	never	# ᶅ 0x1d85
+ᶆ	latin small letter M with palatal hook	all	never	# ᶆ 0x1d86
+ᶇ	latin small letter N with palatal hook	all	never	# ᶇ 0x1d87
+ᶈ	latin small letter P with palatal hook	all	never	# ᶈ 0x1d88
+ᶉ	latin small letter R with palatal hook	all	never	# ᶉ 0x1d89
+ᶊ	latin small letter S with palatal hook	all	never	# ᶊ 0x1d8a
+ᶋ	latin small letter esh with palatal hook	all	never	# ᶋ 0x1d8b
+ᶌ	latin small letter V with palatal hook	all	never	# ᶌ 0x1d8c
+ᶍ	latin small letter X with palatal hook	all	never	# ᶍ 0x1d8d
+ᶎ	latin small letter Z with palatal hook	all	never	# ᶎ 0x1d8e
+ᶏ	latin small letter A with retroflex hook	all	never	# ᶏ 0x1d8f
+ᶐ	latin small letter alpha with retroflex hook	all	never	# ᶐ 0x1d90
+ᶑ	latin small letter D with hook and tail	all	never	# ᶑ 0x1d91
+ᶒ	latin small letter E with retroflex hook	all	never	# ᶒ 0x1d92
+ᶓ	latin small letter open E with retroflex hook	all	never	# ᶓ 0x1d93
+ᶔ	latin small letter reversed open E with retroflex hook	all	never	# ᶔ 0x1d94
+ᶕ	latin small letter schwa with retroflex hook	all	never	# ᶕ 0x1d95
+ᶖ	latin small letter I with retroflex hook	all	never	# ᶖ 0x1d96
+ᶗ	latin small letter open O with retroflex hook	all	never	# ᶗ 0x1d97
+ᶘ	latin small letter esh with retroflex hook	all	never	# ᶘ 0x1d98
+ᶙ	latin small letter U with retroflex hook	all	never	# ᶙ 0x1d99
+ᶚ	latin small letter ezh with retroflex hook	all	never	# ᶚ 0x1d9a
+ᶛ	modifier letter small turned alpha	all	never	# ᶛ 0x1d9b
+ᶜ	modifier letter small C	all	never	# ᶜ 0x1d9c
+ᶝ	modifier letter small C with curl	all	never	# ᶝ 0x1d9d
+ᶞ	modifier letter small eth	all	never	# ᶞ 0x1d9e
+ᶟ	modifier letter small reversed open E	all	never	# ᶟ 0x1d9f
+ᶠ	modifier letter small F	all	never	# ᶠ 0x1da0
+ᶡ	modifier letter small dotless J with stroke	all	never	# ᶡ 0x1da1
+ᶢ	modifier letter small script G	all	never	# ᶢ 0x1da2
+ᶣ	modifier letter small turned H	all	never	# ᶣ 0x1da3
+ᶤ	modifier letter small I with stroke	all	never	# ᶤ 0x1da4
+ᶥ	modifier letter small iota	all	never	# ᶥ 0x1da5
+ᶦ	modifier letter small capital I	all	never	# ᶦ 0x1da6
+ᶧ	modifier letter small capital I with stroke	all	never	# ᶧ 0x1da7
+ᶨ	modifier letter small J with crossed-tail	all	never	# ᶨ 0x1da8
+ᶩ	modifier letter small L with retroflex hook	all	never	# ᶩ 0x1da9
+ᶪ	modifier letter small L with palatal hook	all	never	# ᶪ 0x1daa
+ᶫ	modifier letter small capital L	all	never	# ᶫ 0x1dab
+ᶬ	modifier letter small M with hook	all	never	# ᶬ 0x1dac
+ᶭ	modifier letter small turned M with long leg	all	never	# ᶭ 0x1dad
+ᶮ	modifier letter small N with left hook	all	never	# ᶮ 0x1dae
+ᶯ	modifier letter small N with retroflex hook	all	never	# ᶯ 0x1daf
+ᶰ	modifier letter small capital N	all	never	# ᶰ 0x1db0
+ᶱ	modifier letter small barred O	all	never	# ᶱ 0x1db1
+ᶲ	modifier letter small phi	all	never	# ᶲ 0x1db2
+ᶳ	modifier letter small S with hook	all	never	# ᶳ 0x1db3
+ᶴ	modifier letter small esh	all	never	# ᶴ 0x1db4
+ᶵ	modifier letter small T with palatal hook	all	never	# ᶵ 0x1db5
+ᶶ	modifier letter small U bar	all	never	# ᶶ 0x1db6
+ᶷ	modifier letter small upsilon	all	never	# ᶷ 0x1db7
+ᶸ	modifier letter small capital U	all	never	# ᶸ 0x1db8
+ᶹ	modifier letter small V with hook	all	never	# ᶹ 0x1db9
+ᶺ	modifier letter small turned V	all	never	# ᶺ 0x1dba
+ᶻ	modifier letter small Z	all	never	# ᶻ 0x1dbb
+ᶼ	modifier letter small Z with retroflex hook	all	never	# ᶼ 0x1dbc
+ᶽ	modifier letter small Z with curl	all	never	# ᶽ 0x1dbd
+ᶾ	modifier letter small ezh	all	never	# ᶾ 0x1dbe
+ᶿ	modifier letter small theta	all	never	# ᶿ 0x1dbf

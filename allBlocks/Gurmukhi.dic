@@ -1,0 +1,80 @@
+# # Gurmukhi
+ਁ	gurmukhi sign adak bindi	all	never	# ਁ 0xa01
+ਂ	gurmukhi sign bindi	all	never	# ਂ 0xa02
+ਃ	gurmukhi sign visarga	all	never	# ਃ 0xa03
+ਅ	gurmukhi letter A	all	never	# ਅ 0xa05
+ਆ	gurmukhi letter aa	all	never	# ਆ 0xa06
+ਇ	gurmukhi letter I	all	never	# ਇ 0xa07
+ਈ	gurmukhi letter ii	all	never	# ਈ 0xa08
+ਉ	gurmukhi letter U	all	never	# ਉ 0xa09
+ਊ	gurmukhi letter uu	all	never	# ਊ 0xa0a
+ਏ	gurmukhi letter ee	all	never	# ਏ 0xa0f
+ਐ	gurmukhi letter ai	all	never	# ਐ 0xa10
+ਓ	gurmukhi letter oo	all	never	# ਓ 0xa13
+ਔ	gurmukhi letter au	all	never	# ਔ 0xa14
+ਕ	gurmukhi letter ka	all	never	# ਕ 0xa15
+ਖ	gurmukhi letter kha	all	never	# ਖ 0xa16
+ਗ	gurmukhi letter ga	all	never	# ਗ 0xa17
+ਘ	gurmukhi letter gha	all	never	# ਘ 0xa18
+ਙ	gurmukhi letter nga	all	never	# ਙ 0xa19
+ਚ	gurmukhi letter ca	all	never	# ਚ 0xa1a
+ਛ	gurmukhi letter cha	all	never	# ਛ 0xa1b
+ਜ	gurmukhi letter ja	all	never	# ਜ 0xa1c
+ਝ	gurmukhi letter jha	all	never	# ਝ 0xa1d
+ਞ	gurmukhi letter nya	all	never	# ਞ 0xa1e
+ਟ	gurmukhi letter tta	all	never	# ਟ 0xa1f
+ਠ	gurmukhi letter ttha	all	never	# ਠ 0xa20
+ਡ	gurmukhi letter dda	all	never	# ਡ 0xa21
+ਢ	gurmukhi letter ddha	all	never	# ਢ 0xa22
+ਣ	gurmukhi letter nna	all	never	# ਣ 0xa23
+ਤ	gurmukhi letter ta	all	never	# ਤ 0xa24
+ਥ	gurmukhi letter tha	all	never	# ਥ 0xa25
+ਦ	gurmukhi letter da	all	never	# ਦ 0xa26
+ਧ	gurmukhi letter dha	all	never	# ਧ 0xa27
+ਨ	gurmukhi letter na	all	never	# ਨ 0xa28
+ਪ	gurmukhi letter pa	all	never	# ਪ 0xa2a
+ਫ	gurmukhi letter pha	all	never	# ਫ 0xa2b
+ਬ	gurmukhi letter ba	all	never	# ਬ 0xa2c
+ਭ	gurmukhi letter bha	all	never	# ਭ 0xa2d
+ਮ	gurmukhi letter ma	all	never	# ਮ 0xa2e
+ਯ	gurmukhi letter ya	all	never	# ਯ 0xa2f
+ਰ	gurmukhi letter ra	all	never	# ਰ 0xa30
+ਲ	gurmukhi letter la	all	never	# ਲ 0xa32
+ਲ਼	gurmukhi letter lla	all	never	# ਲ਼ 0xa33
+ਵ	gurmukhi letter va	all	never	# ਵ 0xa35
+ਸ਼	gurmukhi letter sha	all	never	# ਸ਼ 0xa36
+ਸ	gurmukhi letter sa	all	never	# ਸ 0xa38
+ਹ	gurmukhi letter ha	all	never	# ਹ 0xa39
+਼	gurmukhi sign nukta	all	never	# ਼ 0xa3c
+ਾ	gurmukhi vowel sign aa	all	never	# ਾ 0xa3e
+ਿ	gurmukhi vowel sign I	all	never	# ਿ 0xa3f
+ੀ	gurmukhi vowel sign ii	all	never	# ੀ 0xa40
+ੁ	gurmukhi vowel sign U	all	never	# ੁ 0xa41
+ੂ	gurmukhi vowel sign uu	all	never	# ੂ 0xa42
+ੇ	gurmukhi vowel sign ee	all	never	# ੇ 0xa47
+ੈ	gurmukhi vowel sign ai	all	never	# ੈ 0xa48
+ੋ	gurmukhi vowel sign oo	all	never	# ੋ 0xa4b
+ੌ	gurmukhi vowel sign au	all	never	# ੌ 0xa4c
+੍	gurmukhi sign virama	all	never	# ੍ 0xa4d
+ੑ	gurmukhi sign udaat	all	never	# ੑ 0xa51
+ਖ਼	gurmukhi letter khha	all	never	# ਖ਼ 0xa59
+ਗ਼	gurmukhi letter ghha	all	never	# ਗ਼ 0xa5a
+ਜ਼	gurmukhi letter za	all	never	# ਜ਼ 0xa5b
+ੜ	gurmukhi letter rra	all	never	# ੜ 0xa5c
+ਫ਼	gurmukhi letter fa	all	never	# ਫ਼ 0xa5e
+੦	gurmukhi digit zero	all	never	# ੦ 0xa66
+੧	gurmukhi digit one	all	never	# ੧ 0xa67
+੨	gurmukhi digit two	all	never	# ੨ 0xa68
+੩	gurmukhi digit three	all	never	# ੩ 0xa69
+੪	gurmukhi digit four	all	never	# ੪ 0xa6a
+੫	gurmukhi digit five	all	never	# ੫ 0xa6b
+੬	gurmukhi digit six	all	never	# ੬ 0xa6c
+੭	gurmukhi digit seven	all	never	# ੭ 0xa6d
+੮	gurmukhi digit eight	all	never	# ੮ 0xa6e
+੯	gurmukhi digit nine	all	never	# ੯ 0xa6f
+ੰ	gurmukhi tippi	all	never	# ੰ 0xa70
+ੱ	gurmukhi addak	all	never	# ੱ 0xa71
+ੲ	gurmukhi iri	all	never	# ੲ 0xa72
+ੳ	gurmukhi ura	all	never	# ੳ 0xa73
+ੴ	gurmukhi ek onkar	all	never	# ੴ 0xa74
+ੵ	gurmukhi sign yakash	all	never	# ੵ 0xa75

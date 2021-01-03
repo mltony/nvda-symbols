@@ -1,0 +1,59 @@
+# # Alphabetic Presentation Forms
+ﬀ	latin small ligature ff	all	never	# ﬀ 0xfb00
+ﬁ	latin small ligature fi	all	never	# ﬁ 0xfb01
+ﬂ	latin small ligature fl	all	never	# ﬂ 0xfb02
+ﬃ	latin small ligature ffi	all	never	# ﬃ 0xfb03
+ﬄ	latin small ligature ffl	all	never	# ﬄ 0xfb04
+ﬅ	latin small ligature long S T	all	never	# ﬅ 0xfb05
+ﬆ	latin small ligature st	all	never	# ﬆ 0xfb06
+ﬓ	armenian small ligature men now	all	never	# ﬓ 0xfb13
+ﬔ	armenian small ligature men ech	all	never	# ﬔ 0xfb14
+ﬕ	armenian small ligature men ini	all	never	# ﬕ 0xfb15
+ﬖ	armenian small ligature vew now	all	never	# ﬖ 0xfb16
+ﬗ	armenian small ligature men xeh	all	never	# ﬗ 0xfb17
+יִ	hebrew letter yod with hiriq	all	never	# יִ 0xfb1d
+ﬞ	hebrew point judeo-spanish varika	all	never	# ﬞ 0xfb1e
+ײַ	hebrew ligature yiddish yod yod patah	all	never	# ײַ 0xfb1f
+ﬠ	hebrew letter alternative ayin	all	never	# ﬠ 0xfb20
+ﬡ	hebrew letter wide alef	all	never	# ﬡ 0xfb21
+ﬢ	hebrew letter wide dalet	all	never	# ﬢ 0xfb22
+ﬣ	hebrew letter wide he	all	never	# ﬣ 0xfb23
+ﬤ	hebrew letter wide kaf	all	never	# ﬤ 0xfb24
+ﬥ	hebrew letter wide lamed	all	never	# ﬥ 0xfb25
+ﬦ	hebrew letter wide final mem	all	never	# ﬦ 0xfb26
+ﬧ	hebrew letter wide resh	all	never	# ﬧ 0xfb27
+ﬨ	hebrew letter wide tav	all	never	# ﬨ 0xfb28
+﬩	hebrew letter alternative plus sign	all	never	# ﬩ 0xfb29
+שׁ	hebrew letter shin with shin dot	all	never	# שׁ 0xfb2a
+שׂ	hebrew letter shin with sin dot	all	never	# שׂ 0xfb2b
+שּׁ	hebrew letter shin with dagesh and shin dot	all	never	# שּׁ 0xfb2c
+שּׂ	hebrew letter shin with dagesh and sin dot	all	never	# שּׂ 0xfb2d
+אַ	hebrew letter alef with patah	all	never	# אַ 0xfb2e
+אָ	hebrew letter alef with qamats	all	never	# אָ 0xfb2f
+אּ	hebrew letter alef with mapiq	all	never	# אּ 0xfb30
+בּ	hebrew letter bet with dagesh	all	never	# בּ 0xfb31
+גּ	hebrew letter gimel with dagesh	all	never	# גּ 0xfb32
+דּ	hebrew letter dalet with dagesh	all	never	# דּ 0xfb33
+הּ	hebrew letter he with mapiq	all	never	# הּ 0xfb34
+וּ	hebrew letter vav with dagesh	all	never	# וּ 0xfb35
+זּ	hebrew letter zayin with dagesh	all	never	# זּ 0xfb36
+טּ	hebrew letter tet with dagesh	all	never	# טּ 0xfb38
+יּ	hebrew letter yod with dagesh	all	never	# יּ 0xfb39
+ךּ	hebrew letter final kaf with dagesh	all	never	# ךּ 0xfb3a
+כּ	hebrew letter kaf with dagesh	all	never	# כּ 0xfb3b
+לּ	hebrew letter lamed with dagesh	all	never	# לּ 0xfb3c
+מּ	hebrew letter mem with dagesh	all	never	# מּ 0xfb3e
+נּ	hebrew letter nun with dagesh	all	never	# נּ 0xfb40
+סּ	hebrew letter samekh with dagesh	all	never	# סּ 0xfb41
+ףּ	hebrew letter final pe with dagesh	all	never	# ףּ 0xfb43
+פּ	hebrew letter pe with dagesh	all	never	# פּ 0xfb44
+צּ	hebrew letter tsadi with dagesh	all	never	# צּ 0xfb46
+קּ	hebrew letter qof with dagesh	all	never	# קּ 0xfb47
+רּ	hebrew letter resh with dagesh	all	never	# רּ 0xfb48
+שּ	hebrew letter shin with dagesh	all	never	# שּ 0xfb49
+תּ	hebrew letter tav with dagesh	all	never	# תּ 0xfb4a
+וֹ	hebrew letter vav with holam	all	never	# וֹ 0xfb4b
+בֿ	hebrew letter bet with rafe	all	never	# בֿ 0xfb4c
+כֿ	hebrew letter kaf with rafe	all	never	# כֿ 0xfb4d
+פֿ	hebrew letter pe with rafe	all	never	# פֿ 0xfb4e
+ﭏ	hebrew ligature alef lamed	all	never	# ﭏ 0xfb4f

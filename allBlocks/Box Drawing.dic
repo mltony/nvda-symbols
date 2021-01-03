@@ -1,0 +1,129 @@
+# # Box Drawing
+─	box drawings light horizontal	all	never	# ─ 0x2500
+━	box drawings heavy horizontal	all	never	# ━ 0x2501
+│	box drawings light vertical	all	never	# │ 0x2502
+┃	box drawings heavy vertical	all	never	# ┃ 0x2503
+┄	box drawings light triple dash horizontal	all	never	# ┄ 0x2504
+┅	box drawings heavy triple dash horizontal	all	never	# ┅ 0x2505
+┆	box drawings light triple dash vertical	all	never	# ┆ 0x2506
+┇	box drawings heavy triple dash vertical	all	never	# ┇ 0x2507
+┈	box drawings light quadruple dash horizontal	all	never	# ┈ 0x2508
+┉	box drawings heavy quadruple dash horizontal	all	never	# ┉ 0x2509
+┊	box drawings light quadruple dash vertical	all	never	# ┊ 0x250a
+┋	box drawings heavy quadruple dash vertical	all	never	# ┋ 0x250b
+┌	box drawings light down and right	all	never	# ┌ 0x250c
+┍	box drawings down light and right heavy	all	never	# ┍ 0x250d
+┎	box drawings down heavy and right light	all	never	# ┎ 0x250e
+┏	box drawings heavy down and right	all	never	# ┏ 0x250f
+┐	box drawings light down and left	all	never	# ┐ 0x2510
+┑	box drawings down light and left heavy	all	never	# ┑ 0x2511
+┒	box drawings down heavy and left light	all	never	# ┒ 0x2512
+┓	box drawings heavy down and left	all	never	# ┓ 0x2513
+└	box drawings light up and right	all	never	# └ 0x2514
+┕	box drawings up light and right heavy	all	never	# ┕ 0x2515
+┖	box drawings up heavy and right light	all	never	# ┖ 0x2516
+┗	box drawings heavy up and right	all	never	# ┗ 0x2517
+┘	box drawings light up and left	all	never	# ┘ 0x2518
+┙	box drawings up light and left heavy	all	never	# ┙ 0x2519
+┚	box drawings up heavy and left light	all	never	# ┚ 0x251a
+┛	box drawings heavy up and left	all	never	# ┛ 0x251b
+├	box drawings light vertical and right	all	never	# ├ 0x251c
+┝	box drawings vertical light and right heavy	all	never	# ┝ 0x251d
+┞	box drawings up heavy and right down light	all	never	# ┞ 0x251e
+┟	box drawings down heavy and right up light	all	never	# ┟ 0x251f
+┠	box drawings vertical heavy and right light	all	never	# ┠ 0x2520
+┡	box drawings down light and right up heavy	all	never	# ┡ 0x2521
+┢	box drawings up light and right down heavy	all	never	# ┢ 0x2522
+┣	box drawings heavy vertical and right	all	never	# ┣ 0x2523
+┤	box drawings light vertical and left	all	never	# ┤ 0x2524
+┥	box drawings vertical light and left heavy	all	never	# ┥ 0x2525
+┦	box drawings up heavy and left down light	all	never	# ┦ 0x2526
+┧	box drawings down heavy and left up light	all	never	# ┧ 0x2527
+┨	box drawings vertical heavy and left light	all	never	# ┨ 0x2528
+┩	box drawings down light and left up heavy	all	never	# ┩ 0x2529
+┪	box drawings up light and left down heavy	all	never	# ┪ 0x252a
+┫	box drawings heavy vertical and left	all	never	# ┫ 0x252b
+┬	box drawings light down and horizontal	all	never	# ┬ 0x252c
+┭	box drawings left heavy and right down light	all	never	# ┭ 0x252d
+┮	box drawings right heavy and left down light	all	never	# ┮ 0x252e
+┯	box drawings down light and horizontal heavy	all	never	# ┯ 0x252f
+┰	box drawings down heavy and horizontal light	all	never	# ┰ 0x2530
+┱	box drawings right light and left down heavy	all	never	# ┱ 0x2531
+┲	box drawings left light and right down heavy	all	never	# ┲ 0x2532
+┳	box drawings heavy down and horizontal	all	never	# ┳ 0x2533
+┴	box drawings light up and horizontal	all	never	# ┴ 0x2534
+┵	box drawings left heavy and right up light	all	never	# ┵ 0x2535
+┶	box drawings right heavy and left up light	all	never	# ┶ 0x2536
+┷	box drawings up light and horizontal heavy	all	never	# ┷ 0x2537
+┸	box drawings up heavy and horizontal light	all	never	# ┸ 0x2538
+┹	box drawings right light and left up heavy	all	never	# ┹ 0x2539
+┺	box drawings left light and right up heavy	all	never	# ┺ 0x253a
+┻	box drawings heavy up and horizontal	all	never	# ┻ 0x253b
+┼	box drawings light vertical and horizontal	all	never	# ┼ 0x253c
+┽	box drawings left heavy and right vertical light	all	never	# ┽ 0x253d
+┾	box drawings right heavy and left vertical light	all	never	# ┾ 0x253e
+┿	box drawings vertical light and horizontal heavy	all	never	# ┿ 0x253f
+╀	box drawings up heavy and down horizontal light	all	never	# ╀ 0x2540
+╁	box drawings down heavy and up horizontal light	all	never	# ╁ 0x2541
+╂	box drawings vertical heavy and horizontal light	all	never	# ╂ 0x2542
+╃	box drawings left up heavy and right down light	all	never	# ╃ 0x2543
+╄	box drawings right up heavy and left down light	all	never	# ╄ 0x2544
+╅	box drawings left down heavy and right up light	all	never	# ╅ 0x2545
+╆	box drawings right down heavy and left up light	all	never	# ╆ 0x2546
+╇	box drawings down light and up horizontal heavy	all	never	# ╇ 0x2547
+╈	box drawings up light and down horizontal heavy	all	never	# ╈ 0x2548
+╉	box drawings right light and left vertical heavy	all	never	# ╉ 0x2549
+╊	box drawings left light and right vertical heavy	all	never	# ╊ 0x254a
+╋	box drawings heavy vertical and horizontal	all	never	# ╋ 0x254b
+╌	box drawings light double dash horizontal	all	never	# ╌ 0x254c
+╍	box drawings heavy double dash horizontal	all	never	# ╍ 0x254d
+╎	box drawings light double dash vertical	all	never	# ╎ 0x254e
+╏	box drawings heavy double dash vertical	all	never	# ╏ 0x254f
+═	box drawings double horizontal	all	never	# ═ 0x2550
+║	box drawings double vertical	all	never	# ║ 0x2551
+╒	box drawings down single and right double	all	never	# ╒ 0x2552
+╓	box drawings down double and right single	all	never	# ╓ 0x2553
+╔	box drawings double down and right	all	never	# ╔ 0x2554
+╕	box drawings down single and left double	all	never	# ╕ 0x2555
+╖	box drawings down double and left single	all	never	# ╖ 0x2556
+╗	box drawings double down and left	all	never	# ╗ 0x2557
+╘	box drawings up single and right double	all	never	# ╘ 0x2558
+╙	box drawings up double and right single	all	never	# ╙ 0x2559
+╚	box drawings double up and right	all	never	# ╚ 0x255a
+╛	box drawings up single and left double	all	never	# ╛ 0x255b
+╜	box drawings up double and left single	all	never	# ╜ 0x255c
+╝	box drawings double up and left	all	never	# ╝ 0x255d
+╞	box drawings vertical single and right double	all	never	# ╞ 0x255e
+╟	box drawings vertical double and right single	all	never	# ╟ 0x255f
+╠	box drawings double vertical and right	all	never	# ╠ 0x2560
+╡	box drawings vertical single and left double	all	never	# ╡ 0x2561
+╢	box drawings vertical double and left single	all	never	# ╢ 0x2562
+╣	box drawings double vertical and left	all	never	# ╣ 0x2563
+╤	box drawings down single and horizontal double	all	never	# ╤ 0x2564
+╥	box drawings down double and horizontal single	all	never	# ╥ 0x2565
+╦	box drawings double down and horizontal	all	never	# ╦ 0x2566
+╧	box drawings up single and horizontal double	all	never	# ╧ 0x2567
+╨	box drawings up double and horizontal single	all	never	# ╨ 0x2568
+╩	box drawings double up and horizontal	all	never	# ╩ 0x2569
+╪	box drawings vertical single and horizontal double	all	never	# ╪ 0x256a
+╫	box drawings vertical double and horizontal single	all	never	# ╫ 0x256b
+╬	box drawings double vertical and horizontal	all	never	# ╬ 0x256c
+╭	box drawings light arc down and right	all	never	# ╭ 0x256d
+╮	box drawings light arc down and left	all	never	# ╮ 0x256e
+╯	box drawings light arc up and left	all	never	# ╯ 0x256f
+╰	box drawings light arc up and right	all	never	# ╰ 0x2570
+╱	box drawings light diagonal upper right to lower left	all	never	# ╱ 0x2571
+╲	box drawings light diagonal upper left to lower right	all	never	# ╲ 0x2572
+╳	box drawings light diagonal cross	all	never	# ╳ 0x2573
+╴	box drawings light left	all	never	# ╴ 0x2574
+╵	box drawings light up	all	never	# ╵ 0x2575
+╶	box drawings light right	all	never	# ╶ 0x2576
+╷	box drawings light down	all	never	# ╷ 0x2577
+╸	box drawings heavy left	all	never	# ╸ 0x2578
+╹	box drawings heavy up	all	never	# ╹ 0x2579
+╺	box drawings heavy right	all	never	# ╺ 0x257a
+╻	box drawings heavy down	all	never	# ╻ 0x257b
+╼	box drawings light left and heavy right	all	never	# ╼ 0x257c
+╽	box drawings light up and heavy down	all	never	# ╽ 0x257d
+╾	box drawings heavy left and light right	all	never	# ╾ 0x257e
+╿	box drawings heavy up and light down	all	never	# ╿ 0x257f

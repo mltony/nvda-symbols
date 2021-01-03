@@ -1,0 +1,94 @@
+# # Hiragana
+ぁ	hiragana letter small A	all	never	# ぁ 0x3041
+あ	hiragana letter A	all	never	# あ 0x3042
+ぃ	hiragana letter small I	all	never	# ぃ 0x3043
+い	hiragana letter I	all	never	# い 0x3044
+ぅ	hiragana letter small U	all	never	# ぅ 0x3045
+う	hiragana letter U	all	never	# う 0x3046
+ぇ	hiragana letter small E	all	never	# ぇ 0x3047
+え	hiragana letter E	all	never	# え 0x3048
+ぉ	hiragana letter small O	all	never	# ぉ 0x3049
+お	hiragana letter O	all	never	# お 0x304a
+か	hiragana letter ka	all	never	# か 0x304b
+が	hiragana letter ga	all	never	# が 0x304c
+き	hiragana letter ki	all	never	# き 0x304d
+ぎ	hiragana letter gi	all	never	# ぎ 0x304e
+く	hiragana letter ku	all	never	# く 0x304f
+ぐ	hiragana letter gu	all	never	# ぐ 0x3050
+け	hiragana letter ke	all	never	# け 0x3051
+げ	hiragana letter ge	all	never	# げ 0x3052
+こ	hiragana letter ko	all	never	# こ 0x3053
+ご	hiragana letter go	all	never	# ご 0x3054
+さ	hiragana letter sa	all	never	# さ 0x3055
+ざ	hiragana letter za	all	never	# ざ 0x3056
+し	hiragana letter si	all	never	# し 0x3057
+じ	hiragana letter zi	all	never	# じ 0x3058
+す	hiragana letter su	all	never	# す 0x3059
+ず	hiragana letter zu	all	never	# ず 0x305a
+せ	hiragana letter se	all	never	# せ 0x305b
+ぜ	hiragana letter ze	all	never	# ぜ 0x305c
+そ	hiragana letter so	all	never	# そ 0x305d
+ぞ	hiragana letter zo	all	never	# ぞ 0x305e
+た	hiragana letter ta	all	never	# た 0x305f
+だ	hiragana letter da	all	never	# だ 0x3060
+ち	hiragana letter ti	all	never	# ち 0x3061
+ぢ	hiragana letter di	all	never	# ぢ 0x3062
+っ	hiragana letter small tu	all	never	# っ 0x3063
+つ	hiragana letter tu	all	never	# つ 0x3064
+づ	hiragana letter du	all	never	# づ 0x3065
+て	hiragana letter te	all	never	# て 0x3066
+で	hiragana letter de	all	never	# で 0x3067
+と	hiragana letter to	all	never	# と 0x3068
+ど	hiragana letter do	all	never	# ど 0x3069
+な	hiragana letter na	all	never	# な 0x306a
+に	hiragana letter ni	all	never	# に 0x306b
+ぬ	hiragana letter nu	all	never	# ぬ 0x306c
+ね	hiragana letter ne	all	never	# ね 0x306d
+の	hiragana letter no	all	never	# の 0x306e
+は	hiragana letter ha	all	never	# は 0x306f
+ば	hiragana letter ba	all	never	# ば 0x3070
+ぱ	hiragana letter pa	all	never	# ぱ 0x3071
+ひ	hiragana letter hi	all	never	# ひ 0x3072
+び	hiragana letter bi	all	never	# び 0x3073
+ぴ	hiragana letter pi	all	never	# ぴ 0x3074
+ふ	hiragana letter hu	all	never	# ふ 0x3075
+ぶ	hiragana letter bu	all	never	# ぶ 0x3076
+ぷ	hiragana letter pu	all	never	# ぷ 0x3077
+へ	hiragana letter he	all	never	# へ 0x3078
+べ	hiragana letter be	all	never	# べ 0x3079
+ぺ	hiragana letter pe	all	never	# ぺ 0x307a
+ほ	hiragana letter ho	all	never	# ほ 0x307b
+ぼ	hiragana letter bo	all	never	# ぼ 0x307c
+ぽ	hiragana letter po	all	never	# ぽ 0x307d
+ま	hiragana letter ma	all	never	# ま 0x307e
+み	hiragana letter mi	all	never	# み 0x307f
+む	hiragana letter mu	all	never	# む 0x3080
+め	hiragana letter me	all	never	# め 0x3081
+も	hiragana letter mo	all	never	# も 0x3082
+ゃ	hiragana letter small ya	all	never	# ゃ 0x3083
+や	hiragana letter ya	all	never	# や 0x3084
+ゅ	hiragana letter small yu	all	never	# ゅ 0x3085
+ゆ	hiragana letter yu	all	never	# ゆ 0x3086
+ょ	hiragana letter small yo	all	never	# ょ 0x3087
+よ	hiragana letter yo	all	never	# よ 0x3088
+ら	hiragana letter ra	all	never	# ら 0x3089
+り	hiragana letter ri	all	never	# り 0x308a
+る	hiragana letter ru	all	never	# る 0x308b
+れ	hiragana letter re	all	never	# れ 0x308c
+ろ	hiragana letter ro	all	never	# ろ 0x308d
+ゎ	hiragana letter small wa	all	never	# ゎ 0x308e
+わ	hiragana letter wa	all	never	# わ 0x308f
+ゐ	hiragana letter wi	all	never	# ゐ 0x3090
+ゑ	hiragana letter we	all	never	# ゑ 0x3091
+を	hiragana letter wo	all	never	# を 0x3092
+ん	hiragana letter N	all	never	# ん 0x3093
+ゔ	hiragana letter vu	all	never	# ゔ 0x3094
+ゕ	hiragana letter small ka	all	never	# ゕ 0x3095
+ゖ	hiragana letter small ke	all	never	# ゖ 0x3096
+゙	combining katakana-hiragana voiced sound mark	all	never	# ゙ 0x3099
+゚	combining katakana-hiragana semi-voiced sound mark	all	never	# ゚ 0x309a
+゛	katakana-hiragana voiced sound mark	all	never	# ゛ 0x309b
+゜	katakana-hiragana semi-voiced sound mark	all	never	# ゜ 0x309c
+ゝ	hiragana iteration mark	all	never	# ゝ 0x309d
+ゞ	hiragana voiced iteration mark	all	never	# ゞ 0x309e
+ゟ	hiragana digraph yori	all	never	# ゟ 0x309f

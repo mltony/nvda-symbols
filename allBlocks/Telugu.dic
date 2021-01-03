@@ -1,0 +1,97 @@
+# # Telugu
+ఀ	telugu sign combining candrabindu above	all	never	# ఀ 0xc00
+ఁ	telugu sign candrabindu	all	never	# ఁ 0xc01
+ం	telugu sign anusvara	all	never	# ం 0xc02
+ః	telugu sign visarga	all	never	# ః 0xc03
+అ	telugu letter A	all	never	# అ 0xc05
+ఆ	telugu letter aa	all	never	# ఆ 0xc06
+ఇ	telugu letter I	all	never	# ఇ 0xc07
+ఈ	telugu letter ii	all	never	# ఈ 0xc08
+ఉ	telugu letter U	all	never	# ఉ 0xc09
+ఊ	telugu letter uu	all	never	# ఊ 0xc0a
+ఋ	telugu letter vocalic R	all	never	# ఋ 0xc0b
+ఌ	telugu letter vocalic L	all	never	# ఌ 0xc0c
+ఎ	telugu letter E	all	never	# ఎ 0xc0e
+ఏ	telugu letter ee	all	never	# ఏ 0xc0f
+ఐ	telugu letter ai	all	never	# ఐ 0xc10
+ఒ	telugu letter O	all	never	# ఒ 0xc12
+ఓ	telugu letter oo	all	never	# ఓ 0xc13
+ఔ	telugu letter au	all	never	# ఔ 0xc14
+క	telugu letter ka	all	never	# క 0xc15
+ఖ	telugu letter kha	all	never	# ఖ 0xc16
+గ	telugu letter ga	all	never	# గ 0xc17
+ఘ	telugu letter gha	all	never	# ఘ 0xc18
+ఙ	telugu letter nga	all	never	# ఙ 0xc19
+చ	telugu letter ca	all	never	# చ 0xc1a
+ఛ	telugu letter cha	all	never	# ఛ 0xc1b
+జ	telugu letter ja	all	never	# జ 0xc1c
+ఝ	telugu letter jha	all	never	# ఝ 0xc1d
+ఞ	telugu letter nya	all	never	# ఞ 0xc1e
+ట	telugu letter tta	all	never	# ట 0xc1f
+ఠ	telugu letter ttha	all	never	# ఠ 0xc20
+డ	telugu letter dda	all	never	# డ 0xc21
+ఢ	telugu letter ddha	all	never	# ఢ 0xc22
+ణ	telugu letter nna	all	never	# ణ 0xc23
+త	telugu letter ta	all	never	# త 0xc24
+థ	telugu letter tha	all	never	# థ 0xc25
+ద	telugu letter da	all	never	# ద 0xc26
+ధ	telugu letter dha	all	never	# ధ 0xc27
+న	telugu letter na	all	never	# న 0xc28
+ప	telugu letter pa	all	never	# ప 0xc2a
+ఫ	telugu letter pha	all	never	# ఫ 0xc2b
+బ	telugu letter ba	all	never	# బ 0xc2c
+భ	telugu letter bha	all	never	# భ 0xc2d
+మ	telugu letter ma	all	never	# మ 0xc2e
+య	telugu letter ya	all	never	# య 0xc2f
+ర	telugu letter ra	all	never	# ర 0xc30
+ఱ	telugu letter rra	all	never	# ఱ 0xc31
+ల	telugu letter la	all	never	# ల 0xc32
+ళ	telugu letter lla	all	never	# ళ 0xc33
+ఴ	telugu letter llla	all	never	# ఴ 0xc34
+వ	telugu letter va	all	never	# వ 0xc35
+శ	telugu letter sha	all	never	# శ 0xc36
+ష	telugu letter ssa	all	never	# ష 0xc37
+స	telugu letter sa	all	never	# స 0xc38
+హ	telugu letter ha	all	never	# హ 0xc39
+ఽ	telugu sign avagraha	all	never	# ఽ 0xc3d
+ా	telugu vowel sign aa	all	never	# ా 0xc3e
+ి	telugu vowel sign I	all	never	# ి 0xc3f
+ీ	telugu vowel sign ii	all	never	# ీ 0xc40
+ు	telugu vowel sign U	all	never	# ు 0xc41
+ూ	telugu vowel sign uu	all	never	# ూ 0xc42
+ృ	telugu vowel sign vocalic R	all	never	# ృ 0xc43
+ౄ	telugu vowel sign vocalic rr	all	never	# ౄ 0xc44
+ె	telugu vowel sign E	all	never	# ె 0xc46
+ే	telugu vowel sign ee	all	never	# ే 0xc47
+ై	telugu vowel sign ai	all	never	# ై 0xc48
+ొ	telugu vowel sign O	all	never	# ొ 0xc4a
+ో	telugu vowel sign oo	all	never	# ో 0xc4b
+ౌ	telugu vowel sign au	all	never	# ౌ 0xc4c
+్	telugu sign virama	all	never	# ్ 0xc4d
+ౕ	telugu length mark	all	never	# ౕ 0xc55
+ౖ	telugu ai length mark	all	never	# ౖ 0xc56
+ౘ	telugu letter tsa	all	never	# ౘ 0xc58
+ౙ	telugu letter dza	all	never	# ౙ 0xc59
+ౚ	telugu letter rrra	all	never	# ౚ 0xc5a
+ౠ	telugu letter vocalic rr	all	never	# ౠ 0xc60
+ౡ	telugu letter vocalic ll	all	never	# ౡ 0xc61
+ౢ	telugu vowel sign vocalic L	all	never	# ౢ 0xc62
+ౣ	telugu vowel sign vocalic ll	all	never	# ౣ 0xc63
+౦	telugu digit zero	all	never	# ౦ 0xc66
+౧	telugu digit one	all	never	# ౧ 0xc67
+౨	telugu digit two	all	never	# ౨ 0xc68
+౩	telugu digit three	all	never	# ౩ 0xc69
+౪	telugu digit four	all	never	# ౪ 0xc6a
+౫	telugu digit five	all	never	# ౫ 0xc6b
+౬	telugu digit six	all	never	# ౬ 0xc6c
+౭	telugu digit seven	all	never	# ౭ 0xc6d
+౮	telugu digit eight	all	never	# ౮ 0xc6e
+౯	telugu digit nine	all	never	# ౯ 0xc6f
+౸	telugu fraction digit zero for odd powers of four	all	never	# ౸ 0xc78
+౹	telugu fraction digit one for odd powers of four	all	never	# ౹ 0xc79
+౺	telugu fraction digit two for odd powers of four	all	never	# ౺ 0xc7a
+౻	telugu fraction digit three for odd powers of four	all	never	# ౻ 0xc7b
+౼	telugu fraction digit one for even powers of four	all	never	# ౼ 0xc7c
+౽	telugu fraction digit two for even powers of four	all	never	# ౽ 0xc7d
+౾	telugu fraction digit three for even powers of four	all	never	# ౾ 0xc7e
+౿	telugu sign tuumu	all	never	# ౿ 0xc7f

@@ -1,0 +1,33 @@
+# # Khmer Symbols
+᧠	khmer symbol pathamasat	all	never	# ᧠ 0x19e0
+᧡	khmer symbol muoy koet	all	never	# ᧡ 0x19e1
+᧢	khmer symbol pii koet	all	never	# ᧢ 0x19e2
+᧣	khmer symbol bei koet	all	never	# ᧣ 0x19e3
+᧤	khmer symbol buon koet	all	never	# ᧤ 0x19e4
+᧥	khmer symbol pram koet	all	never	# ᧥ 0x19e5
+᧦	khmer symbol pram-muoy koet	all	never	# ᧦ 0x19e6
+᧧	khmer symbol pram-pii koet	all	never	# ᧧ 0x19e7
+᧨	khmer symbol pram-bei koet	all	never	# ᧨ 0x19e8
+᧩	khmer symbol pram-buon koet	all	never	# ᧩ 0x19e9
+᧪	khmer symbol dap koet	all	never	# ᧪ 0x19ea
+᧫	khmer symbol dap-muoy koet	all	never	# ᧫ 0x19eb
+᧬	khmer symbol dap-pii koet	all	never	# ᧬ 0x19ec
+᧭	khmer symbol dap-bei koet	all	never	# ᧭ 0x19ed
+᧮	khmer symbol dap-buon koet	all	never	# ᧮ 0x19ee
+᧯	khmer symbol dap-pram koet	all	never	# ᧯ 0x19ef
+᧰	khmer symbol tuteyasat	all	never	# ᧰ 0x19f0
+᧱	khmer symbol muoy roc	all	never	# ᧱ 0x19f1
+᧲	khmer symbol pii roc	all	never	# ᧲ 0x19f2
+᧳	khmer symbol bei roc	all	never	# ᧳ 0x19f3
+᧴	khmer symbol buon roc	all	never	# ᧴ 0x19f4
+᧵	khmer symbol pram roc	all	never	# ᧵ 0x19f5
+᧶	khmer symbol pram-muoy roc	all	never	# ᧶ 0x19f6
+᧷	khmer symbol pram-pii roc	all	never	# ᧷ 0x19f7
+᧸	khmer symbol pram-bei roc	all	never	# ᧸ 0x19f8
+᧹	khmer symbol pram-buon roc	all	never	# ᧹ 0x19f9
+᧺	khmer symbol dap roc	all	never	# ᧺ 0x19fa
+᧻	khmer symbol dap-muoy roc	all	never	# ᧻ 0x19fb
+᧼	khmer symbol dap-pii roc	all	never	# ᧼ 0x19fc
+᧽	khmer symbol dap-bei roc	all	never	# ᧽ 0x19fd
+᧾	khmer symbol dap-buon roc	all	never	# ᧾ 0x19fe
+᧿	khmer symbol dap-pram roc	all	never	# ᧿ 0x19ff

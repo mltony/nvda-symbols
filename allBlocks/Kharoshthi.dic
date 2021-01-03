@@ -1,0 +1,66 @@
+# # Kharoshthi
+𐨀	kharoshthi letter A	all	never	# 𐨀 0x10a00
+𐨁	kharoshthi vowel sign I	all	never	# 𐨁 0x10a01
+𐨂	kharoshthi vowel sign U	all	never	# 𐨂 0x10a02
+𐨃	kharoshthi vowel sign vocalic R	all	never	# 𐨃 0x10a03
+𐨅	kharoshthi vowel sign E	all	never	# 𐨅 0x10a05
+𐨆	kharoshthi vowel sign O	all	never	# 𐨆 0x10a06
+𐨌	kharoshthi vowel length mark	all	never	# 𐨌 0x10a0c
+𐨍	kharoshthi sign double ring below	all	never	# 𐨍 0x10a0d
+𐨎	kharoshthi sign anusvara	all	never	# 𐨎 0x10a0e
+𐨏	kharoshthi sign visarga	all	never	# 𐨏 0x10a0f
+𐨐	kharoshthi letter ka	all	never	# 𐨐 0x10a10
+𐨑	kharoshthi letter kha	all	never	# 𐨑 0x10a11
+𐨒	kharoshthi letter ga	all	never	# 𐨒 0x10a12
+𐨓	kharoshthi letter gha	all	never	# 𐨓 0x10a13
+𐨕	kharoshthi letter ca	all	never	# 𐨕 0x10a15
+𐨖	kharoshthi letter cha	all	never	# 𐨖 0x10a16
+𐨗	kharoshthi letter ja	all	never	# 𐨗 0x10a17
+𐨙	kharoshthi letter nya	all	never	# 𐨙 0x10a19
+𐨚	kharoshthi letter tta	all	never	# 𐨚 0x10a1a
+𐨛	kharoshthi letter ttha	all	never	# 𐨛 0x10a1b
+𐨜	kharoshthi letter dda	all	never	# 𐨜 0x10a1c
+𐨝	kharoshthi letter ddha	all	never	# 𐨝 0x10a1d
+𐨞	kharoshthi letter nna	all	never	# 𐨞 0x10a1e
+𐨟	kharoshthi letter ta	all	never	# 𐨟 0x10a1f
+𐨠	kharoshthi letter tha	all	never	# 𐨠 0x10a20
+𐨡	kharoshthi letter da	all	never	# 𐨡 0x10a21
+𐨢	kharoshthi letter dha	all	never	# 𐨢 0x10a22
+𐨣	kharoshthi letter na	all	never	# 𐨣 0x10a23
+𐨤	kharoshthi letter pa	all	never	# 𐨤 0x10a24
+𐨥	kharoshthi letter pha	all	never	# 𐨥 0x10a25
+𐨦	kharoshthi letter ba	all	never	# 𐨦 0x10a26
+𐨧	kharoshthi letter bha	all	never	# 𐨧 0x10a27
+𐨨	kharoshthi letter ma	all	never	# 𐨨 0x10a28
+𐨩	kharoshthi letter ya	all	never	# 𐨩 0x10a29
+𐨪	kharoshthi letter ra	all	never	# 𐨪 0x10a2a
+𐨫	kharoshthi letter la	all	never	# 𐨫 0x10a2b
+𐨬	kharoshthi letter va	all	never	# 𐨬 0x10a2c
+𐨭	kharoshthi letter sha	all	never	# 𐨭 0x10a2d
+𐨮	kharoshthi letter ssa	all	never	# 𐨮 0x10a2e
+𐨯	kharoshthi letter sa	all	never	# 𐨯 0x10a2f
+𐨰	kharoshthi letter za	all	never	# 𐨰 0x10a30
+𐨱	kharoshthi letter ha	all	never	# 𐨱 0x10a31
+𐨲	kharoshthi letter kka	all	never	# 𐨲 0x10a32
+𐨳	kharoshthi letter tttha	all	never	# 𐨳 0x10a33
+𐨸	kharoshthi sign bar above	all	never	# 𐨸 0x10a38
+𐨹	kharoshthi sign cauda	all	never	# 𐨹 0x10a39
+𐨺	kharoshthi sign dot below	all	never	# 𐨺 0x10a3a
+𐨿	kharoshthi virama	all	never	# 𐨿 0x10a3f
+𐩀	kharoshthi digit one	all	never	# 𐩀 0x10a40
+𐩁	kharoshthi digit two	all	never	# 𐩁 0x10a41
+𐩂	kharoshthi digit three	all	never	# 𐩂 0x10a42
+𐩃	kharoshthi digit four	all	never	# 𐩃 0x10a43
+𐩄	kharoshthi number ten	all	never	# 𐩄 0x10a44
+𐩅	kharoshthi number twenty	all	never	# 𐩅 0x10a45
+𐩆	kharoshthi number one hundred	all	never	# 𐩆 0x10a46
+𐩇	kharoshthi number one thousand	all	never	# 𐩇 0x10a47
+𐩐	kharoshthi punctuation dot	all	never	# 𐩐 0x10a50
+𐩑	kharoshthi punctuation small circle	all	never	# 𐩑 0x10a51
+𐩒	kharoshthi punctuation circle	all	never	# 𐩒 0x10a52
+𐩓	kharoshthi punctuation crescent bar	all	never	# 𐩓 0x10a53
+𐩔	kharoshthi punctuation mangalam	all	never	# 𐩔 0x10a54
+𐩕	kharoshthi punctuation lotus	all	never	# 𐩕 0x10a55
+𐩖	kharoshthi punctuation danda	all	never	# 𐩖 0x10a56
+𐩗	kharoshthi punctuation double danda	all	never	# 𐩗 0x10a57
+𐩘	kharoshthi punctuation lines	all	never	# 𐩘 0x10a58

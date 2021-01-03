@@ -1,0 +1,124 @@
+# # Coptic
+Ⲁ	coptic capital letter alfa	all	never	# Ⲁ 0x2c80
+ⲁ	coptic small letter alfa	all	never	# ⲁ 0x2c81
+Ⲃ	coptic capital letter vida	all	never	# Ⲃ 0x2c82
+ⲃ	coptic small letter vida	all	never	# ⲃ 0x2c83
+Ⲅ	coptic capital letter gamma	all	never	# Ⲅ 0x2c84
+ⲅ	coptic small letter gamma	all	never	# ⲅ 0x2c85
+Ⲇ	coptic capital letter dalda	all	never	# Ⲇ 0x2c86
+ⲇ	coptic small letter dalda	all	never	# ⲇ 0x2c87
+Ⲉ	coptic capital letter eie	all	never	# Ⲉ 0x2c88
+ⲉ	coptic small letter eie	all	never	# ⲉ 0x2c89
+Ⲋ	coptic capital letter sou	all	never	# Ⲋ 0x2c8a
+ⲋ	coptic small letter sou	all	never	# ⲋ 0x2c8b
+Ⲍ	coptic capital letter zata	all	never	# Ⲍ 0x2c8c
+ⲍ	coptic small letter zata	all	never	# ⲍ 0x2c8d
+Ⲏ	coptic capital letter hate	all	never	# Ⲏ 0x2c8e
+ⲏ	coptic small letter hate	all	never	# ⲏ 0x2c8f
+Ⲑ	coptic capital letter thethe	all	never	# Ⲑ 0x2c90
+ⲑ	coptic small letter thethe	all	never	# ⲑ 0x2c91
+Ⲓ	coptic capital letter iauda	all	never	# Ⲓ 0x2c92
+ⲓ	coptic small letter iauda	all	never	# ⲓ 0x2c93
+Ⲕ	coptic capital letter kapa	all	never	# Ⲕ 0x2c94
+ⲕ	coptic small letter kapa	all	never	# ⲕ 0x2c95
+Ⲗ	coptic capital letter laula	all	never	# Ⲗ 0x2c96
+ⲗ	coptic small letter laula	all	never	# ⲗ 0x2c97
+Ⲙ	coptic capital letter mi	all	never	# Ⲙ 0x2c98
+ⲙ	coptic small letter mi	all	never	# ⲙ 0x2c99
+Ⲛ	coptic capital letter ni	all	never	# Ⲛ 0x2c9a
+ⲛ	coptic small letter ni	all	never	# ⲛ 0x2c9b
+Ⲝ	coptic capital letter ksi	all	never	# Ⲝ 0x2c9c
+ⲝ	coptic small letter ksi	all	never	# ⲝ 0x2c9d
+Ⲟ	coptic capital letter O	all	never	# Ⲟ 0x2c9e
+ⲟ	coptic small letter O	all	never	# ⲟ 0x2c9f
+Ⲡ	coptic capital letter pi	all	never	# Ⲡ 0x2ca0
+ⲡ	coptic small letter pi	all	never	# ⲡ 0x2ca1
+Ⲣ	coptic capital letter ro	all	never	# Ⲣ 0x2ca2
+ⲣ	coptic small letter ro	all	never	# ⲣ 0x2ca3
+Ⲥ	coptic capital letter sima	all	never	# Ⲥ 0x2ca4
+ⲥ	coptic small letter sima	all	never	# ⲥ 0x2ca5
+Ⲧ	coptic capital letter tau	all	never	# Ⲧ 0x2ca6
+ⲧ	coptic small letter tau	all	never	# ⲧ 0x2ca7
+Ⲩ	coptic capital letter ua	all	never	# Ⲩ 0x2ca8
+ⲩ	coptic small letter ua	all	never	# ⲩ 0x2ca9
+Ⲫ	coptic capital letter fi	all	never	# Ⲫ 0x2caa
+ⲫ	coptic small letter fi	all	never	# ⲫ 0x2cab
+Ⲭ	coptic capital letter khi	all	never	# Ⲭ 0x2cac
+ⲭ	coptic small letter khi	all	never	# ⲭ 0x2cad
+Ⲯ	coptic capital letter psi	all	never	# Ⲯ 0x2cae
+ⲯ	coptic small letter psi	all	never	# ⲯ 0x2caf
+Ⲱ	coptic capital letter oou	all	never	# Ⲱ 0x2cb0
+ⲱ	coptic small letter oou	all	never	# ⲱ 0x2cb1
+Ⲳ	coptic capital letter dialect-P alef	all	never	# Ⲳ 0x2cb2
+ⲳ	coptic small letter dialect-P alef	all	never	# ⲳ 0x2cb3
+Ⲵ	coptic capital letter old coptic ain	all	never	# Ⲵ 0x2cb4
+ⲵ	coptic small letter old coptic ain	all	never	# ⲵ 0x2cb5
+Ⲷ	coptic capital letter cryptogrammic eie	all	never	# Ⲷ 0x2cb6
+ⲷ	coptic small letter cryptogrammic eie	all	never	# ⲷ 0x2cb7
+Ⲹ	coptic capital letter dialect-P kapa	all	never	# Ⲹ 0x2cb8
+ⲹ	coptic small letter dialect-P kapa	all	never	# ⲹ 0x2cb9
+Ⲻ	coptic capital letter dialect-P ni	all	never	# Ⲻ 0x2cba
+ⲻ	coptic small letter dialect-P ni	all	never	# ⲻ 0x2cbb
+Ⲽ	coptic capital letter cryptogrammic ni	all	never	# Ⲽ 0x2cbc
+ⲽ	coptic small letter cryptogrammic ni	all	never	# ⲽ 0x2cbd
+Ⲿ	coptic capital letter old coptic oou	all	never	# Ⲿ 0x2cbe
+ⲿ	coptic small letter old coptic oou	all	never	# ⲿ 0x2cbf
+Ⳁ	coptic capital letter sampi	all	never	# Ⳁ 0x2cc0
+ⳁ	coptic small letter sampi	all	never	# ⳁ 0x2cc1
+Ⳃ	coptic capital letter crossed shei	all	never	# Ⳃ 0x2cc2
+ⳃ	coptic small letter crossed shei	all	never	# ⳃ 0x2cc3
+Ⳅ	coptic capital letter old coptic shei	all	never	# Ⳅ 0x2cc4
+ⳅ	coptic small letter old coptic shei	all	never	# ⳅ 0x2cc5
+Ⳇ	coptic capital letter old coptic esh	all	never	# Ⳇ 0x2cc6
+ⳇ	coptic small letter old coptic esh	all	never	# ⳇ 0x2cc7
+Ⳉ	coptic capital letter akhmimic khei	all	never	# Ⳉ 0x2cc8
+ⳉ	coptic small letter akhmimic khei	all	never	# ⳉ 0x2cc9
+Ⳋ	coptic capital letter dialect-P hori	all	never	# Ⳋ 0x2cca
+ⳋ	coptic small letter dialect-P hori	all	never	# ⳋ 0x2ccb
+Ⳍ	coptic capital letter old coptic hori	all	never	# Ⳍ 0x2ccc
+ⳍ	coptic small letter old coptic hori	all	never	# ⳍ 0x2ccd
+Ⳏ	coptic capital letter old coptic ha	all	never	# Ⳏ 0x2cce
+ⳏ	coptic small letter old coptic ha	all	never	# ⳏ 0x2ccf
+Ⳑ	coptic capital letter L-shaped ha	all	never	# Ⳑ 0x2cd0
+ⳑ	coptic small letter L-shaped ha	all	never	# ⳑ 0x2cd1
+Ⳓ	coptic capital letter old coptic hei	all	never	# Ⳓ 0x2cd2
+ⳓ	coptic small letter old coptic hei	all	never	# ⳓ 0x2cd3
+Ⳕ	coptic capital letter old coptic hat	all	never	# Ⳕ 0x2cd4
+ⳕ	coptic small letter old coptic hat	all	never	# ⳕ 0x2cd5
+Ⳗ	coptic capital letter old coptic gangia	all	never	# Ⳗ 0x2cd6
+ⳗ	coptic small letter old coptic gangia	all	never	# ⳗ 0x2cd7
+Ⳙ	coptic capital letter old coptic dja	all	never	# Ⳙ 0x2cd8
+ⳙ	coptic small letter old coptic dja	all	never	# ⳙ 0x2cd9
+Ⳛ	coptic capital letter old coptic shima	all	never	# Ⳛ 0x2cda
+ⳛ	coptic small letter old coptic shima	all	never	# ⳛ 0x2cdb
+Ⳝ	coptic capital letter old nubian shima	all	never	# Ⳝ 0x2cdc
+ⳝ	coptic small letter old nubian shima	all	never	# ⳝ 0x2cdd
+Ⳟ	coptic capital letter old nubian ngi	all	never	# Ⳟ 0x2cde
+ⳟ	coptic small letter old nubian ngi	all	never	# ⳟ 0x2cdf
+Ⳡ	coptic capital letter old nubian nyi	all	never	# Ⳡ 0x2ce0
+ⳡ	coptic small letter old nubian nyi	all	never	# ⳡ 0x2ce1
+Ⳣ	coptic capital letter old nubian wau	all	never	# Ⳣ 0x2ce2
+ⳣ	coptic small letter old nubian wau	all	never	# ⳣ 0x2ce3
+ⳤ	coptic symbol kai	all	never	# ⳤ 0x2ce4
+⳥	coptic symbol mi ro	all	never	# ⳥ 0x2ce5
+⳦	coptic symbol pi ro	all	never	# ⳦ 0x2ce6
+⳧	coptic symbol stauros	all	never	# ⳧ 0x2ce7
+⳨	coptic symbol tau ro	all	never	# ⳨ 0x2ce8
+⳩	coptic symbol khi ro	all	never	# ⳩ 0x2ce9
+⳪	coptic symbol shima sima	all	never	# ⳪ 0x2cea
+Ⳬ	coptic capital letter cryptogrammic shei	all	never	# Ⳬ 0x2ceb
+ⳬ	coptic small letter cryptogrammic shei	all	never	# ⳬ 0x2cec
+Ⳮ	coptic capital letter cryptogrammic gangia	all	never	# Ⳮ 0x2ced
+ⳮ	coptic small letter cryptogrammic gangia	all	never	# ⳮ 0x2cee
+⳯	coptic combining ni above	all	never	# ⳯ 0x2cef
+⳰	coptic combining spiritus asper	all	never	# ⳰ 0x2cf0
+⳱	coptic combining spiritus lenis	all	never	# ⳱ 0x2cf1
+Ⳳ	coptic capital letter bohairic khei	all	never	# Ⳳ 0x2cf2
+ⳳ	coptic small letter bohairic khei	all	never	# ⳳ 0x2cf3
+⳹	coptic old nubian full stop	all	never	# ⳹ 0x2cf9
+⳺	coptic old nubian direct question mark	all	never	# ⳺ 0x2cfa
+⳻	coptic old nubian indirect question mark	all	never	# ⳻ 0x2cfb
+⳼	coptic old nubian verse divider	all	never	# ⳼ 0x2cfc
+⳽	coptic fraction one half	all	never	# ⳽ 0x2cfd
+⳾	coptic full stop	all	never	# ⳾ 0x2cfe
+⳿	coptic morphological divider	all	never	# ⳿ 0x2cff

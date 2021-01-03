@@ -1,0 +1,81 @@
+# # Spacing Modifier Letters
+ʰ	modifier letter small H	all	never	# ʰ 0x2b0
+ʱ	modifier letter small H with hook	all	never	# ʱ 0x2b1
+ʲ	modifier letter small J	all	never	# ʲ 0x2b2
+ʳ	modifier letter small R	all	never	# ʳ 0x2b3
+ʴ	modifier letter small turned R	all	never	# ʴ 0x2b4
+ʵ	modifier letter small turned R with hook	all	never	# ʵ 0x2b5
+ʶ	modifier letter small capital inverted R	all	never	# ʶ 0x2b6
+ʷ	modifier letter small W	all	never	# ʷ 0x2b7
+ʸ	modifier letter small Y	all	never	# ʸ 0x2b8
+ʹ	modifier letter prime	all	never	# ʹ 0x2b9
+ʺ	modifier letter double prime	all	never	# ʺ 0x2ba
+ʻ	modifier letter turned comma	all	never	# ʻ 0x2bb
+ʼ	modifier letter apostrophe	all	never	# ʼ 0x2bc
+ʽ	modifier letter reversed comma	all	never	# ʽ 0x2bd
+ʾ	modifier letter right half ring	all	never	# ʾ 0x2be
+ʿ	modifier letter left half ring	all	never	# ʿ 0x2bf
+ˀ	modifier letter glottal stop	all	never	# ˀ 0x2c0
+ˁ	modifier letter reversed glottal stop	all	never	# ˁ 0x2c1
+˂	modifier letter left arrowhead	all	never	# ˂ 0x2c2
+˃	modifier letter right arrowhead	all	never	# ˃ 0x2c3
+˄	modifier letter up arrowhead	all	never	# ˄ 0x2c4
+˅	modifier letter down arrowhead	all	never	# ˅ 0x2c5
+ˆ	modifier letter circumflex accent	all	never	# ˆ 0x2c6
+ˇ	caron	all	never	# ˇ 0x2c7
+ˈ	modifier letter vertical line	all	never	# ˈ 0x2c8
+ˉ	modifier letter macron	all	never	# ˉ 0x2c9
+ˊ	modifier letter acute accent	all	never	# ˊ 0x2ca
+ˋ	modifier letter grave accent	all	never	# ˋ 0x2cb
+ˌ	modifier letter low vertical line	all	never	# ˌ 0x2cc
+ˍ	modifier letter low macron	all	never	# ˍ 0x2cd
+ˎ	modifier letter low grave accent	all	never	# ˎ 0x2ce
+ˏ	modifier letter low acute accent	all	never	# ˏ 0x2cf
+ː	modifier letter triangular colon	all	never	# ː 0x2d0
+ˑ	modifier letter half triangular colon	all	never	# ˑ 0x2d1
+˒	modifier letter centred right half ring	all	never	# ˒ 0x2d2
+˓	modifier letter centred left half ring	all	never	# ˓ 0x2d3
+˔	modifier letter up tack	all	never	# ˔ 0x2d4
+˕	modifier letter down tack	all	never	# ˕ 0x2d5
+˖	modifier letter plus sign	all	never	# ˖ 0x2d6
+˗	modifier letter minus sign	all	never	# ˗ 0x2d7
+˘	breve	all	never	# ˘ 0x2d8
+˙	dot above	all	never	# ˙ 0x2d9
+˚	ring above	all	never	# ˚ 0x2da
+˛	ogonek	all	never	# ˛ 0x2db
+˜	small tilde	all	never	# ˜ 0x2dc
+˝	double acute accent	all	never	# ˝ 0x2dd
+˞	modifier letter rhotic hook	all	never	# ˞ 0x2de
+˟	modifier letter cross accent	all	never	# ˟ 0x2df
+ˠ	modifier letter small gamma	all	never	# ˠ 0x2e0
+ˡ	modifier letter small L	all	never	# ˡ 0x2e1
+ˢ	modifier letter small S	all	never	# ˢ 0x2e2
+ˣ	modifier letter small X	all	never	# ˣ 0x2e3
+ˤ	modifier letter small reversed glottal stop	all	never	# ˤ 0x2e4
+˥	modifier letter extra-high tone bar	all	never	# ˥ 0x2e5
+˦	modifier letter high tone bar	all	never	# ˦ 0x2e6
+˧	modifier letter mid tone bar	all	never	# ˧ 0x2e7
+˨	modifier letter low tone bar	all	never	# ˨ 0x2e8
+˩	modifier letter extra-low tone bar	all	never	# ˩ 0x2e9
+˪	modifier letter yin departing tone mark	all	never	# ˪ 0x2ea
+˫	modifier letter yang departing tone mark	all	never	# ˫ 0x2eb
+ˬ	modifier letter voicing	all	never	# ˬ 0x2ec
+˭	modifier letter unaspirated	all	never	# ˭ 0x2ed
+ˮ	modifier letter double apostrophe	all	never	# ˮ 0x2ee
+˯	modifier letter low down arrowhead	all	never	# ˯ 0x2ef
+˰	modifier letter low up arrowhead	all	never	# ˰ 0x2f0
+˱	modifier letter low left arrowhead	all	never	# ˱ 0x2f1
+˲	modifier letter low right arrowhead	all	never	# ˲ 0x2f2
+˳	modifier letter low ring	all	never	# ˳ 0x2f3
+˴	modifier letter middle grave accent	all	never	# ˴ 0x2f4
+˵	modifier letter middle double grave accent	all	never	# ˵ 0x2f5
+˶	modifier letter middle double acute accent	all	never	# ˶ 0x2f6
+˷	modifier letter low tilde	all	never	# ˷ 0x2f7
+˸	modifier letter raised colon	all	never	# ˸ 0x2f8
+˹	modifier letter begin high tone	all	never	# ˹ 0x2f9
+˺	modifier letter end high tone	all	never	# ˺ 0x2fa
+˻	modifier letter begin low tone	all	never	# ˻ 0x2fb
+˼	modifier letter end low tone	all	never	# ˼ 0x2fc
+˽	modifier letter shelf	all	never	# ˽ 0x2fd
+˾	modifier letter open shelf	all	never	# ˾ 0x2fe
+˿	modifier letter low left arrow	all	never	# ˿ 0x2ff

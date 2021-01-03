@@ -1,0 +1,161 @@
+# # Enclosed Alphanumerics
+①	circled digit one	all	never	# ① 0x2460
+②	circled digit two	all	never	# ② 0x2461
+③	circled digit three	all	never	# ③ 0x2462
+④	circled digit four	all	never	# ④ 0x2463
+⑤	circled digit five	all	never	# ⑤ 0x2464
+⑥	circled digit six	all	never	# ⑥ 0x2465
+⑦	circled digit seven	all	never	# ⑦ 0x2466
+⑧	circled digit eight	all	never	# ⑧ 0x2467
+⑨	circled digit nine	all	never	# ⑨ 0x2468
+⑩	circled number ten	all	never	# ⑩ 0x2469
+⑪	circled number eleven	all	never	# ⑪ 0x246a
+⑫	circled number twelve	all	never	# ⑫ 0x246b
+⑬	circled number thirteen	all	never	# ⑬ 0x246c
+⑭	circled number fourteen	all	never	# ⑭ 0x246d
+⑮	circled number fifteen	all	never	# ⑮ 0x246e
+⑯	circled number sixteen	all	never	# ⑯ 0x246f
+⑰	circled number seventeen	all	never	# ⑰ 0x2470
+⑱	circled number eighteen	all	never	# ⑱ 0x2471
+⑲	circled number nineteen	all	never	# ⑲ 0x2472
+⑳	circled number twenty	all	never	# ⑳ 0x2473
+⑴	parenthesized digit one	all	never	# ⑴ 0x2474
+⑵	parenthesized digit two	all	never	# ⑵ 0x2475
+⑶	parenthesized digit three	all	never	# ⑶ 0x2476
+⑷	parenthesized digit four	all	never	# ⑷ 0x2477
+⑸	parenthesized digit five	all	never	# ⑸ 0x2478
+⑹	parenthesized digit six	all	never	# ⑹ 0x2479
+⑺	parenthesized digit seven	all	never	# ⑺ 0x247a
+⑻	parenthesized digit eight	all	never	# ⑻ 0x247b
+⑼	parenthesized digit nine	all	never	# ⑼ 0x247c
+⑽	parenthesized number ten	all	never	# ⑽ 0x247d
+⑾	parenthesized number eleven	all	never	# ⑾ 0x247e
+⑿	parenthesized number twelve	all	never	# ⑿ 0x247f
+⒀	parenthesized number thirteen	all	never	# ⒀ 0x2480
+⒁	parenthesized number fourteen	all	never	# ⒁ 0x2481
+⒂	parenthesized number fifteen	all	never	# ⒂ 0x2482
+⒃	parenthesized number sixteen	all	never	# ⒃ 0x2483
+⒄	parenthesized number seventeen	all	never	# ⒄ 0x2484
+⒅	parenthesized number eighteen	all	never	# ⒅ 0x2485
+⒆	parenthesized number nineteen	all	never	# ⒆ 0x2486
+⒇	parenthesized number twenty	all	never	# ⒇ 0x2487
+⒈	digit one full stop	all	never	# ⒈ 0x2488
+⒉	digit two full stop	all	never	# ⒉ 0x2489
+⒊	digit three full stop	all	never	# ⒊ 0x248a
+⒋	digit four full stop	all	never	# ⒋ 0x248b
+⒌	digit five full stop	all	never	# ⒌ 0x248c
+⒍	digit six full stop	all	never	# ⒍ 0x248d
+⒎	digit seven full stop	all	never	# ⒎ 0x248e
+⒏	digit eight full stop	all	never	# ⒏ 0x248f
+⒐	digit nine full stop	all	never	# ⒐ 0x2490
+⒑	number ten full stop	all	never	# ⒑ 0x2491
+⒒	number eleven full stop	all	never	# ⒒ 0x2492
+⒓	number twelve full stop	all	never	# ⒓ 0x2493
+⒔	number thirteen full stop	all	never	# ⒔ 0x2494
+⒕	number fourteen full stop	all	never	# ⒕ 0x2495
+⒖	number fifteen full stop	all	never	# ⒖ 0x2496
+⒗	number sixteen full stop	all	never	# ⒗ 0x2497
+⒘	number seventeen full stop	all	never	# ⒘ 0x2498
+⒙	number eighteen full stop	all	never	# ⒙ 0x2499
+⒚	number nineteen full stop	all	never	# ⒚ 0x249a
+⒛	number twenty full stop	all	never	# ⒛ 0x249b
+⒜	parenthesized latin small letter A	all	never	# ⒜ 0x249c
+⒝	parenthesized latin small letter B	all	never	# ⒝ 0x249d
+⒞	parenthesized latin small letter C	all	never	# ⒞ 0x249e
+⒟	parenthesized latin small letter D	all	never	# ⒟ 0x249f
+⒠	parenthesized latin small letter E	all	never	# ⒠ 0x24a0
+⒡	parenthesized latin small letter F	all	never	# ⒡ 0x24a1
+⒢	parenthesized latin small letter G	all	never	# ⒢ 0x24a2
+⒣	parenthesized latin small letter H	all	never	# ⒣ 0x24a3
+⒤	parenthesized latin small letter I	all	never	# ⒤ 0x24a4
+⒥	parenthesized latin small letter J	all	never	# ⒥ 0x24a5
+⒦	parenthesized latin small letter K	all	never	# ⒦ 0x24a6
+⒧	parenthesized latin small letter L	all	never	# ⒧ 0x24a7
+⒨	parenthesized latin small letter M	all	never	# ⒨ 0x24a8
+⒩	parenthesized latin small letter N	all	never	# ⒩ 0x24a9
+⒪	parenthesized latin small letter O	all	never	# ⒪ 0x24aa
+⒫	parenthesized latin small letter P	all	never	# ⒫ 0x24ab
+⒬	parenthesized latin small letter Q	all	never	# ⒬ 0x24ac
+⒭	parenthesized latin small letter R	all	never	# ⒭ 0x24ad
+⒮	parenthesized latin small letter S	all	never	# ⒮ 0x24ae
+⒯	parenthesized latin small letter T	all	never	# ⒯ 0x24af
+⒰	parenthesized latin small letter U	all	never	# ⒰ 0x24b0
+⒱	parenthesized latin small letter V	all	never	# ⒱ 0x24b1
+⒲	parenthesized latin small letter W	all	never	# ⒲ 0x24b2
+⒳	parenthesized latin small letter X	all	never	# ⒳ 0x24b3
+⒴	parenthesized latin small letter Y	all	never	# ⒴ 0x24b4
+⒵	parenthesized latin small letter Z	all	never	# ⒵ 0x24b5
+Ⓐ	circled latin capital letter A	all	never	# Ⓐ 0x24b6
+Ⓑ	circled latin capital letter B	all	never	# Ⓑ 0x24b7
+Ⓒ	circled latin capital letter C	all	never	# Ⓒ 0x24b8
+Ⓓ	circled latin capital letter D	all	never	# Ⓓ 0x24b9
+Ⓔ	circled latin capital letter E	all	never	# Ⓔ 0x24ba
+Ⓕ	circled latin capital letter F	all	never	# Ⓕ 0x24bb
+Ⓖ	circled latin capital letter G	all	never	# Ⓖ 0x24bc
+Ⓗ	circled latin capital letter H	all	never	# Ⓗ 0x24bd
+Ⓘ	circled latin capital letter I	all	never	# Ⓘ 0x24be
+Ⓙ	circled latin capital letter J	all	never	# Ⓙ 0x24bf
+Ⓚ	circled latin capital letter K	all	never	# Ⓚ 0x24c0
+Ⓛ	circled latin capital letter L	all	never	# Ⓛ 0x24c1
+Ⓜ	circled latin capital letter M	all	never	# Ⓜ 0x24c2
+Ⓝ	circled latin capital letter N	all	never	# Ⓝ 0x24c3
+Ⓞ	circled latin capital letter O	all	never	# Ⓞ 0x24c4
+Ⓟ	circled latin capital letter P	all	never	# Ⓟ 0x24c5
+Ⓠ	circled latin capital letter Q	all	never	# Ⓠ 0x24c6
+Ⓡ	circled latin capital letter R	all	never	# Ⓡ 0x24c7
+Ⓢ	circled latin capital letter S	all	never	# Ⓢ 0x24c8
+Ⓣ	circled latin capital letter T	all	never	# Ⓣ 0x24c9
+Ⓤ	circled latin capital letter U	all	never	# Ⓤ 0x24ca
+Ⓥ	circled latin capital letter V	all	never	# Ⓥ 0x24cb
+Ⓦ	circled latin capital letter W	all	never	# Ⓦ 0x24cc
+Ⓧ	circled latin capital letter X	all	never	# Ⓧ 0x24cd
+Ⓨ	circled latin capital letter Y	all	never	# Ⓨ 0x24ce
+Ⓩ	circled latin capital letter Z	all	never	# Ⓩ 0x24cf
+ⓐ	circled latin small letter A	all	never	# ⓐ 0x24d0
+ⓑ	circled latin small letter B	all	never	# ⓑ 0x24d1
+ⓒ	circled latin small letter C	all	never	# ⓒ 0x24d2
+ⓓ	circled latin small letter D	all	never	# ⓓ 0x24d3
+ⓔ	circled latin small letter E	all	never	# ⓔ 0x24d4
+ⓕ	circled latin small letter F	all	never	# ⓕ 0x24d5
+ⓖ	circled latin small letter G	all	never	# ⓖ 0x24d6
+ⓗ	circled latin small letter H	all	never	# ⓗ 0x24d7
+ⓘ	circled latin small letter I	all	never	# ⓘ 0x24d8
+ⓙ	circled latin small letter J	all	never	# ⓙ 0x24d9
+ⓚ	circled latin small letter K	all	never	# ⓚ 0x24da
+ⓛ	circled latin small letter L	all	never	# ⓛ 0x24db
+ⓜ	circled latin small letter M	all	never	# ⓜ 0x24dc
+ⓝ	circled latin small letter N	all	never	# ⓝ 0x24dd
+ⓞ	circled latin small letter O	all	never	# ⓞ 0x24de
+ⓟ	circled latin small letter P	all	never	# ⓟ 0x24df
+ⓠ	circled latin small letter Q	all	never	# ⓠ 0x24e0
+ⓡ	circled latin small letter R	all	never	# ⓡ 0x24e1
+ⓢ	circled latin small letter S	all	never	# ⓢ 0x24e2
+ⓣ	circled latin small letter T	all	never	# ⓣ 0x24e3
+ⓤ	circled latin small letter U	all	never	# ⓤ 0x24e4
+ⓥ	circled latin small letter V	all	never	# ⓥ 0x24e5
+ⓦ	circled latin small letter W	all	never	# ⓦ 0x24e6
+ⓧ	circled latin small letter X	all	never	# ⓧ 0x24e7
+ⓨ	circled latin small letter Y	all	never	# ⓨ 0x24e8
+ⓩ	circled latin small letter Z	all	never	# ⓩ 0x24e9
+⓪	circled digit zero	all	never	# ⓪ 0x24ea
+⓫	negative circled number eleven	all	never	# ⓫ 0x24eb
+⓬	negative circled number twelve	all	never	# ⓬ 0x24ec
+⓭	negative circled number thirteen	all	never	# ⓭ 0x24ed
+⓮	negative circled number fourteen	all	never	# ⓮ 0x24ee
+⓯	negative circled number fifteen	all	never	# ⓯ 0x24ef
+⓰	negative circled number sixteen	all	never	# ⓰ 0x24f0
+⓱	negative circled number seventeen	all	never	# ⓱ 0x24f1
+⓲	negative circled number eighteen	all	never	# ⓲ 0x24f2
+⓳	negative circled number nineteen	all	never	# ⓳ 0x24f3
+⓴	negative circled number twenty	all	never	# ⓴ 0x24f4
+⓵	double circled digit one	all	never	# ⓵ 0x24f5
+⓶	double circled digit two	all	never	# ⓶ 0x24f6
+⓷	double circled digit three	all	never	# ⓷ 0x24f7
+⓸	double circled digit four	all	never	# ⓸ 0x24f8
+⓹	double circled digit five	all	never	# ⓹ 0x24f9
+⓺	double circled digit six	all	never	# ⓺ 0x24fa
+⓻	double circled digit seven	all	never	# ⓻ 0x24fb
+⓼	double circled digit eight	all	never	# ⓼ 0x24fc
+⓽	double circled digit nine	all	never	# ⓽ 0x24fd
+⓾	double circled number ten	all	never	# ⓾ 0x24fe
+⓿	negative circled digit zero	all	never	# ⓿ 0x24ff

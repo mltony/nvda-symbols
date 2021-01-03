@@ -1,0 +1,30 @@
+# # Ogham
+ 	ogham space mark	all	never	#   0x1680
+ᚁ	ogham letter beith	all	never	# ᚁ 0x1681
+ᚂ	ogham letter luis	all	never	# ᚂ 0x1682
+ᚃ	ogham letter fearn	all	never	# ᚃ 0x1683
+ᚄ	ogham letter sail	all	never	# ᚄ 0x1684
+ᚅ	ogham letter nion	all	never	# ᚅ 0x1685
+ᚆ	ogham letter uath	all	never	# ᚆ 0x1686
+ᚇ	ogham letter dair	all	never	# ᚇ 0x1687
+ᚈ	ogham letter tinne	all	never	# ᚈ 0x1688
+ᚉ	ogham letter coll	all	never	# ᚉ 0x1689
+ᚊ	ogham letter ceirt	all	never	# ᚊ 0x168a
+ᚋ	ogham letter muin	all	never	# ᚋ 0x168b
+ᚌ	ogham letter gort	all	never	# ᚌ 0x168c
+ᚍ	ogham letter ngeadal	all	never	# ᚍ 0x168d
+ᚎ	ogham letter straif	all	never	# ᚎ 0x168e
+ᚏ	ogham letter ruis	all	never	# ᚏ 0x168f
+ᚐ	ogham letter ailm	all	never	# ᚐ 0x1690
+ᚑ	ogham letter onn	all	never	# ᚑ 0x1691
+ᚒ	ogham letter ur	all	never	# ᚒ 0x1692
+ᚓ	ogham letter eadhadh	all	never	# ᚓ 0x1693
+ᚔ	ogham letter iodhadh	all	never	# ᚔ 0x1694
+ᚕ	ogham letter eabhadh	all	never	# ᚕ 0x1695
+ᚖ	ogham letter or	all	never	# ᚖ 0x1696
+ᚗ	ogham letter uilleann	all	never	# ᚗ 0x1697
+ᚘ	ogham letter ifin	all	never	# ᚘ 0x1698
+ᚙ	ogham letter eamhancholl	all	never	# ᚙ 0x1699
+ᚚ	ogham letter peith	all	never	# ᚚ 0x169a
+᚛	ogham feather mark	all	never	# ᚛ 0x169b
+᚜	ogham reversed feather mark	all	never	# ᚜ 0x169c

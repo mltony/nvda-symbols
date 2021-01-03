@@ -1,0 +1,112 @@
+# # General Punctuation
+ 	en quad	all	never	#   0x2000
+ 	em quad	all	never	#   0x2001
+ 	en space	all	never	#   0x2002
+ 	em space	all	never	#   0x2003
+ 	three-per-em space	all	never	#   0x2004
+ 	four-per-em space	all	never	#   0x2005
+ 	six-per-em space	all	never	#   0x2006
+ 	figure space	all	never	#   0x2007
+ 	punctuation space	all	never	#   0x2008
+ 	thin space	all	never	#   0x2009
+ 	hair space	all	never	#   0x200a
+​	zero width space	all	never	# ​ 0x200b
+‌	zero width non-joiner	all	never	# ‌ 0x200c
+‍	zero width joiner	all	never	# ‍ 0x200d
+# ‎	left-to-right mark	all	never	# ‎ 0x200e
+# ‏	right-to-left mark	all	never	# ‏ 0x200f
+‐	hyphen	all	never	# ‐ 0x2010
+‑	non-breaking hyphen	all	never	# ‑ 0x2011
+‒	figure dash	all	never	# ‒ 0x2012
+# –	en dash	all	never	# – 0x2013
+# —	em dash	all	never	# — 0x2014
+―	horizontal bar	all	never	# ― 0x2015
+‖	double vertical line	all	never	# ‖ 0x2016
+‗	double low line	all	never	# ‗ 0x2017
+# ‘	left single quotation mark	all	never	# ‘ 0x2018
+# ’	right single quotation mark	all	never	# ’ 0x2019
+# ‚	single low-9 quotation mark	all	never	# ‚ 0x201a
+‛	single high-reversed-9 quotation mark	all	never	# ‛ 0x201b
+# “	left double quotation mark	all	never	# “ 0x201c
+# ”	right double quotation mark	all	never	# ” 0x201d
+# „	double low-9 quotation mark	all	never	# „ 0x201e
+‟	double high-reversed-9 quotation mark	all	never	# ‟ 0x201f
+# †	dagger	all	never	# † 0x2020
+# ‡	double dagger	all	never	# ‡ 0x2021
+# •	bullet	all	never	# • 0x2022
+# ‣	triangular bullet	all	never	# ‣ 0x2023
+․	one dot leader	all	never	# ․ 0x2024
+‥	two dot leader	all	never	# ‥ 0x2025
+# …	horizontal ellipsis	all	never	# … 0x2026
+‧	hyphenation point	all	never	# ‧ 0x2027
+ 	line separator	all	never	#   0x2028
+ 	paragraph separator	all	never	#   0x2029
+‪	left-to-right embedding	all	never	# ‪ 0x202a
+‫	right-to-left embedding	all	never	# ‫ 0x202b
+‬	pop directional formatting	all	never	# ‬ 0x202c
+‭	left-to-right override	all	never	# ‭ 0x202d
+‮	right-to-left override	all	never	# ‮ 0x202e
+ 	narrow no-break space	all	never	#   0x202f
+# ‰	per mille sign	all	never	# ‰ 0x2030
+‱	per ten thousand sign	all	never	# ‱ 0x2031
+# ′	prime	all	never	# ′ 0x2032
+# ″	double prime	all	never	# ″ 0x2033
+# ‴	triple prime	all	never	# ‴ 0x2034
+‵	reversed prime	all	never	# ‵ 0x2035
+‶	reversed double prime	all	never	# ‶ 0x2036
+‷	reversed triple prime	all	never	# ‷ 0x2037
+‸	caret	all	never	# ‸ 0x2038
+‹	single left-pointing angle quotation mark	all	never	# ‹ 0x2039
+›	single right-pointing angle quotation mark	all	never	# › 0x203a
+※	reference mark	all	never	# ※ 0x203b
+‼	double exclamation mark	all	never	# ‼ 0x203c
+‽	interrobang	all	never	# ‽ 0x203d
+‾	overline	all	never	# ‾ 0x203e
+‿	undertie	all	never	# ‿ 0x203f
+⁀	character tie	all	never	# ⁀ 0x2040
+⁁	caret insertion point	all	never	# ⁁ 0x2041
+⁂	asterism	all	never	# ⁂ 0x2042
+# ⁃	hyphen bullet	all	never	# ⁃ 0x2043
+⁄	fraction slash	all	never	# ⁄ 0x2044
+⁅	left square bracket with quill	all	never	# ⁅ 0x2045
+⁆	right square bracket with quill	all	never	# ⁆ 0x2046
+⁇	double question mark	all	never	# ⁇ 0x2047
+⁈	question exclamation mark	all	never	# ⁈ 0x2048
+⁉	exclamation question mark	all	never	# ⁉ 0x2049
+⁊	tironian sign et	all	never	# ⁊ 0x204a
+⁋	reversed pilcrow sign	all	never	# ⁋ 0x204b
+⁌	black leftwards bullet	all	never	# ⁌ 0x204c
+⁍	black rightwards bullet	all	never	# ⁍ 0x204d
+⁎	low asterisk	all	never	# ⁎ 0x204e
+⁏	reversed semicolon	all	never	# ⁏ 0x204f
+⁐	close up	all	never	# ⁐ 0x2050
+⁑	two asterisks aligned vertically	all	never	# ⁑ 0x2051
+⁒	commercial minus sign	all	never	# ⁒ 0x2052
+⁓	swung dash	all	never	# ⁓ 0x2053
+⁔	inverted undertie	all	never	# ⁔ 0x2054
+⁕	flower punctuation mark	all	never	# ⁕ 0x2055
+⁖	three dot punctuation	all	never	# ⁖ 0x2056
+⁗	quadruple prime	all	never	# ⁗ 0x2057
+⁘	four dot punctuation	all	never	# ⁘ 0x2058
+⁙	five dot punctuation	all	never	# ⁙ 0x2059
+⁚	two dot punctuation	all	never	# ⁚ 0x205a
+⁛	four dot mark	all	never	# ⁛ 0x205b
+⁜	dotted cross	all	never	# ⁜ 0x205c
+⁝	tricolon	all	never	# ⁝ 0x205d
+⁞	vertical four dots	all	never	# ⁞ 0x205e
+ 	medium mathematical space	all	never	#   0x205f
+⁠	word joiner	all	never	# ⁠ 0x2060
+⁡	function application	all	never	# ⁡ 0x2061
+⁢	invisible times	all	never	# ⁢ 0x2062
+⁣	invisible separator	all	never	# ⁣ 0x2063
+⁤	invisible plus	all	never	# ⁤ 0x2064
+⁦	left-to-right isolate	all	never	# ⁦ 0x2066
+⁧	right-to-left isolate	all	never	# ⁧ 0x2067
+⁨	first strong isolate	all	never	# ⁨ 0x2068
+⁩	pop directional isolate	all	never	# ⁩ 0x2069
+⁪	inhibit symmetric swapping	all	never	# ⁪ 0x206a
+⁫	activate symmetric swapping	all	never	# ⁫ 0x206b
+⁬	inhibit arabic form shaping	all	never	# ⁬ 0x206c
+⁭	activate arabic form shaping	all	never	# ⁭ 0x206d
+⁮	national digit shapes	all	never	# ⁮ 0x206e
+⁯	nominal digit shapes	all	never	# ⁯ 0x206f

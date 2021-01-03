@@ -1,0 +1,136 @@
+# # Greek and Coptic
+Ͱ	greek capital letter heta	all	never	# Ͱ 0x370
+ͱ	greek small letter heta	all	never	# ͱ 0x371
+Ͳ	greek capital letter archaic sampi	all	never	# Ͳ 0x372
+ͳ	greek small letter archaic sampi	all	never	# ͳ 0x373
+ʹ	greek numeral sign	all	never	# ʹ 0x374
+͵	greek lower numeral sign	all	never	# ͵ 0x375
+Ͷ	greek capital letter pamphylian digamma	all	never	# Ͷ 0x376
+ͷ	greek small letter pamphylian digamma	all	never	# ͷ 0x377
+ͺ	greek ypogegrammeni	all	never	# ͺ 0x37a
+ͻ	greek small reversed lunate sigma symbol	all	never	# ͻ 0x37b
+ͼ	greek small dotted lunate sigma symbol	all	never	# ͼ 0x37c
+ͽ	greek small reversed dotted lunate sigma symbol	all	never	# ͽ 0x37d
+;	greek question mark	all	never	# ; 0x37e
+Ϳ	greek capital letter yot	all	never	# Ϳ 0x37f
+΄	greek tonos	all	never	# ΄ 0x384
+΅	greek dialytika tonos	all	never	# ΅ 0x385
+Ά	greek capital letter alpha with tonos	all	never	# Ά 0x386
+·	greek ano teleia	all	never	# · 0x387
+Έ	greek capital letter epsilon with tonos	all	never	# Έ 0x388
+Ή	greek capital letter eta with tonos	all	never	# Ή 0x389
+Ί	greek capital letter iota with tonos	all	never	# Ί 0x38a
+Ό	greek capital letter omicron with tonos	all	never	# Ό 0x38c
+Ύ	greek capital letter upsilon with tonos	all	never	# Ύ 0x38e
+Ώ	greek capital letter omega with tonos	all	never	# Ώ 0x38f
+ΐ	greek small letter iota with dialytika and tonos	all	never	# ΐ 0x390
+Α	greek capital letter alpha	all	never	# Α 0x391
+Β	greek capital letter beta	all	never	# Β 0x392
+Γ	greek capital letter gamma	all	never	# Γ 0x393
+Δ	greek capital letter delta	all	never	# Δ 0x394
+Ε	greek capital letter epsilon	all	never	# Ε 0x395
+Ζ	greek capital letter zeta	all	never	# Ζ 0x396
+Η	greek capital letter eta	all	never	# Η 0x397
+Θ	greek capital letter theta	all	never	# Θ 0x398
+Ι	greek capital letter iota	all	never	# Ι 0x399
+Κ	greek capital letter kappa	all	never	# Κ 0x39a
+Λ	greek capital letter lamda	all	never	# Λ 0x39b
+Μ	greek capital letter mu	all	never	# Μ 0x39c
+Ν	greek capital letter nu	all	never	# Ν 0x39d
+Ξ	greek capital letter xi	all	never	# Ξ 0x39e
+Ο	greek capital letter omicron	all	never	# Ο 0x39f
+Π	greek capital letter pi	all	never	# Π 0x3a0
+Ρ	greek capital letter rho	all	never	# Ρ 0x3a1
+Σ	greek capital letter sigma	all	never	# Σ 0x3a3
+Τ	greek capital letter tau	all	never	# Τ 0x3a4
+Υ	greek capital letter upsilon	all	never	# Υ 0x3a5
+Φ	greek capital letter phi	all	never	# Φ 0x3a6
+Χ	greek capital letter chi	all	never	# Χ 0x3a7
+Ψ	greek capital letter psi	all	never	# Ψ 0x3a8
+Ω	greek capital letter omega	all	never	# Ω 0x3a9
+Ϊ	greek capital letter iota with dialytika	all	never	# Ϊ 0x3aa
+Ϋ	greek capital letter upsilon with dialytika	all	never	# Ϋ 0x3ab
+ά	greek small letter alpha with tonos	all	never	# ά 0x3ac
+έ	greek small letter epsilon with tonos	all	never	# έ 0x3ad
+ή	greek small letter eta with tonos	all	never	# ή 0x3ae
+ί	greek small letter iota with tonos	all	never	# ί 0x3af
+ΰ	greek small letter upsilon with dialytika and tonos	all	never	# ΰ 0x3b0
+α	greek small letter alpha	all	never	# α 0x3b1
+β	greek small letter beta	all	never	# β 0x3b2
+γ	greek small letter gamma	all	never	# γ 0x3b3
+δ	greek small letter delta	all	never	# δ 0x3b4
+ε	greek small letter epsilon	all	never	# ε 0x3b5
+ζ	greek small letter zeta	all	never	# ζ 0x3b6
+η	greek small letter eta	all	never	# η 0x3b7
+θ	greek small letter theta	all	never	# θ 0x3b8
+ι	greek small letter iota	all	never	# ι 0x3b9
+κ	greek small letter kappa	all	never	# κ 0x3ba
+λ	greek small letter lamda	all	never	# λ 0x3bb
+μ	greek small letter mu	all	never	# μ 0x3bc
+ν	greek small letter nu	all	never	# ν 0x3bd
+ξ	greek small letter xi	all	never	# ξ 0x3be
+ο	greek small letter omicron	all	never	# ο 0x3bf
+π	greek small letter pi	all	never	# π 0x3c0
+ρ	greek small letter rho	all	never	# ρ 0x3c1
+ς	greek small letter final sigma	all	never	# ς 0x3c2
+σ	greek small letter sigma	all	never	# σ 0x3c3
+τ	greek small letter tau	all	never	# τ 0x3c4
+υ	greek small letter upsilon	all	never	# υ 0x3c5
+φ	greek small letter phi	all	never	# φ 0x3c6
+χ	greek small letter chi	all	never	# χ 0x3c7
+ψ	greek small letter psi	all	never	# ψ 0x3c8
+ω	greek small letter omega	all	never	# ω 0x3c9
+ϊ	greek small letter iota with dialytika	all	never	# ϊ 0x3ca
+ϋ	greek small letter upsilon with dialytika	all	never	# ϋ 0x3cb
+ό	greek small letter omicron with tonos	all	never	# ό 0x3cc
+ύ	greek small letter upsilon with tonos	all	never	# ύ 0x3cd
+ώ	greek small letter omega with tonos	all	never	# ώ 0x3ce
+Ϗ	greek capital kai symbol	all	never	# Ϗ 0x3cf
+ϐ	greek beta symbol	all	never	# ϐ 0x3d0
+ϑ	greek theta symbol	all	never	# ϑ 0x3d1
+ϒ	greek upsilon with hook symbol	all	never	# ϒ 0x3d2
+ϓ	greek upsilon with acute and hook symbol	all	never	# ϓ 0x3d3
+ϔ	greek upsilon with diaeresis and hook symbol	all	never	# ϔ 0x3d4
+ϕ	greek phi symbol	all	never	# ϕ 0x3d5
+ϖ	greek pi symbol	all	never	# ϖ 0x3d6
+ϗ	greek kai symbol	all	never	# ϗ 0x3d7
+Ϙ	greek letter archaic koppa	all	never	# Ϙ 0x3d8
+ϙ	greek small letter archaic koppa	all	never	# ϙ 0x3d9
+Ϛ	greek letter stigma	all	never	# Ϛ 0x3da
+ϛ	greek small letter stigma	all	never	# ϛ 0x3db
+Ϝ	greek letter digamma	all	never	# Ϝ 0x3dc
+ϝ	greek small letter digamma	all	never	# ϝ 0x3dd
+Ϟ	greek letter koppa	all	never	# Ϟ 0x3de
+ϟ	greek small letter koppa	all	never	# ϟ 0x3df
+Ϡ	greek letter sampi	all	never	# Ϡ 0x3e0
+ϡ	greek small letter sampi	all	never	# ϡ 0x3e1
+Ϣ	coptic capital letter shei	all	never	# Ϣ 0x3e2
+ϣ	coptic small letter shei	all	never	# ϣ 0x3e3
+Ϥ	coptic capital letter fei	all	never	# Ϥ 0x3e4
+ϥ	coptic small letter fei	all	never	# ϥ 0x3e5
+Ϧ	coptic capital letter khei	all	never	# Ϧ 0x3e6
+ϧ	coptic small letter khei	all	never	# ϧ 0x3e7
+Ϩ	coptic capital letter hori	all	never	# Ϩ 0x3e8
+ϩ	coptic small letter hori	all	never	# ϩ 0x3e9
+Ϫ	coptic capital letter gangia	all	never	# Ϫ 0x3ea
+ϫ	coptic small letter gangia	all	never	# ϫ 0x3eb
+Ϭ	coptic capital letter shima	all	never	# Ϭ 0x3ec
+ϭ	coptic small letter shima	all	never	# ϭ 0x3ed
+Ϯ	coptic capital letter dei	all	never	# Ϯ 0x3ee
+ϯ	coptic small letter dei	all	never	# ϯ 0x3ef
+ϰ	greek kappa symbol	all	never	# ϰ 0x3f0
+ϱ	greek rho symbol	all	never	# ϱ 0x3f1
+ϲ	greek lunate sigma symbol	all	never	# ϲ 0x3f2
+ϳ	greek letter yot	all	never	# ϳ 0x3f3
+ϴ	greek capital theta symbol	all	never	# ϴ 0x3f4
+ϵ	greek lunate epsilon symbol	all	never	# ϵ 0x3f5
+϶	greek reversed lunate epsilon symbol	all	never	# ϶ 0x3f6
+Ϸ	greek capital letter sho	all	never	# Ϸ 0x3f7
+ϸ	greek small letter sho	all	never	# ϸ 0x3f8
+Ϲ	greek capital lunate sigma symbol	all	never	# Ϲ 0x3f9
+Ϻ	greek capital letter san	all	never	# Ϻ 0x3fa
+ϻ	greek small letter san	all	never	# ϻ 0x3fb
+ϼ	greek rho with stroke symbol	all	never	# ϼ 0x3fc
+Ͻ	greek capital reversed lunate sigma symbol	all	never	# Ͻ 0x3fd
+Ͼ	greek capital dotted lunate sigma symbol	all	never	# Ͼ 0x3fe
+Ͽ	greek capital reversed dotted lunate sigma symbol	all	never	# Ͽ 0x3ff

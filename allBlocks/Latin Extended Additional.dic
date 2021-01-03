@@ -1,0 +1,257 @@
+# # Latin Extended Additional
+Ḁ	latin capital letter A with ring below	all	never	# Ḁ 0x1e00
+ḁ	latin small letter A with ring below	all	never	# ḁ 0x1e01
+Ḃ	latin capital letter B with dot above	all	never	# Ḃ 0x1e02
+ḃ	latin small letter B with dot above	all	never	# ḃ 0x1e03
+Ḅ	latin capital letter B with dot below	all	never	# Ḅ 0x1e04
+ḅ	latin small letter B with dot below	all	never	# ḅ 0x1e05
+Ḇ	latin capital letter B with line below	all	never	# Ḇ 0x1e06
+ḇ	latin small letter B with line below	all	never	# ḇ 0x1e07
+Ḉ	latin capital letter C with cedilla and acute	all	never	# Ḉ 0x1e08
+ḉ	latin small letter C with cedilla and acute	all	never	# ḉ 0x1e09
+Ḋ	latin capital letter D with dot above	all	never	# Ḋ 0x1e0a
+ḋ	latin small letter D with dot above	all	never	# ḋ 0x1e0b
+Ḍ	latin capital letter D with dot below	all	never	# Ḍ 0x1e0c
+ḍ	latin small letter D with dot below	all	never	# ḍ 0x1e0d
+Ḏ	latin capital letter D with line below	all	never	# Ḏ 0x1e0e
+ḏ	latin small letter D with line below	all	never	# ḏ 0x1e0f
+Ḑ	latin capital letter D with cedilla	all	never	# Ḑ 0x1e10
+ḑ	latin small letter D with cedilla	all	never	# ḑ 0x1e11
+Ḓ	latin capital letter D with circumflex below	all	never	# Ḓ 0x1e12
+ḓ	latin small letter D with circumflex below	all	never	# ḓ 0x1e13
+Ḕ	latin capital letter E with macron and grave	all	never	# Ḕ 0x1e14
+ḕ	latin small letter E with macron and grave	all	never	# ḕ 0x1e15
+Ḗ	latin capital letter E with macron and acute	all	never	# Ḗ 0x1e16
+ḗ	latin small letter E with macron and acute	all	never	# ḗ 0x1e17
+Ḙ	latin capital letter E with circumflex below	all	never	# Ḙ 0x1e18
+ḙ	latin small letter E with circumflex below	all	never	# ḙ 0x1e19
+Ḛ	latin capital letter E with tilde below	all	never	# Ḛ 0x1e1a
+ḛ	latin small letter E with tilde below	all	never	# ḛ 0x1e1b
+Ḝ	latin capital letter E with cedilla and breve	all	never	# Ḝ 0x1e1c
+ḝ	latin small letter E with cedilla and breve	all	never	# ḝ 0x1e1d
+Ḟ	latin capital letter F with dot above	all	never	# Ḟ 0x1e1e
+ḟ	latin small letter F with dot above	all	never	# ḟ 0x1e1f
+Ḡ	latin capital letter G with macron	all	never	# Ḡ 0x1e20
+ḡ	latin small letter G with macron	all	never	# ḡ 0x1e21
+Ḣ	latin capital letter H with dot above	all	never	# Ḣ 0x1e22
+ḣ	latin small letter H with dot above	all	never	# ḣ 0x1e23
+Ḥ	latin capital letter H with dot below	all	never	# Ḥ 0x1e24
+ḥ	latin small letter H with dot below	all	never	# ḥ 0x1e25
+Ḧ	latin capital letter H with diaeresis	all	never	# Ḧ 0x1e26
+ḧ	latin small letter H with diaeresis	all	never	# ḧ 0x1e27
+Ḩ	latin capital letter H with cedilla	all	never	# Ḩ 0x1e28
+ḩ	latin small letter H with cedilla	all	never	# ḩ 0x1e29
+Ḫ	latin capital letter H with breve below	all	never	# Ḫ 0x1e2a
+ḫ	latin small letter H with breve below	all	never	# ḫ 0x1e2b
+Ḭ	latin capital letter I with tilde below	all	never	# Ḭ 0x1e2c
+ḭ	latin small letter I with tilde below	all	never	# ḭ 0x1e2d
+Ḯ	latin capital letter I with diaeresis and acute	all	never	# Ḯ 0x1e2e
+ḯ	latin small letter I with diaeresis and acute	all	never	# ḯ 0x1e2f
+Ḱ	latin capital letter K with acute	all	never	# Ḱ 0x1e30
+ḱ	latin small letter K with acute	all	never	# ḱ 0x1e31
+Ḳ	latin capital letter K with dot below	all	never	# Ḳ 0x1e32
+ḳ	latin small letter K with dot below	all	never	# ḳ 0x1e33
+Ḵ	latin capital letter K with line below	all	never	# Ḵ 0x1e34
+ḵ	latin small letter K with line below	all	never	# ḵ 0x1e35
+Ḷ	latin capital letter L with dot below	all	never	# Ḷ 0x1e36
+ḷ	latin small letter L with dot below	all	never	# ḷ 0x1e37
+Ḹ	latin capital letter L with dot below and macron	all	never	# Ḹ 0x1e38
+ḹ	latin small letter L with dot below and macron	all	never	# ḹ 0x1e39
+Ḻ	latin capital letter L with line below	all	never	# Ḻ 0x1e3a
+ḻ	latin small letter L with line below	all	never	# ḻ 0x1e3b
+Ḽ	latin capital letter L with circumflex below	all	never	# Ḽ 0x1e3c
+ḽ	latin small letter L with circumflex below	all	never	# ḽ 0x1e3d
+Ḿ	latin capital letter M with acute	all	never	# Ḿ 0x1e3e
+ḿ	latin small letter M with acute	all	never	# ḿ 0x1e3f
+Ṁ	latin capital letter M with dot above	all	never	# Ṁ 0x1e40
+ṁ	latin small letter M with dot above	all	never	# ṁ 0x1e41
+Ṃ	latin capital letter M with dot below	all	never	# Ṃ 0x1e42
+ṃ	latin small letter M with dot below	all	never	# ṃ 0x1e43
+Ṅ	latin capital letter N with dot above	all	never	# Ṅ 0x1e44
+ṅ	latin small letter N with dot above	all	never	# ṅ 0x1e45
+Ṇ	latin capital letter N with dot below	all	never	# Ṇ 0x1e46
+ṇ	latin small letter N with dot below	all	never	# ṇ 0x1e47
+Ṉ	latin capital letter N with line below	all	never	# Ṉ 0x1e48
+ṉ	latin small letter N with line below	all	never	# ṉ 0x1e49
+Ṋ	latin capital letter N with circumflex below	all	never	# Ṋ 0x1e4a
+ṋ	latin small letter N with circumflex below	all	never	# ṋ 0x1e4b
+Ṍ	latin capital letter O with tilde and acute	all	never	# Ṍ 0x1e4c
+ṍ	latin small letter O with tilde and acute	all	never	# ṍ 0x1e4d
+Ṏ	latin capital letter O with tilde and diaeresis	all	never	# Ṏ 0x1e4e
+ṏ	latin small letter O with tilde and diaeresis	all	never	# ṏ 0x1e4f
+Ṑ	latin capital letter O with macron and grave	all	never	# Ṑ 0x1e50
+ṑ	latin small letter O with macron and grave	all	never	# ṑ 0x1e51
+Ṓ	latin capital letter O with macron and acute	all	never	# Ṓ 0x1e52
+ṓ	latin small letter O with macron and acute	all	never	# ṓ 0x1e53
+Ṕ	latin capital letter P with acute	all	never	# Ṕ 0x1e54
+ṕ	latin small letter P with acute	all	never	# ṕ 0x1e55
+Ṗ	latin capital letter P with dot above	all	never	# Ṗ 0x1e56
+ṗ	latin small letter P with dot above	all	never	# ṗ 0x1e57
+Ṙ	latin capital letter R with dot above	all	never	# Ṙ 0x1e58
+ṙ	latin small letter R with dot above	all	never	# ṙ 0x1e59
+Ṛ	latin capital letter R with dot below	all	never	# Ṛ 0x1e5a
+ṛ	latin small letter R with dot below	all	never	# ṛ 0x1e5b
+Ṝ	latin capital letter R with dot below and macron	all	never	# Ṝ 0x1e5c
+ṝ	latin small letter R with dot below and macron	all	never	# ṝ 0x1e5d
+Ṟ	latin capital letter R with line below	all	never	# Ṟ 0x1e5e
+ṟ	latin small letter R with line below	all	never	# ṟ 0x1e5f
+Ṡ	latin capital letter S with dot above	all	never	# Ṡ 0x1e60
+ṡ	latin small letter S with dot above	all	never	# ṡ 0x1e61
+Ṣ	latin capital letter S with dot below	all	never	# Ṣ 0x1e62
+ṣ	latin small letter S with dot below	all	never	# ṣ 0x1e63
+Ṥ	latin capital letter S with acute and dot above	all	never	# Ṥ 0x1e64
+ṥ	latin small letter S with acute and dot above	all	never	# ṥ 0x1e65
+Ṧ	latin capital letter S with caron and dot above	all	never	# Ṧ 0x1e66
+ṧ	latin small letter S with caron and dot above	all	never	# ṧ 0x1e67
+Ṩ	latin capital letter S with dot below and dot above	all	never	# Ṩ 0x1e68
+ṩ	latin small letter S with dot below and dot above	all	never	# ṩ 0x1e69
+Ṫ	latin capital letter T with dot above	all	never	# Ṫ 0x1e6a
+ṫ	latin small letter T with dot above	all	never	# ṫ 0x1e6b
+Ṭ	latin capital letter T with dot below	all	never	# Ṭ 0x1e6c
+ṭ	latin small letter T with dot below	all	never	# ṭ 0x1e6d
+Ṯ	latin capital letter T with line below	all	never	# Ṯ 0x1e6e
+ṯ	latin small letter T with line below	all	never	# ṯ 0x1e6f
+Ṱ	latin capital letter T with circumflex below	all	never	# Ṱ 0x1e70
+ṱ	latin small letter T with circumflex below	all	never	# ṱ 0x1e71
+Ṳ	latin capital letter U with diaeresis below	all	never	# Ṳ 0x1e72
+ṳ	latin small letter U with diaeresis below	all	never	# ṳ 0x1e73
+Ṵ	latin capital letter U with tilde below	all	never	# Ṵ 0x1e74
+ṵ	latin small letter U with tilde below	all	never	# ṵ 0x1e75
+Ṷ	latin capital letter U with circumflex below	all	never	# Ṷ 0x1e76
+ṷ	latin small letter U with circumflex below	all	never	# ṷ 0x1e77
+Ṹ	latin capital letter U with tilde and acute	all	never	# Ṹ 0x1e78
+ṹ	latin small letter U with tilde and acute	all	never	# ṹ 0x1e79
+Ṻ	latin capital letter U with macron and diaeresis	all	never	# Ṻ 0x1e7a
+ṻ	latin small letter U with macron and diaeresis	all	never	# ṻ 0x1e7b
+Ṽ	latin capital letter V with tilde	all	never	# Ṽ 0x1e7c
+ṽ	latin small letter V with tilde	all	never	# ṽ 0x1e7d
+Ṿ	latin capital letter V with dot below	all	never	# Ṿ 0x1e7e
+ṿ	latin small letter V with dot below	all	never	# ṿ 0x1e7f
+Ẁ	latin capital letter W with grave	all	never	# Ẁ 0x1e80
+ẁ	latin small letter W with grave	all	never	# ẁ 0x1e81
+Ẃ	latin capital letter W with acute	all	never	# Ẃ 0x1e82
+ẃ	latin small letter W with acute	all	never	# ẃ 0x1e83
+Ẅ	latin capital letter W with diaeresis	all	never	# Ẅ 0x1e84
+ẅ	latin small letter W with diaeresis	all	never	# ẅ 0x1e85
+Ẇ	latin capital letter W with dot above	all	never	# Ẇ 0x1e86
+ẇ	latin small letter W with dot above	all	never	# ẇ 0x1e87
+Ẉ	latin capital letter W with dot below	all	never	# Ẉ 0x1e88
+ẉ	latin small letter W with dot below	all	never	# ẉ 0x1e89
+Ẋ	latin capital letter X with dot above	all	never	# Ẋ 0x1e8a
+ẋ	latin small letter X with dot above	all	never	# ẋ 0x1e8b
+Ẍ	latin capital letter X with diaeresis	all	never	# Ẍ 0x1e8c
+ẍ	latin small letter X with diaeresis	all	never	# ẍ 0x1e8d
+Ẏ	latin capital letter Y with dot above	all	never	# Ẏ 0x1e8e
+ẏ	latin small letter Y with dot above	all	never	# ẏ 0x1e8f
+Ẑ	latin capital letter Z with circumflex	all	never	# Ẑ 0x1e90
+ẑ	latin small letter Z with circumflex	all	never	# ẑ 0x1e91
+Ẓ	latin capital letter Z with dot below	all	never	# Ẓ 0x1e92
+ẓ	latin small letter Z with dot below	all	never	# ẓ 0x1e93
+Ẕ	latin capital letter Z with line below	all	never	# Ẕ 0x1e94
+ẕ	latin small letter Z with line below	all	never	# ẕ 0x1e95
+ẖ	latin small letter H with line below	all	never	# ẖ 0x1e96
+ẗ	latin small letter T with diaeresis	all	never	# ẗ 0x1e97
+ẘ	latin small letter W with ring above	all	never	# ẘ 0x1e98
+ẙ	latin small letter Y with ring above	all	never	# ẙ 0x1e99
+ẚ	latin small letter A with right half ring	all	never	# ẚ 0x1e9a
+ẛ	latin small letter long S with dot above	all	never	# ẛ 0x1e9b
+ẜ	latin small letter long S with diagonal stroke	all	never	# ẜ 0x1e9c
+ẝ	latin small letter long S with high stroke	all	never	# ẝ 0x1e9d
+ẞ	latin capital letter sharp S	all	never	# ẞ 0x1e9e
+ẟ	latin small letter delta	all	never	# ẟ 0x1e9f
+Ạ	latin capital letter A with dot below	all	never	# Ạ 0x1ea0
+ạ	latin small letter A with dot below	all	never	# ạ 0x1ea1
+Ả	latin capital letter A with hook above	all	never	# Ả 0x1ea2
+ả	latin small letter A with hook above	all	never	# ả 0x1ea3
+Ấ	latin capital letter A with circumflex and acute	all	never	# Ấ 0x1ea4
+ấ	latin small letter A with circumflex and acute	all	never	# ấ 0x1ea5
+Ầ	latin capital letter A with circumflex and grave	all	never	# Ầ 0x1ea6
+ầ	latin small letter A with circumflex and grave	all	never	# ầ 0x1ea7
+Ẩ	latin capital letter A with circumflex and hook above	all	never	# Ẩ 0x1ea8
+ẩ	latin small letter A with circumflex and hook above	all	never	# ẩ 0x1ea9
+Ẫ	latin capital letter A with circumflex and tilde	all	never	# Ẫ 0x1eaa
+ẫ	latin small letter A with circumflex and tilde	all	never	# ẫ 0x1eab
+Ậ	latin capital letter A with circumflex and dot below	all	never	# Ậ 0x1eac
+ậ	latin small letter A with circumflex and dot below	all	never	# ậ 0x1ead
+Ắ	latin capital letter A with breve and acute	all	never	# Ắ 0x1eae
+ắ	latin small letter A with breve and acute	all	never	# ắ 0x1eaf
+Ằ	latin capital letter A with breve and grave	all	never	# Ằ 0x1eb0
+ằ	latin small letter A with breve and grave	all	never	# ằ 0x1eb1
+Ẳ	latin capital letter A with breve and hook above	all	never	# Ẳ 0x1eb2
+ẳ	latin small letter A with breve and hook above	all	never	# ẳ 0x1eb3
+Ẵ	latin capital letter A with breve and tilde	all	never	# Ẵ 0x1eb4
+ẵ	latin small letter A with breve and tilde	all	never	# ẵ 0x1eb5
+Ặ	latin capital letter A with breve and dot below	all	never	# Ặ 0x1eb6
+ặ	latin small letter A with breve and dot below	all	never	# ặ 0x1eb7
+Ẹ	latin capital letter E with dot below	all	never	# Ẹ 0x1eb8
+ẹ	latin small letter E with dot below	all	never	# ẹ 0x1eb9
+Ẻ	latin capital letter E with hook above	all	never	# Ẻ 0x1eba
+ẻ	latin small letter E with hook above	all	never	# ẻ 0x1ebb
+Ẽ	latin capital letter E with tilde	all	never	# Ẽ 0x1ebc
+ẽ	latin small letter E with tilde	all	never	# ẽ 0x1ebd
+Ế	latin capital letter E with circumflex and acute	all	never	# Ế 0x1ebe
+ế	latin small letter E with circumflex and acute	all	never	# ế 0x1ebf
+Ề	latin capital letter E with circumflex and grave	all	never	# Ề 0x1ec0
+ề	latin small letter E with circumflex and grave	all	never	# ề 0x1ec1
+Ể	latin capital letter E with circumflex and hook above	all	never	# Ể 0x1ec2
+ể	latin small letter E with circumflex and hook above	all	never	# ể 0x1ec3
+Ễ	latin capital letter E with circumflex and tilde	all	never	# Ễ 0x1ec4
+ễ	latin small letter E with circumflex and tilde	all	never	# ễ 0x1ec5
+Ệ	latin capital letter E with circumflex and dot below	all	never	# Ệ 0x1ec6
+ệ	latin small letter E with circumflex and dot below	all	never	# ệ 0x1ec7
+Ỉ	latin capital letter I with hook above	all	never	# Ỉ 0x1ec8
+ỉ	latin small letter I with hook above	all	never	# ỉ 0x1ec9
+Ị	latin capital letter I with dot below	all	never	# Ị 0x1eca
+ị	latin small letter I with dot below	all	never	# ị 0x1ecb
+Ọ	latin capital letter O with dot below	all	never	# Ọ 0x1ecc
+ọ	latin small letter O with dot below	all	never	# ọ 0x1ecd
+Ỏ	latin capital letter O with hook above	all	never	# Ỏ 0x1ece
+ỏ	latin small letter O with hook above	all	never	# ỏ 0x1ecf
+Ố	latin capital letter O with circumflex and acute	all	never	# Ố 0x1ed0
+ố	latin small letter O with circumflex and acute	all	never	# ố 0x1ed1
+Ồ	latin capital letter O with circumflex and grave	all	never	# Ồ 0x1ed2
+ồ	latin small letter O with circumflex and grave	all	never	# ồ 0x1ed3
+Ổ	latin capital letter O with circumflex and hook above	all	never	# Ổ 0x1ed4
+ổ	latin small letter O with circumflex and hook above	all	never	# ổ 0x1ed5
+Ỗ	latin capital letter O with circumflex and tilde	all	never	# Ỗ 0x1ed6
+ỗ	latin small letter O with circumflex and tilde	all	never	# ỗ 0x1ed7
+Ộ	latin capital letter O with circumflex and dot below	all	never	# Ộ 0x1ed8
+ộ	latin small letter O with circumflex and dot below	all	never	# ộ 0x1ed9
+Ớ	latin capital letter O with horn and acute	all	never	# Ớ 0x1eda
+ớ	latin small letter O with horn and acute	all	never	# ớ 0x1edb
+Ờ	latin capital letter O with horn and grave	all	never	# Ờ 0x1edc
+ờ	latin small letter O with horn and grave	all	never	# ờ 0x1edd
+Ở	latin capital letter O with horn and hook above	all	never	# Ở 0x1ede
+ở	latin small letter O with horn and hook above	all	never	# ở 0x1edf
+Ỡ	latin capital letter O with horn and tilde	all	never	# Ỡ 0x1ee0
+ỡ	latin small letter O with horn and tilde	all	never	# ỡ 0x1ee1
+Ợ	latin capital letter O with horn and dot below	all	never	# Ợ 0x1ee2
+ợ	latin small letter O with horn and dot below	all	never	# ợ 0x1ee3
+Ụ	latin capital letter U with dot below	all	never	# Ụ 0x1ee4
+ụ	latin small letter U with dot below	all	never	# ụ 0x1ee5
+Ủ	latin capital letter U with hook above	all	never	# Ủ 0x1ee6
+ủ	latin small letter U with hook above	all	never	# ủ 0x1ee7
+Ứ	latin capital letter U with horn and acute	all	never	# Ứ 0x1ee8
+ứ	latin small letter U with horn and acute	all	never	# ứ 0x1ee9
+Ừ	latin capital letter U with horn and grave	all	never	# Ừ 0x1eea
+ừ	latin small letter U with horn and grave	all	never	# ừ 0x1eeb
+Ử	latin capital letter U with horn and hook above	all	never	# Ử 0x1eec
+ử	latin small letter U with horn and hook above	all	never	# ử 0x1eed
+Ữ	latin capital letter U with horn and tilde	all	never	# Ữ 0x1eee
+ữ	latin small letter U with horn and tilde	all	never	# ữ 0x1eef
+Ự	latin capital letter U with horn and dot below	all	never	# Ự 0x1ef0
+ự	latin small letter U with horn and dot below	all	never	# ự 0x1ef1
+Ỳ	latin capital letter Y with grave	all	never	# Ỳ 0x1ef2
+ỳ	latin small letter Y with grave	all	never	# ỳ 0x1ef3
+Ỵ	latin capital letter Y with dot below	all	never	# Ỵ 0x1ef4
+ỵ	latin small letter Y with dot below	all	never	# ỵ 0x1ef5
+Ỷ	latin capital letter Y with hook above	all	never	# Ỷ 0x1ef6
+ỷ	latin small letter Y with hook above	all	never	# ỷ 0x1ef7
+Ỹ	latin capital letter Y with tilde	all	never	# Ỹ 0x1ef8
+ỹ	latin small letter Y with tilde	all	never	# ỹ 0x1ef9
+Ỻ	latin capital letter middle-welsh ll	all	never	# Ỻ 0x1efa
+ỻ	latin small letter middle-welsh ll	all	never	# ỻ 0x1efb
+Ỽ	latin capital letter middle-welsh V	all	never	# Ỽ 0x1efc
+ỽ	latin small letter middle-welsh V	all	never	# ỽ 0x1efd
+Ỿ	latin capital letter Y with loop	all	never	# Ỿ 0x1efe
+ỿ	latin small letter Y with loop	all	never	# ỿ 0x1eff

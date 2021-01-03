@@ -1,0 +1,13 @@
+# # Ideographic Description Characters
+⿰	ideographic description character left to right	all	never	# ⿰ 0x2ff0
+⿱	ideographic description character above to below	all	never	# ⿱ 0x2ff1
+⿲	ideographic description character left to middle and right	all	never	# ⿲ 0x2ff2
+⿳	ideographic description character above to middle and below	all	never	# ⿳ 0x2ff3
+⿴	ideographic description character full surround	all	never	# ⿴ 0x2ff4
+⿵	ideographic description character surround from above	all	never	# ⿵ 0x2ff5
+⿶	ideographic description character surround from below	all	never	# ⿶ 0x2ff6
+⿷	ideographic description character surround from left	all	never	# ⿷ 0x2ff7
+⿸	ideographic description character surround from upper left	all	never	# ⿸ 0x2ff8
+⿹	ideographic description character surround from upper right	all	never	# ⿹ 0x2ff9
+⿺	ideographic description character surround from lower left	all	never	# ⿺ 0x2ffa
+⿻	ideographic description character overlaid	all	never	# ⿻ 0x2ffb

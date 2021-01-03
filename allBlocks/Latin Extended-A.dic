@@ -1,0 +1,129 @@
+# # Latin Extended-A
+Ā	latin capital letter A with macron	all	never	# Ā 0x100
+ā	latin small letter A with macron	all	never	# ā 0x101
+Ă	latin capital letter A with breve	all	never	# Ă 0x102
+ă	latin small letter A with breve	all	never	# ă 0x103
+Ą	latin capital letter A with ogonek	all	never	# Ą 0x104
+ą	latin small letter A with ogonek	all	never	# ą 0x105
+Ć	latin capital letter C with acute	all	never	# Ć 0x106
+ć	latin small letter C with acute	all	never	# ć 0x107
+Ĉ	latin capital letter C with circumflex	all	never	# Ĉ 0x108
+ĉ	latin small letter C with circumflex	all	never	# ĉ 0x109
+Ċ	latin capital letter C with dot above	all	never	# Ċ 0x10a
+ċ	latin small letter C with dot above	all	never	# ċ 0x10b
+Č	latin capital letter C with caron	all	never	# Č 0x10c
+č	latin small letter C with caron	all	never	# č 0x10d
+Ď	latin capital letter D with caron	all	never	# Ď 0x10e
+ď	latin small letter D with caron	all	never	# ď 0x10f
+Đ	latin capital letter D with stroke	all	never	# Đ 0x110
+đ	latin small letter D with stroke	all	never	# đ 0x111
+Ē	latin capital letter E with macron	all	never	# Ē 0x112
+ē	latin small letter E with macron	all	never	# ē 0x113
+Ĕ	latin capital letter E with breve	all	never	# Ĕ 0x114
+ĕ	latin small letter E with breve	all	never	# ĕ 0x115
+Ė	latin capital letter E with dot above	all	never	# Ė 0x116
+ė	latin small letter E with dot above	all	never	# ė 0x117
+Ę	latin capital letter E with ogonek	all	never	# Ę 0x118
+ę	latin small letter E with ogonek	all	never	# ę 0x119
+Ě	latin capital letter E with caron	all	never	# Ě 0x11a
+ě	latin small letter E with caron	all	never	# ě 0x11b
+Ĝ	latin capital letter G with circumflex	all	never	# Ĝ 0x11c
+ĝ	latin small letter G with circumflex	all	never	# ĝ 0x11d
+Ğ	latin capital letter G with breve	all	never	# Ğ 0x11e
+ğ	latin small letter G with breve	all	never	# ğ 0x11f
+Ġ	latin capital letter G with dot above	all	never	# Ġ 0x120
+ġ	latin small letter G with dot above	all	never	# ġ 0x121
+Ģ	latin capital letter G with cedilla	all	never	# Ģ 0x122
+ģ	latin small letter G with cedilla	all	never	# ģ 0x123
+Ĥ	latin capital letter H with circumflex	all	never	# Ĥ 0x124
+ĥ	latin small letter H with circumflex	all	never	# ĥ 0x125
+Ħ	latin capital letter H with stroke	all	never	# Ħ 0x126
+ħ	latin small letter H with stroke	all	never	# ħ 0x127
+Ĩ	latin capital letter I with tilde	all	never	# Ĩ 0x128
+ĩ	latin small letter I with tilde	all	never	# ĩ 0x129
+Ī	latin capital letter I with macron	all	never	# Ī 0x12a
+ī	latin small letter I with macron	all	never	# ī 0x12b
+Ĭ	latin capital letter I with breve	all	never	# Ĭ 0x12c
+ĭ	latin small letter I with breve	all	never	# ĭ 0x12d
+Į	latin capital letter I with ogonek	all	never	# Į 0x12e
+į	latin small letter I with ogonek	all	never	# į 0x12f
+İ	latin capital letter I with dot above	all	never	# İ 0x130
+ı	latin small letter dotless I	all	never	# ı 0x131
+Ĳ	latin capital ligature ij	all	never	# Ĳ 0x132
+ĳ	latin small ligature ij	all	never	# ĳ 0x133
+Ĵ	latin capital letter J with circumflex	all	never	# Ĵ 0x134
+ĵ	latin small letter J with circumflex	all	never	# ĵ 0x135
+Ķ	latin capital letter K with cedilla	all	never	# Ķ 0x136
+ķ	latin small letter K with cedilla	all	never	# ķ 0x137
+ĸ	latin small letter kra	all	never	# ĸ 0x138
+Ĺ	latin capital letter L with acute	all	never	# Ĺ 0x139
+ĺ	latin small letter L with acute	all	never	# ĺ 0x13a
+Ļ	latin capital letter L with cedilla	all	never	# Ļ 0x13b
+ļ	latin small letter L with cedilla	all	never	# ļ 0x13c
+Ľ	latin capital letter L with caron	all	never	# Ľ 0x13d
+ľ	latin small letter L with caron	all	never	# ľ 0x13e
+Ŀ	latin capital letter L with middle dot	all	never	# Ŀ 0x13f
+ŀ	latin small letter L with middle dot	all	never	# ŀ 0x140
+Ł	latin capital letter L with stroke	all	never	# Ł 0x141
+ł	latin small letter L with stroke	all	never	# ł 0x142
+Ń	latin capital letter N with acute	all	never	# Ń 0x143
+ń	latin small letter N with acute	all	never	# ń 0x144
+Ņ	latin capital letter N with cedilla	all	never	# Ņ 0x145
+ņ	latin small letter N with cedilla	all	never	# ņ 0x146
+Ň	latin capital letter N with caron	all	never	# Ň 0x147
+ň	latin small letter N with caron	all	never	# ň 0x148
+ŉ	latin small letter N preceded by apostrophe	all	never	# ŉ 0x149
+Ŋ	latin capital letter eng	all	never	# Ŋ 0x14a
+ŋ	latin small letter eng	all	never	# ŋ 0x14b
+Ō	latin capital letter O with macron	all	never	# Ō 0x14c
+ō	latin small letter O with macron	all	never	# ō 0x14d
+Ŏ	latin capital letter O with breve	all	never	# Ŏ 0x14e
+ŏ	latin small letter O with breve	all	never	# ŏ 0x14f
+Ő	latin capital letter O with double acute	all	never	# Ő 0x150
+ő	latin small letter O with double acute	all	never	# ő 0x151
+Œ	latin capital ligature oe	all	never	# Œ 0x152
+œ	latin small ligature oe	all	never	# œ 0x153
+Ŕ	latin capital letter R with acute	all	never	# Ŕ 0x154
+ŕ	latin small letter R with acute	all	never	# ŕ 0x155
+Ŗ	latin capital letter R with cedilla	all	never	# Ŗ 0x156
+ŗ	latin small letter R with cedilla	all	never	# ŗ 0x157
+Ř	latin capital letter R with caron	all	never	# Ř 0x158
+ř	latin small letter R with caron	all	never	# ř 0x159
+Ś	latin capital letter S with acute	all	never	# Ś 0x15a
+ś	latin small letter S with acute	all	never	# ś 0x15b
+Ŝ	latin capital letter S with circumflex	all	never	# Ŝ 0x15c
+ŝ	latin small letter S with circumflex	all	never	# ŝ 0x15d
+Ş	latin capital letter S with cedilla	all	never	# Ş 0x15e
+ş	latin small letter S with cedilla	all	never	# ş 0x15f
+Š	latin capital letter S with caron	all	never	# Š 0x160
+š	latin small letter S with caron	all	never	# š 0x161
+Ţ	latin capital letter T with cedilla	all	never	# Ţ 0x162
+ţ	latin small letter T with cedilla	all	never	# ţ 0x163
+Ť	latin capital letter T with caron	all	never	# Ť 0x164
+ť	latin small letter T with caron	all	never	# ť 0x165
+Ŧ	latin capital letter T with stroke	all	never	# Ŧ 0x166
+ŧ	latin small letter T with stroke	all	never	# ŧ 0x167
+Ũ	latin capital letter U with tilde	all	never	# Ũ 0x168
+ũ	latin small letter U with tilde	all	never	# ũ 0x169
+Ū	latin capital letter U with macron	all	never	# Ū 0x16a
+ū	latin small letter U with macron	all	never	# ū 0x16b
+Ŭ	latin capital letter U with breve	all	never	# Ŭ 0x16c
+ŭ	latin small letter U with breve	all	never	# ŭ 0x16d
+Ů	latin capital letter U with ring above	all	never	# Ů 0x16e
+ů	latin small letter U with ring above	all	never	# ů 0x16f
+Ű	latin capital letter U with double acute	all	never	# Ű 0x170
+ű	latin small letter U with double acute	all	never	# ű 0x171
+Ų	latin capital letter U with ogonek	all	never	# Ų 0x172
+ų	latin small letter U with ogonek	all	never	# ų 0x173
+Ŵ	latin capital letter W with circumflex	all	never	# Ŵ 0x174
+ŵ	latin small letter W with circumflex	all	never	# ŵ 0x175
+Ŷ	latin capital letter Y with circumflex	all	never	# Ŷ 0x176
+ŷ	latin small letter Y with circumflex	all	never	# ŷ 0x177
+Ÿ	latin capital letter Y with diaeresis	all	never	# Ÿ 0x178
+Ź	latin capital letter Z with acute	all	never	# Ź 0x179
+ź	latin small letter Z with acute	all	never	# ź 0x17a
+Ż	latin capital letter Z with dot above	all	never	# Ż 0x17b
+ż	latin small letter Z with dot above	all	never	# ż 0x17c
+Ž	latin capital letter Z with caron	all	never	# Ž 0x17d
+ž	latin small letter Z with caron	all	never	# ž 0x17e
+ſ	latin small letter long S	all	never	# ſ 0x17f

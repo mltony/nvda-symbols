@@ -1,0 +1,30 @@
+# # Mandaic
+ࡀ	mandaic letter halqa	all	never	# ࡀ 0x840
+ࡁ	mandaic letter ab	all	never	# ࡁ 0x841
+ࡂ	mandaic letter ag	all	never	# ࡂ 0x842
+ࡃ	mandaic letter ad	all	never	# ࡃ 0x843
+ࡄ	mandaic letter ah	all	never	# ࡄ 0x844
+ࡅ	mandaic letter ushenna	all	never	# ࡅ 0x845
+ࡆ	mandaic letter az	all	never	# ࡆ 0x846
+ࡇ	mandaic letter it	all	never	# ࡇ 0x847
+ࡈ	mandaic letter att	all	never	# ࡈ 0x848
+ࡉ	mandaic letter aksa	all	never	# ࡉ 0x849
+ࡊ	mandaic letter ak	all	never	# ࡊ 0x84a
+ࡋ	mandaic letter al	all	never	# ࡋ 0x84b
+ࡌ	mandaic letter am	all	never	# ࡌ 0x84c
+ࡍ	mandaic letter an	all	never	# ࡍ 0x84d
+ࡎ	mandaic letter as	all	never	# ࡎ 0x84e
+ࡏ	mandaic letter in	all	never	# ࡏ 0x84f
+ࡐ	mandaic letter ap	all	never	# ࡐ 0x850
+ࡑ	mandaic letter asz	all	never	# ࡑ 0x851
+ࡒ	mandaic letter aq	all	never	# ࡒ 0x852
+ࡓ	mandaic letter ar	all	never	# ࡓ 0x853
+ࡔ	mandaic letter ash	all	never	# ࡔ 0x854
+ࡕ	mandaic letter at	all	never	# ࡕ 0x855
+ࡖ	mandaic letter dushenna	all	never	# ࡖ 0x856
+ࡗ	mandaic letter kad	all	never	# ࡗ 0x857
+ࡘ	mandaic letter ain	all	never	# ࡘ 0x858
+࡙	mandaic affrication mark	all	never	# ࡙ 0x859
+࡚	mandaic vocalization mark	all	never	# ࡚ 0x85a
+࡛	mandaic gemination mark	all	never	# ࡛ 0x85b
+࡞	mandaic punctuation	all	never	# ࡞ 0x85e

@@ -1,0 +1,256 @@
+# # Miscellaneous Technical
+⌀	diameter sign	all	never	# ⌀ 0x2300
+⌁	electric arrow	all	never	# ⌁ 0x2301
+⌂	house	all	never	# ⌂ 0x2302
+⌃	up arrowhead	all	never	# ⌃ 0x2303
+⌄	down arrowhead	all	never	# ⌄ 0x2304
+⌅	projective	all	never	# ⌅ 0x2305
+⌆	perspective	all	never	# ⌆ 0x2306
+⌇	wavy line	all	never	# ⌇ 0x2307
+⌈	left ceiling	all	never	# ⌈ 0x2308
+⌉	right ceiling	all	never	# ⌉ 0x2309
+⌊	left floor	all	never	# ⌊ 0x230a
+⌋	right floor	all	never	# ⌋ 0x230b
+⌌	bottom right crop	all	never	# ⌌ 0x230c
+⌍	bottom left crop	all	never	# ⌍ 0x230d
+⌎	top right crop	all	never	# ⌎ 0x230e
+⌏	top left crop	all	never	# ⌏ 0x230f
+⌐	reversed not sign	all	never	# ⌐ 0x2310
+⌑	square lozenge	all	never	# ⌑ 0x2311
+⌒	arc	all	never	# ⌒ 0x2312
+⌓	segment	all	never	# ⌓ 0x2313
+⌔	sector	all	never	# ⌔ 0x2314
+⌕	telephone recorder	all	never	# ⌕ 0x2315
+⌖	position indicator	all	never	# ⌖ 0x2316
+⌗	viewdata square	all	never	# ⌗ 0x2317
+# ⌘	place of interest sign	all	never	# ⌘ 0x2318
+⌙	turned not sign	all	never	# ⌙ 0x2319
+⌚	watch	all	never	# ⌚ 0x231a
+⌛	hourglass	all	never	# ⌛ 0x231b
+⌜	top left corner	all	never	# ⌜ 0x231c
+⌝	top right corner	all	never	# ⌝ 0x231d
+⌞	bottom left corner	all	never	# ⌞ 0x231e
+⌟	bottom right corner	all	never	# ⌟ 0x231f
+⌠	top half integral	all	never	# ⌠ 0x2320
+⌡	bottom half integral	all	never	# ⌡ 0x2321
+⌢	frown	all	never	# ⌢ 0x2322
+⌣	smile	all	never	# ⌣ 0x2323
+⌤	up arrowhead between two horizontal bars	all	never	# ⌤ 0x2324
+⌥	option key	all	never	# ⌥ 0x2325
+⌦	erase to the right	all	never	# ⌦ 0x2326
+⌧	X in A rectangle box	all	never	# ⌧ 0x2327
+⌨	keyboard	all	never	# ⌨ 0x2328
+〈	left-pointing angle bracket	all	never	# 〈 0x2329
+〉	right-pointing angle bracket	all	never	# 〉 0x232a
+⌫	erase to the left	all	never	# ⌫ 0x232b
+⌬	benzene ring	all	never	# ⌬ 0x232c
+⌭	cylindricity	all	never	# ⌭ 0x232d
+⌮	all around-profile	all	never	# ⌮ 0x232e
+⌯	symmetry	all	never	# ⌯ 0x232f
+⌰	total runout	all	never	# ⌰ 0x2330
+⌱	dimension origin	all	never	# ⌱ 0x2331
+⌲	conical taper	all	never	# ⌲ 0x2332
+⌳	slope	all	never	# ⌳ 0x2333
+⌴	counterbore	all	never	# ⌴ 0x2334
+⌵	countersink	all	never	# ⌵ 0x2335
+⌶	apl functional symbol I-beam	all	never	# ⌶ 0x2336
+⌷	apl functional symbol squish quad	all	never	# ⌷ 0x2337
+⌸	apl functional symbol quad equal	all	never	# ⌸ 0x2338
+⌹	apl functional symbol quad divide	all	never	# ⌹ 0x2339
+⌺	apl functional symbol quad diamond	all	never	# ⌺ 0x233a
+⌻	apl functional symbol quad jot	all	never	# ⌻ 0x233b
+⌼	apl functional symbol quad circle	all	never	# ⌼ 0x233c
+⌽	apl functional symbol circle stile	all	never	# ⌽ 0x233d
+⌾	apl functional symbol circle jot	all	never	# ⌾ 0x233e
+⌿	apl functional symbol slash bar	all	never	# ⌿ 0x233f
+⍀	apl functional symbol backslash bar	all	never	# ⍀ 0x2340
+⍁	apl functional symbol quad slash	all	never	# ⍁ 0x2341
+⍂	apl functional symbol quad backslash	all	never	# ⍂ 0x2342
+⍃	apl functional symbol quad less-than	all	never	# ⍃ 0x2343
+⍄	apl functional symbol quad greater-than	all	never	# ⍄ 0x2344
+⍅	apl functional symbol leftwards vane	all	never	# ⍅ 0x2345
+⍆	apl functional symbol rightwards vane	all	never	# ⍆ 0x2346
+⍇	apl functional symbol quad leftwards arrow	all	never	# ⍇ 0x2347
+⍈	apl functional symbol quad rightwards arrow	all	never	# ⍈ 0x2348
+⍉	apl functional symbol circle backslash	all	never	# ⍉ 0x2349
+⍊	apl functional symbol down tack underbar	all	never	# ⍊ 0x234a
+⍋	apl functional symbol delta stile	all	never	# ⍋ 0x234b
+⍌	apl functional symbol quad down caret	all	never	# ⍌ 0x234c
+⍍	apl functional symbol quad delta	all	never	# ⍍ 0x234d
+⍎	apl functional symbol down tack jot	all	never	# ⍎ 0x234e
+⍏	apl functional symbol upwards vane	all	never	# ⍏ 0x234f
+⍐	apl functional symbol quad upwards arrow	all	never	# ⍐ 0x2350
+⍑	apl functional symbol up tack overbar	all	never	# ⍑ 0x2351
+⍒	apl functional symbol del stile	all	never	# ⍒ 0x2352
+⍓	apl functional symbol quad up caret	all	never	# ⍓ 0x2353
+⍔	apl functional symbol quad del	all	never	# ⍔ 0x2354
+⍕	apl functional symbol up tack jot	all	never	# ⍕ 0x2355
+⍖	apl functional symbol downwards vane	all	never	# ⍖ 0x2356
+⍗	apl functional symbol quad downwards arrow	all	never	# ⍗ 0x2357
+⍘	apl functional symbol quote underbar	all	never	# ⍘ 0x2358
+⍙	apl functional symbol delta underbar	all	never	# ⍙ 0x2359
+⍚	apl functional symbol diamond underbar	all	never	# ⍚ 0x235a
+⍛	apl functional symbol jot underbar	all	never	# ⍛ 0x235b
+⍜	apl functional symbol circle underbar	all	never	# ⍜ 0x235c
+⍝	apl functional symbol up shoe jot	all	never	# ⍝ 0x235d
+⍞	apl functional symbol quote quad	all	never	# ⍞ 0x235e
+⍟	apl functional symbol circle star	all	never	# ⍟ 0x235f
+⍠	apl functional symbol quad colon	all	never	# ⍠ 0x2360
+⍡	apl functional symbol up tack diaeresis	all	never	# ⍡ 0x2361
+⍢	apl functional symbol del diaeresis	all	never	# ⍢ 0x2362
+⍣	apl functional symbol star diaeresis	all	never	# ⍣ 0x2363
+⍤	apl functional symbol jot diaeresis	all	never	# ⍤ 0x2364
+⍥	apl functional symbol circle diaeresis	all	never	# ⍥ 0x2365
+⍦	apl functional symbol down shoe stile	all	never	# ⍦ 0x2366
+⍧	apl functional symbol left shoe stile	all	never	# ⍧ 0x2367
+⍨	apl functional symbol tilde diaeresis	all	never	# ⍨ 0x2368
+⍩	apl functional symbol greater-than diaeresis	all	never	# ⍩ 0x2369
+⍪	apl functional symbol comma bar	all	never	# ⍪ 0x236a
+⍫	apl functional symbol del tilde	all	never	# ⍫ 0x236b
+⍬	apl functional symbol zilde	all	never	# ⍬ 0x236c
+⍭	apl functional symbol stile tilde	all	never	# ⍭ 0x236d
+⍮	apl functional symbol semicolon underbar	all	never	# ⍮ 0x236e
+⍯	apl functional symbol quad not equal	all	never	# ⍯ 0x236f
+⍰	apl functional symbol quad question	all	never	# ⍰ 0x2370
+⍱	apl functional symbol down caret tilde	all	never	# ⍱ 0x2371
+⍲	apl functional symbol up caret tilde	all	never	# ⍲ 0x2372
+⍳	apl functional symbol iota	all	never	# ⍳ 0x2373
+⍴	apl functional symbol rho	all	never	# ⍴ 0x2374
+⍵	apl functional symbol omega	all	never	# ⍵ 0x2375
+⍶	apl functional symbol alpha underbar	all	never	# ⍶ 0x2376
+⍷	apl functional symbol epsilon underbar	all	never	# ⍷ 0x2377
+⍸	apl functional symbol iota underbar	all	never	# ⍸ 0x2378
+⍹	apl functional symbol omega underbar	all	never	# ⍹ 0x2379
+⍺	apl functional symbol alpha	all	never	# ⍺ 0x237a
+⍻	not check mark	all	never	# ⍻ 0x237b
+⍼	right angle with downwards zigzag arrow	all	never	# ⍼ 0x237c
+⍽	shouldered open box	all	never	# ⍽ 0x237d
+⍾	bell symbol	all	never	# ⍾ 0x237e
+⍿	vertical line with middle dot	all	never	# ⍿ 0x237f
+⎀	insertion symbol	all	never	# ⎀ 0x2380
+⎁	continuous underline symbol	all	never	# ⎁ 0x2381
+⎂	discontinuous underline symbol	all	never	# ⎂ 0x2382
+⎃	emphasis symbol	all	never	# ⎃ 0x2383
+⎄	composition symbol	all	never	# ⎄ 0x2384
+⎅	white square with centre vertical line	all	never	# ⎅ 0x2385
+⎆	enter symbol	all	never	# ⎆ 0x2386
+⎇	alternative key symbol	all	never	# ⎇ 0x2387
+⎈	helm symbol	all	never	# ⎈ 0x2388
+⎉	circled horizontal bar with notch	all	never	# ⎉ 0x2389
+⎊	circled triangle down	all	never	# ⎊ 0x238a
+⎋	broken circle with northwest arrow	all	never	# ⎋ 0x238b
+⎌	undo symbol	all	never	# ⎌ 0x238c
+⎍	monostable symbol	all	never	# ⎍ 0x238d
+⎎	hysteresis symbol	all	never	# ⎎ 0x238e
+⎏	open-circuit-output H-type symbol	all	never	# ⎏ 0x238f
+⎐	open-circuit-output L-type symbol	all	never	# ⎐ 0x2390
+⎑	passive-pull-down-output symbol	all	never	# ⎑ 0x2391
+⎒	passive-pull-up-output symbol	all	never	# ⎒ 0x2392
+⎓	direct current symbol form two	all	never	# ⎓ 0x2393
+⎔	software-function symbol	all	never	# ⎔ 0x2394
+⎕	apl functional symbol quad	all	never	# ⎕ 0x2395
+⎖	decimal separator key symbol	all	never	# ⎖ 0x2396
+⎗	previous page	all	never	# ⎗ 0x2397
+⎘	next page	all	never	# ⎘ 0x2398
+⎙	print screen symbol	all	never	# ⎙ 0x2399
+⎚	clear screen symbol	all	never	# ⎚ 0x239a
+⎛	left parenthesis upper hook	all	never	# ⎛ 0x239b
+⎜	left parenthesis extension	all	never	# ⎜ 0x239c
+⎝	left parenthesis lower hook	all	never	# ⎝ 0x239d
+⎞	right parenthesis upper hook	all	never	# ⎞ 0x239e
+⎟	right parenthesis extension	all	never	# ⎟ 0x239f
+⎠	right parenthesis lower hook	all	never	# ⎠ 0x23a0
+⎡	left square bracket upper corner	all	never	# ⎡ 0x23a1
+⎢	left square bracket extension	all	never	# ⎢ 0x23a2
+⎣	left square bracket lower corner	all	never	# ⎣ 0x23a3
+⎤	right square bracket upper corner	all	never	# ⎤ 0x23a4
+⎥	right square bracket extension	all	never	# ⎥ 0x23a5
+⎦	right square bracket lower corner	all	never	# ⎦ 0x23a6
+⎧	left curly bracket upper hook	all	never	# ⎧ 0x23a7
+⎨	left curly bracket middle piece	all	never	# ⎨ 0x23a8
+⎩	left curly bracket lower hook	all	never	# ⎩ 0x23a9
+⎪	curly bracket extension	all	never	# ⎪ 0x23aa
+⎫	right curly bracket upper hook	all	never	# ⎫ 0x23ab
+⎬	right curly bracket middle piece	all	never	# ⎬ 0x23ac
+⎭	right curly bracket lower hook	all	never	# ⎭ 0x23ad
+⎮	integral extension	all	never	# ⎮ 0x23ae
+⎯	horizontal line extension	all	never	# ⎯ 0x23af
+⎰	upper left or lower right curly bracket section	all	never	# ⎰ 0x23b0
+⎱	upper right or lower left curly bracket section	all	never	# ⎱ 0x23b1
+⎲	summation top	all	never	# ⎲ 0x23b2
+⎳	summation bottom	all	never	# ⎳ 0x23b3
+⎴	top square bracket	all	never	# ⎴ 0x23b4
+⎵	bottom square bracket	all	never	# ⎵ 0x23b5
+⎶	bottom square bracket over top square bracket	all	never	# ⎶ 0x23b6
+⎷	radical symbol bottom	all	never	# ⎷ 0x23b7
+⎸	left vertical box line	all	never	# ⎸ 0x23b8
+⎹	right vertical box line	all	never	# ⎹ 0x23b9
+⎺	horizontal scan line-1	all	never	# ⎺ 0x23ba
+⎻	horizontal scan line-3	all	never	# ⎻ 0x23bb
+⎼	horizontal scan line-7	all	never	# ⎼ 0x23bc
+⎽	horizontal scan line-9	all	never	# ⎽ 0x23bd
+⎾	dentistry symbol light vertical and top right	all	never	# ⎾ 0x23be
+⎿	dentistry symbol light vertical and bottom right	all	never	# ⎿ 0x23bf
+⏀	dentistry symbol light vertical with circle	all	never	# ⏀ 0x23c0
+⏁	dentistry symbol light down and horizontal with circle	all	never	# ⏁ 0x23c1
+⏂	dentistry symbol light up and horizontal with circle	all	never	# ⏂ 0x23c2
+⏃	dentistry symbol light vertical with triangle	all	never	# ⏃ 0x23c3
+⏄	dentistry symbol light down and horizontal with triangle	all	never	# ⏄ 0x23c4
+⏅	dentistry symbol light up and horizontal with triangle	all	never	# ⏅ 0x23c5
+⏆	dentistry symbol light vertical and wave	all	never	# ⏆ 0x23c6
+⏇	dentistry symbol light down and horizontal with wave	all	never	# ⏇ 0x23c7
+⏈	dentistry symbol light up and horizontal with wave	all	never	# ⏈ 0x23c8
+⏉	dentistry symbol light down and horizontal	all	never	# ⏉ 0x23c9
+⏊	dentistry symbol light up and horizontal	all	never	# ⏊ 0x23ca
+⏋	dentistry symbol light vertical and top left	all	never	# ⏋ 0x23cb
+⏌	dentistry symbol light vertical and bottom left	all	never	# ⏌ 0x23cc
+⏍	square foot	all	never	# ⏍ 0x23cd
+⏎	return symbol	all	never	# ⏎ 0x23ce
+⏏	eject symbol	all	never	# ⏏ 0x23cf
+⏐	vertical line extension	all	never	# ⏐ 0x23d0
+⏑	metrical breve	all	never	# ⏑ 0x23d1
+⏒	metrical long over short	all	never	# ⏒ 0x23d2
+⏓	metrical short over long	all	never	# ⏓ 0x23d3
+⏔	metrical long over two shorts	all	never	# ⏔ 0x23d4
+⏕	metrical two shorts over long	all	never	# ⏕ 0x23d5
+⏖	metrical two shorts joined	all	never	# ⏖ 0x23d6
+⏗	metrical triseme	all	never	# ⏗ 0x23d7
+⏘	metrical tetraseme	all	never	# ⏘ 0x23d8
+⏙	metrical pentaseme	all	never	# ⏙ 0x23d9
+⏚	earth ground	all	never	# ⏚ 0x23da
+⏛	fuse	all	never	# ⏛ 0x23db
+⏜	top parenthesis	all	never	# ⏜ 0x23dc
+⏝	bottom parenthesis	all	never	# ⏝ 0x23dd
+⏞	top curly bracket	all	never	# ⏞ 0x23de
+⏟	bottom curly bracket	all	never	# ⏟ 0x23df
+⏠	top tortoise shell bracket	all	never	# ⏠ 0x23e0
+⏡	bottom tortoise shell bracket	all	never	# ⏡ 0x23e1
+⏢	white trapezium	all	never	# ⏢ 0x23e2
+⏣	benzene ring with circle	all	never	# ⏣ 0x23e3
+⏤	straightness	all	never	# ⏤ 0x23e4
+⏥	flatness	all	never	# ⏥ 0x23e5
+⏦	ac current	all	never	# ⏦ 0x23e6
+⏧	electrical intersection	all	never	# ⏧ 0x23e7
+⏨	decimal exponent symbol	all	never	# ⏨ 0x23e8
+⏩	black right-pointing double triangle	all	never	# ⏩ 0x23e9
+⏪	black left-pointing double triangle	all	never	# ⏪ 0x23ea
+⏫	black up-pointing double triangle	all	never	# ⏫ 0x23eb
+⏬	black down-pointing double triangle	all	never	# ⏬ 0x23ec
+⏭	black right-pointing double triangle with vertical bar	all	never	# ⏭ 0x23ed
+⏮	black left-pointing double triangle with vertical bar	all	never	# ⏮ 0x23ee
+⏯	black right-pointing triangle with double vertical bar	all	never	# ⏯ 0x23ef
+⏰	alarm clock	all	never	# ⏰ 0x23f0
+⏱	stopwatch	all	never	# ⏱ 0x23f1
+⏲	timer clock	all	never	# ⏲ 0x23f2
+⏳	hourglass with flowing sand	all	never	# ⏳ 0x23f3
+⏴	black medium left-pointing triangle	all	never	# ⏴ 0x23f4
+⏵	black medium right-pointing triangle	all	never	# ⏵ 0x23f5
+⏶	black medium up-pointing triangle	all	never	# ⏶ 0x23f6
+⏷	black medium down-pointing triangle	all	never	# ⏷ 0x23f7
+⏸	double vertical bar	all	never	# ⏸ 0x23f8
+⏹	black square for stop	all	never	# ⏹ 0x23f9
+⏺	black circle for record	all	never	# ⏺ 0x23fa
+⏻	power symbol	all	never	# ⏻ 0x23fb
+⏼	power on-off symbol	all	never	# ⏼ 0x23fc
+⏽	power on symbol	all	never	# ⏽ 0x23fd
+⏾	power sleep symbol	all	never	# ⏾ 0x23fe

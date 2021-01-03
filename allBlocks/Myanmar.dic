@@ -1,0 +1,161 @@
+# # Myanmar
+က	myanmar letter ka	all	never	# က 0x1000
+ခ	myanmar letter kha	all	never	# ခ 0x1001
+ဂ	myanmar letter ga	all	never	# ဂ 0x1002
+ဃ	myanmar letter gha	all	never	# ဃ 0x1003
+င	myanmar letter nga	all	never	# င 0x1004
+စ	myanmar letter ca	all	never	# စ 0x1005
+ဆ	myanmar letter cha	all	never	# ဆ 0x1006
+ဇ	myanmar letter ja	all	never	# ဇ 0x1007
+ဈ	myanmar letter jha	all	never	# ဈ 0x1008
+ဉ	myanmar letter nya	all	never	# ဉ 0x1009
+ည	myanmar letter nnya	all	never	# ည 0x100a
+ဋ	myanmar letter tta	all	never	# ဋ 0x100b
+ဌ	myanmar letter ttha	all	never	# ဌ 0x100c
+ဍ	myanmar letter dda	all	never	# ဍ 0x100d
+ဎ	myanmar letter ddha	all	never	# ဎ 0x100e
+ဏ	myanmar letter nna	all	never	# ဏ 0x100f
+တ	myanmar letter ta	all	never	# တ 0x1010
+ထ	myanmar letter tha	all	never	# ထ 0x1011
+ဒ	myanmar letter da	all	never	# ဒ 0x1012
+ဓ	myanmar letter dha	all	never	# ဓ 0x1013
+န	myanmar letter na	all	never	# န 0x1014
+ပ	myanmar letter pa	all	never	# ပ 0x1015
+ဖ	myanmar letter pha	all	never	# ဖ 0x1016
+ဗ	myanmar letter ba	all	never	# ဗ 0x1017
+ဘ	myanmar letter bha	all	never	# ဘ 0x1018
+မ	myanmar letter ma	all	never	# မ 0x1019
+ယ	myanmar letter ya	all	never	# ယ 0x101a
+ရ	myanmar letter ra	all	never	# ရ 0x101b
+လ	myanmar letter la	all	never	# လ 0x101c
+ဝ	myanmar letter wa	all	never	# ဝ 0x101d
+သ	myanmar letter sa	all	never	# သ 0x101e
+ဟ	myanmar letter ha	all	never	# ဟ 0x101f
+ဠ	myanmar letter lla	all	never	# ဠ 0x1020
+အ	myanmar letter A	all	never	# အ 0x1021
+ဢ	myanmar letter shan A	all	never	# ဢ 0x1022
+ဣ	myanmar letter I	all	never	# ဣ 0x1023
+ဤ	myanmar letter ii	all	never	# ဤ 0x1024
+ဥ	myanmar letter U	all	never	# ဥ 0x1025
+ဦ	myanmar letter uu	all	never	# ဦ 0x1026
+ဧ	myanmar letter E	all	never	# ဧ 0x1027
+ဨ	myanmar letter mon E	all	never	# ဨ 0x1028
+ဩ	myanmar letter O	all	never	# ဩ 0x1029
+ဪ	myanmar letter au	all	never	# ဪ 0x102a
+ါ	myanmar vowel sign tall aa	all	never	# ါ 0x102b
+ာ	myanmar vowel sign aa	all	never	# ာ 0x102c
+ိ	myanmar vowel sign I	all	never	# ိ 0x102d
+ီ	myanmar vowel sign ii	all	never	# ီ 0x102e
+ု	myanmar vowel sign U	all	never	# ု 0x102f
+ူ	myanmar vowel sign uu	all	never	# ူ 0x1030
+ေ	myanmar vowel sign E	all	never	# ေ 0x1031
+ဲ	myanmar vowel sign ai	all	never	# ဲ 0x1032
+ဳ	myanmar vowel sign mon ii	all	never	# ဳ 0x1033
+ဴ	myanmar vowel sign mon O	all	never	# ဴ 0x1034
+ဵ	myanmar vowel sign E above	all	never	# ဵ 0x1035
+ံ	myanmar sign anusvara	all	never	# ံ 0x1036
+့	myanmar sign dot below	all	never	# ့ 0x1037
+း	myanmar sign visarga	all	never	# း 0x1038
+္	myanmar sign virama	all	never	# ္ 0x1039
+်	myanmar sign asat	all	never	# ် 0x103a
+ျ	myanmar consonant sign medial ya	all	never	# ျ 0x103b
+ြ	myanmar consonant sign medial ra	all	never	# ြ 0x103c
+ွ	myanmar consonant sign medial wa	all	never	# ွ 0x103d
+ှ	myanmar consonant sign medial ha	all	never	# ှ 0x103e
+ဿ	myanmar letter great sa	all	never	# ဿ 0x103f
+၀	myanmar digit zero	all	never	# ၀ 0x1040
+၁	myanmar digit one	all	never	# ၁ 0x1041
+၂	myanmar digit two	all	never	# ၂ 0x1042
+၃	myanmar digit three	all	never	# ၃ 0x1043
+၄	myanmar digit four	all	never	# ၄ 0x1044
+၅	myanmar digit five	all	never	# ၅ 0x1045
+၆	myanmar digit six	all	never	# ၆ 0x1046
+၇	myanmar digit seven	all	never	# ၇ 0x1047
+၈	myanmar digit eight	all	never	# ၈ 0x1048
+၉	myanmar digit nine	all	never	# ၉ 0x1049
+၊	myanmar sign little section	all	never	# ၊ 0x104a
+။	myanmar sign section	all	never	# ။ 0x104b
+၌	myanmar symbol locative	all	never	# ၌ 0x104c
+၍	myanmar symbol completed	all	never	# ၍ 0x104d
+၎	myanmar symbol aforementioned	all	never	# ၎ 0x104e
+၏	myanmar symbol genitive	all	never	# ၏ 0x104f
+ၐ	myanmar letter sha	all	never	# ၐ 0x1050
+ၑ	myanmar letter ssa	all	never	# ၑ 0x1051
+ၒ	myanmar letter vocalic R	all	never	# ၒ 0x1052
+ၓ	myanmar letter vocalic rr	all	never	# ၓ 0x1053
+ၔ	myanmar letter vocalic L	all	never	# ၔ 0x1054
+ၕ	myanmar letter vocalic ll	all	never	# ၕ 0x1055
+ၖ	myanmar vowel sign vocalic R	all	never	# ၖ 0x1056
+ၗ	myanmar vowel sign vocalic rr	all	never	# ၗ 0x1057
+ၘ	myanmar vowel sign vocalic L	all	never	# ၘ 0x1058
+ၙ	myanmar vowel sign vocalic ll	all	never	# ၙ 0x1059
+ၚ	myanmar letter mon nga	all	never	# ၚ 0x105a
+ၛ	myanmar letter mon jha	all	never	# ၛ 0x105b
+ၜ	myanmar letter mon bba	all	never	# ၜ 0x105c
+ၝ	myanmar letter mon bbe	all	never	# ၝ 0x105d
+ၞ	myanmar consonant sign mon medial na	all	never	# ၞ 0x105e
+ၟ	myanmar consonant sign mon medial ma	all	never	# ၟ 0x105f
+ၠ	myanmar consonant sign mon medial la	all	never	# ၠ 0x1060
+ၡ	myanmar letter sgaw karen sha	all	never	# ၡ 0x1061
+ၢ	myanmar vowel sign sgaw karen eu	all	never	# ၢ 0x1062
+ၣ	myanmar tone mark sgaw karen hathi	all	never	# ၣ 0x1063
+ၤ	myanmar tone mark sgaw karen ke pho	all	never	# ၤ 0x1064
+ၥ	myanmar letter western pwo karen tha	all	never	# ၥ 0x1065
+ၦ	myanmar letter western pwo karen pwa	all	never	# ၦ 0x1066
+ၧ	myanmar vowel sign western pwo karen eu	all	never	# ၧ 0x1067
+ၨ	myanmar vowel sign western pwo karen ue	all	never	# ၨ 0x1068
+ၩ	myanmar sign western pwo karen tone-1	all	never	# ၩ 0x1069
+ၪ	myanmar sign western pwo karen tone-2	all	never	# ၪ 0x106a
+ၫ	myanmar sign western pwo karen tone-3	all	never	# ၫ 0x106b
+ၬ	myanmar sign western pwo karen tone-4	all	never	# ၬ 0x106c
+ၭ	myanmar sign western pwo karen tone-5	all	never	# ၭ 0x106d
+ၮ	myanmar letter eastern pwo karen nna	all	never	# ၮ 0x106e
+ၯ	myanmar letter eastern pwo karen ywa	all	never	# ၯ 0x106f
+ၰ	myanmar letter eastern pwo karen ghwa	all	never	# ၰ 0x1070
+ၱ	myanmar vowel sign geba karen I	all	never	# ၱ 0x1071
+ၲ	myanmar vowel sign kayah oe	all	never	# ၲ 0x1072
+ၳ	myanmar vowel sign kayah U	all	never	# ၳ 0x1073
+ၴ	myanmar vowel sign kayah ee	all	never	# ၴ 0x1074
+ၵ	myanmar letter shan ka	all	never	# ၵ 0x1075
+ၶ	myanmar letter shan kha	all	never	# ၶ 0x1076
+ၷ	myanmar letter shan ga	all	never	# ၷ 0x1077
+ၸ	myanmar letter shan ca	all	never	# ၸ 0x1078
+ၹ	myanmar letter shan za	all	never	# ၹ 0x1079
+ၺ	myanmar letter shan nya	all	never	# ၺ 0x107a
+ၻ	myanmar letter shan da	all	never	# ၻ 0x107b
+ၼ	myanmar letter shan na	all	never	# ၼ 0x107c
+ၽ	myanmar letter shan pha	all	never	# ၽ 0x107d
+ၾ	myanmar letter shan fa	all	never	# ၾ 0x107e
+ၿ	myanmar letter shan ba	all	never	# ၿ 0x107f
+ႀ	myanmar letter shan tha	all	never	# ႀ 0x1080
+ႁ	myanmar letter shan ha	all	never	# ႁ 0x1081
+ႂ	myanmar consonant sign shan medial wa	all	never	# ႂ 0x1082
+ႃ	myanmar vowel sign shan aa	all	never	# ႃ 0x1083
+ႄ	myanmar vowel sign shan E	all	never	# ႄ 0x1084
+ႅ	myanmar vowel sign shan E above	all	never	# ႅ 0x1085
+ႆ	myanmar vowel sign shan final Y	all	never	# ႆ 0x1086
+ႇ	myanmar sign shan tone-2	all	never	# ႇ 0x1087
+ႈ	myanmar sign shan tone-3	all	never	# ႈ 0x1088
+ႉ	myanmar sign shan tone-5	all	never	# ႉ 0x1089
+ႊ	myanmar sign shan tone-6	all	never	# ႊ 0x108a
+ႋ	myanmar sign shan council tone-2	all	never	# ႋ 0x108b
+ႌ	myanmar sign shan council tone-3	all	never	# ႌ 0x108c
+ႍ	myanmar sign shan council emphatic tone	all	never	# ႍ 0x108d
+ႎ	myanmar letter rumai palaung fa	all	never	# ႎ 0x108e
+ႏ	myanmar sign rumai palaung tone-5	all	never	# ႏ 0x108f
+႐	myanmar shan digit zero	all	never	# ႐ 0x1090
+႑	myanmar shan digit one	all	never	# ႑ 0x1091
+႒	myanmar shan digit two	all	never	# ႒ 0x1092
+႓	myanmar shan digit three	all	never	# ႓ 0x1093
+႔	myanmar shan digit four	all	never	# ႔ 0x1094
+႕	myanmar shan digit five	all	never	# ႕ 0x1095
+႖	myanmar shan digit six	all	never	# ႖ 0x1096
+႗	myanmar shan digit seven	all	never	# ႗ 0x1097
+႘	myanmar shan digit eight	all	never	# ႘ 0x1098
+႙	myanmar shan digit nine	all	never	# ႙ 0x1099
+ႚ	myanmar sign khamti tone-1	all	never	# ႚ 0x109a
+ႛ	myanmar sign khamti tone-3	all	never	# ႛ 0x109b
+ႜ	myanmar vowel sign aiton A	all	never	# ႜ 0x109c
+ႝ	myanmar vowel sign aiton ai	all	never	# ႝ 0x109d
+႞	myanmar symbol shan one	all	never	# ႞ 0x109e
+႟	myanmar symbol shan exclamation	all	never	# ႟ 0x109f

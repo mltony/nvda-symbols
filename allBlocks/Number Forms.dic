@@ -1,0 +1,61 @@
+# # Number Forms
+# ⅐	vulgar fraction one seventh	all	never	# ⅐ 0x2150
+# ⅑	vulgar fraction one ninth	all	never	# ⅑ 0x2151
+# ⅒	vulgar fraction one tenth	all	never	# ⅒ 0x2152
+# ⅓	vulgar fraction one third	all	never	# ⅓ 0x2153
+# ⅔	vulgar fraction two thirds	all	never	# ⅔ 0x2154
+# ⅕	vulgar fraction one fifth	all	never	# ⅕ 0x2155
+# ⅖	vulgar fraction two fifths	all	never	# ⅖ 0x2156
+# ⅗	vulgar fraction three fifths	all	never	# ⅗ 0x2157
+# ⅘	vulgar fraction four fifths	all	never	# ⅘ 0x2158
+# ⅙	vulgar fraction one sixth	all	never	# ⅙ 0x2159
+# ⅚	vulgar fraction five sixths	all	never	# ⅚ 0x215a
+# ⅛	vulgar fraction one eighth	all	never	# ⅛ 0x215b
+# ⅜	vulgar fraction three eighths	all	never	# ⅜ 0x215c
+# ⅝	vulgar fraction five eighths	all	never	# ⅝ 0x215d
+# ⅞	vulgar fraction seven eighths	all	never	# ⅞ 0x215e
+⅟	fraction numerator one	all	never	# ⅟ 0x215f
+Ⅰ	roman numeral one	all	never	# Ⅰ 0x2160
+Ⅱ	roman numeral two	all	never	# Ⅱ 0x2161
+Ⅲ	roman numeral three	all	never	# Ⅲ 0x2162
+Ⅳ	roman numeral four	all	never	# Ⅳ 0x2163
+Ⅴ	roman numeral five	all	never	# Ⅴ 0x2164
+Ⅵ	roman numeral six	all	never	# Ⅵ 0x2165
+Ⅶ	roman numeral seven	all	never	# Ⅶ 0x2166
+Ⅷ	roman numeral eight	all	never	# Ⅷ 0x2167
+Ⅸ	roman numeral nine	all	never	# Ⅸ 0x2168
+Ⅹ	roman numeral ten	all	never	# Ⅹ 0x2169
+Ⅺ	roman numeral eleven	all	never	# Ⅺ 0x216a
+Ⅻ	roman numeral twelve	all	never	# Ⅻ 0x216b
+Ⅼ	roman numeral fifty	all	never	# Ⅼ 0x216c
+Ⅽ	roman numeral one hundred	all	never	# Ⅽ 0x216d
+Ⅾ	roman numeral five hundred	all	never	# Ⅾ 0x216e
+Ⅿ	roman numeral one thousand	all	never	# Ⅿ 0x216f
+ⅰ	small roman numeral one	all	never	# ⅰ 0x2170
+ⅱ	small roman numeral two	all	never	# ⅱ 0x2171
+ⅲ	small roman numeral three	all	never	# ⅲ 0x2172
+ⅳ	small roman numeral four	all	never	# ⅳ 0x2173
+ⅴ	small roman numeral five	all	never	# ⅴ 0x2174
+ⅵ	small roman numeral six	all	never	# ⅵ 0x2175
+ⅶ	small roman numeral seven	all	never	# ⅶ 0x2176
+ⅷ	small roman numeral eight	all	never	# ⅷ 0x2177
+ⅸ	small roman numeral nine	all	never	# ⅸ 0x2178
+ⅹ	small roman numeral ten	all	never	# ⅹ 0x2179
+ⅺ	small roman numeral eleven	all	never	# ⅺ 0x217a
+ⅻ	small roman numeral twelve	all	never	# ⅻ 0x217b
+ⅼ	small roman numeral fifty	all	never	# ⅼ 0x217c
+ⅽ	small roman numeral one hundred	all	never	# ⅽ 0x217d
+ⅾ	small roman numeral five hundred	all	never	# ⅾ 0x217e
+ⅿ	small roman numeral one thousand	all	never	# ⅿ 0x217f
+ↀ	roman numeral one thousand C D	all	never	# ↀ 0x2180
+ↁ	roman numeral five thousand	all	never	# ↁ 0x2181
+ↂ	roman numeral ten thousand	all	never	# ↂ 0x2182
+Ↄ	roman numeral reversed one hundred	all	never	# Ↄ 0x2183
+ↄ	latin small letter reversed C	all	never	# ↄ 0x2184
+ↅ	roman numeral six late form	all	never	# ↅ 0x2185
+ↆ	roman numeral fifty early form	all	never	# ↆ 0x2186
+ↇ	roman numeral fifty thousand	all	never	# ↇ 0x2187
+ↈ	roman numeral one hundred thousand	all	never	# ↈ 0x2188
+↉	vulgar fraction zero thirds	all	never	# ↉ 0x2189
+↊	turned digit two	all	never	# ↊ 0x218a
+↋	turned digit three	all	never	# ↋ 0x218b

@@ -1,0 +1,60 @@
+# # Combining Diacritical Marks Supplement
+᷀	combining dotted grave accent	all	never	# ᷀ 0x1dc0
+᷁	combining dotted acute accent	all	never	# ᷁ 0x1dc1
+᷂	combining snake below	all	never	# ᷂ 0x1dc2
+᷃	combining suspension mark	all	never	# ᷃ 0x1dc3
+᷄	combining macron-acute	all	never	# ᷄ 0x1dc4
+᷅	combining grave-macron	all	never	# ᷅ 0x1dc5
+᷆	combining macron-grave	all	never	# ᷆ 0x1dc6
+᷇	combining acute-macron	all	never	# ᷇ 0x1dc7
+᷈	combining grave-acute-grave	all	never	# ᷈ 0x1dc8
+᷉	combining acute-grave-acute	all	never	# ᷉ 0x1dc9
+᷊	combining latin small letter R below	all	never	# ᷊ 0x1dca
+᷋	combining breve-macron	all	never	# ᷋ 0x1dcb
+᷌	combining macron-breve	all	never	# ᷌ 0x1dcc
+᷍	combining double circumflex above	all	never	# ᷍ 0x1dcd
+᷎	combining ogonek above	all	never	# ᷎ 0x1dce
+᷏	combining zigzag below	all	never	# ᷏ 0x1dcf
+᷐	combining is below	all	never	# ᷐ 0x1dd0
+᷑	combining ur above	all	never	# ᷑ 0x1dd1
+᷒	combining us above	all	never	# ᷒ 0x1dd2
+ᷓ	combining latin small letter flattened open A above	all	never	# ᷓ 0x1dd3
+ᷔ	combining latin small letter ae	all	never	# ᷔ 0x1dd4
+ᷕ	combining latin small letter ao	all	never	# ᷕ 0x1dd5
+ᷖ	combining latin small letter av	all	never	# ᷖ 0x1dd6
+ᷗ	combining latin small letter C cedilla	all	never	# ᷗ 0x1dd7
+ᷘ	combining latin small letter insular D	all	never	# ᷘ 0x1dd8
+ᷙ	combining latin small letter eth	all	never	# ᷙ 0x1dd9
+ᷚ	combining latin small letter G	all	never	# ᷚ 0x1dda
+ᷛ	combining latin letter small capital G	all	never	# ᷛ 0x1ddb
+ᷜ	combining latin small letter K	all	never	# ᷜ 0x1ddc
+ᷝ	combining latin small letter L	all	never	# ᷝ 0x1ddd
+ᷞ	combining latin letter small capital L	all	never	# ᷞ 0x1dde
+ᷟ	combining latin letter small capital M	all	never	# ᷟ 0x1ddf
+ᷠ	combining latin small letter N	all	never	# ᷠ 0x1de0
+ᷡ	combining latin letter small capital N	all	never	# ᷡ 0x1de1
+ᷢ	combining latin letter small capital R	all	never	# ᷢ 0x1de2
+ᷣ	combining latin small letter R rotunda	all	never	# ᷣ 0x1de3
+ᷤ	combining latin small letter S	all	never	# ᷤ 0x1de4
+ᷥ	combining latin small letter long S	all	never	# ᷥ 0x1de5
+ᷦ	combining latin small letter Z	all	never	# ᷦ 0x1de6
+ᷧ	combining latin small letter alpha	all	never	# ᷧ 0x1de7
+ᷨ	combining latin small letter B	all	never	# ᷨ 0x1de8
+ᷩ	combining latin small letter beta	all	never	# ᷩ 0x1de9
+ᷪ	combining latin small letter schwa	all	never	# ᷪ 0x1dea
+ᷫ	combining latin small letter F	all	never	# ᷫ 0x1deb
+ᷬ	combining latin small letter L with double middle tilde	all	never	# ᷬ 0x1dec
+ᷭ	combining latin small letter O with light centralization stroke	all	never	# ᷭ 0x1ded
+ᷮ	combining latin small letter P	all	never	# ᷮ 0x1dee
+ᷯ	combining latin small letter esh	all	never	# ᷯ 0x1def
+ᷰ	combining latin small letter U with light centralization stroke	all	never	# ᷰ 0x1df0
+ᷱ	combining latin small letter W	all	never	# ᷱ 0x1df1
+ᷲ	combining latin small letter A with diaeresis	all	never	# ᷲ 0x1df2
+ᷳ	combining latin small letter O with diaeresis	all	never	# ᷳ 0x1df3
+ᷴ	combining latin small letter U with diaeresis	all	never	# ᷴ 0x1df4
+᷵	combining up tack above	all	never	# ᷵ 0x1df5
+᷻	combining deletion mark	all	never	# ᷻ 0x1dfb
+᷼	combining double inverted breve below	all	never	# ᷼ 0x1dfc
+᷽	combining almost equal to below	all	never	# ᷽ 0x1dfd
+᷾	combining left arrowhead above	all	never	# ᷾ 0x1dfe
+᷿	combining right arrowhead and down arrowhead below	all	never	# ᷿ 0x1dff

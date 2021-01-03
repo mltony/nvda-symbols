@@ -1,0 +1,84 @@
+# # Cham
+ꨀ	cham letter A	all	never	# ꨀ 0xaa00
+ꨁ	cham letter I	all	never	# ꨁ 0xaa01
+ꨂ	cham letter U	all	never	# ꨂ 0xaa02
+ꨃ	cham letter E	all	never	# ꨃ 0xaa03
+ꨄ	cham letter ai	all	never	# ꨄ 0xaa04
+ꨅ	cham letter O	all	never	# ꨅ 0xaa05
+ꨆ	cham letter ka	all	never	# ꨆ 0xaa06
+ꨇ	cham letter kha	all	never	# ꨇ 0xaa07
+ꨈ	cham letter ga	all	never	# ꨈ 0xaa08
+ꨉ	cham letter gha	all	never	# ꨉ 0xaa09
+ꨊ	cham letter ngue	all	never	# ꨊ 0xaa0a
+ꨋ	cham letter nga	all	never	# ꨋ 0xaa0b
+ꨌ	cham letter cha	all	never	# ꨌ 0xaa0c
+ꨍ	cham letter chha	all	never	# ꨍ 0xaa0d
+ꨎ	cham letter ja	all	never	# ꨎ 0xaa0e
+ꨏ	cham letter jha	all	never	# ꨏ 0xaa0f
+ꨐ	cham letter nhue	all	never	# ꨐ 0xaa10
+ꨑ	cham letter nha	all	never	# ꨑ 0xaa11
+ꨒ	cham letter nhja	all	never	# ꨒ 0xaa12
+ꨓ	cham letter ta	all	never	# ꨓ 0xaa13
+ꨔ	cham letter tha	all	never	# ꨔ 0xaa14
+ꨕ	cham letter da	all	never	# ꨕ 0xaa15
+ꨖ	cham letter dha	all	never	# ꨖ 0xaa16
+ꨗ	cham letter nue	all	never	# ꨗ 0xaa17
+ꨘ	cham letter na	all	never	# ꨘ 0xaa18
+ꨙ	cham letter dda	all	never	# ꨙ 0xaa19
+ꨚ	cham letter pa	all	never	# ꨚ 0xaa1a
+ꨛ	cham letter ppa	all	never	# ꨛ 0xaa1b
+ꨜ	cham letter pha	all	never	# ꨜ 0xaa1c
+ꨝ	cham letter ba	all	never	# ꨝ 0xaa1d
+ꨞ	cham letter bha	all	never	# ꨞ 0xaa1e
+ꨟ	cham letter mue	all	never	# ꨟ 0xaa1f
+ꨠ	cham letter ma	all	never	# ꨠ 0xaa20
+ꨡ	cham letter bba	all	never	# ꨡ 0xaa21
+ꨢ	cham letter ya	all	never	# ꨢ 0xaa22
+ꨣ	cham letter ra	all	never	# ꨣ 0xaa23
+ꨤ	cham letter la	all	never	# ꨤ 0xaa24
+ꨥ	cham letter va	all	never	# ꨥ 0xaa25
+ꨦ	cham letter ssa	all	never	# ꨦ 0xaa26
+ꨧ	cham letter sa	all	never	# ꨧ 0xaa27
+ꨨ	cham letter ha	all	never	# ꨨ 0xaa28
+ꨩ	cham vowel sign aa	all	never	# ꨩ 0xaa29
+ꨪ	cham vowel sign I	all	never	# ꨪ 0xaa2a
+ꨫ	cham vowel sign ii	all	never	# ꨫ 0xaa2b
+ꨬ	cham vowel sign ei	all	never	# ꨬ 0xaa2c
+ꨭ	cham vowel sign U	all	never	# ꨭ 0xaa2d
+ꨮ	cham vowel sign oe	all	never	# ꨮ 0xaa2e
+ꨯ	cham vowel sign O	all	never	# ꨯ 0xaa2f
+ꨰ	cham vowel sign ai	all	never	# ꨰ 0xaa30
+ꨱ	cham vowel sign au	all	never	# ꨱ 0xaa31
+ꨲ	cham vowel sign ue	all	never	# ꨲ 0xaa32
+ꨳ	cham consonant sign ya	all	never	# ꨳ 0xaa33
+ꨴ	cham consonant sign ra	all	never	# ꨴ 0xaa34
+ꨵ	cham consonant sign la	all	never	# ꨵ 0xaa35
+ꨶ	cham consonant sign wa	all	never	# ꨶ 0xaa36
+ꩀ	cham letter final K	all	never	# ꩀ 0xaa40
+ꩁ	cham letter final G	all	never	# ꩁ 0xaa41
+ꩂ	cham letter final ng	all	never	# ꩂ 0xaa42
+ꩃ	cham consonant sign final ng	all	never	# ꩃ 0xaa43
+ꩄ	cham letter final ch	all	never	# ꩄ 0xaa44
+ꩅ	cham letter final T	all	never	# ꩅ 0xaa45
+ꩆ	cham letter final N	all	never	# ꩆ 0xaa46
+ꩇ	cham letter final P	all	never	# ꩇ 0xaa47
+ꩈ	cham letter final Y	all	never	# ꩈ 0xaa48
+ꩉ	cham letter final R	all	never	# ꩉ 0xaa49
+ꩊ	cham letter final L	all	never	# ꩊ 0xaa4a
+ꩋ	cham letter final ss	all	never	# ꩋ 0xaa4b
+ꩌ	cham consonant sign final M	all	never	# ꩌ 0xaa4c
+ꩍ	cham consonant sign final H	all	never	# ꩍ 0xaa4d
+꩐	cham digit zero	all	never	# ꩐ 0xaa50
+꩑	cham digit one	all	never	# ꩑ 0xaa51
+꩒	cham digit two	all	never	# ꩒ 0xaa52
+꩓	cham digit three	all	never	# ꩓ 0xaa53
+꩔	cham digit four	all	never	# ꩔ 0xaa54
+꩕	cham digit five	all	never	# ꩕ 0xaa55
+꩖	cham digit six	all	never	# ꩖ 0xaa56
+꩗	cham digit seven	all	never	# ꩗ 0xaa57
+꩘	cham digit eight	all	never	# ꩘ 0xaa58
+꩙	cham digit nine	all	never	# ꩙ 0xaa59
+꩜	cham punctuation spiral	all	never	# ꩜ 0xaa5c
+꩝	cham punctuation danda	all	never	# ꩝ 0xaa5d
+꩞	cham punctuation double danda	all	never	# ꩞ 0xaa5e
+꩟	cham punctuation triple danda	all	never	# ꩟ 0xaa5f

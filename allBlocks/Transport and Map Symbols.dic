@@ -1,0 +1,104 @@
+# # Transport and Map Symbols
+🚀	rocket	all	never	# 🚀 0x1f680
+🚁	helicopter	all	never	# 🚁 0x1f681
+🚂	steam locomotive	all	never	# 🚂 0x1f682
+🚃	railway car	all	never	# 🚃 0x1f683
+🚄	high-speed train	all	never	# 🚄 0x1f684
+🚅	high-speed train with bullet nose	all	never	# 🚅 0x1f685
+🚆	train	all	never	# 🚆 0x1f686
+🚇	metro	all	never	# 🚇 0x1f687
+🚈	light rail	all	never	# 🚈 0x1f688
+🚉	station	all	never	# 🚉 0x1f689
+🚊	tram	all	never	# 🚊 0x1f68a
+🚋	tram car	all	never	# 🚋 0x1f68b
+🚌	bus	all	never	# 🚌 0x1f68c
+🚍	oncoming bus	all	never	# 🚍 0x1f68d
+🚎	trolleybus	all	never	# 🚎 0x1f68e
+🚏	bus stop	all	never	# 🚏 0x1f68f
+🚐	minibus	all	never	# 🚐 0x1f690
+🚑	ambulance	all	never	# 🚑 0x1f691
+🚒	fire engine	all	never	# 🚒 0x1f692
+🚓	police car	all	never	# 🚓 0x1f693
+🚔	oncoming police car	all	never	# 🚔 0x1f694
+🚕	taxi	all	never	# 🚕 0x1f695
+🚖	oncoming taxi	all	never	# 🚖 0x1f696
+🚗	automobile	all	never	# 🚗 0x1f697
+🚘	oncoming automobile	all	never	# 🚘 0x1f698
+🚙	recreational vehicle	all	never	# 🚙 0x1f699
+🚚	delivery truck	all	never	# 🚚 0x1f69a
+🚛	articulated lorry	all	never	# 🚛 0x1f69b
+🚜	tractor	all	never	# 🚜 0x1f69c
+🚝	monorail	all	never	# 🚝 0x1f69d
+🚞	mountain railway	all	never	# 🚞 0x1f69e
+🚟	suspension railway	all	never	# 🚟 0x1f69f
+🚠	mountain cableway	all	never	# 🚠 0x1f6a0
+🚡	aerial tramway	all	never	# 🚡 0x1f6a1
+🚢	ship	all	never	# 🚢 0x1f6a2
+🚣	rowboat	all	never	# 🚣 0x1f6a3
+🚤	speedboat	all	never	# 🚤 0x1f6a4
+🚥	horizontal traffic light	all	never	# 🚥 0x1f6a5
+🚦	vertical traffic light	all	never	# 🚦 0x1f6a6
+🚧	construction sign	all	never	# 🚧 0x1f6a7
+🚨	police cars revolving light	all	never	# 🚨 0x1f6a8
+🚩	triangular flag on post	all	never	# 🚩 0x1f6a9
+🚪	door	all	never	# 🚪 0x1f6aa
+🚫	no entry sign	all	never	# 🚫 0x1f6ab
+🚬	smoking symbol	all	never	# 🚬 0x1f6ac
+🚭	no smoking symbol	all	never	# 🚭 0x1f6ad
+🚮	put litter in its place symbol	all	never	# 🚮 0x1f6ae
+🚯	do not litter symbol	all	never	# 🚯 0x1f6af
+🚰	potable water symbol	all	never	# 🚰 0x1f6b0
+🚱	non-potable water symbol	all	never	# 🚱 0x1f6b1
+🚲	bicycle	all	never	# 🚲 0x1f6b2
+🚳	no bicycles	all	never	# 🚳 0x1f6b3
+🚴	bicyclist	all	never	# 🚴 0x1f6b4
+🚵	mountain bicyclist	all	never	# 🚵 0x1f6b5
+🚶	pedestrian	all	never	# 🚶 0x1f6b6
+🚷	no pedestrians	all	never	# 🚷 0x1f6b7
+🚸	children crossing	all	never	# 🚸 0x1f6b8
+🚹	mens symbol	all	never	# 🚹 0x1f6b9
+🚺	womens symbol	all	never	# 🚺 0x1f6ba
+🚻	restroom	all	never	# 🚻 0x1f6bb
+🚼	baby symbol	all	never	# 🚼 0x1f6bc
+🚽	toilet	all	never	# 🚽 0x1f6bd
+🚾	water closet	all	never	# 🚾 0x1f6be
+🚿	shower	all	never	# 🚿 0x1f6bf
+🛀	bath	all	never	# 🛀 0x1f6c0
+🛁	bathtub	all	never	# 🛁 0x1f6c1
+🛂	passport control	all	never	# 🛂 0x1f6c2
+🛃	customs	all	never	# 🛃 0x1f6c3
+🛄	baggage claim	all	never	# 🛄 0x1f6c4
+🛅	left luggage	all	never	# 🛅 0x1f6c5
+🛆	triangle with rounded corners	all	never	# 🛆 0x1f6c6
+🛇	prohibited sign	all	never	# 🛇 0x1f6c7
+🛈	circled information source	all	never	# 🛈 0x1f6c8
+🛉	boys symbol	all	never	# 🛉 0x1f6c9
+🛊	girls symbol	all	never	# 🛊 0x1f6ca
+🛋	couch and lamp	all	never	# 🛋 0x1f6cb
+🛌	sleeping accommodation	all	never	# 🛌 0x1f6cc
+🛍	shopping bags	all	never	# 🛍 0x1f6cd
+🛎	bellhop bell	all	never	# 🛎 0x1f6ce
+🛏	bed	all	never	# 🛏 0x1f6cf
+🛐	place of worship	all	never	# 🛐 0x1f6d0
+🛑	octagonal sign	all	never	# 🛑 0x1f6d1
+🛒	shopping trolley	all	never	# 🛒 0x1f6d2
+🛠	hammer and wrench	all	never	# 🛠 0x1f6e0
+🛡	shield	all	never	# 🛡 0x1f6e1
+🛢	oil drum	all	never	# 🛢 0x1f6e2
+🛣	motorway	all	never	# 🛣 0x1f6e3
+🛤	railway track	all	never	# 🛤 0x1f6e4
+🛥	motor boat	all	never	# 🛥 0x1f6e5
+🛦	up-pointing military airplane	all	never	# 🛦 0x1f6e6
+🛧	up-pointing airplane	all	never	# 🛧 0x1f6e7
+🛨	up-pointing small airplane	all	never	# 🛨 0x1f6e8
+🛩	small airplane	all	never	# 🛩 0x1f6e9
+🛪	northeast-pointing airplane	all	never	# 🛪 0x1f6ea
+🛫	airplane departure	all	never	# 🛫 0x1f6eb
+🛬	airplane arriving	all	never	# 🛬 0x1f6ec
+🛰	satellite	all	never	# 🛰 0x1f6f0
+🛱	oncoming fire engine	all	never	# 🛱 0x1f6f1
+🛲	diesel locomotive	all	never	# 🛲 0x1f6f2
+🛳	passenger ship	all	never	# 🛳 0x1f6f3
+🛴	scooter	all	never	# 🛴 0x1f6f4
+🛵	motor scooter	all	never	# 🛵 0x1f6f5
+🛶	canoe	all	never	# 🛶 0x1f6f6

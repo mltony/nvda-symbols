@@ -1,0 +1,232 @@
+# # Musical Symbols
+𝄀	musical symbol single barline	all	never	# 𝄀 0x1d100
+𝄁	musical symbol double barline	all	never	# 𝄁 0x1d101
+𝄂	musical symbol final barline	all	never	# 𝄂 0x1d102
+𝄃	musical symbol reverse final barline	all	never	# 𝄃 0x1d103
+𝄄	musical symbol dashed barline	all	never	# 𝄄 0x1d104
+𝄅	musical symbol short barline	all	never	# 𝄅 0x1d105
+𝄆	musical symbol left repeat sign	all	never	# 𝄆 0x1d106
+𝄇	musical symbol right repeat sign	all	never	# 𝄇 0x1d107
+𝄈	musical symbol repeat dots	all	never	# 𝄈 0x1d108
+𝄉	musical symbol dal segno	all	never	# 𝄉 0x1d109
+𝄊	musical symbol da capo	all	never	# 𝄊 0x1d10a
+𝄋	musical symbol segno	all	never	# 𝄋 0x1d10b
+𝄌	musical symbol coda	all	never	# 𝄌 0x1d10c
+𝄍	musical symbol repeated figure-1	all	never	# 𝄍 0x1d10d
+𝄎	musical symbol repeated figure-2	all	never	# 𝄎 0x1d10e
+𝄏	musical symbol repeated figure-3	all	never	# 𝄏 0x1d10f
+𝄐	musical symbol fermata	all	never	# 𝄐 0x1d110
+𝄑	musical symbol fermata below	all	never	# 𝄑 0x1d111
+𝄒	musical symbol breath mark	all	never	# 𝄒 0x1d112
+𝄓	musical symbol caesura	all	never	# 𝄓 0x1d113
+𝄔	musical symbol brace	all	never	# 𝄔 0x1d114
+𝄕	musical symbol bracket	all	never	# 𝄕 0x1d115
+𝄖	musical symbol one-line staff	all	never	# 𝄖 0x1d116
+𝄗	musical symbol two-line staff	all	never	# 𝄗 0x1d117
+𝄘	musical symbol three-line staff	all	never	# 𝄘 0x1d118
+𝄙	musical symbol four-line staff	all	never	# 𝄙 0x1d119
+𝄚	musical symbol five-line staff	all	never	# 𝄚 0x1d11a
+𝄛	musical symbol six-line staff	all	never	# 𝄛 0x1d11b
+𝄜	musical symbol six-string fretboard	all	never	# 𝄜 0x1d11c
+𝄝	musical symbol four-string fretboard	all	never	# 𝄝 0x1d11d
+𝄞	musical symbol G clef	all	never	# 𝄞 0x1d11e
+𝄟	musical symbol G clef ottava alta	all	never	# 𝄟 0x1d11f
+𝄠	musical symbol G clef ottava bassa	all	never	# 𝄠 0x1d120
+𝄡	musical symbol C clef	all	never	# 𝄡 0x1d121
+𝄢	musical symbol F clef	all	never	# 𝄢 0x1d122
+𝄣	musical symbol F clef ottava alta	all	never	# 𝄣 0x1d123
+𝄤	musical symbol F clef ottava bassa	all	never	# 𝄤 0x1d124
+𝄥	musical symbol drum clef-1	all	never	# 𝄥 0x1d125
+𝄦	musical symbol drum clef-2	all	never	# 𝄦 0x1d126
+𝄩	musical symbol multiple measure rest	all	never	# 𝄩 0x1d129
+𝄪	musical symbol double sharp	all	never	# 𝄪 0x1d12a
+𝄫	musical symbol double flat	all	never	# 𝄫 0x1d12b
+𝄬	musical symbol flat up	all	never	# 𝄬 0x1d12c
+𝄭	musical symbol flat down	all	never	# 𝄭 0x1d12d
+𝄮	musical symbol natural up	all	never	# 𝄮 0x1d12e
+𝄯	musical symbol natural down	all	never	# 𝄯 0x1d12f
+𝄰	musical symbol sharp up	all	never	# 𝄰 0x1d130
+𝄱	musical symbol sharp down	all	never	# 𝄱 0x1d131
+𝄲	musical symbol quarter tone sharp	all	never	# 𝄲 0x1d132
+𝄳	musical symbol quarter tone flat	all	never	# 𝄳 0x1d133
+𝄴	musical symbol common time	all	never	# 𝄴 0x1d134
+𝄵	musical symbol cut time	all	never	# 𝄵 0x1d135
+𝄶	musical symbol ottava alta	all	never	# 𝄶 0x1d136
+𝄷	musical symbol ottava bassa	all	never	# 𝄷 0x1d137
+𝄸	musical symbol quindicesima alta	all	never	# 𝄸 0x1d138
+𝄹	musical symbol quindicesima bassa	all	never	# 𝄹 0x1d139
+𝄺	musical symbol multi rest	all	never	# 𝄺 0x1d13a
+𝄻	musical symbol whole rest	all	never	# 𝄻 0x1d13b
+𝄼	musical symbol half rest	all	never	# 𝄼 0x1d13c
+𝄽	musical symbol quarter rest	all	never	# 𝄽 0x1d13d
+𝄾	musical symbol eighth rest	all	never	# 𝄾 0x1d13e
+𝄿	musical symbol sixteenth rest	all	never	# 𝄿 0x1d13f
+𝅀	musical symbol thirty-second rest	all	never	# 𝅀 0x1d140
+𝅁	musical symbol sixty-fourth rest	all	never	# 𝅁 0x1d141
+𝅂	musical symbol one hundred twenty-eighth rest	all	never	# 𝅂 0x1d142
+𝅃	musical symbol X notehead	all	never	# 𝅃 0x1d143
+𝅄	musical symbol plus notehead	all	never	# 𝅄 0x1d144
+𝅅	musical symbol circle X notehead	all	never	# 𝅅 0x1d145
+𝅆	musical symbol square notehead white	all	never	# 𝅆 0x1d146
+𝅇	musical symbol square notehead black	all	never	# 𝅇 0x1d147
+𝅈	musical symbol triangle notehead up white	all	never	# 𝅈 0x1d148
+𝅉	musical symbol triangle notehead up black	all	never	# 𝅉 0x1d149
+𝅊	musical symbol triangle notehead left white	all	never	# 𝅊 0x1d14a
+𝅋	musical symbol triangle notehead left black	all	never	# 𝅋 0x1d14b
+𝅌	musical symbol triangle notehead right white	all	never	# 𝅌 0x1d14c
+𝅍	musical symbol triangle notehead right black	all	never	# 𝅍 0x1d14d
+𝅎	musical symbol triangle notehead down white	all	never	# 𝅎 0x1d14e
+𝅏	musical symbol triangle notehead down black	all	never	# 𝅏 0x1d14f
+𝅐	musical symbol triangle notehead up right white	all	never	# 𝅐 0x1d150
+𝅑	musical symbol triangle notehead up right black	all	never	# 𝅑 0x1d151
+𝅒	musical symbol moon notehead white	all	never	# 𝅒 0x1d152
+𝅓	musical symbol moon notehead black	all	never	# 𝅓 0x1d153
+𝅔	musical symbol triangle-round notehead down white	all	never	# 𝅔 0x1d154
+𝅕	musical symbol triangle-round notehead down black	all	never	# 𝅕 0x1d155
+𝅖	musical symbol parenthesis notehead	all	never	# 𝅖 0x1d156
+𝅗	musical symbol void notehead	all	never	# 𝅗 0x1d157
+𝅘	musical symbol notehead black	all	never	# 𝅘 0x1d158
+𝅙	musical symbol null notehead	all	never	# 𝅙 0x1d159
+𝅚	musical symbol cluster notehead white	all	never	# 𝅚 0x1d15a
+𝅛	musical symbol cluster notehead black	all	never	# 𝅛 0x1d15b
+𝅜	musical symbol breve	all	never	# 𝅜 0x1d15c
+𝅝	musical symbol whole note	all	never	# 𝅝 0x1d15d
+𝅗𝅥	musical symbol half note	all	never	# 𝅗𝅥 0x1d15e
+𝅘𝅥	musical symbol quarter note	all	never	# 𝅘𝅥 0x1d15f
+𝅘𝅥𝅮	musical symbol eighth note	all	never	# 𝅘𝅥𝅮 0x1d160
+𝅘𝅥𝅯	musical symbol sixteenth note	all	never	# 𝅘𝅥𝅯 0x1d161
+𝅘𝅥𝅰	musical symbol thirty-second note	all	never	# 𝅘𝅥𝅰 0x1d162
+𝅘𝅥𝅱	musical symbol sixty-fourth note	all	never	# 𝅘𝅥𝅱 0x1d163
+𝅘𝅥𝅲	musical symbol one hundred twenty-eighth note	all	never	# 𝅘𝅥𝅲 0x1d164
+𝅥	musical symbol combining stem	all	never	# 𝅥 0x1d165
+𝅦	musical symbol combining sprechgesang stem	all	never	# 𝅦 0x1d166
+𝅧	musical symbol combining tremolo-1	all	never	# 𝅧 0x1d167
+𝅨	musical symbol combining tremolo-2	all	never	# 𝅨 0x1d168
+𝅩	musical symbol combining tremolo-3	all	never	# 𝅩 0x1d169
+𝅪	musical symbol fingered tremolo-1	all	never	# 𝅪 0x1d16a
+𝅫	musical symbol fingered tremolo-2	all	never	# 𝅫 0x1d16b
+𝅬	musical symbol fingered tremolo-3	all	never	# 𝅬 0x1d16c
+𝅭	musical symbol combining augmentation dot	all	never	# 𝅭 0x1d16d
+𝅮	musical symbol combining flag-1	all	never	# 𝅮 0x1d16e
+𝅯	musical symbol combining flag-2	all	never	# 𝅯 0x1d16f
+𝅰	musical symbol combining flag-3	all	never	# 𝅰 0x1d170
+𝅱	musical symbol combining flag-4	all	never	# 𝅱 0x1d171
+𝅲	musical symbol combining flag-5	all	never	# 𝅲 0x1d172
+𝅳	musical symbol begin beam	all	never	# 𝅳 0x1d173
+𝅴	musical symbol end beam	all	never	# 𝅴 0x1d174
+𝅵	musical symbol begin tie	all	never	# 𝅵 0x1d175
+𝅶	musical symbol end tie	all	never	# 𝅶 0x1d176
+𝅷	musical symbol begin slur	all	never	# 𝅷 0x1d177
+𝅸	musical symbol end slur	all	never	# 𝅸 0x1d178
+𝅹	musical symbol begin phrase	all	never	# 𝅹 0x1d179
+𝅺	musical symbol end phrase	all	never	# 𝅺 0x1d17a
+𝅻	musical symbol combining accent	all	never	# 𝅻 0x1d17b
+𝅼	musical symbol combining staccato	all	never	# 𝅼 0x1d17c
+𝅽	musical symbol combining tenuto	all	never	# 𝅽 0x1d17d
+𝅾	musical symbol combining staccatissimo	all	never	# 𝅾 0x1d17e
+𝅿	musical symbol combining marcato	all	never	# 𝅿 0x1d17f
+𝆀	musical symbol combining marcato-staccato	all	never	# 𝆀 0x1d180
+𝆁	musical symbol combining accent-staccato	all	never	# 𝆁 0x1d181
+𝆂	musical symbol combining loure	all	never	# 𝆂 0x1d182
+𝆃	musical symbol arpeggiato up	all	never	# 𝆃 0x1d183
+𝆄	musical symbol arpeggiato down	all	never	# 𝆄 0x1d184
+𝆅	musical symbol combining doit	all	never	# 𝆅 0x1d185
+𝆆	musical symbol combining rip	all	never	# 𝆆 0x1d186
+𝆇	musical symbol combining flip	all	never	# 𝆇 0x1d187
+𝆈	musical symbol combining smear	all	never	# 𝆈 0x1d188
+𝆉	musical symbol combining bend	all	never	# 𝆉 0x1d189
+𝆊	musical symbol combining double tongue	all	never	# 𝆊 0x1d18a
+𝆋	musical symbol combining triple tongue	all	never	# 𝆋 0x1d18b
+𝆌	musical symbol rinforzando	all	never	# 𝆌 0x1d18c
+𝆍	musical symbol subito	all	never	# 𝆍 0x1d18d
+𝆎	musical symbol Z	all	never	# 𝆎 0x1d18e
+𝆏	musical symbol piano	all	never	# 𝆏 0x1d18f
+𝆐	musical symbol mezzo	all	never	# 𝆐 0x1d190
+𝆑	musical symbol forte	all	never	# 𝆑 0x1d191
+𝆒	musical symbol crescendo	all	never	# 𝆒 0x1d192
+𝆓	musical symbol decrescendo	all	never	# 𝆓 0x1d193
+𝆔	musical symbol grace note slash	all	never	# 𝆔 0x1d194
+𝆕	musical symbol grace note no slash	all	never	# 𝆕 0x1d195
+𝆖	musical symbol tr	all	never	# 𝆖 0x1d196
+𝆗	musical symbol turn	all	never	# 𝆗 0x1d197
+𝆘	musical symbol inverted turn	all	never	# 𝆘 0x1d198
+𝆙	musical symbol turn slash	all	never	# 𝆙 0x1d199
+𝆚	musical symbol turn up	all	never	# 𝆚 0x1d19a
+𝆛	musical symbol ornament stroke-1	all	never	# 𝆛 0x1d19b
+𝆜	musical symbol ornament stroke-2	all	never	# 𝆜 0x1d19c
+𝆝	musical symbol ornament stroke-3	all	never	# 𝆝 0x1d19d
+𝆞	musical symbol ornament stroke-4	all	never	# 𝆞 0x1d19e
+𝆟	musical symbol ornament stroke-5	all	never	# 𝆟 0x1d19f
+𝆠	musical symbol ornament stroke-6	all	never	# 𝆠 0x1d1a0
+𝆡	musical symbol ornament stroke-7	all	never	# 𝆡 0x1d1a1
+𝆢	musical symbol ornament stroke-8	all	never	# 𝆢 0x1d1a2
+𝆣	musical symbol ornament stroke-9	all	never	# 𝆣 0x1d1a3
+𝆤	musical symbol ornament stroke-10	all	never	# 𝆤 0x1d1a4
+𝆥	musical symbol ornament stroke-11	all	never	# 𝆥 0x1d1a5
+𝆦	musical symbol hauptstimme	all	never	# 𝆦 0x1d1a6
+𝆧	musical symbol nebenstimme	all	never	# 𝆧 0x1d1a7
+𝆨	musical symbol end of stimme	all	never	# 𝆨 0x1d1a8
+𝆩	musical symbol degree slash	all	never	# 𝆩 0x1d1a9
+𝆪	musical symbol combining down bow	all	never	# 𝆪 0x1d1aa
+𝆫	musical symbol combining up bow	all	never	# 𝆫 0x1d1ab
+𝆬	musical symbol combining harmonic	all	never	# 𝆬 0x1d1ac
+𝆭	musical symbol combining snap pizzicato	all	never	# 𝆭 0x1d1ad
+𝆮	musical symbol pedal mark	all	never	# 𝆮 0x1d1ae
+𝆯	musical symbol pedal up mark	all	never	# 𝆯 0x1d1af
+𝆰	musical symbol half pedal mark	all	never	# 𝆰 0x1d1b0
+𝆱	musical symbol glissando up	all	never	# 𝆱 0x1d1b1
+𝆲	musical symbol glissando down	all	never	# 𝆲 0x1d1b2
+𝆳	musical symbol with fingernails	all	never	# 𝆳 0x1d1b3
+𝆴	musical symbol damp	all	never	# 𝆴 0x1d1b4
+𝆵	musical symbol damp all	all	never	# 𝆵 0x1d1b5
+𝆶	musical symbol maxima	all	never	# 𝆶 0x1d1b6
+𝆷	musical symbol longa	all	never	# 𝆷 0x1d1b7
+𝆸	musical symbol brevis	all	never	# 𝆸 0x1d1b8
+𝆹	musical symbol semibrevis white	all	never	# 𝆹 0x1d1b9
+𝆺	musical symbol semibrevis black	all	never	# 𝆺 0x1d1ba
+𝆹𝅥	musical symbol minima	all	never	# 𝆹𝅥 0x1d1bb
+𝆺𝅥	musical symbol minima black	all	never	# 𝆺𝅥 0x1d1bc
+𝆹𝅥𝅮	musical symbol semiminima white	all	never	# 𝆹𝅥𝅮 0x1d1bd
+𝆺𝅥𝅮	musical symbol semiminima black	all	never	# 𝆺𝅥𝅮 0x1d1be
+𝆹𝅥𝅯	musical symbol fusa white	all	never	# 𝆹𝅥𝅯 0x1d1bf
+𝆺𝅥𝅯	musical symbol fusa black	all	never	# 𝆺𝅥𝅯 0x1d1c0
+𝇁	musical symbol longa perfecta rest	all	never	# 𝇁 0x1d1c1
+𝇂	musical symbol longa imperfecta rest	all	never	# 𝇂 0x1d1c2
+𝇃	musical symbol brevis rest	all	never	# 𝇃 0x1d1c3
+𝇄	musical symbol semibrevis rest	all	never	# 𝇄 0x1d1c4
+𝇅	musical symbol minima rest	all	never	# 𝇅 0x1d1c5
+𝇆	musical symbol semiminima rest	all	never	# 𝇆 0x1d1c6
+𝇇	musical symbol tempus perfectum cum prolatione perfecta	all	never	# 𝇇 0x1d1c7
+𝇈	musical symbol tempus perfectum cum prolatione imperfecta	all	never	# 𝇈 0x1d1c8
+𝇉	musical symbol tempus perfectum cum prolatione perfecta diminution-1	all	never	# 𝇉 0x1d1c9
+𝇊	musical symbol tempus imperfectum cum prolatione perfecta	all	never	# 𝇊 0x1d1ca
+𝇋	musical symbol tempus imperfectum cum prolatione imperfecta	all	never	# 𝇋 0x1d1cb
+𝇌	musical symbol tempus imperfectum cum prolatione imperfecta diminution-1	all	never	# 𝇌 0x1d1cc
+𝇍	musical symbol tempus imperfectum cum prolatione imperfecta diminution-2	all	never	# 𝇍 0x1d1cd
+𝇎	musical symbol tempus imperfectum cum prolatione imperfecta diminution-3	all	never	# 𝇎 0x1d1ce
+𝇏	musical symbol croix	all	never	# 𝇏 0x1d1cf
+𝇐	musical symbol gregorian C clef	all	never	# 𝇐 0x1d1d0
+𝇑	musical symbol gregorian F clef	all	never	# 𝇑 0x1d1d1
+𝇒	musical symbol square B	all	never	# 𝇒 0x1d1d2
+𝇓	musical symbol virga	all	never	# 𝇓 0x1d1d3
+𝇔	musical symbol podatus	all	never	# 𝇔 0x1d1d4
+𝇕	musical symbol clivis	all	never	# 𝇕 0x1d1d5
+𝇖	musical symbol scandicus	all	never	# 𝇖 0x1d1d6
+𝇗	musical symbol climacus	all	never	# 𝇗 0x1d1d7
+𝇘	musical symbol torculus	all	never	# 𝇘 0x1d1d8
+𝇙	musical symbol porrectus	all	never	# 𝇙 0x1d1d9
+𝇚	musical symbol porrectus flexus	all	never	# 𝇚 0x1d1da
+𝇛	musical symbol scandicus flexus	all	never	# 𝇛 0x1d1db
+𝇜	musical symbol torculus resupinus	all	never	# 𝇜 0x1d1dc
+𝇝	musical symbol pes subpunctis	all	never	# 𝇝 0x1d1dd
+𝇞	musical symbol kievan C clef	all	never	# 𝇞 0x1d1de
+𝇟	musical symbol kievan end of piece	all	never	# 𝇟 0x1d1df
+𝇠	musical symbol kievan final note	all	never	# 𝇠 0x1d1e0
+𝇡	musical symbol kievan recitative mark	all	never	# 𝇡 0x1d1e1
+𝇢	musical symbol kievan whole note	all	never	# 𝇢 0x1d1e2
+𝇣	musical symbol kievan half note	all	never	# 𝇣 0x1d1e3
+𝇤	musical symbol kievan quarter note stem down	all	never	# 𝇤 0x1d1e4
+𝇥	musical symbol kievan quarter note stem up	all	never	# 𝇥 0x1d1e5
+𝇦	musical symbol kievan eighth note stem down	all	never	# 𝇦 0x1d1e6
+𝇧	musical symbol kievan eighth note stem up	all	never	# 𝇧 0x1d1e7
+𝇨	musical symbol kievan flat sign	all	never	# 𝇨 0x1d1e8

@@ -1,0 +1,27 @@
+# # Ethiopic Supplement
+ᎀ	ethiopic syllable sebatbeit mwa	all	never	# ᎀ 0x1380
+ᎁ	ethiopic syllable mwi	all	never	# ᎁ 0x1381
+ᎂ	ethiopic syllable mwee	all	never	# ᎂ 0x1382
+ᎃ	ethiopic syllable mwe	all	never	# ᎃ 0x1383
+ᎄ	ethiopic syllable sebatbeit bwa	all	never	# ᎄ 0x1384
+ᎅ	ethiopic syllable bwi	all	never	# ᎅ 0x1385
+ᎆ	ethiopic syllable bwee	all	never	# ᎆ 0x1386
+ᎇ	ethiopic syllable bwe	all	never	# ᎇ 0x1387
+ᎈ	ethiopic syllable sebatbeit fwa	all	never	# ᎈ 0x1388
+ᎉ	ethiopic syllable fwi	all	never	# ᎉ 0x1389
+ᎊ	ethiopic syllable fwee	all	never	# ᎊ 0x138a
+ᎋ	ethiopic syllable fwe	all	never	# ᎋ 0x138b
+ᎌ	ethiopic syllable sebatbeit pwa	all	never	# ᎌ 0x138c
+ᎍ	ethiopic syllable pwi	all	never	# ᎍ 0x138d
+ᎎ	ethiopic syllable pwee	all	never	# ᎎ 0x138e
+ᎏ	ethiopic syllable pwe	all	never	# ᎏ 0x138f
+᎐	ethiopic tonal mark yizet	all	never	# ᎐ 0x1390
+᎑	ethiopic tonal mark deret	all	never	# ᎑ 0x1391
+᎒	ethiopic tonal mark rikrik	all	never	# ᎒ 0x1392
+᎓	ethiopic tonal mark short rikrik	all	never	# ᎓ 0x1393
+᎔	ethiopic tonal mark difat	all	never	# ᎔ 0x1394
+᎕	ethiopic tonal mark kenat	all	never	# ᎕ 0x1395
+᎖	ethiopic tonal mark chiret	all	never	# ᎖ 0x1396
+᎗	ethiopic tonal mark hidet	all	never	# ᎗ 0x1397
+᎘	ethiopic tonal mark deret-hidet	all	never	# ᎘ 0x1398
+᎙	ethiopic tonal mark kurt	all	never	# ᎙ 0x1399

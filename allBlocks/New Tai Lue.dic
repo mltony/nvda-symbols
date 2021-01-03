@@ -1,0 +1,84 @@
+# # New Tai Lue
+ᦀ	new tai lue letter high qa	all	never	# ᦀ 0x1980
+ᦁ	new tai lue letter low qa	all	never	# ᦁ 0x1981
+ᦂ	new tai lue letter high ka	all	never	# ᦂ 0x1982
+ᦃ	new tai lue letter high xa	all	never	# ᦃ 0x1983
+ᦄ	new tai lue letter high nga	all	never	# ᦄ 0x1984
+ᦅ	new tai lue letter low ka	all	never	# ᦅ 0x1985
+ᦆ	new tai lue letter low xa	all	never	# ᦆ 0x1986
+ᦇ	new tai lue letter low nga	all	never	# ᦇ 0x1987
+ᦈ	new tai lue letter high tsa	all	never	# ᦈ 0x1988
+ᦉ	new tai lue letter high sa	all	never	# ᦉ 0x1989
+ᦊ	new tai lue letter high ya	all	never	# ᦊ 0x198a
+ᦋ	new tai lue letter low tsa	all	never	# ᦋ 0x198b
+ᦌ	new tai lue letter low sa	all	never	# ᦌ 0x198c
+ᦍ	new tai lue letter low ya	all	never	# ᦍ 0x198d
+ᦎ	new tai lue letter high ta	all	never	# ᦎ 0x198e
+ᦏ	new tai lue letter high tha	all	never	# ᦏ 0x198f
+ᦐ	new tai lue letter high na	all	never	# ᦐ 0x1990
+ᦑ	new tai lue letter low ta	all	never	# ᦑ 0x1991
+ᦒ	new tai lue letter low tha	all	never	# ᦒ 0x1992
+ᦓ	new tai lue letter low na	all	never	# ᦓ 0x1993
+ᦔ	new tai lue letter high pa	all	never	# ᦔ 0x1994
+ᦕ	new tai lue letter high pha	all	never	# ᦕ 0x1995
+ᦖ	new tai lue letter high ma	all	never	# ᦖ 0x1996
+ᦗ	new tai lue letter low pa	all	never	# ᦗ 0x1997
+ᦘ	new tai lue letter low pha	all	never	# ᦘ 0x1998
+ᦙ	new tai lue letter low ma	all	never	# ᦙ 0x1999
+ᦚ	new tai lue letter high fa	all	never	# ᦚ 0x199a
+ᦛ	new tai lue letter high va	all	never	# ᦛ 0x199b
+ᦜ	new tai lue letter high la	all	never	# ᦜ 0x199c
+ᦝ	new tai lue letter low fa	all	never	# ᦝ 0x199d
+ᦞ	new tai lue letter low va	all	never	# ᦞ 0x199e
+ᦟ	new tai lue letter low la	all	never	# ᦟ 0x199f
+ᦠ	new tai lue letter high ha	all	never	# ᦠ 0x19a0
+ᦡ	new tai lue letter high da	all	never	# ᦡ 0x19a1
+ᦢ	new tai lue letter high ba	all	never	# ᦢ 0x19a2
+ᦣ	new tai lue letter low ha	all	never	# ᦣ 0x19a3
+ᦤ	new tai lue letter low da	all	never	# ᦤ 0x19a4
+ᦥ	new tai lue letter low ba	all	never	# ᦥ 0x19a5
+ᦦ	new tai lue letter high kva	all	never	# ᦦ 0x19a6
+ᦧ	new tai lue letter high xva	all	never	# ᦧ 0x19a7
+ᦨ	new tai lue letter low kva	all	never	# ᦨ 0x19a8
+ᦩ	new tai lue letter low xva	all	never	# ᦩ 0x19a9
+ᦪ	new tai lue letter high sua	all	never	# ᦪ 0x19aa
+ᦫ	new tai lue letter low sua	all	never	# ᦫ 0x19ab
+ᦰ	new tai lue vowel sign vowel shortener	all	never	# ᦰ 0x19b0
+ᦱ	new tai lue vowel sign aa	all	never	# ᦱ 0x19b1
+ᦲ	new tai lue vowel sign ii	all	never	# ᦲ 0x19b2
+ᦳ	new tai lue vowel sign U	all	never	# ᦳ 0x19b3
+ᦴ	new tai lue vowel sign uu	all	never	# ᦴ 0x19b4
+ᦵ	new tai lue vowel sign E	all	never	# ᦵ 0x19b5
+ᦶ	new tai lue vowel sign ae	all	never	# ᦶ 0x19b6
+ᦷ	new tai lue vowel sign O	all	never	# ᦷ 0x19b7
+ᦸ	new tai lue vowel sign oa	all	never	# ᦸ 0x19b8
+ᦹ	new tai lue vowel sign ue	all	never	# ᦹ 0x19b9
+ᦺ	new tai lue vowel sign ay	all	never	# ᦺ 0x19ba
+ᦻ	new tai lue vowel sign aay	all	never	# ᦻ 0x19bb
+ᦼ	new tai lue vowel sign uy	all	never	# ᦼ 0x19bc
+ᦽ	new tai lue vowel sign oy	all	never	# ᦽ 0x19bd
+ᦾ	new tai lue vowel sign oay	all	never	# ᦾ 0x19be
+ᦿ	new tai lue vowel sign uey	all	never	# ᦿ 0x19bf
+ᧀ	new tai lue vowel sign iy	all	never	# ᧀ 0x19c0
+ᧁ	new tai lue letter final V	all	never	# ᧁ 0x19c1
+ᧂ	new tai lue letter final ng	all	never	# ᧂ 0x19c2
+ᧃ	new tai lue letter final N	all	never	# ᧃ 0x19c3
+ᧄ	new tai lue letter final M	all	never	# ᧄ 0x19c4
+ᧅ	new tai lue letter final K	all	never	# ᧅ 0x19c5
+ᧆ	new tai lue letter final D	all	never	# ᧆ 0x19c6
+ᧇ	new tai lue letter final B	all	never	# ᧇ 0x19c7
+ᧈ	new tai lue tone mark-1	all	never	# ᧈ 0x19c8
+ᧉ	new tai lue tone mark-2	all	never	# ᧉ 0x19c9
+᧐	new tai lue digit zero	all	never	# ᧐ 0x19d0
+᧑	new tai lue digit one	all	never	# ᧑ 0x19d1
+᧒	new tai lue digit two	all	never	# ᧒ 0x19d2
+᧓	new tai lue digit three	all	never	# ᧓ 0x19d3
+᧔	new tai lue digit four	all	never	# ᧔ 0x19d4
+᧕	new tai lue digit five	all	never	# ᧕ 0x19d5
+᧖	new tai lue digit six	all	never	# ᧖ 0x19d6
+᧗	new tai lue digit seven	all	never	# ᧗ 0x19d7
+᧘	new tai lue digit eight	all	never	# ᧘ 0x19d8
+᧙	new tai lue digit nine	all	never	# ᧙ 0x19d9
+᧚	new tai lue tham digit one	all	never	# ᧚ 0x19da
+᧞	new tai lue sign lae	all	never	# ᧞ 0x19de
+᧟	new tai lue sign laev	all	never	# ᧟ 0x19df

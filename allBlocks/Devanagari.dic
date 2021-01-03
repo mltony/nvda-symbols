@@ -1,0 +1,129 @@
+# # Devanagari
+ऀ	devanagari sign inverted candrabindu	all	never	# ऀ 0x900
+ँ	devanagari sign candrabindu	all	never	# ँ 0x901
+ं	devanagari sign anusvara	all	never	# ं 0x902
+ः	devanagari sign visarga	all	never	# ः 0x903
+ऄ	devanagari letter short A	all	never	# ऄ 0x904
+अ	devanagari letter A	all	never	# अ 0x905
+आ	devanagari letter aa	all	never	# आ 0x906
+इ	devanagari letter I	all	never	# इ 0x907
+ई	devanagari letter ii	all	never	# ई 0x908
+उ	devanagari letter U	all	never	# उ 0x909
+ऊ	devanagari letter uu	all	never	# ऊ 0x90a
+ऋ	devanagari letter vocalic R	all	never	# ऋ 0x90b
+ऌ	devanagari letter vocalic L	all	never	# ऌ 0x90c
+ऍ	devanagari letter candra E	all	never	# ऍ 0x90d
+ऎ	devanagari letter short E	all	never	# ऎ 0x90e
+ए	devanagari letter E	all	never	# ए 0x90f
+ऐ	devanagari letter ai	all	never	# ऐ 0x910
+ऑ	devanagari letter candra O	all	never	# ऑ 0x911
+ऒ	devanagari letter short O	all	never	# ऒ 0x912
+ओ	devanagari letter O	all	never	# ओ 0x913
+औ	devanagari letter au	all	never	# औ 0x914
+क	devanagari letter ka	all	never	# क 0x915
+ख	devanagari letter kha	all	never	# ख 0x916
+ग	devanagari letter ga	all	never	# ग 0x917
+घ	devanagari letter gha	all	never	# घ 0x918
+ङ	devanagari letter nga	all	never	# ङ 0x919
+च	devanagari letter ca	all	never	# च 0x91a
+छ	devanagari letter cha	all	never	# छ 0x91b
+ज	devanagari letter ja	all	never	# ज 0x91c
+झ	devanagari letter jha	all	never	# झ 0x91d
+ञ	devanagari letter nya	all	never	# ञ 0x91e
+ट	devanagari letter tta	all	never	# ट 0x91f
+ठ	devanagari letter ttha	all	never	# ठ 0x920
+ड	devanagari letter dda	all	never	# ड 0x921
+ढ	devanagari letter ddha	all	never	# ढ 0x922
+ण	devanagari letter nna	all	never	# ण 0x923
+त	devanagari letter ta	all	never	# त 0x924
+थ	devanagari letter tha	all	never	# थ 0x925
+द	devanagari letter da	all	never	# द 0x926
+ध	devanagari letter dha	all	never	# ध 0x927
+न	devanagari letter na	all	never	# न 0x928
+ऩ	devanagari letter nnna	all	never	# ऩ 0x929
+प	devanagari letter pa	all	never	# प 0x92a
+फ	devanagari letter pha	all	never	# फ 0x92b
+ब	devanagari letter ba	all	never	# ब 0x92c
+भ	devanagari letter bha	all	never	# भ 0x92d
+म	devanagari letter ma	all	never	# म 0x92e
+य	devanagari letter ya	all	never	# य 0x92f
+र	devanagari letter ra	all	never	# र 0x930
+ऱ	devanagari letter rra	all	never	# ऱ 0x931
+ल	devanagari letter la	all	never	# ल 0x932
+ळ	devanagari letter lla	all	never	# ळ 0x933
+ऴ	devanagari letter llla	all	never	# ऴ 0x934
+व	devanagari letter va	all	never	# व 0x935
+श	devanagari letter sha	all	never	# श 0x936
+ष	devanagari letter ssa	all	never	# ष 0x937
+स	devanagari letter sa	all	never	# स 0x938
+ह	devanagari letter ha	all	never	# ह 0x939
+ऺ	devanagari vowel sign oe	all	never	# ऺ 0x93a
+ऻ	devanagari vowel sign ooe	all	never	# ऻ 0x93b
+़	devanagari sign nukta	all	never	# ़ 0x93c
+ऽ	devanagari sign avagraha	all	never	# ऽ 0x93d
+ा	devanagari vowel sign aa	all	never	# ा 0x93e
+ि	devanagari vowel sign I	all	never	# ि 0x93f
+ी	devanagari vowel sign ii	all	never	# ी 0x940
+ु	devanagari vowel sign U	all	never	# ु 0x941
+ू	devanagari vowel sign uu	all	never	# ू 0x942
+ृ	devanagari vowel sign vocalic R	all	never	# ृ 0x943
+ॄ	devanagari vowel sign vocalic rr	all	never	# ॄ 0x944
+ॅ	devanagari vowel sign candra E	all	never	# ॅ 0x945
+ॆ	devanagari vowel sign short E	all	never	# ॆ 0x946
+े	devanagari vowel sign E	all	never	# े 0x947
+ै	devanagari vowel sign ai	all	never	# ै 0x948
+ॉ	devanagari vowel sign candra O	all	never	# ॉ 0x949
+ॊ	devanagari vowel sign short O	all	never	# ॊ 0x94a
+ो	devanagari vowel sign O	all	never	# ो 0x94b
+ौ	devanagari vowel sign au	all	never	# ौ 0x94c
+्	devanagari sign virama	all	never	# ् 0x94d
+ॎ	devanagari vowel sign prishthamatra E	all	never	# ॎ 0x94e
+ॏ	devanagari vowel sign aw	all	never	# ॏ 0x94f
+ॐ	devanagari om	all	never	# ॐ 0x950
+॑	devanagari stress sign udatta	all	never	# ॑ 0x951
+॒	devanagari stress sign anudatta	all	never	# ॒ 0x952
+॓	devanagari grave accent	all	never	# ॓ 0x953
+॔	devanagari acute accent	all	never	# ॔ 0x954
+ॕ	devanagari vowel sign candra long E	all	never	# ॕ 0x955
+ॖ	devanagari vowel sign ue	all	never	# ॖ 0x956
+ॗ	devanagari vowel sign uue	all	never	# ॗ 0x957
+क़	devanagari letter qa	all	never	# क़ 0x958
+ख़	devanagari letter khha	all	never	# ख़ 0x959
+ग़	devanagari letter ghha	all	never	# ग़ 0x95a
+ज़	devanagari letter za	all	never	# ज़ 0x95b
+ड़	devanagari letter dddha	all	never	# ड़ 0x95c
+ढ़	devanagari letter rha	all	never	# ढ़ 0x95d
+फ़	devanagari letter fa	all	never	# फ़ 0x95e
+य़	devanagari letter yya	all	never	# य़ 0x95f
+ॠ	devanagari letter vocalic rr	all	never	# ॠ 0x960
+ॡ	devanagari letter vocalic ll	all	never	# ॡ 0x961
+ॢ	devanagari vowel sign vocalic L	all	never	# ॢ 0x962
+ॣ	devanagari vowel sign vocalic ll	all	never	# ॣ 0x963
+।	devanagari danda	all	never	# । 0x964
+॥	devanagari double danda	all	never	# ॥ 0x965
+०	devanagari digit zero	all	never	# ० 0x966
+१	devanagari digit one	all	never	# १ 0x967
+२	devanagari digit two	all	never	# २ 0x968
+३	devanagari digit three	all	never	# ३ 0x969
+४	devanagari digit four	all	never	# ४ 0x96a
+५	devanagari digit five	all	never	# ५ 0x96b
+६	devanagari digit six	all	never	# ६ 0x96c
+७	devanagari digit seven	all	never	# ७ 0x96d
+८	devanagari digit eight	all	never	# ८ 0x96e
+९	devanagari digit nine	all	never	# ९ 0x96f
+॰	devanagari abbreviation sign	all	never	# ॰ 0x970
+ॱ	devanagari sign high spacing dot	all	never	# ॱ 0x971
+ॲ	devanagari letter candra A	all	never	# ॲ 0x972
+ॳ	devanagari letter oe	all	never	# ॳ 0x973
+ॴ	devanagari letter ooe	all	never	# ॴ 0x974
+ॵ	devanagari letter aw	all	never	# ॵ 0x975
+ॶ	devanagari letter ue	all	never	# ॶ 0x976
+ॷ	devanagari letter uue	all	never	# ॷ 0x977
+ॸ	devanagari letter marwari dda	all	never	# ॸ 0x978
+ॹ	devanagari letter zha	all	never	# ॹ 0x979
+ॺ	devanagari letter heavy ya	all	never	# ॺ 0x97a
+ॻ	devanagari letter gga	all	never	# ॻ 0x97b
+ॼ	devanagari letter jja	all	never	# ॼ 0x97c
+ॽ	devanagari letter glottal stop	all	never	# ॽ 0x97d
+ॾ	devanagari letter ddda	all	never	# ॾ 0x97e
+ॿ	devanagari letter bba	all	never	# ॿ 0x97f

@@ -1,0 +1,69 @@
+# # Limbu
+ᤀ	limbu vowel-carrier letter	all	never	# ᤀ 0x1900
+ᤁ	limbu letter ka	all	never	# ᤁ 0x1901
+ᤂ	limbu letter kha	all	never	# ᤂ 0x1902
+ᤃ	limbu letter ga	all	never	# ᤃ 0x1903
+ᤄ	limbu letter gha	all	never	# ᤄ 0x1904
+ᤅ	limbu letter nga	all	never	# ᤅ 0x1905
+ᤆ	limbu letter ca	all	never	# ᤆ 0x1906
+ᤇ	limbu letter cha	all	never	# ᤇ 0x1907
+ᤈ	limbu letter ja	all	never	# ᤈ 0x1908
+ᤉ	limbu letter jha	all	never	# ᤉ 0x1909
+ᤊ	limbu letter yan	all	never	# ᤊ 0x190a
+ᤋ	limbu letter ta	all	never	# ᤋ 0x190b
+ᤌ	limbu letter tha	all	never	# ᤌ 0x190c
+ᤍ	limbu letter da	all	never	# ᤍ 0x190d
+ᤎ	limbu letter dha	all	never	# ᤎ 0x190e
+ᤏ	limbu letter na	all	never	# ᤏ 0x190f
+ᤐ	limbu letter pa	all	never	# ᤐ 0x1910
+ᤑ	limbu letter pha	all	never	# ᤑ 0x1911
+ᤒ	limbu letter ba	all	never	# ᤒ 0x1912
+ᤓ	limbu letter bha	all	never	# ᤓ 0x1913
+ᤔ	limbu letter ma	all	never	# ᤔ 0x1914
+ᤕ	limbu letter ya	all	never	# ᤕ 0x1915
+ᤖ	limbu letter ra	all	never	# ᤖ 0x1916
+ᤗ	limbu letter la	all	never	# ᤗ 0x1917
+ᤘ	limbu letter wa	all	never	# ᤘ 0x1918
+ᤙ	limbu letter sha	all	never	# ᤙ 0x1919
+ᤚ	limbu letter ssa	all	never	# ᤚ 0x191a
+ᤛ	limbu letter sa	all	never	# ᤛ 0x191b
+ᤜ	limbu letter ha	all	never	# ᤜ 0x191c
+ᤝ	limbu letter gyan	all	never	# ᤝ 0x191d
+ᤞ	limbu letter tra	all	never	# ᤞ 0x191e
+ᤠ	limbu vowel sign A	all	never	# ᤠ 0x1920
+ᤡ	limbu vowel sign I	all	never	# ᤡ 0x1921
+ᤢ	limbu vowel sign U	all	never	# ᤢ 0x1922
+ᤣ	limbu vowel sign ee	all	never	# ᤣ 0x1923
+ᤤ	limbu vowel sign ai	all	never	# ᤤ 0x1924
+ᤥ	limbu vowel sign oo	all	never	# ᤥ 0x1925
+ᤦ	limbu vowel sign au	all	never	# ᤦ 0x1926
+ᤧ	limbu vowel sign E	all	never	# ᤧ 0x1927
+ᤨ	limbu vowel sign O	all	never	# ᤨ 0x1928
+ᤩ	limbu subjoined letter ya	all	never	# ᤩ 0x1929
+ᤪ	limbu subjoined letter ra	all	never	# ᤪ 0x192a
+ᤫ	limbu subjoined letter wa	all	never	# ᤫ 0x192b
+ᤰ	limbu small letter ka	all	never	# ᤰ 0x1930
+ᤱ	limbu small letter nga	all	never	# ᤱ 0x1931
+ᤲ	limbu small letter anusvara	all	never	# ᤲ 0x1932
+ᤳ	limbu small letter ta	all	never	# ᤳ 0x1933
+ᤴ	limbu small letter na	all	never	# ᤴ 0x1934
+ᤵ	limbu small letter pa	all	never	# ᤵ 0x1935
+ᤶ	limbu small letter ma	all	never	# ᤶ 0x1936
+ᤷ	limbu small letter ra	all	never	# ᤷ 0x1937
+ᤸ	limbu small letter la	all	never	# ᤸ 0x1938
+᤹	limbu sign mukphreng	all	never	# ᤹ 0x1939
+᤺	limbu sign kemphreng	all	never	# ᤺ 0x193a
+᤻	limbu sign sa-I	all	never	# ᤻ 0x193b
+᥀	limbu sign loo	all	never	# ᥀ 0x1940
+᥄	limbu exclamation mark	all	never	# ᥄ 0x1944
+᥅	limbu question mark	all	never	# ᥅ 0x1945
+᥆	limbu digit zero	all	never	# ᥆ 0x1946
+᥇	limbu digit one	all	never	# ᥇ 0x1947
+᥈	limbu digit two	all	never	# ᥈ 0x1948
+᥉	limbu digit three	all	never	# ᥉ 0x1949
+᥊	limbu digit four	all	never	# ᥊ 0x194a
+᥋	limbu digit five	all	never	# ᥋ 0x194b
+᥌	limbu digit six	all	never	# ᥌ 0x194c
+᥍	limbu digit seven	all	never	# ᥍ 0x194d
+᥎	limbu digit eight	all	never	# ᥎ 0x194e
+᥏	limbu digit nine	all	never	# ᥏ 0x194f

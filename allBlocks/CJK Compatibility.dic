@@ -1,0 +1,257 @@
+# # cjk Compatibility
+㌀	square apaato	all	never	# ㌀ 0x3300
+㌁	square aruhua	all	never	# ㌁ 0x3301
+㌂	square anpea	all	never	# ㌂ 0x3302
+㌃	square aaru	all	never	# ㌃ 0x3303
+㌄	square iningu	all	never	# ㌄ 0x3304
+㌅	square inti	all	never	# ㌅ 0x3305
+㌆	square uon	all	never	# ㌆ 0x3306
+㌇	square esukuudo	all	never	# ㌇ 0x3307
+㌈	square eekaa	all	never	# ㌈ 0x3308
+㌉	square onsu	all	never	# ㌉ 0x3309
+㌊	square oomu	all	never	# ㌊ 0x330a
+㌋	square kairi	all	never	# ㌋ 0x330b
+㌌	square karatto	all	never	# ㌌ 0x330c
+㌍	square karorii	all	never	# ㌍ 0x330d
+㌎	square garon	all	never	# ㌎ 0x330e
+㌏	square ganma	all	never	# ㌏ 0x330f
+㌐	square giga	all	never	# ㌐ 0x3310
+㌑	square ginii	all	never	# ㌑ 0x3311
+㌒	square kyurii	all	never	# ㌒ 0x3312
+㌓	square girudaa	all	never	# ㌓ 0x3313
+㌔	square kiro	all	never	# ㌔ 0x3314
+㌕	square kiroguramu	all	never	# ㌕ 0x3315
+㌖	square kiromeetoru	all	never	# ㌖ 0x3316
+㌗	square kirowatto	all	never	# ㌗ 0x3317
+㌘	square guramu	all	never	# ㌘ 0x3318
+㌙	square guramuton	all	never	# ㌙ 0x3319
+㌚	square kuruzeiro	all	never	# ㌚ 0x331a
+㌛	square kuroone	all	never	# ㌛ 0x331b
+㌜	square keesu	all	never	# ㌜ 0x331c
+㌝	square koruna	all	never	# ㌝ 0x331d
+㌞	square koopo	all	never	# ㌞ 0x331e
+㌟	square saikuru	all	never	# ㌟ 0x331f
+㌠	square santiimu	all	never	# ㌠ 0x3320
+㌡	square siringu	all	never	# ㌡ 0x3321
+㌢	square senti	all	never	# ㌢ 0x3322
+㌣	square sento	all	never	# ㌣ 0x3323
+㌤	square daasu	all	never	# ㌤ 0x3324
+㌥	square desi	all	never	# ㌥ 0x3325
+㌦	square doru	all	never	# ㌦ 0x3326
+㌧	square ton	all	never	# ㌧ 0x3327
+㌨	square nano	all	never	# ㌨ 0x3328
+㌩	square notto	all	never	# ㌩ 0x3329
+㌪	square haitu	all	never	# ㌪ 0x332a
+㌫	square paasento	all	never	# ㌫ 0x332b
+㌬	square paatu	all	never	# ㌬ 0x332c
+㌭	square baareru	all	never	# ㌭ 0x332d
+㌮	square piasutoru	all	never	# ㌮ 0x332e
+㌯	square pikuru	all	never	# ㌯ 0x332f
+㌰	square piko	all	never	# ㌰ 0x3330
+㌱	square biru	all	never	# ㌱ 0x3331
+㌲	square huaraddo	all	never	# ㌲ 0x3332
+㌳	square huiito	all	never	# ㌳ 0x3333
+㌴	square bussyeru	all	never	# ㌴ 0x3334
+㌵	square huran	all	never	# ㌵ 0x3335
+㌶	square hekutaaru	all	never	# ㌶ 0x3336
+㌷	square peso	all	never	# ㌷ 0x3337
+㌸	square penihi	all	never	# ㌸ 0x3338
+㌹	square herutu	all	never	# ㌹ 0x3339
+㌺	square pensu	all	never	# ㌺ 0x333a
+㌻	square peezi	all	never	# ㌻ 0x333b
+㌼	square beeta	all	never	# ㌼ 0x333c
+㌽	square pointo	all	never	# ㌽ 0x333d
+㌾	square boruto	all	never	# ㌾ 0x333e
+㌿	square hon	all	never	# ㌿ 0x333f
+㍀	square pondo	all	never	# ㍀ 0x3340
+㍁	square hooru	all	never	# ㍁ 0x3341
+㍂	square hoon	all	never	# ㍂ 0x3342
+㍃	square maikuro	all	never	# ㍃ 0x3343
+㍄	square mairu	all	never	# ㍄ 0x3344
+㍅	square mahha	all	never	# ㍅ 0x3345
+㍆	square maruku	all	never	# ㍆ 0x3346
+㍇	square mansyon	all	never	# ㍇ 0x3347
+㍈	square mikuron	all	never	# ㍈ 0x3348
+㍉	square miri	all	never	# ㍉ 0x3349
+㍊	square miribaaru	all	never	# ㍊ 0x334a
+㍋	square mega	all	never	# ㍋ 0x334b
+㍌	square megaton	all	never	# ㍌ 0x334c
+㍍	square meetoru	all	never	# ㍍ 0x334d
+㍎	square yaado	all	never	# ㍎ 0x334e
+㍏	square yaaru	all	never	# ㍏ 0x334f
+㍐	square yuan	all	never	# ㍐ 0x3350
+㍑	square rittoru	all	never	# ㍑ 0x3351
+㍒	square rira	all	never	# ㍒ 0x3352
+㍓	square rupii	all	never	# ㍓ 0x3353
+㍔	square ruuburu	all	never	# ㍔ 0x3354
+㍕	square remu	all	never	# ㍕ 0x3355
+㍖	square rentogen	all	never	# ㍖ 0x3356
+㍗	square watto	all	never	# ㍗ 0x3357
+㍘	ideographic telegraph symbol for hour zero	all	never	# ㍘ 0x3358
+㍙	ideographic telegraph symbol for hour one	all	never	# ㍙ 0x3359
+㍚	ideographic telegraph symbol for hour two	all	never	# ㍚ 0x335a
+㍛	ideographic telegraph symbol for hour three	all	never	# ㍛ 0x335b
+㍜	ideographic telegraph symbol for hour four	all	never	# ㍜ 0x335c
+㍝	ideographic telegraph symbol for hour five	all	never	# ㍝ 0x335d
+㍞	ideographic telegraph symbol for hour six	all	never	# ㍞ 0x335e
+㍟	ideographic telegraph symbol for hour seven	all	never	# ㍟ 0x335f
+㍠	ideographic telegraph symbol for hour eight	all	never	# ㍠ 0x3360
+㍡	ideographic telegraph symbol for hour nine	all	never	# ㍡ 0x3361
+㍢	ideographic telegraph symbol for hour ten	all	never	# ㍢ 0x3362
+㍣	ideographic telegraph symbol for hour eleven	all	never	# ㍣ 0x3363
+㍤	ideographic telegraph symbol for hour twelve	all	never	# ㍤ 0x3364
+㍥	ideographic telegraph symbol for hour thirteen	all	never	# ㍥ 0x3365
+㍦	ideographic telegraph symbol for hour fourteen	all	never	# ㍦ 0x3366
+㍧	ideographic telegraph symbol for hour fifteen	all	never	# ㍧ 0x3367
+㍨	ideographic telegraph symbol for hour sixteen	all	never	# ㍨ 0x3368
+㍩	ideographic telegraph symbol for hour seventeen	all	never	# ㍩ 0x3369
+㍪	ideographic telegraph symbol for hour eighteen	all	never	# ㍪ 0x336a
+㍫	ideographic telegraph symbol for hour nineteen	all	never	# ㍫ 0x336b
+㍬	ideographic telegraph symbol for hour twenty	all	never	# ㍬ 0x336c
+㍭	ideographic telegraph symbol for hour twenty-one	all	never	# ㍭ 0x336d
+㍮	ideographic telegraph symbol for hour twenty-two	all	never	# ㍮ 0x336e
+㍯	ideographic telegraph symbol for hour twenty-three	all	never	# ㍯ 0x336f
+㍰	ideographic telegraph symbol for hour twenty-four	all	never	# ㍰ 0x3370
+㍱	square hpa	all	never	# ㍱ 0x3371
+㍲	square da	all	never	# ㍲ 0x3372
+㍳	square au	all	never	# ㍳ 0x3373
+㍴	square bar	all	never	# ㍴ 0x3374
+㍵	square ov	all	never	# ㍵ 0x3375
+㍶	square pc	all	never	# ㍶ 0x3376
+㍷	square dm	all	never	# ㍷ 0x3377
+㍸	square dm squared	all	never	# ㍸ 0x3378
+㍹	square dm cubed	all	never	# ㍹ 0x3379
+㍺	square iu	all	never	# ㍺ 0x337a
+㍻	square era name heisei	all	never	# ㍻ 0x337b
+㍼	square era name syouwa	all	never	# ㍼ 0x337c
+㍽	square era name taisyou	all	never	# ㍽ 0x337d
+㍾	square era name meizi	all	never	# ㍾ 0x337e
+㍿	square corporation	all	never	# ㍿ 0x337f
+㎀	square pa amps	all	never	# ㎀ 0x3380
+㎁	square na	all	never	# ㎁ 0x3381
+㎂	square mu A	all	never	# ㎂ 0x3382
+㎃	square ma	all	never	# ㎃ 0x3383
+㎄	square ka	all	never	# ㎄ 0x3384
+㎅	square kb	all	never	# ㎅ 0x3385
+㎆	square mb	all	never	# ㎆ 0x3386
+㎇	square gb	all	never	# ㎇ 0x3387
+㎈	square cal	all	never	# ㎈ 0x3388
+㎉	square kcal	all	never	# ㎉ 0x3389
+㎊	square pf	all	never	# ㎊ 0x338a
+㎋	square nf	all	never	# ㎋ 0x338b
+㎌	square mu F	all	never	# ㎌ 0x338c
+㎍	square mu G	all	never	# ㎍ 0x338d
+㎎	square mg	all	never	# ㎎ 0x338e
+㎏	square kg	all	never	# ㎏ 0x338f
+㎐	square hz	all	never	# ㎐ 0x3390
+㎑	square khz	all	never	# ㎑ 0x3391
+㎒	square mhz	all	never	# ㎒ 0x3392
+㎓	square ghz	all	never	# ㎓ 0x3393
+㎔	square thz	all	never	# ㎔ 0x3394
+㎕	square mu L	all	never	# ㎕ 0x3395
+㎖	square ml	all	never	# ㎖ 0x3396
+㎗	square dl	all	never	# ㎗ 0x3397
+㎘	square kl	all	never	# ㎘ 0x3398
+㎙	square fm	all	never	# ㎙ 0x3399
+㎚	square nm	all	never	# ㎚ 0x339a
+㎛	square mu M	all	never	# ㎛ 0x339b
+㎜	square mm	all	never	# ㎜ 0x339c
+㎝	square cm	all	never	# ㎝ 0x339d
+㎞	square km	all	never	# ㎞ 0x339e
+㎟	square mm squared	all	never	# ㎟ 0x339f
+㎠	square cm squared	all	never	# ㎠ 0x33a0
+㎡	square M squared	all	never	# ㎡ 0x33a1
+㎢	square km squared	all	never	# ㎢ 0x33a2
+㎣	square mm cubed	all	never	# ㎣ 0x33a3
+㎤	square cm cubed	all	never	# ㎤ 0x33a4
+㎥	square M cubed	all	never	# ㎥ 0x33a5
+㎦	square km cubed	all	never	# ㎦ 0x33a6
+㎧	square M over S	all	never	# ㎧ 0x33a7
+㎨	square M over S squared	all	never	# ㎨ 0x33a8
+㎩	square pa	all	never	# ㎩ 0x33a9
+㎪	square kpa	all	never	# ㎪ 0x33aa
+㎫	square mpa	all	never	# ㎫ 0x33ab
+㎬	square gpa	all	never	# ㎬ 0x33ac
+㎭	square rad	all	never	# ㎭ 0x33ad
+㎮	square rad over S	all	never	# ㎮ 0x33ae
+㎯	square rad over S squared	all	never	# ㎯ 0x33af
+㎰	square ps	all	never	# ㎰ 0x33b0
+㎱	square ns	all	never	# ㎱ 0x33b1
+㎲	square mu S	all	never	# ㎲ 0x33b2
+㎳	square ms	all	never	# ㎳ 0x33b3
+㎴	square pv	all	never	# ㎴ 0x33b4
+㎵	square nv	all	never	# ㎵ 0x33b5
+㎶	square mu V	all	never	# ㎶ 0x33b6
+㎷	square mv	all	never	# ㎷ 0x33b7
+㎸	square kv	all	never	# ㎸ 0x33b8
+㎹	square mv mega	all	never	# ㎹ 0x33b9
+㎺	square pw	all	never	# ㎺ 0x33ba
+㎻	square nw	all	never	# ㎻ 0x33bb
+㎼	square mu W	all	never	# ㎼ 0x33bc
+㎽	square mw	all	never	# ㎽ 0x33bd
+㎾	square kw	all	never	# ㎾ 0x33be
+㎿	square mw mega	all	never	# ㎿ 0x33bf
+㏀	square K ohm	all	never	# ㏀ 0x33c0
+㏁	square M ohm	all	never	# ㏁ 0x33c1
+㏂	square am	all	never	# ㏂ 0x33c2
+㏃	square bq	all	never	# ㏃ 0x33c3
+㏄	square cc	all	never	# ㏄ 0x33c4
+㏅	square cd	all	never	# ㏅ 0x33c5
+㏆	square C over kg	all	never	# ㏆ 0x33c6
+㏇	square co	all	never	# ㏇ 0x33c7
+㏈	square db	all	never	# ㏈ 0x33c8
+㏉	square gy	all	never	# ㏉ 0x33c9
+㏊	square ha	all	never	# ㏊ 0x33ca
+㏋	square hp	all	never	# ㏋ 0x33cb
+㏌	square in	all	never	# ㏌ 0x33cc
+㏍	square kk	all	never	# ㏍ 0x33cd
+㏎	square km capital	all	never	# ㏎ 0x33ce
+㏏	square kt	all	never	# ㏏ 0x33cf
+㏐	square lm	all	never	# ㏐ 0x33d0
+㏑	square ln	all	never	# ㏑ 0x33d1
+㏒	square log	all	never	# ㏒ 0x33d2
+㏓	square lx	all	never	# ㏓ 0x33d3
+㏔	square mb small	all	never	# ㏔ 0x33d4
+㏕	square mil	all	never	# ㏕ 0x33d5
+㏖	square mol	all	never	# ㏖ 0x33d6
+㏗	square ph	all	never	# ㏗ 0x33d7
+㏘	square pm	all	never	# ㏘ 0x33d8
+㏙	square ppm	all	never	# ㏙ 0x33d9
+㏚	square pr	all	never	# ㏚ 0x33da
+㏛	square sr	all	never	# ㏛ 0x33db
+㏜	square sv	all	never	# ㏜ 0x33dc
+㏝	square wb	all	never	# ㏝ 0x33dd
+㏞	square V over M	all	never	# ㏞ 0x33de
+㏟	square A over M	all	never	# ㏟ 0x33df
+㏠	ideographic telegraph symbol for day one	all	never	# ㏠ 0x33e0
+㏡	ideographic telegraph symbol for day two	all	never	# ㏡ 0x33e1
+㏢	ideographic telegraph symbol for day three	all	never	# ㏢ 0x33e2
+㏣	ideographic telegraph symbol for day four	all	never	# ㏣ 0x33e3
+㏤	ideographic telegraph symbol for day five	all	never	# ㏤ 0x33e4
+㏥	ideographic telegraph symbol for day six	all	never	# ㏥ 0x33e5
+㏦	ideographic telegraph symbol for day seven	all	never	# ㏦ 0x33e6
+㏧	ideographic telegraph symbol for day eight	all	never	# ㏧ 0x33e7
+㏨	ideographic telegraph symbol for day nine	all	never	# ㏨ 0x33e8
+㏩	ideographic telegraph symbol for day ten	all	never	# ㏩ 0x33e9
+㏪	ideographic telegraph symbol for day eleven	all	never	# ㏪ 0x33ea
+㏫	ideographic telegraph symbol for day twelve	all	never	# ㏫ 0x33eb
+㏬	ideographic telegraph symbol for day thirteen	all	never	# ㏬ 0x33ec
+㏭	ideographic telegraph symbol for day fourteen	all	never	# ㏭ 0x33ed
+㏮	ideographic telegraph symbol for day fifteen	all	never	# ㏮ 0x33ee
+㏯	ideographic telegraph symbol for day sixteen	all	never	# ㏯ 0x33ef
+㏰	ideographic telegraph symbol for day seventeen	all	never	# ㏰ 0x33f0
+㏱	ideographic telegraph symbol for day eighteen	all	never	# ㏱ 0x33f1
+㏲	ideographic telegraph symbol for day nineteen	all	never	# ㏲ 0x33f2
+㏳	ideographic telegraph symbol for day twenty	all	never	# ㏳ 0x33f3
+㏴	ideographic telegraph symbol for day twenty-one	all	never	# ㏴ 0x33f4
+㏵	ideographic telegraph symbol for day twenty-two	all	never	# ㏵ 0x33f5
+㏶	ideographic telegraph symbol for day twenty-three	all	never	# ㏶ 0x33f6
+㏷	ideographic telegraph symbol for day twenty-four	all	never	# ㏷ 0x33f7
+㏸	ideographic telegraph symbol for day twenty-five	all	never	# ㏸ 0x33f8
+㏹	ideographic telegraph symbol for day twenty-six	all	never	# ㏹ 0x33f9
+㏺	ideographic telegraph symbol for day twenty-seven	all	never	# ㏺ 0x33fa
+㏻	ideographic telegraph symbol for day twenty-eight	all	never	# ㏻ 0x33fb
+㏼	ideographic telegraph symbol for day twenty-nine	all	never	# ㏼ 0x33fc
+㏽	ideographic telegraph symbol for day thirty	all	never	# ㏽ 0x33fd
+㏾	ideographic telegraph symbol for day thirty-one	all	never	# ㏾ 0x33fe
+㏿	square gal	all	never	# ㏿ 0x33ff

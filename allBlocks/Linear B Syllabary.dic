@@ -1,0 +1,89 @@
+# # Linear B Syllabary
+𐀀	linear B syllable B008 A	all	never	# 𐀀 0x10000
+𐀁	linear B syllable B038 E	all	never	# 𐀁 0x10001
+𐀂	linear B syllable B028 I	all	never	# 𐀂 0x10002
+𐀃	linear B syllable B061 O	all	never	# 𐀃 0x10003
+𐀄	linear B syllable B010 U	all	never	# 𐀄 0x10004
+𐀅	linear B syllable B001 da	all	never	# 𐀅 0x10005
+𐀆	linear B syllable B045 de	all	never	# 𐀆 0x10006
+𐀇	linear B syllable B007 di	all	never	# 𐀇 0x10007
+𐀈	linear B syllable B014 do	all	never	# 𐀈 0x10008
+𐀉	linear B syllable B051 du	all	never	# 𐀉 0x10009
+𐀊	linear B syllable B057 ja	all	never	# 𐀊 0x1000a
+𐀋	linear B syllable B046 je	all	never	# 𐀋 0x1000b
+𐀍	linear B syllable B036 jo	all	never	# 𐀍 0x1000d
+𐀎	linear B syllable B065 ju	all	never	# 𐀎 0x1000e
+𐀏	linear B syllable B077 ka	all	never	# 𐀏 0x1000f
+𐀐	linear B syllable B044 ke	all	never	# 𐀐 0x10010
+𐀑	linear B syllable B067 ki	all	never	# 𐀑 0x10011
+𐀒	linear B syllable B070 ko	all	never	# 𐀒 0x10012
+𐀓	linear B syllable B081 ku	all	never	# 𐀓 0x10013
+𐀔	linear B syllable B080 ma	all	never	# 𐀔 0x10014
+𐀕	linear B syllable B013 me	all	never	# 𐀕 0x10015
+𐀖	linear B syllable B073 mi	all	never	# 𐀖 0x10016
+𐀗	linear B syllable B015 mo	all	never	# 𐀗 0x10017
+𐀘	linear B syllable B023 mu	all	never	# 𐀘 0x10018
+𐀙	linear B syllable B006 na	all	never	# 𐀙 0x10019
+𐀚	linear B syllable B024 ne	all	never	# 𐀚 0x1001a
+𐀛	linear B syllable B030 ni	all	never	# 𐀛 0x1001b
+𐀜	linear B syllable B052 no	all	never	# 𐀜 0x1001c
+𐀝	linear B syllable B055 nu	all	never	# 𐀝 0x1001d
+𐀞	linear B syllable B003 pa	all	never	# 𐀞 0x1001e
+𐀟	linear B syllable B072 pe	all	never	# 𐀟 0x1001f
+𐀠	linear B syllable B039 pi	all	never	# 𐀠 0x10020
+𐀡	linear B syllable B011 po	all	never	# 𐀡 0x10021
+𐀢	linear B syllable B050 pu	all	never	# 𐀢 0x10022
+𐀣	linear B syllable B016 qa	all	never	# 𐀣 0x10023
+𐀤	linear B syllable B078 qe	all	never	# 𐀤 0x10024
+𐀥	linear B syllable B021 qi	all	never	# 𐀥 0x10025
+𐀦	linear B syllable B032 qo	all	never	# 𐀦 0x10026
+𐀨	linear B syllable B060 ra	all	never	# 𐀨 0x10028
+𐀩	linear B syllable B027 re	all	never	# 𐀩 0x10029
+𐀪	linear B syllable B053 ri	all	never	# 𐀪 0x1002a
+𐀫	linear B syllable B002 ro	all	never	# 𐀫 0x1002b
+𐀬	linear B syllable B026 ru	all	never	# 𐀬 0x1002c
+𐀭	linear B syllable B031 sa	all	never	# 𐀭 0x1002d
+𐀮	linear B syllable B009 se	all	never	# 𐀮 0x1002e
+𐀯	linear B syllable B041 si	all	never	# 𐀯 0x1002f
+𐀰	linear B syllable B012 so	all	never	# 𐀰 0x10030
+𐀱	linear B syllable B058 su	all	never	# 𐀱 0x10031
+𐀲	linear B syllable B059 ta	all	never	# 𐀲 0x10032
+𐀳	linear B syllable B004 te	all	never	# 𐀳 0x10033
+𐀴	linear B syllable B037 ti	all	never	# 𐀴 0x10034
+𐀵	linear B syllable B005 to	all	never	# 𐀵 0x10035
+𐀶	linear B syllable B069 tu	all	never	# 𐀶 0x10036
+𐀷	linear B syllable B054 wa	all	never	# 𐀷 0x10037
+𐀸	linear B syllable B075 we	all	never	# 𐀸 0x10038
+𐀹	linear B syllable B040 wi	all	never	# 𐀹 0x10039
+𐀺	linear B syllable B042 wo	all	never	# 𐀺 0x1003a
+𐀼	linear B syllable B017 za	all	never	# 𐀼 0x1003c
+𐀽	linear B syllable B074 ze	all	never	# 𐀽 0x1003d
+𐀿	linear B syllable B020 zo	all	never	# 𐀿 0x1003f
+𐁀	linear B syllable B025 A2	all	never	# 𐁀 0x10040
+𐁁	linear B syllable B043 A3	all	never	# 𐁁 0x10041
+𐁂	linear B syllable B085 au	all	never	# 𐁂 0x10042
+𐁃	linear B syllable B071 dwe	all	never	# 𐁃 0x10043
+𐁄	linear B syllable B090 dwo	all	never	# 𐁄 0x10044
+𐁅	linear B syllable B048 nwa	all	never	# 𐁅 0x10045
+𐁆	linear B syllable B029 PU2	all	never	# 𐁆 0x10046
+𐁇	linear B syllable B062 pte	all	never	# 𐁇 0x10047
+𐁈	linear B syllable B076 RA2	all	never	# 𐁈 0x10048
+𐁉	linear B syllable B033 RA3	all	never	# 𐁉 0x10049
+𐁊	linear B syllable B068 RO2	all	never	# 𐁊 0x1004a
+𐁋	linear B syllable B066 TA2	all	never	# 𐁋 0x1004b
+𐁌	linear B syllable B087 twe	all	never	# 𐁌 0x1004c
+𐁍	linear B syllable B091 two	all	never	# 𐁍 0x1004d
+𐁐	linear B symbol B018	all	never	# 𐁐 0x10050
+𐁑	linear B symbol B019	all	never	# 𐁑 0x10051
+𐁒	linear B symbol B022	all	never	# 𐁒 0x10052
+𐁓	linear B symbol B034	all	never	# 𐁓 0x10053
+𐁔	linear B symbol B047	all	never	# 𐁔 0x10054
+𐁕	linear B symbol B049	all	never	# 𐁕 0x10055
+𐁖	linear B symbol B056	all	never	# 𐁖 0x10056
+𐁗	linear B symbol B063	all	never	# 𐁗 0x10057
+𐁘	linear B symbol B064	all	never	# 𐁘 0x10058
+𐁙	linear B symbol B079	all	never	# 𐁙 0x10059
+𐁚	linear B symbol B082	all	never	# 𐁚 0x1005a
+𐁛	linear B symbol B083	all	never	# 𐁛 0x1005b
+𐁜	linear B symbol B086	all	never	# 𐁜 0x1005c
+𐁝	linear B symbol B089	all	never	# 𐁝 0x1005d

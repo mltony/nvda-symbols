@@ -1,0 +1,31 @@
+# # Buginese
+ᨀ	buginese letter ka	all	never	# ᨀ 0x1a00
+ᨁ	buginese letter ga	all	never	# ᨁ 0x1a01
+ᨂ	buginese letter nga	all	never	# ᨂ 0x1a02
+ᨃ	buginese letter ngka	all	never	# ᨃ 0x1a03
+ᨄ	buginese letter pa	all	never	# ᨄ 0x1a04
+ᨅ	buginese letter ba	all	never	# ᨅ 0x1a05
+ᨆ	buginese letter ma	all	never	# ᨆ 0x1a06
+ᨇ	buginese letter mpa	all	never	# ᨇ 0x1a07
+ᨈ	buginese letter ta	all	never	# ᨈ 0x1a08
+ᨉ	buginese letter da	all	never	# ᨉ 0x1a09
+ᨊ	buginese letter na	all	never	# ᨊ 0x1a0a
+ᨋ	buginese letter nra	all	never	# ᨋ 0x1a0b
+ᨌ	buginese letter ca	all	never	# ᨌ 0x1a0c
+ᨍ	buginese letter ja	all	never	# ᨍ 0x1a0d
+ᨎ	buginese letter nya	all	never	# ᨎ 0x1a0e
+ᨏ	buginese letter nyca	all	never	# ᨏ 0x1a0f
+ᨐ	buginese letter ya	all	never	# ᨐ 0x1a10
+ᨑ	buginese letter ra	all	never	# ᨑ 0x1a11
+ᨒ	buginese letter la	all	never	# ᨒ 0x1a12
+ᨓ	buginese letter va	all	never	# ᨓ 0x1a13
+ᨔ	buginese letter sa	all	never	# ᨔ 0x1a14
+ᨕ	buginese letter A	all	never	# ᨕ 0x1a15
+ᨖ	buginese letter ha	all	never	# ᨖ 0x1a16
+ᨗ	buginese vowel sign I	all	never	# ᨗ 0x1a17
+ᨘ	buginese vowel sign U	all	never	# ᨘ 0x1a18
+ᨙ	buginese vowel sign E	all	never	# ᨙ 0x1a19
+ᨚ	buginese vowel sign O	all	never	# ᨚ 0x1a1a
+ᨛ	buginese vowel sign ae	all	never	# ᨛ 0x1a1b
+᨞	buginese pallawa	all	never	# ᨞ 0x1a1e
+᨟	buginese end of section	all	never	# ᨟ 0x1a1f

@@ -1,0 +1,33 @@
+# # cjk Compatibility Forms
+︰	presentation form for vertical two dot leader	all	never	# ︰ 0xfe30
+︱	presentation form for vertical em dash	all	never	# ︱ 0xfe31
+︲	presentation form for vertical en dash	all	never	# ︲ 0xfe32
+︳	presentation form for vertical low line	all	never	# ︳ 0xfe33
+︴	presentation form for vertical wavy low line	all	never	# ︴ 0xfe34
+︵	presentation form for vertical left parenthesis	all	never	# ︵ 0xfe35
+︶	presentation form for vertical right parenthesis	all	never	# ︶ 0xfe36
+︷	presentation form for vertical left curly bracket	all	never	# ︷ 0xfe37
+︸	presentation form for vertical right curly bracket	all	never	# ︸ 0xfe38
+︹	presentation form for vertical left tortoise shell bracket	all	never	# ︹ 0xfe39
+︺	presentation form for vertical right tortoise shell bracket	all	never	# ︺ 0xfe3a
+︻	presentation form for vertical left black lenticular bracket	all	never	# ︻ 0xfe3b
+︼	presentation form for vertical right black lenticular bracket	all	never	# ︼ 0xfe3c
+︽	presentation form for vertical left double angle bracket	all	never	# ︽ 0xfe3d
+︾	presentation form for vertical right double angle bracket	all	never	# ︾ 0xfe3e
+︿	presentation form for vertical left angle bracket	all	never	# ︿ 0xfe3f
+﹀	presentation form for vertical right angle bracket	all	never	# ﹀ 0xfe40
+﹁	presentation form for vertical left corner bracket	all	never	# ﹁ 0xfe41
+﹂	presentation form for vertical right corner bracket	all	never	# ﹂ 0xfe42
+﹃	presentation form for vertical left white corner bracket	all	never	# ﹃ 0xfe43
+﹄	presentation form for vertical right white corner bracket	all	never	# ﹄ 0xfe44
+﹅	sesame dot	all	never	# ﹅ 0xfe45
+﹆	white sesame dot	all	never	# ﹆ 0xfe46
+﹇	presentation form for vertical left square bracket	all	never	# ﹇ 0xfe47
+﹈	presentation form for vertical right square bracket	all	never	# ﹈ 0xfe48
+﹉	dashed overline	all	never	# ﹉ 0xfe49
+﹊	centreline overline	all	never	# ﹊ 0xfe4a
+﹋	wavy overline	all	never	# ﹋ 0xfe4b
+﹌	double wavy overline	all	never	# ﹌ 0xfe4c
+﹍	dashed low line	all	never	# ﹍ 0xfe4d
+﹎	centreline low line	all	never	# ﹎ 0xfe4e
+﹏	wavy low line	all	never	# ﹏ 0xfe4f

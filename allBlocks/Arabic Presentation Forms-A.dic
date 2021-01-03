@@ -1,0 +1,612 @@
+# # Arabic Presentation Forms-A
+ﭐ	arabic letter alef wasla isolated form	all	never	# ﭐ 0xfb50
+ﭑ	arabic letter alef wasla final form	all	never	# ﭑ 0xfb51
+ﭒ	arabic letter beeh isolated form	all	never	# ﭒ 0xfb52
+ﭓ	arabic letter beeh final form	all	never	# ﭓ 0xfb53
+ﭔ	arabic letter beeh initial form	all	never	# ﭔ 0xfb54
+ﭕ	arabic letter beeh medial form	all	never	# ﭕ 0xfb55
+ﭖ	arabic letter peh isolated form	all	never	# ﭖ 0xfb56
+ﭗ	arabic letter peh final form	all	never	# ﭗ 0xfb57
+ﭘ	arabic letter peh initial form	all	never	# ﭘ 0xfb58
+ﭙ	arabic letter peh medial form	all	never	# ﭙ 0xfb59
+ﭚ	arabic letter beheh isolated form	all	never	# ﭚ 0xfb5a
+ﭛ	arabic letter beheh final form	all	never	# ﭛ 0xfb5b
+ﭜ	arabic letter beheh initial form	all	never	# ﭜ 0xfb5c
+ﭝ	arabic letter beheh medial form	all	never	# ﭝ 0xfb5d
+ﭞ	arabic letter tteheh isolated form	all	never	# ﭞ 0xfb5e
+ﭟ	arabic letter tteheh final form	all	never	# ﭟ 0xfb5f
+ﭠ	arabic letter tteheh initial form	all	never	# ﭠ 0xfb60
+ﭡ	arabic letter tteheh medial form	all	never	# ﭡ 0xfb61
+ﭢ	arabic letter teheh isolated form	all	never	# ﭢ 0xfb62
+ﭣ	arabic letter teheh final form	all	never	# ﭣ 0xfb63
+ﭤ	arabic letter teheh initial form	all	never	# ﭤ 0xfb64
+ﭥ	arabic letter teheh medial form	all	never	# ﭥ 0xfb65
+ﭦ	arabic letter tteh isolated form	all	never	# ﭦ 0xfb66
+ﭧ	arabic letter tteh final form	all	never	# ﭧ 0xfb67
+ﭨ	arabic letter tteh initial form	all	never	# ﭨ 0xfb68
+ﭩ	arabic letter tteh medial form	all	never	# ﭩ 0xfb69
+ﭪ	arabic letter veh isolated form	all	never	# ﭪ 0xfb6a
+ﭫ	arabic letter veh final form	all	never	# ﭫ 0xfb6b
+ﭬ	arabic letter veh initial form	all	never	# ﭬ 0xfb6c
+ﭭ	arabic letter veh medial form	all	never	# ﭭ 0xfb6d
+ﭮ	arabic letter peheh isolated form	all	never	# ﭮ 0xfb6e
+ﭯ	arabic letter peheh final form	all	never	# ﭯ 0xfb6f
+ﭰ	arabic letter peheh initial form	all	never	# ﭰ 0xfb70
+ﭱ	arabic letter peheh medial form	all	never	# ﭱ 0xfb71
+ﭲ	arabic letter dyeh isolated form	all	never	# ﭲ 0xfb72
+ﭳ	arabic letter dyeh final form	all	never	# ﭳ 0xfb73
+ﭴ	arabic letter dyeh initial form	all	never	# ﭴ 0xfb74
+ﭵ	arabic letter dyeh medial form	all	never	# ﭵ 0xfb75
+ﭶ	arabic letter nyeh isolated form	all	never	# ﭶ 0xfb76
+ﭷ	arabic letter nyeh final form	all	never	# ﭷ 0xfb77
+ﭸ	arabic letter nyeh initial form	all	never	# ﭸ 0xfb78
+ﭹ	arabic letter nyeh medial form	all	never	# ﭹ 0xfb79
+ﭺ	arabic letter tcheh isolated form	all	never	# ﭺ 0xfb7a
+ﭻ	arabic letter tcheh final form	all	never	# ﭻ 0xfb7b
+ﭼ	arabic letter tcheh initial form	all	never	# ﭼ 0xfb7c
+ﭽ	arabic letter tcheh medial form	all	never	# ﭽ 0xfb7d
+ﭾ	arabic letter tcheheh isolated form	all	never	# ﭾ 0xfb7e
+ﭿ	arabic letter tcheheh final form	all	never	# ﭿ 0xfb7f
+ﮀ	arabic letter tcheheh initial form	all	never	# ﮀ 0xfb80
+ﮁ	arabic letter tcheheh medial form	all	never	# ﮁ 0xfb81
+ﮂ	arabic letter ddahal isolated form	all	never	# ﮂ 0xfb82
+ﮃ	arabic letter ddahal final form	all	never	# ﮃ 0xfb83
+ﮄ	arabic letter dahal isolated form	all	never	# ﮄ 0xfb84
+ﮅ	arabic letter dahal final form	all	never	# ﮅ 0xfb85
+ﮆ	arabic letter dul isolated form	all	never	# ﮆ 0xfb86
+ﮇ	arabic letter dul final form	all	never	# ﮇ 0xfb87
+ﮈ	arabic letter ddal isolated form	all	never	# ﮈ 0xfb88
+ﮉ	arabic letter ddal final form	all	never	# ﮉ 0xfb89
+ﮊ	arabic letter jeh isolated form	all	never	# ﮊ 0xfb8a
+ﮋ	arabic letter jeh final form	all	never	# ﮋ 0xfb8b
+ﮌ	arabic letter rreh isolated form	all	never	# ﮌ 0xfb8c
+ﮍ	arabic letter rreh final form	all	never	# ﮍ 0xfb8d
+ﮎ	arabic letter keheh isolated form	all	never	# ﮎ 0xfb8e
+ﮏ	arabic letter keheh final form	all	never	# ﮏ 0xfb8f
+ﮐ	arabic letter keheh initial form	all	never	# ﮐ 0xfb90
+ﮑ	arabic letter keheh medial form	all	never	# ﮑ 0xfb91
+ﮒ	arabic letter gaf isolated form	all	never	# ﮒ 0xfb92
+ﮓ	arabic letter gaf final form	all	never	# ﮓ 0xfb93
+ﮔ	arabic letter gaf initial form	all	never	# ﮔ 0xfb94
+ﮕ	arabic letter gaf medial form	all	never	# ﮕ 0xfb95
+ﮖ	arabic letter gueh isolated form	all	never	# ﮖ 0xfb96
+ﮗ	arabic letter gueh final form	all	never	# ﮗ 0xfb97
+ﮘ	arabic letter gueh initial form	all	never	# ﮘ 0xfb98
+ﮙ	arabic letter gueh medial form	all	never	# ﮙ 0xfb99
+ﮚ	arabic letter ngoeh isolated form	all	never	# ﮚ 0xfb9a
+ﮛ	arabic letter ngoeh final form	all	never	# ﮛ 0xfb9b
+ﮜ	arabic letter ngoeh initial form	all	never	# ﮜ 0xfb9c
+ﮝ	arabic letter ngoeh medial form	all	never	# ﮝ 0xfb9d
+ﮞ	arabic letter noon ghunna isolated form	all	never	# ﮞ 0xfb9e
+ﮟ	arabic letter noon ghunna final form	all	never	# ﮟ 0xfb9f
+ﮠ	arabic letter rnoon isolated form	all	never	# ﮠ 0xfba0
+ﮡ	arabic letter rnoon final form	all	never	# ﮡ 0xfba1
+ﮢ	arabic letter rnoon initial form	all	never	# ﮢ 0xfba2
+ﮣ	arabic letter rnoon medial form	all	never	# ﮣ 0xfba3
+ﮤ	arabic letter heh with yeh above isolated form	all	never	# ﮤ 0xfba4
+ﮥ	arabic letter heh with yeh above final form	all	never	# ﮥ 0xfba5
+ﮦ	arabic letter heh goal isolated form	all	never	# ﮦ 0xfba6
+ﮧ	arabic letter heh goal final form	all	never	# ﮧ 0xfba7
+ﮨ	arabic letter heh goal initial form	all	never	# ﮨ 0xfba8
+ﮩ	arabic letter heh goal medial form	all	never	# ﮩ 0xfba9
+ﮪ	arabic letter heh doachashmee isolated form	all	never	# ﮪ 0xfbaa
+ﮫ	arabic letter heh doachashmee final form	all	never	# ﮫ 0xfbab
+ﮬ	arabic letter heh doachashmee initial form	all	never	# ﮬ 0xfbac
+ﮭ	arabic letter heh doachashmee medial form	all	never	# ﮭ 0xfbad
+ﮮ	arabic letter yeh barree isolated form	all	never	# ﮮ 0xfbae
+ﮯ	arabic letter yeh barree final form	all	never	# ﮯ 0xfbaf
+ﮰ	arabic letter yeh barree with hamza above isolated form	all	never	# ﮰ 0xfbb0
+ﮱ	arabic letter yeh barree with hamza above final form	all	never	# ﮱ 0xfbb1
+﮲	arabic symbol dot above	all	never	# ﮲ 0xfbb2
+﮳	arabic symbol dot below	all	never	# ﮳ 0xfbb3
+﮴	arabic symbol two dots above	all	never	# ﮴ 0xfbb4
+﮵	arabic symbol two dots below	all	never	# ﮵ 0xfbb5
+﮶	arabic symbol three dots above	all	never	# ﮶ 0xfbb6
+﮷	arabic symbol three dots below	all	never	# ﮷ 0xfbb7
+﮸	arabic symbol three dots pointing downwards above	all	never	# ﮸ 0xfbb8
+﮹	arabic symbol three dots pointing downwards below	all	never	# ﮹ 0xfbb9
+﮺	arabic symbol four dots above	all	never	# ﮺ 0xfbba
+﮻	arabic symbol four dots below	all	never	# ﮻ 0xfbbb
+﮼	arabic symbol double vertical bar below	all	never	# ﮼ 0xfbbc
+﮽	arabic symbol two dots vertically above	all	never	# ﮽ 0xfbbd
+﮾	arabic symbol two dots vertically below	all	never	# ﮾ 0xfbbe
+﮿	arabic symbol ring	all	never	# ﮿ 0xfbbf
+﯀	arabic symbol small tah above	all	never	# ﯀ 0xfbc0
+﯁	arabic symbol small tah below	all	never	# ﯁ 0xfbc1
+ﯓ	arabic letter ng isolated form	all	never	# ﯓ 0xfbd3
+ﯔ	arabic letter ng final form	all	never	# ﯔ 0xfbd4
+ﯕ	arabic letter ng initial form	all	never	# ﯕ 0xfbd5
+ﯖ	arabic letter ng medial form	all	never	# ﯖ 0xfbd6
+ﯗ	arabic letter U isolated form	all	never	# ﯗ 0xfbd7
+ﯘ	arabic letter U final form	all	never	# ﯘ 0xfbd8
+ﯙ	arabic letter oe isolated form	all	never	# ﯙ 0xfbd9
+ﯚ	arabic letter oe final form	all	never	# ﯚ 0xfbda
+ﯛ	arabic letter yu isolated form	all	never	# ﯛ 0xfbdb
+ﯜ	arabic letter yu final form	all	never	# ﯜ 0xfbdc
+ﯝ	arabic letter U with hamza above isolated form	all	never	# ﯝ 0xfbdd
+ﯞ	arabic letter ve isolated form	all	never	# ﯞ 0xfbde
+ﯟ	arabic letter ve final form	all	never	# ﯟ 0xfbdf
+ﯠ	arabic letter kirghiz oe isolated form	all	never	# ﯠ 0xfbe0
+ﯡ	arabic letter kirghiz oe final form	all	never	# ﯡ 0xfbe1
+ﯢ	arabic letter kirghiz yu isolated form	all	never	# ﯢ 0xfbe2
+ﯣ	arabic letter kirghiz yu final form	all	never	# ﯣ 0xfbe3
+ﯤ	arabic letter E isolated form	all	never	# ﯤ 0xfbe4
+ﯥ	arabic letter E final form	all	never	# ﯥ 0xfbe5
+ﯦ	arabic letter E initial form	all	never	# ﯦ 0xfbe6
+ﯧ	arabic letter E medial form	all	never	# ﯧ 0xfbe7
+ﯨ	arabic letter uighur kazakh kirghiz alef maksura initial form	all	never	# ﯨ 0xfbe8
+ﯩ	arabic letter uighur kazakh kirghiz alef maksura medial form	all	never	# ﯩ 0xfbe9
+ﯪ	arabic ligature yeh with hamza above with alef isolated form	all	never	# ﯪ 0xfbea
+ﯫ	arabic ligature yeh with hamza above with alef final form	all	never	# ﯫ 0xfbeb
+ﯬ	arabic ligature yeh with hamza above with ae isolated form	all	never	# ﯬ 0xfbec
+ﯭ	arabic ligature yeh with hamza above with ae final form	all	never	# ﯭ 0xfbed
+ﯮ	arabic ligature yeh with hamza above with waw isolated form	all	never	# ﯮ 0xfbee
+ﯯ	arabic ligature yeh with hamza above with waw final form	all	never	# ﯯ 0xfbef
+ﯰ	arabic ligature yeh with hamza above with U isolated form	all	never	# ﯰ 0xfbf0
+ﯱ	arabic ligature yeh with hamza above with U final form	all	never	# ﯱ 0xfbf1
+ﯲ	arabic ligature yeh with hamza above with oe isolated form	all	never	# ﯲ 0xfbf2
+ﯳ	arabic ligature yeh with hamza above with oe final form	all	never	# ﯳ 0xfbf3
+ﯴ	arabic ligature yeh with hamza above with yu isolated form	all	never	# ﯴ 0xfbf4
+ﯵ	arabic ligature yeh with hamza above with yu final form	all	never	# ﯵ 0xfbf5
+ﯶ	arabic ligature yeh with hamza above with E isolated form	all	never	# ﯶ 0xfbf6
+ﯷ	arabic ligature yeh with hamza above with E final form	all	never	# ﯷ 0xfbf7
+ﯸ	arabic ligature yeh with hamza above with E initial form	all	never	# ﯸ 0xfbf8
+ﯹ	arabic ligature uighur kirghiz yeh with hamza above with alef maksura isolated form	all	never	# ﯹ 0xfbf9
+ﯺ	arabic ligature uighur kirghiz yeh with hamza above with alef maksura final form	all	never	# ﯺ 0xfbfa
+ﯻ	arabic ligature uighur kirghiz yeh with hamza above with alef maksura initial form	all	never	# ﯻ 0xfbfb
+ﯼ	arabic letter farsi yeh isolated form	all	never	# ﯼ 0xfbfc
+ﯽ	arabic letter farsi yeh final form	all	never	# ﯽ 0xfbfd
+ﯾ	arabic letter farsi yeh initial form	all	never	# ﯾ 0xfbfe
+ﯿ	arabic letter farsi yeh medial form	all	never	# ﯿ 0xfbff
+ﰀ	arabic ligature yeh with hamza above with jeem isolated form	all	never	# ﰀ 0xfc00
+ﰁ	arabic ligature yeh with hamza above with hah isolated form	all	never	# ﰁ 0xfc01
+ﰂ	arabic ligature yeh with hamza above with meem isolated form	all	never	# ﰂ 0xfc02
+ﰃ	arabic ligature yeh with hamza above with alef maksura isolated form	all	never	# ﰃ 0xfc03
+ﰄ	arabic ligature yeh with hamza above with yeh isolated form	all	never	# ﰄ 0xfc04
+ﰅ	arabic ligature beh with jeem isolated form	all	never	# ﰅ 0xfc05
+ﰆ	arabic ligature beh with hah isolated form	all	never	# ﰆ 0xfc06
+ﰇ	arabic ligature beh with khah isolated form	all	never	# ﰇ 0xfc07
+ﰈ	arabic ligature beh with meem isolated form	all	never	# ﰈ 0xfc08
+ﰉ	arabic ligature beh with alef maksura isolated form	all	never	# ﰉ 0xfc09
+ﰊ	arabic ligature beh with yeh isolated form	all	never	# ﰊ 0xfc0a
+ﰋ	arabic ligature teh with jeem isolated form	all	never	# ﰋ 0xfc0b
+ﰌ	arabic ligature teh with hah isolated form	all	never	# ﰌ 0xfc0c
+ﰍ	arabic ligature teh with khah isolated form	all	never	# ﰍ 0xfc0d
+ﰎ	arabic ligature teh with meem isolated form	all	never	# ﰎ 0xfc0e
+ﰏ	arabic ligature teh with alef maksura isolated form	all	never	# ﰏ 0xfc0f
+ﰐ	arabic ligature teh with yeh isolated form	all	never	# ﰐ 0xfc10
+ﰑ	arabic ligature theh with jeem isolated form	all	never	# ﰑ 0xfc11
+ﰒ	arabic ligature theh with meem isolated form	all	never	# ﰒ 0xfc12
+ﰓ	arabic ligature theh with alef maksura isolated form	all	never	# ﰓ 0xfc13
+ﰔ	arabic ligature theh with yeh isolated form	all	never	# ﰔ 0xfc14
+ﰕ	arabic ligature jeem with hah isolated form	all	never	# ﰕ 0xfc15
+ﰖ	arabic ligature jeem with meem isolated form	all	never	# ﰖ 0xfc16
+ﰗ	arabic ligature hah with jeem isolated form	all	never	# ﰗ 0xfc17
+ﰘ	arabic ligature hah with meem isolated form	all	never	# ﰘ 0xfc18
+ﰙ	arabic ligature khah with jeem isolated form	all	never	# ﰙ 0xfc19
+ﰚ	arabic ligature khah with hah isolated form	all	never	# ﰚ 0xfc1a
+ﰛ	arabic ligature khah with meem isolated form	all	never	# ﰛ 0xfc1b
+ﰜ	arabic ligature seen with jeem isolated form	all	never	# ﰜ 0xfc1c
+ﰝ	arabic ligature seen with hah isolated form	all	never	# ﰝ 0xfc1d
+ﰞ	arabic ligature seen with khah isolated form	all	never	# ﰞ 0xfc1e
+ﰟ	arabic ligature seen with meem isolated form	all	never	# ﰟ 0xfc1f
+ﰠ	arabic ligature sad with hah isolated form	all	never	# ﰠ 0xfc20
+ﰡ	arabic ligature sad with meem isolated form	all	never	# ﰡ 0xfc21
+ﰢ	arabic ligature dad with jeem isolated form	all	never	# ﰢ 0xfc22
+ﰣ	arabic ligature dad with hah isolated form	all	never	# ﰣ 0xfc23
+ﰤ	arabic ligature dad with khah isolated form	all	never	# ﰤ 0xfc24
+ﰥ	arabic ligature dad with meem isolated form	all	never	# ﰥ 0xfc25
+ﰦ	arabic ligature tah with hah isolated form	all	never	# ﰦ 0xfc26
+ﰧ	arabic ligature tah with meem isolated form	all	never	# ﰧ 0xfc27
+ﰨ	arabic ligature zah with meem isolated form	all	never	# ﰨ 0xfc28
+ﰩ	arabic ligature ain with jeem isolated form	all	never	# ﰩ 0xfc29
+ﰪ	arabic ligature ain with meem isolated form	all	never	# ﰪ 0xfc2a
+ﰫ	arabic ligature ghain with jeem isolated form	all	never	# ﰫ 0xfc2b
+ﰬ	arabic ligature ghain with meem isolated form	all	never	# ﰬ 0xfc2c
+ﰭ	arabic ligature feh with jeem isolated form	all	never	# ﰭ 0xfc2d
+ﰮ	arabic ligature feh with hah isolated form	all	never	# ﰮ 0xfc2e
+ﰯ	arabic ligature feh with khah isolated form	all	never	# ﰯ 0xfc2f
+ﰰ	arabic ligature feh with meem isolated form	all	never	# ﰰ 0xfc30
+ﰱ	arabic ligature feh with alef maksura isolated form	all	never	# ﰱ 0xfc31
+ﰲ	arabic ligature feh with yeh isolated form	all	never	# ﰲ 0xfc32
+ﰳ	arabic ligature qaf with hah isolated form	all	never	# ﰳ 0xfc33
+ﰴ	arabic ligature qaf with meem isolated form	all	never	# ﰴ 0xfc34
+ﰵ	arabic ligature qaf with alef maksura isolated form	all	never	# ﰵ 0xfc35
+ﰶ	arabic ligature qaf with yeh isolated form	all	never	# ﰶ 0xfc36
+ﰷ	arabic ligature kaf with alef isolated form	all	never	# ﰷ 0xfc37
+ﰸ	arabic ligature kaf with jeem isolated form	all	never	# ﰸ 0xfc38
+ﰹ	arabic ligature kaf with hah isolated form	all	never	# ﰹ 0xfc39
+ﰺ	arabic ligature kaf with khah isolated form	all	never	# ﰺ 0xfc3a
+ﰻ	arabic ligature kaf with lam isolated form	all	never	# ﰻ 0xfc3b
+ﰼ	arabic ligature kaf with meem isolated form	all	never	# ﰼ 0xfc3c
+ﰽ	arabic ligature kaf with alef maksura isolated form	all	never	# ﰽ 0xfc3d
+ﰾ	arabic ligature kaf with yeh isolated form	all	never	# ﰾ 0xfc3e
+ﰿ	arabic ligature lam with jeem isolated form	all	never	# ﰿ 0xfc3f
+ﱀ	arabic ligature lam with hah isolated form	all	never	# ﱀ 0xfc40
+ﱁ	arabic ligature lam with khah isolated form	all	never	# ﱁ 0xfc41
+ﱂ	arabic ligature lam with meem isolated form	all	never	# ﱂ 0xfc42
+ﱃ	arabic ligature lam with alef maksura isolated form	all	never	# ﱃ 0xfc43
+ﱄ	arabic ligature lam with yeh isolated form	all	never	# ﱄ 0xfc44
+ﱅ	arabic ligature meem with jeem isolated form	all	never	# ﱅ 0xfc45
+ﱆ	arabic ligature meem with hah isolated form	all	never	# ﱆ 0xfc46
+ﱇ	arabic ligature meem with khah isolated form	all	never	# ﱇ 0xfc47
+ﱈ	arabic ligature meem with meem isolated form	all	never	# ﱈ 0xfc48
+ﱉ	arabic ligature meem with alef maksura isolated form	all	never	# ﱉ 0xfc49
+ﱊ	arabic ligature meem with yeh isolated form	all	never	# ﱊ 0xfc4a
+ﱋ	arabic ligature noon with jeem isolated form	all	never	# ﱋ 0xfc4b
+ﱌ	arabic ligature noon with hah isolated form	all	never	# ﱌ 0xfc4c
+ﱍ	arabic ligature noon with khah isolated form	all	never	# ﱍ 0xfc4d
+ﱎ	arabic ligature noon with meem isolated form	all	never	# ﱎ 0xfc4e
+ﱏ	arabic ligature noon with alef maksura isolated form	all	never	# ﱏ 0xfc4f
+ﱐ	arabic ligature noon with yeh isolated form	all	never	# ﱐ 0xfc50
+ﱑ	arabic ligature heh with jeem isolated form	all	never	# ﱑ 0xfc51
+ﱒ	arabic ligature heh with meem isolated form	all	never	# ﱒ 0xfc52
+ﱓ	arabic ligature heh with alef maksura isolated form	all	never	# ﱓ 0xfc53
+ﱔ	arabic ligature heh with yeh isolated form	all	never	# ﱔ 0xfc54
+ﱕ	arabic ligature yeh with jeem isolated form	all	never	# ﱕ 0xfc55
+ﱖ	arabic ligature yeh with hah isolated form	all	never	# ﱖ 0xfc56
+ﱗ	arabic ligature yeh with khah isolated form	all	never	# ﱗ 0xfc57
+ﱘ	arabic ligature yeh with meem isolated form	all	never	# ﱘ 0xfc58
+ﱙ	arabic ligature yeh with alef maksura isolated form	all	never	# ﱙ 0xfc59
+ﱚ	arabic ligature yeh with yeh isolated form	all	never	# ﱚ 0xfc5a
+ﱛ	arabic ligature thal with superscript alef isolated form	all	never	# ﱛ 0xfc5b
+ﱜ	arabic ligature reh with superscript alef isolated form	all	never	# ﱜ 0xfc5c
+ﱝ	arabic ligature alef maksura with superscript alef isolated form	all	never	# ﱝ 0xfc5d
+ﱞ	arabic ligature shadda with dammatan isolated form	all	never	# ﱞ 0xfc5e
+ﱟ	arabic ligature shadda with kasratan isolated form	all	never	# ﱟ 0xfc5f
+ﱠ	arabic ligature shadda with fatha isolated form	all	never	# ﱠ 0xfc60
+ﱡ	arabic ligature shadda with damma isolated form	all	never	# ﱡ 0xfc61
+ﱢ	arabic ligature shadda with kasra isolated form	all	never	# ﱢ 0xfc62
+ﱣ	arabic ligature shadda with superscript alef isolated form	all	never	# ﱣ 0xfc63
+ﱤ	arabic ligature yeh with hamza above with reh final form	all	never	# ﱤ 0xfc64
+ﱥ	arabic ligature yeh with hamza above with zain final form	all	never	# ﱥ 0xfc65
+ﱦ	arabic ligature yeh with hamza above with meem final form	all	never	# ﱦ 0xfc66
+ﱧ	arabic ligature yeh with hamza above with noon final form	all	never	# ﱧ 0xfc67
+ﱨ	arabic ligature yeh with hamza above with alef maksura final form	all	never	# ﱨ 0xfc68
+ﱩ	arabic ligature yeh with hamza above with yeh final form	all	never	# ﱩ 0xfc69
+ﱪ	arabic ligature beh with reh final form	all	never	# ﱪ 0xfc6a
+ﱫ	arabic ligature beh with zain final form	all	never	# ﱫ 0xfc6b
+ﱬ	arabic ligature beh with meem final form	all	never	# ﱬ 0xfc6c
+ﱭ	arabic ligature beh with noon final form	all	never	# ﱭ 0xfc6d
+ﱮ	arabic ligature beh with alef maksura final form	all	never	# ﱮ 0xfc6e
+ﱯ	arabic ligature beh with yeh final form	all	never	# ﱯ 0xfc6f
+ﱰ	arabic ligature teh with reh final form	all	never	# ﱰ 0xfc70
+ﱱ	arabic ligature teh with zain final form	all	never	# ﱱ 0xfc71
+ﱲ	arabic ligature teh with meem final form	all	never	# ﱲ 0xfc72
+ﱳ	arabic ligature teh with noon final form	all	never	# ﱳ 0xfc73
+ﱴ	arabic ligature teh with alef maksura final form	all	never	# ﱴ 0xfc74
+ﱵ	arabic ligature teh with yeh final form	all	never	# ﱵ 0xfc75
+ﱶ	arabic ligature theh with reh final form	all	never	# ﱶ 0xfc76
+ﱷ	arabic ligature theh with zain final form	all	never	# ﱷ 0xfc77
+ﱸ	arabic ligature theh with meem final form	all	never	# ﱸ 0xfc78
+ﱹ	arabic ligature theh with noon final form	all	never	# ﱹ 0xfc79
+ﱺ	arabic ligature theh with alef maksura final form	all	never	# ﱺ 0xfc7a
+ﱻ	arabic ligature theh with yeh final form	all	never	# ﱻ 0xfc7b
+ﱼ	arabic ligature feh with alef maksura final form	all	never	# ﱼ 0xfc7c
+ﱽ	arabic ligature feh with yeh final form	all	never	# ﱽ 0xfc7d
+ﱾ	arabic ligature qaf with alef maksura final form	all	never	# ﱾ 0xfc7e
+ﱿ	arabic ligature qaf with yeh final form	all	never	# ﱿ 0xfc7f
+ﲀ	arabic ligature kaf with alef final form	all	never	# ﲀ 0xfc80
+ﲁ	arabic ligature kaf with lam final form	all	never	# ﲁ 0xfc81
+ﲂ	arabic ligature kaf with meem final form	all	never	# ﲂ 0xfc82
+ﲃ	arabic ligature kaf with alef maksura final form	all	never	# ﲃ 0xfc83
+ﲄ	arabic ligature kaf with yeh final form	all	never	# ﲄ 0xfc84
+ﲅ	arabic ligature lam with meem final form	all	never	# ﲅ 0xfc85
+ﲆ	arabic ligature lam with alef maksura final form	all	never	# ﲆ 0xfc86
+ﲇ	arabic ligature lam with yeh final form	all	never	# ﲇ 0xfc87
+ﲈ	arabic ligature meem with alef final form	all	never	# ﲈ 0xfc88
+ﲉ	arabic ligature meem with meem final form	all	never	# ﲉ 0xfc89
+ﲊ	arabic ligature noon with reh final form	all	never	# ﲊ 0xfc8a
+ﲋ	arabic ligature noon with zain final form	all	never	# ﲋ 0xfc8b
+ﲌ	arabic ligature noon with meem final form	all	never	# ﲌ 0xfc8c
+ﲍ	arabic ligature noon with noon final form	all	never	# ﲍ 0xfc8d
+ﲎ	arabic ligature noon with alef maksura final form	all	never	# ﲎ 0xfc8e
+ﲏ	arabic ligature noon with yeh final form	all	never	# ﲏ 0xfc8f
+ﲐ	arabic ligature alef maksura with superscript alef final form	all	never	# ﲐ 0xfc90
+ﲑ	arabic ligature yeh with reh final form	all	never	# ﲑ 0xfc91
+ﲒ	arabic ligature yeh with zain final form	all	never	# ﲒ 0xfc92
+ﲓ	arabic ligature yeh with meem final form	all	never	# ﲓ 0xfc93
+ﲔ	arabic ligature yeh with noon final form	all	never	# ﲔ 0xfc94
+ﲕ	arabic ligature yeh with alef maksura final form	all	never	# ﲕ 0xfc95
+ﲖ	arabic ligature yeh with yeh final form	all	never	# ﲖ 0xfc96
+ﲗ	arabic ligature yeh with hamza above with jeem initial form	all	never	# ﲗ 0xfc97
+ﲘ	arabic ligature yeh with hamza above with hah initial form	all	never	# ﲘ 0xfc98
+ﲙ	arabic ligature yeh with hamza above with khah initial form	all	never	# ﲙ 0xfc99
+ﲚ	arabic ligature yeh with hamza above with meem initial form	all	never	# ﲚ 0xfc9a
+ﲛ	arabic ligature yeh with hamza above with heh initial form	all	never	# ﲛ 0xfc9b
+ﲜ	arabic ligature beh with jeem initial form	all	never	# ﲜ 0xfc9c
+ﲝ	arabic ligature beh with hah initial form	all	never	# ﲝ 0xfc9d
+ﲞ	arabic ligature beh with khah initial form	all	never	# ﲞ 0xfc9e
+ﲟ	arabic ligature beh with meem initial form	all	never	# ﲟ 0xfc9f
+ﲠ	arabic ligature beh with heh initial form	all	never	# ﲠ 0xfca0
+ﲡ	arabic ligature teh with jeem initial form	all	never	# ﲡ 0xfca1
+ﲢ	arabic ligature teh with hah initial form	all	never	# ﲢ 0xfca2
+ﲣ	arabic ligature teh with khah initial form	all	never	# ﲣ 0xfca3
+ﲤ	arabic ligature teh with meem initial form	all	never	# ﲤ 0xfca4
+ﲥ	arabic ligature teh with heh initial form	all	never	# ﲥ 0xfca5
+ﲦ	arabic ligature theh with meem initial form	all	never	# ﲦ 0xfca6
+ﲧ	arabic ligature jeem with hah initial form	all	never	# ﲧ 0xfca7
+ﲨ	arabic ligature jeem with meem initial form	all	never	# ﲨ 0xfca8
+ﲩ	arabic ligature hah with jeem initial form	all	never	# ﲩ 0xfca9
+ﲪ	arabic ligature hah with meem initial form	all	never	# ﲪ 0xfcaa
+ﲫ	arabic ligature khah with jeem initial form	all	never	# ﲫ 0xfcab
+ﲬ	arabic ligature khah with meem initial form	all	never	# ﲬ 0xfcac
+ﲭ	arabic ligature seen with jeem initial form	all	never	# ﲭ 0xfcad
+ﲮ	arabic ligature seen with hah initial form	all	never	# ﲮ 0xfcae
+ﲯ	arabic ligature seen with khah initial form	all	never	# ﲯ 0xfcaf
+ﲰ	arabic ligature seen with meem initial form	all	never	# ﲰ 0xfcb0
+ﲱ	arabic ligature sad with hah initial form	all	never	# ﲱ 0xfcb1
+ﲲ	arabic ligature sad with khah initial form	all	never	# ﲲ 0xfcb2
+ﲳ	arabic ligature sad with meem initial form	all	never	# ﲳ 0xfcb3
+ﲴ	arabic ligature dad with jeem initial form	all	never	# ﲴ 0xfcb4
+ﲵ	arabic ligature dad with hah initial form	all	never	# ﲵ 0xfcb5
+ﲶ	arabic ligature dad with khah initial form	all	never	# ﲶ 0xfcb6
+ﲷ	arabic ligature dad with meem initial form	all	never	# ﲷ 0xfcb7
+ﲸ	arabic ligature tah with hah initial form	all	never	# ﲸ 0xfcb8
+ﲹ	arabic ligature zah with meem initial form	all	never	# ﲹ 0xfcb9
+ﲺ	arabic ligature ain with jeem initial form	all	never	# ﲺ 0xfcba
+ﲻ	arabic ligature ain with meem initial form	all	never	# ﲻ 0xfcbb
+ﲼ	arabic ligature ghain with jeem initial form	all	never	# ﲼ 0xfcbc
+ﲽ	arabic ligature ghain with meem initial form	all	never	# ﲽ 0xfcbd
+ﲾ	arabic ligature feh with jeem initial form	all	never	# ﲾ 0xfcbe
+ﲿ	arabic ligature feh with hah initial form	all	never	# ﲿ 0xfcbf
+ﳀ	arabic ligature feh with khah initial form	all	never	# ﳀ 0xfcc0
+ﳁ	arabic ligature feh with meem initial form	all	never	# ﳁ 0xfcc1
+ﳂ	arabic ligature qaf with hah initial form	all	never	# ﳂ 0xfcc2
+ﳃ	arabic ligature qaf with meem initial form	all	never	# ﳃ 0xfcc3
+ﳄ	arabic ligature kaf with jeem initial form	all	never	# ﳄ 0xfcc4
+ﳅ	arabic ligature kaf with hah initial form	all	never	# ﳅ 0xfcc5
+ﳆ	arabic ligature kaf with khah initial form	all	never	# ﳆ 0xfcc6
+ﳇ	arabic ligature kaf with lam initial form	all	never	# ﳇ 0xfcc7
+ﳈ	arabic ligature kaf with meem initial form	all	never	# ﳈ 0xfcc8
+ﳉ	arabic ligature lam with jeem initial form	all	never	# ﳉ 0xfcc9
+ﳊ	arabic ligature lam with hah initial form	all	never	# ﳊ 0xfcca
+ﳋ	arabic ligature lam with khah initial form	all	never	# ﳋ 0xfccb
+ﳌ	arabic ligature lam with meem initial form	all	never	# ﳌ 0xfccc
+ﳍ	arabic ligature lam with heh initial form	all	never	# ﳍ 0xfccd
+ﳎ	arabic ligature meem with jeem initial form	all	never	# ﳎ 0xfcce
+ﳏ	arabic ligature meem with hah initial form	all	never	# ﳏ 0xfccf
+ﳐ	arabic ligature meem with khah initial form	all	never	# ﳐ 0xfcd0
+ﳑ	arabic ligature meem with meem initial form	all	never	# ﳑ 0xfcd1
+ﳒ	arabic ligature noon with jeem initial form	all	never	# ﳒ 0xfcd2
+ﳓ	arabic ligature noon with hah initial form	all	never	# ﳓ 0xfcd3
+ﳔ	arabic ligature noon with khah initial form	all	never	# ﳔ 0xfcd4
+ﳕ	arabic ligature noon with meem initial form	all	never	# ﳕ 0xfcd5
+ﳖ	arabic ligature noon with heh initial form	all	never	# ﳖ 0xfcd6
+ﳗ	arabic ligature heh with jeem initial form	all	never	# ﳗ 0xfcd7
+ﳘ	arabic ligature heh with meem initial form	all	never	# ﳘ 0xfcd8
+ﳙ	arabic ligature heh with superscript alef initial form	all	never	# ﳙ 0xfcd9
+ﳚ	arabic ligature yeh with jeem initial form	all	never	# ﳚ 0xfcda
+ﳛ	arabic ligature yeh with hah initial form	all	never	# ﳛ 0xfcdb
+ﳜ	arabic ligature yeh with khah initial form	all	never	# ﳜ 0xfcdc
+ﳝ	arabic ligature yeh with meem initial form	all	never	# ﳝ 0xfcdd
+ﳞ	arabic ligature yeh with heh initial form	all	never	# ﳞ 0xfcde
+ﳟ	arabic ligature yeh with hamza above with meem medial form	all	never	# ﳟ 0xfcdf
+ﳠ	arabic ligature yeh with hamza above with heh medial form	all	never	# ﳠ 0xfce0
+ﳡ	arabic ligature beh with meem medial form	all	never	# ﳡ 0xfce1
+ﳢ	arabic ligature beh with heh medial form	all	never	# ﳢ 0xfce2
+ﳣ	arabic ligature teh with meem medial form	all	never	# ﳣ 0xfce3
+ﳤ	arabic ligature teh with heh medial form	all	never	# ﳤ 0xfce4
+ﳥ	arabic ligature theh with meem medial form	all	never	# ﳥ 0xfce5
+ﳦ	arabic ligature theh with heh medial form	all	never	# ﳦ 0xfce6
+ﳧ	arabic ligature seen with meem medial form	all	never	# ﳧ 0xfce7
+ﳨ	arabic ligature seen with heh medial form	all	never	# ﳨ 0xfce8
+ﳩ	arabic ligature sheen with meem medial form	all	never	# ﳩ 0xfce9
+ﳪ	arabic ligature sheen with heh medial form	all	never	# ﳪ 0xfcea
+ﳫ	arabic ligature kaf with lam medial form	all	never	# ﳫ 0xfceb
+ﳬ	arabic ligature kaf with meem medial form	all	never	# ﳬ 0xfcec
+ﳭ	arabic ligature lam with meem medial form	all	never	# ﳭ 0xfced
+ﳮ	arabic ligature noon with meem medial form	all	never	# ﳮ 0xfcee
+ﳯ	arabic ligature noon with heh medial form	all	never	# ﳯ 0xfcef
+ﳰ	arabic ligature yeh with meem medial form	all	never	# ﳰ 0xfcf0
+ﳱ	arabic ligature yeh with heh medial form	all	never	# ﳱ 0xfcf1
+ﳲ	arabic ligature shadda with fatha medial form	all	never	# ﳲ 0xfcf2
+ﳳ	arabic ligature shadda with damma medial form	all	never	# ﳳ 0xfcf3
+ﳴ	arabic ligature shadda with kasra medial form	all	never	# ﳴ 0xfcf4
+ﳵ	arabic ligature tah with alef maksura isolated form	all	never	# ﳵ 0xfcf5
+ﳶ	arabic ligature tah with yeh isolated form	all	never	# ﳶ 0xfcf6
+ﳷ	arabic ligature ain with alef maksura isolated form	all	never	# ﳷ 0xfcf7
+ﳸ	arabic ligature ain with yeh isolated form	all	never	# ﳸ 0xfcf8
+ﳹ	arabic ligature ghain with alef maksura isolated form	all	never	# ﳹ 0xfcf9
+ﳺ	arabic ligature ghain with yeh isolated form	all	never	# ﳺ 0xfcfa
+ﳻ	arabic ligature seen with alef maksura isolated form	all	never	# ﳻ 0xfcfb
+ﳼ	arabic ligature seen with yeh isolated form	all	never	# ﳼ 0xfcfc
+ﳽ	arabic ligature sheen with alef maksura isolated form	all	never	# ﳽ 0xfcfd
+ﳾ	arabic ligature sheen with yeh isolated form	all	never	# ﳾ 0xfcfe
+ﳿ	arabic ligature hah with alef maksura isolated form	all	never	# ﳿ 0xfcff
+ﴀ	arabic ligature hah with yeh isolated form	all	never	# ﴀ 0xfd00
+ﴁ	arabic ligature jeem with alef maksura isolated form	all	never	# ﴁ 0xfd01
+ﴂ	arabic ligature jeem with yeh isolated form	all	never	# ﴂ 0xfd02
+ﴃ	arabic ligature khah with alef maksura isolated form	all	never	# ﴃ 0xfd03
+ﴄ	arabic ligature khah with yeh isolated form	all	never	# ﴄ 0xfd04
+ﴅ	arabic ligature sad with alef maksura isolated form	all	never	# ﴅ 0xfd05
+ﴆ	arabic ligature sad with yeh isolated form	all	never	# ﴆ 0xfd06
+ﴇ	arabic ligature dad with alef maksura isolated form	all	never	# ﴇ 0xfd07
+ﴈ	arabic ligature dad with yeh isolated form	all	never	# ﴈ 0xfd08
+ﴉ	arabic ligature sheen with jeem isolated form	all	never	# ﴉ 0xfd09
+ﴊ	arabic ligature sheen with hah isolated form	all	never	# ﴊ 0xfd0a
+ﴋ	arabic ligature sheen with khah isolated form	all	never	# ﴋ 0xfd0b
+ﴌ	arabic ligature sheen with meem isolated form	all	never	# ﴌ 0xfd0c
+ﴍ	arabic ligature sheen with reh isolated form	all	never	# ﴍ 0xfd0d
+ﴎ	arabic ligature seen with reh isolated form	all	never	# ﴎ 0xfd0e
+ﴏ	arabic ligature sad with reh isolated form	all	never	# ﴏ 0xfd0f
+ﴐ	arabic ligature dad with reh isolated form	all	never	# ﴐ 0xfd10
+ﴑ	arabic ligature tah with alef maksura final form	all	never	# ﴑ 0xfd11
+ﴒ	arabic ligature tah with yeh final form	all	never	# ﴒ 0xfd12
+ﴓ	arabic ligature ain with alef maksura final form	all	never	# ﴓ 0xfd13
+ﴔ	arabic ligature ain with yeh final form	all	never	# ﴔ 0xfd14
+ﴕ	arabic ligature ghain with alef maksura final form	all	never	# ﴕ 0xfd15
+ﴖ	arabic ligature ghain with yeh final form	all	never	# ﴖ 0xfd16
+ﴗ	arabic ligature seen with alef maksura final form	all	never	# ﴗ 0xfd17
+ﴘ	arabic ligature seen with yeh final form	all	never	# ﴘ 0xfd18
+ﴙ	arabic ligature sheen with alef maksura final form	all	never	# ﴙ 0xfd19
+ﴚ	arabic ligature sheen with yeh final form	all	never	# ﴚ 0xfd1a
+ﴛ	arabic ligature hah with alef maksura final form	all	never	# ﴛ 0xfd1b
+ﴜ	arabic ligature hah with yeh final form	all	never	# ﴜ 0xfd1c
+ﴝ	arabic ligature jeem with alef maksura final form	all	never	# ﴝ 0xfd1d
+ﴞ	arabic ligature jeem with yeh final form	all	never	# ﴞ 0xfd1e
+ﴟ	arabic ligature khah with alef maksura final form	all	never	# ﴟ 0xfd1f
+ﴠ	arabic ligature khah with yeh final form	all	never	# ﴠ 0xfd20
+ﴡ	arabic ligature sad with alef maksura final form	all	never	# ﴡ 0xfd21
+ﴢ	arabic ligature sad with yeh final form	all	never	# ﴢ 0xfd22
+ﴣ	arabic ligature dad with alef maksura final form	all	never	# ﴣ 0xfd23
+ﴤ	arabic ligature dad with yeh final form	all	never	# ﴤ 0xfd24
+ﴥ	arabic ligature sheen with jeem final form	all	never	# ﴥ 0xfd25
+ﴦ	arabic ligature sheen with hah final form	all	never	# ﴦ 0xfd26
+ﴧ	arabic ligature sheen with khah final form	all	never	# ﴧ 0xfd27
+ﴨ	arabic ligature sheen with meem final form	all	never	# ﴨ 0xfd28
+ﴩ	arabic ligature sheen with reh final form	all	never	# ﴩ 0xfd29
+ﴪ	arabic ligature seen with reh final form	all	never	# ﴪ 0xfd2a
+ﴫ	arabic ligature sad with reh final form	all	never	# ﴫ 0xfd2b
+ﴬ	arabic ligature dad with reh final form	all	never	# ﴬ 0xfd2c
+ﴭ	arabic ligature sheen with jeem initial form	all	never	# ﴭ 0xfd2d
+ﴮ	arabic ligature sheen with hah initial form	all	never	# ﴮ 0xfd2e
+ﴯ	arabic ligature sheen with khah initial form	all	never	# ﴯ 0xfd2f
+ﴰ	arabic ligature sheen with meem initial form	all	never	# ﴰ 0xfd30
+ﴱ	arabic ligature seen with heh initial form	all	never	# ﴱ 0xfd31
+ﴲ	arabic ligature sheen with heh initial form	all	never	# ﴲ 0xfd32
+ﴳ	arabic ligature tah with meem initial form	all	never	# ﴳ 0xfd33
+ﴴ	arabic ligature seen with jeem medial form	all	never	# ﴴ 0xfd34
+ﴵ	arabic ligature seen with hah medial form	all	never	# ﴵ 0xfd35
+ﴶ	arabic ligature seen with khah medial form	all	never	# ﴶ 0xfd36
+ﴷ	arabic ligature sheen with jeem medial form	all	never	# ﴷ 0xfd37
+ﴸ	arabic ligature sheen with hah medial form	all	never	# ﴸ 0xfd38
+ﴹ	arabic ligature sheen with khah medial form	all	never	# ﴹ 0xfd39
+ﴺ	arabic ligature tah with meem medial form	all	never	# ﴺ 0xfd3a
+ﴻ	arabic ligature zah with meem medial form	all	never	# ﴻ 0xfd3b
+ﴼ	arabic ligature alef with fathatan final form	all	never	# ﴼ 0xfd3c
+ﴽ	arabic ligature alef with fathatan isolated form	all	never	# ﴽ 0xfd3d
+﴾	ornate left parenthesis	all	never	# ﴾ 0xfd3e
+﴿	ornate right parenthesis	all	never	# ﴿ 0xfd3f
+ﵐ	arabic ligature teh with jeem with meem initial form	all	never	# ﵐ 0xfd50
+ﵑ	arabic ligature teh with hah with jeem final form	all	never	# ﵑ 0xfd51
+ﵒ	arabic ligature teh with hah with jeem initial form	all	never	# ﵒ 0xfd52
+ﵓ	arabic ligature teh with hah with meem initial form	all	never	# ﵓ 0xfd53
+ﵔ	arabic ligature teh with khah with meem initial form	all	never	# ﵔ 0xfd54
+ﵕ	arabic ligature teh with meem with jeem initial form	all	never	# ﵕ 0xfd55
+ﵖ	arabic ligature teh with meem with hah initial form	all	never	# ﵖ 0xfd56
+ﵗ	arabic ligature teh with meem with khah initial form	all	never	# ﵗ 0xfd57
+ﵘ	arabic ligature jeem with meem with hah final form	all	never	# ﵘ 0xfd58
+ﵙ	arabic ligature jeem with meem with hah initial form	all	never	# ﵙ 0xfd59
+ﵚ	arabic ligature hah with meem with yeh final form	all	never	# ﵚ 0xfd5a
+ﵛ	arabic ligature hah with meem with alef maksura final form	all	never	# ﵛ 0xfd5b
+ﵜ	arabic ligature seen with hah with jeem initial form	all	never	# ﵜ 0xfd5c
+ﵝ	arabic ligature seen with jeem with hah initial form	all	never	# ﵝ 0xfd5d
+ﵞ	arabic ligature seen with jeem with alef maksura final form	all	never	# ﵞ 0xfd5e
+ﵟ	arabic ligature seen with meem with hah final form	all	never	# ﵟ 0xfd5f
+ﵠ	arabic ligature seen with meem with hah initial form	all	never	# ﵠ 0xfd60
+ﵡ	arabic ligature seen with meem with jeem initial form	all	never	# ﵡ 0xfd61
+ﵢ	arabic ligature seen with meem with meem final form	all	never	# ﵢ 0xfd62
+ﵣ	arabic ligature seen with meem with meem initial form	all	never	# ﵣ 0xfd63
+ﵤ	arabic ligature sad with hah with hah final form	all	never	# ﵤ 0xfd64
+ﵥ	arabic ligature sad with hah with hah initial form	all	never	# ﵥ 0xfd65
+ﵦ	arabic ligature sad with meem with meem final form	all	never	# ﵦ 0xfd66
+ﵧ	arabic ligature sheen with hah with meem final form	all	never	# ﵧ 0xfd67
+ﵨ	arabic ligature sheen with hah with meem initial form	all	never	# ﵨ 0xfd68
+ﵩ	arabic ligature sheen with jeem with yeh final form	all	never	# ﵩ 0xfd69
+ﵪ	arabic ligature sheen with meem with khah final form	all	never	# ﵪ 0xfd6a
+ﵫ	arabic ligature sheen with meem with khah initial form	all	never	# ﵫ 0xfd6b
+ﵬ	arabic ligature sheen with meem with meem final form	all	never	# ﵬ 0xfd6c
+ﵭ	arabic ligature sheen with meem with meem initial form	all	never	# ﵭ 0xfd6d
+ﵮ	arabic ligature dad with hah with alef maksura final form	all	never	# ﵮ 0xfd6e
+ﵯ	arabic ligature dad with khah with meem final form	all	never	# ﵯ 0xfd6f
+ﵰ	arabic ligature dad with khah with meem initial form	all	never	# ﵰ 0xfd70
+ﵱ	arabic ligature tah with meem with hah final form	all	never	# ﵱ 0xfd71
+ﵲ	arabic ligature tah with meem with hah initial form	all	never	# ﵲ 0xfd72
+ﵳ	arabic ligature tah with meem with meem initial form	all	never	# ﵳ 0xfd73
+ﵴ	arabic ligature tah with meem with yeh final form	all	never	# ﵴ 0xfd74
+ﵵ	arabic ligature ain with jeem with meem final form	all	never	# ﵵ 0xfd75
+ﵶ	arabic ligature ain with meem with meem final form	all	never	# ﵶ 0xfd76
+ﵷ	arabic ligature ain with meem with meem initial form	all	never	# ﵷ 0xfd77
+ﵸ	arabic ligature ain with meem with alef maksura final form	all	never	# ﵸ 0xfd78
+ﵹ	arabic ligature ghain with meem with meem final form	all	never	# ﵹ 0xfd79
+ﵺ	arabic ligature ghain with meem with yeh final form	all	never	# ﵺ 0xfd7a
+ﵻ	arabic ligature ghain with meem with alef maksura final form	all	never	# ﵻ 0xfd7b
+ﵼ	arabic ligature feh with khah with meem final form	all	never	# ﵼ 0xfd7c
+ﵽ	arabic ligature feh with khah with meem initial form	all	never	# ﵽ 0xfd7d
+ﵾ	arabic ligature qaf with meem with hah final form	all	never	# ﵾ 0xfd7e
+ﵿ	arabic ligature qaf with meem with meem final form	all	never	# ﵿ 0xfd7f
+ﶀ	arabic ligature lam with hah with meem final form	all	never	# ﶀ 0xfd80
+ﶁ	arabic ligature lam with hah with yeh final form	all	never	# ﶁ 0xfd81
+ﶂ	arabic ligature lam with hah with alef maksura final form	all	never	# ﶂ 0xfd82
+ﶃ	arabic ligature lam with jeem with jeem initial form	all	never	# ﶃ 0xfd83
+ﶄ	arabic ligature lam with jeem with jeem final form	all	never	# ﶄ 0xfd84
+ﶅ	arabic ligature lam with khah with meem final form	all	never	# ﶅ 0xfd85
+ﶆ	arabic ligature lam with khah with meem initial form	all	never	# ﶆ 0xfd86
+ﶇ	arabic ligature lam with meem with hah final form	all	never	# ﶇ 0xfd87
+ﶈ	arabic ligature lam with meem with hah initial form	all	never	# ﶈ 0xfd88
+ﶉ	arabic ligature meem with hah with jeem initial form	all	never	# ﶉ 0xfd89
+ﶊ	arabic ligature meem with hah with meem initial form	all	never	# ﶊ 0xfd8a
+ﶋ	arabic ligature meem with hah with yeh final form	all	never	# ﶋ 0xfd8b
+ﶌ	arabic ligature meem with jeem with hah initial form	all	never	# ﶌ 0xfd8c
+ﶍ	arabic ligature meem with jeem with meem initial form	all	never	# ﶍ 0xfd8d
+ﶎ	arabic ligature meem with khah with jeem initial form	all	never	# ﶎ 0xfd8e
+ﶏ	arabic ligature meem with khah with meem initial form	all	never	# ﶏ 0xfd8f
+ﶒ	arabic ligature meem with jeem with khah initial form	all	never	# ﶒ 0xfd92
+ﶓ	arabic ligature heh with meem with jeem initial form	all	never	# ﶓ 0xfd93
+ﶔ	arabic ligature heh with meem with meem initial form	all	never	# ﶔ 0xfd94
+ﶕ	arabic ligature noon with hah with meem initial form	all	never	# ﶕ 0xfd95
+ﶖ	arabic ligature noon with hah with alef maksura final form	all	never	# ﶖ 0xfd96
+ﶗ	arabic ligature noon with jeem with meem final form	all	never	# ﶗ 0xfd97
+ﶘ	arabic ligature noon with jeem with meem initial form	all	never	# ﶘ 0xfd98
+ﶙ	arabic ligature noon with jeem with alef maksura final form	all	never	# ﶙ 0xfd99
+ﶚ	arabic ligature noon with meem with yeh final form	all	never	# ﶚ 0xfd9a
+ﶛ	arabic ligature noon with meem with alef maksura final form	all	never	# ﶛ 0xfd9b
+ﶜ	arabic ligature yeh with meem with meem final form	all	never	# ﶜ 0xfd9c
+ﶝ	arabic ligature yeh with meem with meem initial form	all	never	# ﶝ 0xfd9d
+ﶞ	arabic ligature beh with khah with yeh final form	all	never	# ﶞ 0xfd9e
+ﶟ	arabic ligature teh with jeem with yeh final form	all	never	# ﶟ 0xfd9f
+ﶠ	arabic ligature teh with jeem with alef maksura final form	all	never	# ﶠ 0xfda0
+ﶡ	arabic ligature teh with khah with yeh final form	all	never	# ﶡ 0xfda1
+ﶢ	arabic ligature teh with khah with alef maksura final form	all	never	# ﶢ 0xfda2
+ﶣ	arabic ligature teh with meem with yeh final form	all	never	# ﶣ 0xfda3
+ﶤ	arabic ligature teh with meem with alef maksura final form	all	never	# ﶤ 0xfda4
+ﶥ	arabic ligature jeem with meem with yeh final form	all	never	# ﶥ 0xfda5
+ﶦ	arabic ligature jeem with hah with alef maksura final form	all	never	# ﶦ 0xfda6
+ﶧ	arabic ligature jeem with meem with alef maksura final form	all	never	# ﶧ 0xfda7
+ﶨ	arabic ligature seen with khah with alef maksura final form	all	never	# ﶨ 0xfda8
+ﶩ	arabic ligature sad with hah with yeh final form	all	never	# ﶩ 0xfda9
+ﶪ	arabic ligature sheen with hah with yeh final form	all	never	# ﶪ 0xfdaa
+ﶫ	arabic ligature dad with hah with yeh final form	all	never	# ﶫ 0xfdab
+ﶬ	arabic ligature lam with jeem with yeh final form	all	never	# ﶬ 0xfdac
+ﶭ	arabic ligature lam with meem with yeh final form	all	never	# ﶭ 0xfdad
+ﶮ	arabic ligature yeh with hah with yeh final form	all	never	# ﶮ 0xfdae
+ﶯ	arabic ligature yeh with jeem with yeh final form	all	never	# ﶯ 0xfdaf
+ﶰ	arabic ligature yeh with meem with yeh final form	all	never	# ﶰ 0xfdb0
+ﶱ	arabic ligature meem with meem with yeh final form	all	never	# ﶱ 0xfdb1
+ﶲ	arabic ligature qaf with meem with yeh final form	all	never	# ﶲ 0xfdb2
+ﶳ	arabic ligature noon with hah with yeh final form	all	never	# ﶳ 0xfdb3
+ﶴ	arabic ligature qaf with meem with hah initial form	all	never	# ﶴ 0xfdb4
+ﶵ	arabic ligature lam with hah with meem initial form	all	never	# ﶵ 0xfdb5
+ﶶ	arabic ligature ain with meem with yeh final form	all	never	# ﶶ 0xfdb6
+ﶷ	arabic ligature kaf with meem with yeh final form	all	never	# ﶷ 0xfdb7
+ﶸ	arabic ligature noon with jeem with hah initial form	all	never	# ﶸ 0xfdb8
+ﶹ	arabic ligature meem with khah with yeh final form	all	never	# ﶹ 0xfdb9
+ﶺ	arabic ligature lam with jeem with meem initial form	all	never	# ﶺ 0xfdba
+ﶻ	arabic ligature kaf with meem with meem final form	all	never	# ﶻ 0xfdbb
+ﶼ	arabic ligature lam with jeem with meem final form	all	never	# ﶼ 0xfdbc
+ﶽ	arabic ligature noon with jeem with hah final form	all	never	# ﶽ 0xfdbd
+ﶾ	arabic ligature jeem with hah with yeh final form	all	never	# ﶾ 0xfdbe
+ﶿ	arabic ligature hah with jeem with yeh final form	all	never	# ﶿ 0xfdbf
+ﷀ	arabic ligature meem with jeem with yeh final form	all	never	# ﷀ 0xfdc0
+ﷁ	arabic ligature feh with meem with yeh final form	all	never	# ﷁ 0xfdc1
+ﷂ	arabic ligature beh with hah with yeh final form	all	never	# ﷂ 0xfdc2
+ﷃ	arabic ligature kaf with meem with meem initial form	all	never	# ﷃ 0xfdc3
+ﷄ	arabic ligature ain with jeem with meem initial form	all	never	# ﷄ 0xfdc4
+ﷅ	arabic ligature sad with meem with meem initial form	all	never	# ﷅ 0xfdc5
+ﷆ	arabic ligature seen with khah with yeh final form	all	never	# ﷆ 0xfdc6
+ﷇ	arabic ligature noon with jeem with yeh final form	all	never	# ﷇ 0xfdc7
+ﷰ	arabic ligature salla used as koranic stop sign isolated form	all	never	# ﷰ 0xfdf0
+ﷱ	arabic ligature qala used as koranic stop sign isolated form	all	never	# ﷱ 0xfdf1
+ﷲ	arabic ligature allah isolated form	all	never	# ﷲ 0xfdf2
+ﷳ	arabic ligature akbar isolated form	all	never	# ﷳ 0xfdf3
+ﷴ	arabic ligature mohammad isolated form	all	never	# ﷴ 0xfdf4
+ﷵ	arabic ligature salam isolated form	all	never	# ﷵ 0xfdf5
+ﷶ	arabic ligature rasoul isolated form	all	never	# ﷶ 0xfdf6
+ﷷ	arabic ligature alayhe isolated form	all	never	# ﷷ 0xfdf7
+ﷸ	arabic ligature wasallam isolated form	all	never	# ﷸ 0xfdf8
+ﷹ	arabic ligature salla isolated form	all	never	# ﷹ 0xfdf9
+ﷺ	arabic ligature sallallahou alayhe wasallam	all	never	# ﷺ 0xfdfa
+ﷻ	arabic ligature jallajalalouhou	all	never	# ﷻ 0xfdfb
+﷼	rial sign	all	never	# ﷼ 0xfdfc
+﷽	arabic ligature bismillah ar-rahman ar-raheem	all	never	# ﷽ 0xfdfd

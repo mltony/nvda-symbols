@@ -1,0 +1,161 @@
+# # Latin Extended-D
+꜠	modifier letter stress and high tone	all	never	# ꜠ 0xa720
+꜡	modifier letter stress and low tone	all	never	# ꜡ 0xa721
+Ꜣ	latin capital letter egyptological alef	all	never	# Ꜣ 0xa722
+ꜣ	latin small letter egyptological alef	all	never	# ꜣ 0xa723
+Ꜥ	latin capital letter egyptological ain	all	never	# Ꜥ 0xa724
+ꜥ	latin small letter egyptological ain	all	never	# ꜥ 0xa725
+Ꜧ	latin capital letter heng	all	never	# Ꜧ 0xa726
+ꜧ	latin small letter heng	all	never	# ꜧ 0xa727
+Ꜩ	latin capital letter tz	all	never	# Ꜩ 0xa728
+ꜩ	latin small letter tz	all	never	# ꜩ 0xa729
+Ꜫ	latin capital letter tresillo	all	never	# Ꜫ 0xa72a
+ꜫ	latin small letter tresillo	all	never	# ꜫ 0xa72b
+Ꜭ	latin capital letter cuatrillo	all	never	# Ꜭ 0xa72c
+ꜭ	latin small letter cuatrillo	all	never	# ꜭ 0xa72d
+Ꜯ	latin capital letter cuatrillo with comma	all	never	# Ꜯ 0xa72e
+ꜯ	latin small letter cuatrillo with comma	all	never	# ꜯ 0xa72f
+ꜰ	latin letter small capital F	all	never	# ꜰ 0xa730
+ꜱ	latin letter small capital S	all	never	# ꜱ 0xa731
+Ꜳ	latin capital letter aa	all	never	# Ꜳ 0xa732
+ꜳ	latin small letter aa	all	never	# ꜳ 0xa733
+Ꜵ	latin capital letter ao	all	never	# Ꜵ 0xa734
+ꜵ	latin small letter ao	all	never	# ꜵ 0xa735
+Ꜷ	latin capital letter au	all	never	# Ꜷ 0xa736
+ꜷ	latin small letter au	all	never	# ꜷ 0xa737
+Ꜹ	latin capital letter av	all	never	# Ꜹ 0xa738
+ꜹ	latin small letter av	all	never	# ꜹ 0xa739
+Ꜻ	latin capital letter av with horizontal bar	all	never	# Ꜻ 0xa73a
+ꜻ	latin small letter av with horizontal bar	all	never	# ꜻ 0xa73b
+Ꜽ	latin capital letter ay	all	never	# Ꜽ 0xa73c
+ꜽ	latin small letter ay	all	never	# ꜽ 0xa73d
+Ꜿ	latin capital letter reversed C with dot	all	never	# Ꜿ 0xa73e
+ꜿ	latin small letter reversed C with dot	all	never	# ꜿ 0xa73f
+Ꝁ	latin capital letter K with stroke	all	never	# Ꝁ 0xa740
+ꝁ	latin small letter K with stroke	all	never	# ꝁ 0xa741
+Ꝃ	latin capital letter K with diagonal stroke	all	never	# Ꝃ 0xa742
+ꝃ	latin small letter K with diagonal stroke	all	never	# ꝃ 0xa743
+Ꝅ	latin capital letter K with stroke and diagonal stroke	all	never	# Ꝅ 0xa744
+ꝅ	latin small letter K with stroke and diagonal stroke	all	never	# ꝅ 0xa745
+Ꝇ	latin capital letter broken L	all	never	# Ꝇ 0xa746
+ꝇ	latin small letter broken L	all	never	# ꝇ 0xa747
+Ꝉ	latin capital letter L with high stroke	all	never	# Ꝉ 0xa748
+ꝉ	latin small letter L with high stroke	all	never	# ꝉ 0xa749
+Ꝋ	latin capital letter O with long stroke overlay	all	never	# Ꝋ 0xa74a
+ꝋ	latin small letter O with long stroke overlay	all	never	# ꝋ 0xa74b
+Ꝍ	latin capital letter O with loop	all	never	# Ꝍ 0xa74c
+ꝍ	latin small letter O with loop	all	never	# ꝍ 0xa74d
+Ꝏ	latin capital letter oo	all	never	# Ꝏ 0xa74e
+ꝏ	latin small letter oo	all	never	# ꝏ 0xa74f
+Ꝑ	latin capital letter P with stroke through descender	all	never	# Ꝑ 0xa750
+ꝑ	latin small letter P with stroke through descender	all	never	# ꝑ 0xa751
+Ꝓ	latin capital letter P with flourish	all	never	# Ꝓ 0xa752
+ꝓ	latin small letter P with flourish	all	never	# ꝓ 0xa753
+Ꝕ	latin capital letter P with squirrel tail	all	never	# Ꝕ 0xa754
+ꝕ	latin small letter P with squirrel tail	all	never	# ꝕ 0xa755
+Ꝗ	latin capital letter Q with stroke through descender	all	never	# Ꝗ 0xa756
+ꝗ	latin small letter Q with stroke through descender	all	never	# ꝗ 0xa757
+Ꝙ	latin capital letter Q with diagonal stroke	all	never	# Ꝙ 0xa758
+ꝙ	latin small letter Q with diagonal stroke	all	never	# ꝙ 0xa759
+Ꝛ	latin capital letter R rotunda	all	never	# Ꝛ 0xa75a
+ꝛ	latin small letter R rotunda	all	never	# ꝛ 0xa75b
+Ꝝ	latin capital letter rum rotunda	all	never	# Ꝝ 0xa75c
+ꝝ	latin small letter rum rotunda	all	never	# ꝝ 0xa75d
+Ꝟ	latin capital letter V with diagonal stroke	all	never	# Ꝟ 0xa75e
+ꝟ	latin small letter V with diagonal stroke	all	never	# ꝟ 0xa75f
+Ꝡ	latin capital letter vy	all	never	# Ꝡ 0xa760
+ꝡ	latin small letter vy	all	never	# ꝡ 0xa761
+Ꝣ	latin capital letter visigothic Z	all	never	# Ꝣ 0xa762
+ꝣ	latin small letter visigothic Z	all	never	# ꝣ 0xa763
+Ꝥ	latin capital letter thorn with stroke	all	never	# Ꝥ 0xa764
+ꝥ	latin small letter thorn with stroke	all	never	# ꝥ 0xa765
+Ꝧ	latin capital letter thorn with stroke through descender	all	never	# Ꝧ 0xa766
+ꝧ	latin small letter thorn with stroke through descender	all	never	# ꝧ 0xa767
+Ꝩ	latin capital letter vend	all	never	# Ꝩ 0xa768
+ꝩ	latin small letter vend	all	never	# ꝩ 0xa769
+Ꝫ	latin capital letter et	all	never	# Ꝫ 0xa76a
+ꝫ	latin small letter et	all	never	# ꝫ 0xa76b
+Ꝭ	latin capital letter is	all	never	# Ꝭ 0xa76c
+ꝭ	latin small letter is	all	never	# ꝭ 0xa76d
+Ꝯ	latin capital letter con	all	never	# Ꝯ 0xa76e
+ꝯ	latin small letter con	all	never	# ꝯ 0xa76f
+ꝰ	modifier letter us	all	never	# ꝰ 0xa770
+ꝱ	latin small letter dum	all	never	# ꝱ 0xa771
+ꝲ	latin small letter lum	all	never	# ꝲ 0xa772
+ꝳ	latin small letter mum	all	never	# ꝳ 0xa773
+ꝴ	latin small letter num	all	never	# ꝴ 0xa774
+ꝵ	latin small letter rum	all	never	# ꝵ 0xa775
+ꝶ	latin letter small capital rum	all	never	# ꝶ 0xa776
+ꝷ	latin small letter tum	all	never	# ꝷ 0xa777
+ꝸ	latin small letter um	all	never	# ꝸ 0xa778
+Ꝺ	latin capital letter insular D	all	never	# Ꝺ 0xa779
+ꝺ	latin small letter insular D	all	never	# ꝺ 0xa77a
+Ꝼ	latin capital letter insular F	all	never	# Ꝼ 0xa77b
+ꝼ	latin small letter insular F	all	never	# ꝼ 0xa77c
+Ᵹ	latin capital letter insular G	all	never	# Ᵹ 0xa77d
+Ꝿ	latin capital letter turned insular G	all	never	# Ꝿ 0xa77e
+ꝿ	latin small letter turned insular G	all	never	# ꝿ 0xa77f
+Ꞁ	latin capital letter turned L	all	never	# Ꞁ 0xa780
+ꞁ	latin small letter turned L	all	never	# ꞁ 0xa781
+Ꞃ	latin capital letter insular R	all	never	# Ꞃ 0xa782
+ꞃ	latin small letter insular R	all	never	# ꞃ 0xa783
+Ꞅ	latin capital letter insular S	all	never	# Ꞅ 0xa784
+ꞅ	latin small letter insular S	all	never	# ꞅ 0xa785
+Ꞇ	latin capital letter insular T	all	never	# Ꞇ 0xa786
+ꞇ	latin small letter insular T	all	never	# ꞇ 0xa787
+ꞈ	modifier letter low circumflex accent	all	never	# ꞈ 0xa788
+꞉	modifier letter colon	all	never	# ꞉ 0xa789
+꞊	modifier letter short equals sign	all	never	# ꞊ 0xa78a
+Ꞌ	latin capital letter saltillo	all	never	# Ꞌ 0xa78b
+ꞌ	latin small letter saltillo	all	never	# ꞌ 0xa78c
+Ɥ	latin capital letter turned H	all	never	# Ɥ 0xa78d
+ꞎ	latin small letter L with retroflex hook and belt	all	never	# ꞎ 0xa78e
+ꞏ	latin letter sinological dot	all	never	# ꞏ 0xa78f
+Ꞑ	latin capital letter N with descender	all	never	# Ꞑ 0xa790
+ꞑ	latin small letter N with descender	all	never	# ꞑ 0xa791
+Ꞓ	latin capital letter C with bar	all	never	# Ꞓ 0xa792
+ꞓ	latin small letter C with bar	all	never	# ꞓ 0xa793
+ꞔ	latin small letter C with palatal hook	all	never	# ꞔ 0xa794
+ꞕ	latin small letter H with palatal hook	all	never	# ꞕ 0xa795
+Ꞗ	latin capital letter B with flourish	all	never	# Ꞗ 0xa796
+ꞗ	latin small letter B with flourish	all	never	# ꞗ 0xa797
+Ꞙ	latin capital letter F with stroke	all	never	# Ꞙ 0xa798
+ꞙ	latin small letter F with stroke	all	never	# ꞙ 0xa799
+Ꞛ	latin capital letter volapuk ae	all	never	# Ꞛ 0xa79a
+ꞛ	latin small letter volapuk ae	all	never	# ꞛ 0xa79b
+Ꞝ	latin capital letter volapuk oe	all	never	# Ꞝ 0xa79c
+ꞝ	latin small letter volapuk oe	all	never	# ꞝ 0xa79d
+Ꞟ	latin capital letter volapuk ue	all	never	# Ꞟ 0xa79e
+ꞟ	latin small letter volapuk ue	all	never	# ꞟ 0xa79f
+Ꞡ	latin capital letter G with oblique stroke	all	never	# Ꞡ 0xa7a0
+ꞡ	latin small letter G with oblique stroke	all	never	# ꞡ 0xa7a1
+Ꞣ	latin capital letter K with oblique stroke	all	never	# Ꞣ 0xa7a2
+ꞣ	latin small letter K with oblique stroke	all	never	# ꞣ 0xa7a3
+Ꞥ	latin capital letter N with oblique stroke	all	never	# Ꞥ 0xa7a4
+ꞥ	latin small letter N with oblique stroke	all	never	# ꞥ 0xa7a5
+Ꞧ	latin capital letter R with oblique stroke	all	never	# Ꞧ 0xa7a6
+ꞧ	latin small letter R with oblique stroke	all	never	# ꞧ 0xa7a7
+Ꞩ	latin capital letter S with oblique stroke	all	never	# Ꞩ 0xa7a8
+ꞩ	latin small letter S with oblique stroke	all	never	# ꞩ 0xa7a9
+Ɦ	latin capital letter H with hook	all	never	# Ɦ 0xa7aa
+Ɜ	latin capital letter reversed open E	all	never	# Ɜ 0xa7ab
+Ɡ	latin capital letter script G	all	never	# Ɡ 0xa7ac
+Ɬ	latin capital letter L with belt	all	never	# Ɬ 0xa7ad
+Ɪ	latin capital letter small capital I	all	never	# Ɪ 0xa7ae
+Ʞ	latin capital letter turned K	all	never	# Ʞ 0xa7b0
+Ʇ	latin capital letter turned T	all	never	# Ʇ 0xa7b1
+Ʝ	latin capital letter J with crossed-tail	all	never	# Ʝ 0xa7b2
+Ꭓ	latin capital letter chi	all	never	# Ꭓ 0xa7b3
+Ꞵ	latin capital letter beta	all	never	# Ꞵ 0xa7b4
+ꞵ	latin small letter beta	all	never	# ꞵ 0xa7b5
+Ꞷ	latin capital letter omega	all	never	# Ꞷ 0xa7b6
+ꞷ	latin small letter omega	all	never	# ꞷ 0xa7b7
+ꟷ	latin epigraphic letter sideways I	all	never	# ꟷ 0xa7f7
+ꟸ	modifier letter capital H with stroke	all	never	# ꟸ 0xa7f8
+ꟹ	modifier letter small ligature oe	all	never	# ꟹ 0xa7f9
+ꟺ	latin letter small capital turned M	all	never	# ꟺ 0xa7fa
+ꟻ	latin epigraphic letter reversed F	all	never	# ꟻ 0xa7fb
+ꟼ	latin epigraphic letter reversed P	all	never	# ꟼ 0xa7fc
+ꟽ	latin epigraphic letter inverted M	all	never	# ꟽ 0xa7fd
+ꟾ	latin epigraphic letter I longa	all	never	# ꟾ 0xa7fe
+ꟿ	latin epigraphic letter archaic M	all	never	# ꟿ 0xa7ff

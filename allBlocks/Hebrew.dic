@@ -1,0 +1,88 @@
+# # Hebrew
+֑	hebrew accent etnahta	all	never	# ֑ 0x591
+֒	hebrew accent segol	all	never	# ֒ 0x592
+֓	hebrew accent shalshelet	all	never	# ֓ 0x593
+֔	hebrew accent zaqef qatan	all	never	# ֔ 0x594
+֕	hebrew accent zaqef gadol	all	never	# ֕ 0x595
+֖	hebrew accent tipeha	all	never	# ֖ 0x596
+֗	hebrew accent revia	all	never	# ֗ 0x597
+֘	hebrew accent zarqa	all	never	# ֘ 0x598
+֙	hebrew accent pashta	all	never	# ֙ 0x599
+֚	hebrew accent yetiv	all	never	# ֚ 0x59a
+֛	hebrew accent tevir	all	never	# ֛ 0x59b
+֜	hebrew accent geresh	all	never	# ֜ 0x59c
+֝	hebrew accent geresh muqdam	all	never	# ֝ 0x59d
+֞	hebrew accent gershayim	all	never	# ֞ 0x59e
+֟	hebrew accent qarney para	all	never	# ֟ 0x59f
+֠	hebrew accent telisha gedola	all	never	# ֠ 0x5a0
+֡	hebrew accent pazer	all	never	# ֡ 0x5a1
+֢	hebrew accent atnah hafukh	all	never	# ֢ 0x5a2
+֣	hebrew accent munah	all	never	# ֣ 0x5a3
+֤	hebrew accent mahapakh	all	never	# ֤ 0x5a4
+֥	hebrew accent merkha	all	never	# ֥ 0x5a5
+֦	hebrew accent merkha kefula	all	never	# ֦ 0x5a6
+֧	hebrew accent darga	all	never	# ֧ 0x5a7
+֨	hebrew accent qadma	all	never	# ֨ 0x5a8
+֩	hebrew accent telisha qetana	all	never	# ֩ 0x5a9
+֪	hebrew accent yerah ben yomo	all	never	# ֪ 0x5aa
+֫	hebrew accent ole	all	never	# ֫ 0x5ab
+֬	hebrew accent iluy	all	never	# ֬ 0x5ac
+֭	hebrew accent dehi	all	never	# ֭ 0x5ad
+֮	hebrew accent zinor	all	never	# ֮ 0x5ae
+֯	hebrew mark masora circle	all	never	# ֯ 0x5af
+ְ	hebrew point sheva	all	never	# ְ 0x5b0
+ֱ	hebrew point hataf segol	all	never	# ֱ 0x5b1
+ֲ	hebrew point hataf patah	all	never	# ֲ 0x5b2
+ֳ	hebrew point hataf qamats	all	never	# ֳ 0x5b3
+ִ	hebrew point hiriq	all	never	# ִ 0x5b4
+ֵ	hebrew point tsere	all	never	# ֵ 0x5b5
+ֶ	hebrew point segol	all	never	# ֶ 0x5b6
+ַ	hebrew point patah	all	never	# ַ 0x5b7
+ָ	hebrew point qamats	all	never	# ָ 0x5b8
+ֹ	hebrew point holam	all	never	# ֹ 0x5b9
+ֺ	hebrew point holam haser for vav	all	never	# ֺ 0x5ba
+ֻ	hebrew point qubuts	all	never	# ֻ 0x5bb
+ּ	hebrew point dagesh or mapiq	all	never	# ּ 0x5bc
+ֽ	hebrew point meteg	all	never	# ֽ 0x5bd
+־	hebrew punctuation maqaf	all	never	# ־ 0x5be
+ֿ	hebrew point rafe	all	never	# ֿ 0x5bf
+׀	hebrew punctuation paseq	all	never	# ׀ 0x5c0
+ׁ	hebrew point shin dot	all	never	# ׁ 0x5c1
+ׂ	hebrew point sin dot	all	never	# ׂ 0x5c2
+׃	hebrew punctuation sof pasuq	all	never	# ׃ 0x5c3
+ׄ	hebrew mark upper dot	all	never	# ׄ 0x5c4
+ׅ	hebrew mark lower dot	all	never	# ׅ 0x5c5
+׆	hebrew punctuation nun hafukha	all	never	# ׆ 0x5c6
+ׇ	hebrew point qamats qatan	all	never	# ׇ 0x5c7
+א	hebrew letter alef	all	never	# א 0x5d0
+ב	hebrew letter bet	all	never	# ב 0x5d1
+ג	hebrew letter gimel	all	never	# ג 0x5d2
+ד	hebrew letter dalet	all	never	# ד 0x5d3
+ה	hebrew letter he	all	never	# ה 0x5d4
+ו	hebrew letter vav	all	never	# ו 0x5d5
+ז	hebrew letter zayin	all	never	# ז 0x5d6
+ח	hebrew letter het	all	never	# ח 0x5d7
+ט	hebrew letter tet	all	never	# ט 0x5d8
+י	hebrew letter yod	all	never	# י 0x5d9
+ך	hebrew letter final kaf	all	never	# ך 0x5da
+כ	hebrew letter kaf	all	never	# כ 0x5db
+ל	hebrew letter lamed	all	never	# ל 0x5dc
+ם	hebrew letter final mem	all	never	# ם 0x5dd
+מ	hebrew letter mem	all	never	# מ 0x5de
+ן	hebrew letter final nun	all	never	# ן 0x5df
+נ	hebrew letter nun	all	never	# נ 0x5e0
+ס	hebrew letter samekh	all	never	# ס 0x5e1
+ע	hebrew letter ayin	all	never	# ע 0x5e2
+ף	hebrew letter final pe	all	never	# ף 0x5e3
+פ	hebrew letter pe	all	never	# פ 0x5e4
+ץ	hebrew letter final tsadi	all	never	# ץ 0x5e5
+צ	hebrew letter tsadi	all	never	# צ 0x5e6
+ק	hebrew letter qof	all	never	# ק 0x5e7
+ר	hebrew letter resh	all	never	# ר 0x5e8
+ש	hebrew letter shin	all	never	# ש 0x5e9
+ת	hebrew letter tav	all	never	# ת 0x5ea
+װ	hebrew ligature yiddish double vav	all	never	# װ 0x5f0
+ױ	hebrew ligature yiddish vav yod	all	never	# ױ 0x5f1
+ײ	hebrew ligature yiddish double yod	all	never	# ײ 0x5f2
+׳	hebrew punctuation geresh	all	never	# ׳ 0x5f3
+״	hebrew punctuation gershayim	all	never	# ״ 0x5f4

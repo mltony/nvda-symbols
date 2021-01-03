@@ -1,0 +1,97 @@
+# # Cyrillic Extended-B
+Ꙁ	cyrillic capital letter zemlya	all	never	# Ꙁ 0xa640
+ꙁ	cyrillic small letter zemlya	all	never	# ꙁ 0xa641
+Ꙃ	cyrillic capital letter dzelo	all	never	# Ꙃ 0xa642
+ꙃ	cyrillic small letter dzelo	all	never	# ꙃ 0xa643
+Ꙅ	cyrillic capital letter reversed dze	all	never	# Ꙅ 0xa644
+ꙅ	cyrillic small letter reversed dze	all	never	# ꙅ 0xa645
+Ꙇ	cyrillic capital letter iota	all	never	# Ꙇ 0xa646
+ꙇ	cyrillic small letter iota	all	never	# ꙇ 0xa647
+Ꙉ	cyrillic capital letter djerv	all	never	# Ꙉ 0xa648
+ꙉ	cyrillic small letter djerv	all	never	# ꙉ 0xa649
+Ꙋ	cyrillic capital letter monograph uk	all	never	# Ꙋ 0xa64a
+ꙋ	cyrillic small letter monograph uk	all	never	# ꙋ 0xa64b
+Ꙍ	cyrillic capital letter broad omega	all	never	# Ꙍ 0xa64c
+ꙍ	cyrillic small letter broad omega	all	never	# ꙍ 0xa64d
+Ꙏ	cyrillic capital letter neutral yer	all	never	# Ꙏ 0xa64e
+ꙏ	cyrillic small letter neutral yer	all	never	# ꙏ 0xa64f
+Ꙑ	cyrillic capital letter yeru with back yer	all	never	# Ꙑ 0xa650
+ꙑ	cyrillic small letter yeru with back yer	all	never	# ꙑ 0xa651
+Ꙓ	cyrillic capital letter iotified yat	all	never	# Ꙓ 0xa652
+ꙓ	cyrillic small letter iotified yat	all	never	# ꙓ 0xa653
+Ꙕ	cyrillic capital letter reversed yu	all	never	# Ꙕ 0xa654
+ꙕ	cyrillic small letter reversed yu	all	never	# ꙕ 0xa655
+Ꙗ	cyrillic capital letter iotified A	all	never	# Ꙗ 0xa656
+ꙗ	cyrillic small letter iotified A	all	never	# ꙗ 0xa657
+Ꙙ	cyrillic capital letter closed little yus	all	never	# Ꙙ 0xa658
+ꙙ	cyrillic small letter closed little yus	all	never	# ꙙ 0xa659
+Ꙛ	cyrillic capital letter blended yus	all	never	# Ꙛ 0xa65a
+ꙛ	cyrillic small letter blended yus	all	never	# ꙛ 0xa65b
+Ꙝ	cyrillic capital letter iotified closed little yus	all	never	# Ꙝ 0xa65c
+ꙝ	cyrillic small letter iotified closed little yus	all	never	# ꙝ 0xa65d
+Ꙟ	cyrillic capital letter yn	all	never	# Ꙟ 0xa65e
+ꙟ	cyrillic small letter yn	all	never	# ꙟ 0xa65f
+Ꙡ	cyrillic capital letter reversed tse	all	never	# Ꙡ 0xa660
+ꙡ	cyrillic small letter reversed tse	all	never	# ꙡ 0xa661
+Ꙣ	cyrillic capital letter soft de	all	never	# Ꙣ 0xa662
+ꙣ	cyrillic small letter soft de	all	never	# ꙣ 0xa663
+Ꙥ	cyrillic capital letter soft el	all	never	# Ꙥ 0xa664
+ꙥ	cyrillic small letter soft el	all	never	# ꙥ 0xa665
+Ꙧ	cyrillic capital letter soft em	all	never	# Ꙧ 0xa666
+ꙧ	cyrillic small letter soft em	all	never	# ꙧ 0xa667
+Ꙩ	cyrillic capital letter monocular O	all	never	# Ꙩ 0xa668
+ꙩ	cyrillic small letter monocular O	all	never	# ꙩ 0xa669
+Ꙫ	cyrillic capital letter binocular O	all	never	# Ꙫ 0xa66a
+ꙫ	cyrillic small letter binocular O	all	never	# ꙫ 0xa66b
+Ꙭ	cyrillic capital letter double monocular O	all	never	# Ꙭ 0xa66c
+ꙭ	cyrillic small letter double monocular O	all	never	# ꙭ 0xa66d
+ꙮ	cyrillic letter multiocular O	all	never	# ꙮ 0xa66e
+꙯	combining cyrillic vzmet	all	never	# ꙯ 0xa66f
+꙰	combining cyrillic ten millions sign	all	never	# ꙰ 0xa670
+꙱	combining cyrillic hundred millions sign	all	never	# ꙱ 0xa671
+꙲	combining cyrillic thousand millions sign	all	never	# ꙲ 0xa672
+꙳	slavonic asterisk	all	never	# ꙳ 0xa673
+ꙴ	combining cyrillic letter ukrainian ie	all	never	# ꙴ 0xa674
+ꙵ	combining cyrillic letter I	all	never	# ꙵ 0xa675
+ꙶ	combining cyrillic letter yi	all	never	# ꙶ 0xa676
+ꙷ	combining cyrillic letter U	all	never	# ꙷ 0xa677
+ꙸ	combining cyrillic letter hard sign	all	never	# ꙸ 0xa678
+ꙹ	combining cyrillic letter yeru	all	never	# ꙹ 0xa679
+ꙺ	combining cyrillic letter soft sign	all	never	# ꙺ 0xa67a
+ꙻ	combining cyrillic letter omega	all	never	# ꙻ 0xa67b
+꙼	combining cyrillic kavyka	all	never	# ꙼ 0xa67c
+꙽	combining cyrillic payerok	all	never	# ꙽ 0xa67d
+꙾	cyrillic kavyka	all	never	# ꙾ 0xa67e
+ꙿ	cyrillic payerok	all	never	# ꙿ 0xa67f
+Ꚁ	cyrillic capital letter dwe	all	never	# Ꚁ 0xa680
+ꚁ	cyrillic small letter dwe	all	never	# ꚁ 0xa681
+Ꚃ	cyrillic capital letter dzwe	all	never	# Ꚃ 0xa682
+ꚃ	cyrillic small letter dzwe	all	never	# ꚃ 0xa683
+Ꚅ	cyrillic capital letter zhwe	all	never	# Ꚅ 0xa684
+ꚅ	cyrillic small letter zhwe	all	never	# ꚅ 0xa685
+Ꚇ	cyrillic capital letter cche	all	never	# Ꚇ 0xa686
+ꚇ	cyrillic small letter cche	all	never	# ꚇ 0xa687
+Ꚉ	cyrillic capital letter dzze	all	never	# Ꚉ 0xa688
+ꚉ	cyrillic small letter dzze	all	never	# ꚉ 0xa689
+Ꚋ	cyrillic capital letter te with middle hook	all	never	# Ꚋ 0xa68a
+ꚋ	cyrillic small letter te with middle hook	all	never	# ꚋ 0xa68b
+Ꚍ	cyrillic capital letter twe	all	never	# Ꚍ 0xa68c
+ꚍ	cyrillic small letter twe	all	never	# ꚍ 0xa68d
+Ꚏ	cyrillic capital letter tswe	all	never	# Ꚏ 0xa68e
+ꚏ	cyrillic small letter tswe	all	never	# ꚏ 0xa68f
+Ꚑ	cyrillic capital letter tsse	all	never	# Ꚑ 0xa690
+ꚑ	cyrillic small letter tsse	all	never	# ꚑ 0xa691
+Ꚓ	cyrillic capital letter tche	all	never	# Ꚓ 0xa692
+ꚓ	cyrillic small letter tche	all	never	# ꚓ 0xa693
+Ꚕ	cyrillic capital letter hwe	all	never	# Ꚕ 0xa694
+ꚕ	cyrillic small letter hwe	all	never	# ꚕ 0xa695
+Ꚗ	cyrillic capital letter shwe	all	never	# Ꚗ 0xa696
+ꚗ	cyrillic small letter shwe	all	never	# ꚗ 0xa697
+Ꚙ	cyrillic capital letter double O	all	never	# Ꚙ 0xa698
+ꚙ	cyrillic small letter double O	all	never	# ꚙ 0xa699
+Ꚛ	cyrillic capital letter crossed O	all	never	# Ꚛ 0xa69a
+ꚛ	cyrillic small letter crossed O	all	never	# ꚛ 0xa69b
+ꚜ	modifier letter cyrillic hard sign	all	never	# ꚜ 0xa69c
+ꚝ	modifier letter cyrillic soft sign	all	never	# ꚝ 0xa69d
+ꚞ	combining cyrillic letter ef	all	never	# ꚞ 0xa69e
+ꚟ	combining cyrillic letter iotified E	all	never	# ꚟ 0xa69f

@@ -3,7 +3,7 @@ import os,re,sys
 
 r = re.compile(r"\b([A-Z]{2,})\b")
 fName = sys.argv[1]
-fName2 = sys.argv[2]
+#fName2 = sys.argv[2]
 result = []
 for s in open(fName, "r", encoding="utf-8").readlines():
     s = s.rstrip("\r\n")
@@ -22,7 +22,7 @@ for s in open(fName, "r", encoding="utf-8").readlines():
 
     
                 
-ff = open(fName2, "w", encoding="utf-8")
+ff = open(fName, "w", encoding="utf-8")
 try:
     print("\n".join(result), file=ff)
 finally:

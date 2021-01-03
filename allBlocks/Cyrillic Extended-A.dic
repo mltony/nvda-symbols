@@ -1,0 +1,33 @@
+# # Cyrillic Extended-A
+ⷠ	combining cyrillic letter be	all	never	# ⷠ 0x2de0
+ⷡ	combining cyrillic letter ve	all	never	# ⷡ 0x2de1
+ⷢ	combining cyrillic letter ghe	all	never	# ⷢ 0x2de2
+ⷣ	combining cyrillic letter de	all	never	# ⷣ 0x2de3
+ⷤ	combining cyrillic letter zhe	all	never	# ⷤ 0x2de4
+ⷥ	combining cyrillic letter ze	all	never	# ⷥ 0x2de5
+ⷦ	combining cyrillic letter ka	all	never	# ⷦ 0x2de6
+ⷧ	combining cyrillic letter el	all	never	# ⷧ 0x2de7
+ⷨ	combining cyrillic letter em	all	never	# ⷨ 0x2de8
+ⷩ	combining cyrillic letter en	all	never	# ⷩ 0x2de9
+ⷪ	combining cyrillic letter O	all	never	# ⷪ 0x2dea
+ⷫ	combining cyrillic letter pe	all	never	# ⷫ 0x2deb
+ⷬ	combining cyrillic letter er	all	never	# ⷬ 0x2dec
+ⷭ	combining cyrillic letter es	all	never	# ⷭ 0x2ded
+ⷮ	combining cyrillic letter te	all	never	# ⷮ 0x2dee
+ⷯ	combining cyrillic letter ha	all	never	# ⷯ 0x2def
+ⷰ	combining cyrillic letter tse	all	never	# ⷰ 0x2df0
+ⷱ	combining cyrillic letter che	all	never	# ⷱ 0x2df1
+ⷲ	combining cyrillic letter sha	all	never	# ⷲ 0x2df2
+ⷳ	combining cyrillic letter shcha	all	never	# ⷳ 0x2df3
+ⷴ	combining cyrillic letter fita	all	never	# ⷴ 0x2df4
+ⷵ	combining cyrillic letter es-te	all	never	# ⷵ 0x2df5
+ⷶ	combining cyrillic letter A	all	never	# ⷶ 0x2df6
+ⷷ	combining cyrillic letter ie	all	never	# ⷷ 0x2df7
+ⷸ	combining cyrillic letter djerv	all	never	# ⷸ 0x2df8
+ⷹ	combining cyrillic letter monograph uk	all	never	# ⷹ 0x2df9
+ⷺ	combining cyrillic letter yat	all	never	# ⷺ 0x2dfa
+ⷻ	combining cyrillic letter yu	all	never	# ⷻ 0x2dfb
+ⷼ	combining cyrillic letter iotified A	all	never	# ⷼ 0x2dfc
+ⷽ	combining cyrillic letter little yus	all	never	# ⷽ 0x2dfd
+ⷾ	combining cyrillic letter big yus	all	never	# ⷾ 0x2dfe
+ⷿ	combining cyrillic letter iotified big yus	all	never	# ⷿ 0x2dff

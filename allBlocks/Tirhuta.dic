@@ -1,0 +1,83 @@
+# # Tirhuta
+𑒀	tirhuta anji	all	never	# 𑒀 0x11480
+𑒁	tirhuta letter A	all	never	# 𑒁 0x11481
+𑒂	tirhuta letter aa	all	never	# 𑒂 0x11482
+𑒃	tirhuta letter I	all	never	# 𑒃 0x11483
+𑒄	tirhuta letter ii	all	never	# 𑒄 0x11484
+𑒅	tirhuta letter U	all	never	# 𑒅 0x11485
+𑒆	tirhuta letter uu	all	never	# 𑒆 0x11486
+𑒇	tirhuta letter vocalic R	all	never	# 𑒇 0x11487
+𑒈	tirhuta letter vocalic rr	all	never	# 𑒈 0x11488
+𑒉	tirhuta letter vocalic L	all	never	# 𑒉 0x11489
+𑒊	tirhuta letter vocalic ll	all	never	# 𑒊 0x1148a
+𑒋	tirhuta letter E	all	never	# 𑒋 0x1148b
+𑒌	tirhuta letter ai	all	never	# 𑒌 0x1148c
+𑒍	tirhuta letter O	all	never	# 𑒍 0x1148d
+𑒎	tirhuta letter au	all	never	# 𑒎 0x1148e
+𑒏	tirhuta letter ka	all	never	# 𑒏 0x1148f
+𑒐	tirhuta letter kha	all	never	# 𑒐 0x11490
+𑒑	tirhuta letter ga	all	never	# 𑒑 0x11491
+𑒒	tirhuta letter gha	all	never	# 𑒒 0x11492
+𑒓	tirhuta letter nga	all	never	# 𑒓 0x11493
+𑒔	tirhuta letter ca	all	never	# 𑒔 0x11494
+𑒕	tirhuta letter cha	all	never	# 𑒕 0x11495
+𑒖	tirhuta letter ja	all	never	# 𑒖 0x11496
+𑒗	tirhuta letter jha	all	never	# 𑒗 0x11497
+𑒘	tirhuta letter nya	all	never	# 𑒘 0x11498
+𑒙	tirhuta letter tta	all	never	# 𑒙 0x11499
+𑒚	tirhuta letter ttha	all	never	# 𑒚 0x1149a
+𑒛	tirhuta letter dda	all	never	# 𑒛 0x1149b
+𑒜	tirhuta letter ddha	all	never	# 𑒜 0x1149c
+𑒝	tirhuta letter nna	all	never	# 𑒝 0x1149d
+𑒞	tirhuta letter ta	all	never	# 𑒞 0x1149e
+𑒟	tirhuta letter tha	all	never	# 𑒟 0x1149f
+𑒠	tirhuta letter da	all	never	# 𑒠 0x114a0
+𑒡	tirhuta letter dha	all	never	# 𑒡 0x114a1
+𑒢	tirhuta letter na	all	never	# 𑒢 0x114a2
+𑒣	tirhuta letter pa	all	never	# 𑒣 0x114a3
+𑒤	tirhuta letter pha	all	never	# 𑒤 0x114a4
+𑒥	tirhuta letter ba	all	never	# 𑒥 0x114a5
+𑒦	tirhuta letter bha	all	never	# 𑒦 0x114a6
+𑒧	tirhuta letter ma	all	never	# 𑒧 0x114a7
+𑒨	tirhuta letter ya	all	never	# 𑒨 0x114a8
+𑒩	tirhuta letter ra	all	never	# 𑒩 0x114a9
+𑒪	tirhuta letter la	all	never	# 𑒪 0x114aa
+𑒫	tirhuta letter va	all	never	# 𑒫 0x114ab
+𑒬	tirhuta letter sha	all	never	# 𑒬 0x114ac
+𑒭	tirhuta letter ssa	all	never	# 𑒭 0x114ad
+𑒮	tirhuta letter sa	all	never	# 𑒮 0x114ae
+𑒯	tirhuta letter ha	all	never	# 𑒯 0x114af
+𑒰	tirhuta vowel sign aa	all	never	# 𑒰 0x114b0
+𑒱	tirhuta vowel sign I	all	never	# 𑒱 0x114b1
+𑒲	tirhuta vowel sign ii	all	never	# 𑒲 0x114b2
+𑒳	tirhuta vowel sign U	all	never	# 𑒳 0x114b3
+𑒴	tirhuta vowel sign uu	all	never	# 𑒴 0x114b4
+𑒵	tirhuta vowel sign vocalic R	all	never	# 𑒵 0x114b5
+𑒶	tirhuta vowel sign vocalic rr	all	never	# 𑒶 0x114b6
+𑒷	tirhuta vowel sign vocalic L	all	never	# 𑒷 0x114b7
+𑒸	tirhuta vowel sign vocalic ll	all	never	# 𑒸 0x114b8
+𑒹	tirhuta vowel sign E	all	never	# 𑒹 0x114b9
+𑒺	tirhuta vowel sign short E	all	never	# 𑒺 0x114ba
+𑒻	tirhuta vowel sign ai	all	never	# 𑒻 0x114bb
+𑒼	tirhuta vowel sign O	all	never	# 𑒼 0x114bc
+𑒽	tirhuta vowel sign short O	all	never	# 𑒽 0x114bd
+𑒾	tirhuta vowel sign au	all	never	# 𑒾 0x114be
+𑒿	tirhuta sign candrabindu	all	never	# 𑒿 0x114bf
+𑓀	tirhuta sign anusvara	all	never	# 𑓀 0x114c0
+𑓁	tirhuta sign visarga	all	never	# 𑓁 0x114c1
+𑓂	tirhuta sign virama	all	never	# 𑓂 0x114c2
+𑓃	tirhuta sign nukta	all	never	# 𑓃 0x114c3
+𑓄	tirhuta sign avagraha	all	never	# 𑓄 0x114c4
+𑓅	tirhuta gvang	all	never	# 𑓅 0x114c5
+𑓆	tirhuta abbreviation sign	all	never	# 𑓆 0x114c6
+𑓇	tirhuta om	all	never	# 𑓇 0x114c7
+𑓐	tirhuta digit zero	all	never	# 𑓐 0x114d0
+𑓑	tirhuta digit one	all	never	# 𑓑 0x114d1
+𑓒	tirhuta digit two	all	never	# 𑓒 0x114d2
+𑓓	tirhuta digit three	all	never	# 𑓓 0x114d3
+𑓔	tirhuta digit four	all	never	# 𑓔 0x114d4
+𑓕	tirhuta digit five	all	never	# 𑓕 0x114d5
+𑓖	tirhuta digit six	all	never	# 𑓖 0x114d6
+𑓗	tirhuta digit seven	all	never	# 𑓗 0x114d7
+𑓘	tirhuta digit eight	all	never	# 𑓘 0x114d8
+𑓙	tirhuta digit nine	all	never	# 𑓙 0x114d9

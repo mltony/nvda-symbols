@@ -1,0 +1,142 @@
+# # Arabic Presentation Forms-B
+ﹰ	arabic fathatan isolated form	all	never	# ﹰ 0xfe70
+ﹱ	arabic tatweel with fathatan above	all	never	# ﹱ 0xfe71
+ﹲ	arabic dammatan isolated form	all	never	# ﹲ 0xfe72
+ﹳ	arabic tail fragment	all	never	# ﹳ 0xfe73
+ﹴ	arabic kasratan isolated form	all	never	# ﹴ 0xfe74
+ﹶ	arabic fatha isolated form	all	never	# ﹶ 0xfe76
+ﹷ	arabic fatha medial form	all	never	# ﹷ 0xfe77
+ﹸ	arabic damma isolated form	all	never	# ﹸ 0xfe78
+ﹹ	arabic damma medial form	all	never	# ﹹ 0xfe79
+ﹺ	arabic kasra isolated form	all	never	# ﹺ 0xfe7a
+ﹻ	arabic kasra medial form	all	never	# ﹻ 0xfe7b
+ﹼ	arabic shadda isolated form	all	never	# ﹼ 0xfe7c
+ﹽ	arabic shadda medial form	all	never	# ﹽ 0xfe7d
+ﹾ	arabic sukun isolated form	all	never	# ﹾ 0xfe7e
+ﹿ	arabic sukun medial form	all	never	# ﹿ 0xfe7f
+ﺀ	arabic letter hamza isolated form	all	never	# ﺀ 0xfe80
+ﺁ	arabic letter alef with madda above isolated form	all	never	# ﺁ 0xfe81
+ﺂ	arabic letter alef with madda above final form	all	never	# ﺂ 0xfe82
+ﺃ	arabic letter alef with hamza above isolated form	all	never	# ﺃ 0xfe83
+ﺄ	arabic letter alef with hamza above final form	all	never	# ﺄ 0xfe84
+ﺅ	arabic letter waw with hamza above isolated form	all	never	# ﺅ 0xfe85
+ﺆ	arabic letter waw with hamza above final form	all	never	# ﺆ 0xfe86
+ﺇ	arabic letter alef with hamza below isolated form	all	never	# ﺇ 0xfe87
+ﺈ	arabic letter alef with hamza below final form	all	never	# ﺈ 0xfe88
+ﺉ	arabic letter yeh with hamza above isolated form	all	never	# ﺉ 0xfe89
+ﺊ	arabic letter yeh with hamza above final form	all	never	# ﺊ 0xfe8a
+ﺋ	arabic letter yeh with hamza above initial form	all	never	# ﺋ 0xfe8b
+ﺌ	arabic letter yeh with hamza above medial form	all	never	# ﺌ 0xfe8c
+ﺍ	arabic letter alef isolated form	all	never	# ﺍ 0xfe8d
+ﺎ	arabic letter alef final form	all	never	# ﺎ 0xfe8e
+ﺏ	arabic letter beh isolated form	all	never	# ﺏ 0xfe8f
+ﺐ	arabic letter beh final form	all	never	# ﺐ 0xfe90
+ﺑ	arabic letter beh initial form	all	never	# ﺑ 0xfe91
+ﺒ	arabic letter beh medial form	all	never	# ﺒ 0xfe92
+ﺓ	arabic letter teh marbuta isolated form	all	never	# ﺓ 0xfe93
+ﺔ	arabic letter teh marbuta final form	all	never	# ﺔ 0xfe94
+ﺕ	arabic letter teh isolated form	all	never	# ﺕ 0xfe95
+ﺖ	arabic letter teh final form	all	never	# ﺖ 0xfe96
+ﺗ	arabic letter teh initial form	all	never	# ﺗ 0xfe97
+ﺘ	arabic letter teh medial form	all	never	# ﺘ 0xfe98
+ﺙ	arabic letter theh isolated form	all	never	# ﺙ 0xfe99
+ﺚ	arabic letter theh final form	all	never	# ﺚ 0xfe9a
+ﺛ	arabic letter theh initial form	all	never	# ﺛ 0xfe9b
+ﺜ	arabic letter theh medial form	all	never	# ﺜ 0xfe9c
+ﺝ	arabic letter jeem isolated form	all	never	# ﺝ 0xfe9d
+ﺞ	arabic letter jeem final form	all	never	# ﺞ 0xfe9e
+ﺟ	arabic letter jeem initial form	all	never	# ﺟ 0xfe9f
+ﺠ	arabic letter jeem medial form	all	never	# ﺠ 0xfea0
+ﺡ	arabic letter hah isolated form	all	never	# ﺡ 0xfea1
+ﺢ	arabic letter hah final form	all	never	# ﺢ 0xfea2
+ﺣ	arabic letter hah initial form	all	never	# ﺣ 0xfea3
+ﺤ	arabic letter hah medial form	all	never	# ﺤ 0xfea4
+ﺥ	arabic letter khah isolated form	all	never	# ﺥ 0xfea5
+ﺦ	arabic letter khah final form	all	never	# ﺦ 0xfea6
+ﺧ	arabic letter khah initial form	all	never	# ﺧ 0xfea7
+ﺨ	arabic letter khah medial form	all	never	# ﺨ 0xfea8
+ﺩ	arabic letter dal isolated form	all	never	# ﺩ 0xfea9
+ﺪ	arabic letter dal final form	all	never	# ﺪ 0xfeaa
+ﺫ	arabic letter thal isolated form	all	never	# ﺫ 0xfeab
+ﺬ	arabic letter thal final form	all	never	# ﺬ 0xfeac
+ﺭ	arabic letter reh isolated form	all	never	# ﺭ 0xfead
+ﺮ	arabic letter reh final form	all	never	# ﺮ 0xfeae
+ﺯ	arabic letter zain isolated form	all	never	# ﺯ 0xfeaf
+ﺰ	arabic letter zain final form	all	never	# ﺰ 0xfeb0
+ﺱ	arabic letter seen isolated form	all	never	# ﺱ 0xfeb1
+ﺲ	arabic letter seen final form	all	never	# ﺲ 0xfeb2
+ﺳ	arabic letter seen initial form	all	never	# ﺳ 0xfeb3
+ﺴ	arabic letter seen medial form	all	never	# ﺴ 0xfeb4
+ﺵ	arabic letter sheen isolated form	all	never	# ﺵ 0xfeb5
+ﺶ	arabic letter sheen final form	all	never	# ﺶ 0xfeb6
+ﺷ	arabic letter sheen initial form	all	never	# ﺷ 0xfeb7
+ﺸ	arabic letter sheen medial form	all	never	# ﺸ 0xfeb8
+ﺹ	arabic letter sad isolated form	all	never	# ﺹ 0xfeb9
+ﺺ	arabic letter sad final form	all	never	# ﺺ 0xfeba
+ﺻ	arabic letter sad initial form	all	never	# ﺻ 0xfebb
+ﺼ	arabic letter sad medial form	all	never	# ﺼ 0xfebc
+ﺽ	arabic letter dad isolated form	all	never	# ﺽ 0xfebd
+ﺾ	arabic letter dad final form	all	never	# ﺾ 0xfebe
+ﺿ	arabic letter dad initial form	all	never	# ﺿ 0xfebf
+ﻀ	arabic letter dad medial form	all	never	# ﻀ 0xfec0
+ﻁ	arabic letter tah isolated form	all	never	# ﻁ 0xfec1
+ﻂ	arabic letter tah final form	all	never	# ﻂ 0xfec2
+ﻃ	arabic letter tah initial form	all	never	# ﻃ 0xfec3
+ﻄ	arabic letter tah medial form	all	never	# ﻄ 0xfec4
+ﻅ	arabic letter zah isolated form	all	never	# ﻅ 0xfec5
+ﻆ	arabic letter zah final form	all	never	# ﻆ 0xfec6
+ﻇ	arabic letter zah initial form	all	never	# ﻇ 0xfec7
+ﻈ	arabic letter zah medial form	all	never	# ﻈ 0xfec8
+ﻉ	arabic letter ain isolated form	all	never	# ﻉ 0xfec9
+ﻊ	arabic letter ain final form	all	never	# ﻊ 0xfeca
+ﻋ	arabic letter ain initial form	all	never	# ﻋ 0xfecb
+ﻌ	arabic letter ain medial form	all	never	# ﻌ 0xfecc
+ﻍ	arabic letter ghain isolated form	all	never	# ﻍ 0xfecd
+ﻎ	arabic letter ghain final form	all	never	# ﻎ 0xfece
+ﻏ	arabic letter ghain initial form	all	never	# ﻏ 0xfecf
+ﻐ	arabic letter ghain medial form	all	never	# ﻐ 0xfed0
+ﻑ	arabic letter feh isolated form	all	never	# ﻑ 0xfed1
+ﻒ	arabic letter feh final form	all	never	# ﻒ 0xfed2
+ﻓ	arabic letter feh initial form	all	never	# ﻓ 0xfed3
+ﻔ	arabic letter feh medial form	all	never	# ﻔ 0xfed4
+ﻕ	arabic letter qaf isolated form	all	never	# ﻕ 0xfed5
+ﻖ	arabic letter qaf final form	all	never	# ﻖ 0xfed6
+ﻗ	arabic letter qaf initial form	all	never	# ﻗ 0xfed7
+ﻘ	arabic letter qaf medial form	all	never	# ﻘ 0xfed8
+ﻙ	arabic letter kaf isolated form	all	never	# ﻙ 0xfed9
+ﻚ	arabic letter kaf final form	all	never	# ﻚ 0xfeda
+ﻛ	arabic letter kaf initial form	all	never	# ﻛ 0xfedb
+ﻜ	arabic letter kaf medial form	all	never	# ﻜ 0xfedc
+ﻝ	arabic letter lam isolated form	all	never	# ﻝ 0xfedd
+ﻞ	arabic letter lam final form	all	never	# ﻞ 0xfede
+ﻟ	arabic letter lam initial form	all	never	# ﻟ 0xfedf
+ﻠ	arabic letter lam medial form	all	never	# ﻠ 0xfee0
+ﻡ	arabic letter meem isolated form	all	never	# ﻡ 0xfee1
+ﻢ	arabic letter meem final form	all	never	# ﻢ 0xfee2
+ﻣ	arabic letter meem initial form	all	never	# ﻣ 0xfee3
+ﻤ	arabic letter meem medial form	all	never	# ﻤ 0xfee4
+ﻥ	arabic letter noon isolated form	all	never	# ﻥ 0xfee5
+ﻦ	arabic letter noon final form	all	never	# ﻦ 0xfee6
+ﻧ	arabic letter noon initial form	all	never	# ﻧ 0xfee7
+ﻨ	arabic letter noon medial form	all	never	# ﻨ 0xfee8
+ﻩ	arabic letter heh isolated form	all	never	# ﻩ 0xfee9
+ﻪ	arabic letter heh final form	all	never	# ﻪ 0xfeea
+ﻫ	arabic letter heh initial form	all	never	# ﻫ 0xfeeb
+ﻬ	arabic letter heh medial form	all	never	# ﻬ 0xfeec
+ﻭ	arabic letter waw isolated form	all	never	# ﻭ 0xfeed
+ﻮ	arabic letter waw final form	all	never	# ﻮ 0xfeee
+ﻯ	arabic letter alef maksura isolated form	all	never	# ﻯ 0xfeef
+ﻰ	arabic letter alef maksura final form	all	never	# ﻰ 0xfef0
+ﻱ	arabic letter yeh isolated form	all	never	# ﻱ 0xfef1
+ﻲ	arabic letter yeh final form	all	never	# ﻲ 0xfef2
+ﻳ	arabic letter yeh initial form	all	never	# ﻳ 0xfef3
+ﻴ	arabic letter yeh medial form	all	never	# ﻴ 0xfef4
+ﻵ	arabic ligature lam with alef with madda above isolated form	all	never	# ﻵ 0xfef5
+ﻶ	arabic ligature lam with alef with madda above final form	all	never	# ﻶ 0xfef6
+ﻷ	arabic ligature lam with alef with hamza above isolated form	all	never	# ﻷ 0xfef7
+ﻸ	arabic ligature lam with alef with hamza above final form	all	never	# ﻸ 0xfef8
+ﻹ	arabic ligature lam with alef with hamza below isolated form	all	never	# ﻹ 0xfef9
+ﻺ	arabic ligature lam with alef with hamza below final form	all	never	# ﻺ 0xfefa
+ﻻ	arabic ligature lam with alef isolated form	all	never	# ﻻ 0xfefb
+ﻼ	arabic ligature lam with alef final form	all	never	# ﻼ 0xfefc
+# ﻿	zero width no-break space	all	never	# ﻿ 0xfeff

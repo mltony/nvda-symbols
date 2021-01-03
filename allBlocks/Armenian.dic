@@ -1,0 +1,90 @@
+# # Armenian
+Ա	armenian capital letter ayb	all	never	# Ա 0x531
+Բ	armenian capital letter ben	all	never	# Բ 0x532
+Գ	armenian capital letter gim	all	never	# Գ 0x533
+Դ	armenian capital letter da	all	never	# Դ 0x534
+Ե	armenian capital letter ech	all	never	# Ե 0x535
+Զ	armenian capital letter za	all	never	# Զ 0x536
+Է	armenian capital letter eh	all	never	# Է 0x537
+Ը	armenian capital letter et	all	never	# Ը 0x538
+Թ	armenian capital letter to	all	never	# Թ 0x539
+Ժ	armenian capital letter zhe	all	never	# Ժ 0x53a
+Ի	armenian capital letter ini	all	never	# Ի 0x53b
+Լ	armenian capital letter liwn	all	never	# Լ 0x53c
+Խ	armenian capital letter xeh	all	never	# Խ 0x53d
+Ծ	armenian capital letter ca	all	never	# Ծ 0x53e
+Կ	armenian capital letter ken	all	never	# Կ 0x53f
+Հ	armenian capital letter ho	all	never	# Հ 0x540
+Ձ	armenian capital letter ja	all	never	# Ձ 0x541
+Ղ	armenian capital letter ghad	all	never	# Ղ 0x542
+Ճ	armenian capital letter cheh	all	never	# Ճ 0x543
+Մ	armenian capital letter men	all	never	# Մ 0x544
+Յ	armenian capital letter yi	all	never	# Յ 0x545
+Ն	armenian capital letter now	all	never	# Ն 0x546
+Շ	armenian capital letter sha	all	never	# Շ 0x547
+Ո	armenian capital letter vo	all	never	# Ո 0x548
+Չ	armenian capital letter cha	all	never	# Չ 0x549
+Պ	armenian capital letter peh	all	never	# Պ 0x54a
+Ջ	armenian capital letter jheh	all	never	# Ջ 0x54b
+Ռ	armenian capital letter ra	all	never	# Ռ 0x54c
+Ս	armenian capital letter seh	all	never	# Ս 0x54d
+Վ	armenian capital letter vew	all	never	# Վ 0x54e
+Տ	armenian capital letter tiwn	all	never	# Տ 0x54f
+Ր	armenian capital letter reh	all	never	# Ր 0x550
+Ց	armenian capital letter co	all	never	# Ց 0x551
+Ւ	armenian capital letter yiwn	all	never	# Ւ 0x552
+Փ	armenian capital letter piwr	all	never	# Փ 0x553
+Ք	armenian capital letter keh	all	never	# Ք 0x554
+Օ	armenian capital letter oh	all	never	# Օ 0x555
+Ֆ	armenian capital letter feh	all	never	# Ֆ 0x556
+ՙ	armenian modifier letter left half ring	all	never	# ՙ 0x559
+՚	armenian apostrophe	all	never	# ՚ 0x55a
+՛	armenian emphasis mark	all	never	# ՛ 0x55b
+՜	armenian exclamation mark	all	never	# ՜ 0x55c
+՝	armenian comma	all	never	# ՝ 0x55d
+՞	armenian question mark	all	never	# ՞ 0x55e
+՟	armenian abbreviation mark	all	never	# ՟ 0x55f
+ա	armenian small letter ayb	all	never	# ա 0x561
+բ	armenian small letter ben	all	never	# բ 0x562
+գ	armenian small letter gim	all	never	# գ 0x563
+դ	armenian small letter da	all	never	# դ 0x564
+ե	armenian small letter ech	all	never	# ե 0x565
+զ	armenian small letter za	all	never	# զ 0x566
+է	armenian small letter eh	all	never	# է 0x567
+ը	armenian small letter et	all	never	# ը 0x568
+թ	armenian small letter to	all	never	# թ 0x569
+ժ	armenian small letter zhe	all	never	# ժ 0x56a
+ի	armenian small letter ini	all	never	# ի 0x56b
+լ	armenian small letter liwn	all	never	# լ 0x56c
+խ	armenian small letter xeh	all	never	# խ 0x56d
+ծ	armenian small letter ca	all	never	# ծ 0x56e
+կ	armenian small letter ken	all	never	# կ 0x56f
+հ	armenian small letter ho	all	never	# հ 0x570
+ձ	armenian small letter ja	all	never	# ձ 0x571
+ղ	armenian small letter ghad	all	never	# ղ 0x572
+ճ	armenian small letter cheh	all	never	# ճ 0x573
+մ	armenian small letter men	all	never	# մ 0x574
+յ	armenian small letter yi	all	never	# յ 0x575
+ն	armenian small letter now	all	never	# ն 0x576
+շ	armenian small letter sha	all	never	# շ 0x577
+ո	armenian small letter vo	all	never	# ո 0x578
+չ	armenian small letter cha	all	never	# չ 0x579
+պ	armenian small letter peh	all	never	# պ 0x57a
+ջ	armenian small letter jheh	all	never	# ջ 0x57b
+ռ	armenian small letter ra	all	never	# ռ 0x57c
+ս	armenian small letter seh	all	never	# ս 0x57d
+վ	armenian small letter vew	all	never	# վ 0x57e
+տ	armenian small letter tiwn	all	never	# տ 0x57f
+ր	armenian small letter reh	all	never	# ր 0x580
+ց	armenian small letter co	all	never	# ց 0x581
+ւ	armenian small letter yiwn	all	never	# ւ 0x582
+փ	armenian small letter piwr	all	never	# փ 0x583
+ք	armenian small letter keh	all	never	# ք 0x584
+օ	armenian small letter oh	all	never	# օ 0x585
+ֆ	armenian small letter feh	all	never	# ֆ 0x586
+և	armenian small ligature ech yiwn	all	never	# և 0x587
+։	armenian full stop	all	never	# ։ 0x589
+֊	armenian hyphen	all	never	# ֊ 0x58a
+֍	right-facing armenian eternity sign	all	never	# ֍ 0x58d
+֎	left-facing armenian eternity sign	all	never	# ֎ 0x58e
+֏	armenian dram sign	all	never	# ֏ 0x58f

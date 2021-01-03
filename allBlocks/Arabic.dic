@@ -1,0 +1,256 @@
+# # Arabic
+؀	arabic number sign	all	never	# ؀ 0x600
+؁	arabic sign sanah	all	never	# ؁ 0x601
+؂	arabic footnote marker	all	never	# ؂ 0x602
+؃	arabic sign safha	all	never	# ؃ 0x603
+؄	arabic sign samvat	all	never	# ؄ 0x604
+؅	arabic number mark above	all	never	# ؅ 0x605
+؆	arabic-indic cube root	all	never	# ؆ 0x606
+؇	arabic-indic fourth root	all	never	# ؇ 0x607
+؈	arabic ray	all	never	# ؈ 0x608
+؉	arabic-indic per mille sign	all	never	# ؉ 0x609
+؊	arabic-indic per ten thousand sign	all	never	# ؊ 0x60a
+؋	afghani sign	all	never	# ؋ 0x60b
+،	arabic comma	all	never	# ، 0x60c
+؍	arabic date separator	all	never	# ؍ 0x60d
+؎	arabic poetic verse sign	all	never	# ؎ 0x60e
+؏	arabic sign misra	all	never	# ؏ 0x60f
+ؐ	arabic sign sallallahou alayhe wassallam	all	never	# ؐ 0x610
+ؑ	arabic sign alayhe assallam	all	never	# ؑ 0x611
+ؒ	arabic sign rahmatullah alayhe	all	never	# ؒ 0x612
+ؓ	arabic sign radi allahou anhu	all	never	# ؓ 0x613
+ؔ	arabic sign takhallus	all	never	# ؔ 0x614
+ؕ	arabic small high tah	all	never	# ؕ 0x615
+ؖ	arabic small high ligature alef with lam with yeh	all	never	# ؖ 0x616
+ؗ	arabic small high zain	all	never	# ؗ 0x617
+ؘ	arabic small fatha	all	never	# ؘ 0x618
+ؙ	arabic small damma	all	never	# ؙ 0x619
+ؚ	arabic small kasra	all	never	# ؚ 0x61a
+؛	arabic semicolon	all	never	# ؛ 0x61b
+؜	arabic letter mark	all	never	# ؜ 0x61c
+؞	arabic triple dot punctuation mark	all	never	# ؞ 0x61e
+؟	arabic question mark	all	never	# ؟ 0x61f
+ؠ	arabic letter kashmiri yeh	all	never	# ؠ 0x620
+ء	arabic letter hamza	all	never	# ء 0x621
+آ	arabic letter alef with madda above	all	never	# آ 0x622
+أ	arabic letter alef with hamza above	all	never	# أ 0x623
+ؤ	arabic letter waw with hamza above	all	never	# ؤ 0x624
+إ	arabic letter alef with hamza below	all	never	# إ 0x625
+ئ	arabic letter yeh with hamza above	all	never	# ئ 0x626
+ا	arabic letter alef	all	never	# ا 0x627
+ب	arabic letter beh	all	never	# ب 0x628
+ة	arabic letter teh marbuta	all	never	# ة 0x629
+ت	arabic letter teh	all	never	# ت 0x62a
+ث	arabic letter theh	all	never	# ث 0x62b
+ج	arabic letter jeem	all	never	# ج 0x62c
+ح	arabic letter hah	all	never	# ح 0x62d
+خ	arabic letter khah	all	never	# خ 0x62e
+د	arabic letter dal	all	never	# د 0x62f
+ذ	arabic letter thal	all	never	# ذ 0x630
+ر	arabic letter reh	all	never	# ر 0x631
+ز	arabic letter zain	all	never	# ز 0x632
+س	arabic letter seen	all	never	# س 0x633
+ش	arabic letter sheen	all	never	# ش 0x634
+ص	arabic letter sad	all	never	# ص 0x635
+ض	arabic letter dad	all	never	# ض 0x636
+ط	arabic letter tah	all	never	# ط 0x637
+ظ	arabic letter zah	all	never	# ظ 0x638
+ع	arabic letter ain	all	never	# ع 0x639
+غ	arabic letter ghain	all	never	# غ 0x63a
+ػ	arabic letter keheh with two dots above	all	never	# ػ 0x63b
+ؼ	arabic letter keheh with three dots below	all	never	# ؼ 0x63c
+ؽ	arabic letter farsi yeh with inverted V	all	never	# ؽ 0x63d
+ؾ	arabic letter farsi yeh with two dots above	all	never	# ؾ 0x63e
+ؿ	arabic letter farsi yeh with three dots above	all	never	# ؿ 0x63f
+ـ	arabic tatweel	all	never	# ـ 0x640
+ف	arabic letter feh	all	never	# ف 0x641
+ق	arabic letter qaf	all	never	# ق 0x642
+ك	arabic letter kaf	all	never	# ك 0x643
+ل	arabic letter lam	all	never	# ل 0x644
+م	arabic letter meem	all	never	# م 0x645
+ن	arabic letter noon	all	never	# ن 0x646
+ه	arabic letter heh	all	never	# ه 0x647
+و	arabic letter waw	all	never	# و 0x648
+ى	arabic letter alef maksura	all	never	# ى 0x649
+ي	arabic letter yeh	all	never	# ي 0x64a
+ً	arabic fathatan	all	never	# ً 0x64b
+ٌ	arabic dammatan	all	never	# ٌ 0x64c
+ٍ	arabic kasratan	all	never	# ٍ 0x64d
+َ	arabic fatha	all	never	# َ 0x64e
+ُ	arabic damma	all	never	# ُ 0x64f
+ِ	arabic kasra	all	never	# ِ 0x650
+ّ	arabic shadda	all	never	# ّ 0x651
+ْ	arabic sukun	all	never	# ْ 0x652
+ٓ	arabic maddah above	all	never	# ٓ 0x653
+ٔ	arabic hamza above	all	never	# ٔ 0x654
+ٕ	arabic hamza below	all	never	# ٕ 0x655
+ٖ	arabic subscript alef	all	never	# ٖ 0x656
+ٗ	arabic inverted damma	all	never	# ٗ 0x657
+٘	arabic mark noon ghunna	all	never	# ٘ 0x658
+ٙ	arabic zwarakay	all	never	# ٙ 0x659
+ٚ	arabic vowel sign small V above	all	never	# ٚ 0x65a
+ٛ	arabic vowel sign inverted small V above	all	never	# ٛ 0x65b
+ٜ	arabic vowel sign dot below	all	never	# ٜ 0x65c
+ٝ	arabic reversed damma	all	never	# ٝ 0x65d
+ٞ	arabic fatha with two dots	all	never	# ٞ 0x65e
+ٟ	arabic wavy hamza below	all	never	# ٟ 0x65f
+٠	arabic-indic digit zero	all	never	# ٠ 0x660
+١	arabic-indic digit one	all	never	# ١ 0x661
+٢	arabic-indic digit two	all	never	# ٢ 0x662
+٣	arabic-indic digit three	all	never	# ٣ 0x663
+٤	arabic-indic digit four	all	never	# ٤ 0x664
+٥	arabic-indic digit five	all	never	# ٥ 0x665
+٦	arabic-indic digit six	all	never	# ٦ 0x666
+٧	arabic-indic digit seven	all	never	# ٧ 0x667
+٨	arabic-indic digit eight	all	never	# ٨ 0x668
+٩	arabic-indic digit nine	all	never	# ٩ 0x669
+٪	arabic percent sign	all	never	# ٪ 0x66a
+٫	arabic decimal separator	all	never	# ٫ 0x66b
+٬	arabic thousands separator	all	never	# ٬ 0x66c
+٭	arabic five pointed star	all	never	# ٭ 0x66d
+ٮ	arabic letter dotless beh	all	never	# ٮ 0x66e
+ٯ	arabic letter dotless qaf	all	never	# ٯ 0x66f
+ٰ	arabic letter superscript alef	all	never	# ٰ 0x670
+ٱ	arabic letter alef wasla	all	never	# ٱ 0x671
+ٲ	arabic letter alef with wavy hamza above	all	never	# ٲ 0x672
+ٳ	arabic letter alef with wavy hamza below	all	never	# ٳ 0x673
+ٴ	arabic letter high hamza	all	never	# ٴ 0x674
+ٵ	arabic letter high hamza alef	all	never	# ٵ 0x675
+ٶ	arabic letter high hamza waw	all	never	# ٶ 0x676
+ٷ	arabic letter U with hamza above	all	never	# ٷ 0x677
+ٸ	arabic letter high hamza yeh	all	never	# ٸ 0x678
+ٹ	arabic letter tteh	all	never	# ٹ 0x679
+ٺ	arabic letter tteheh	all	never	# ٺ 0x67a
+ٻ	arabic letter beeh	all	never	# ٻ 0x67b
+ټ	arabic letter teh with ring	all	never	# ټ 0x67c
+ٽ	arabic letter teh with three dots above downwards	all	never	# ٽ 0x67d
+پ	arabic letter peh	all	never	# پ 0x67e
+ٿ	arabic letter teheh	all	never	# ٿ 0x67f
+ڀ	arabic letter beheh	all	never	# ڀ 0x680
+ځ	arabic letter hah with hamza above	all	never	# ځ 0x681
+ڂ	arabic letter hah with two dots vertical above	all	never	# ڂ 0x682
+ڃ	arabic letter nyeh	all	never	# ڃ 0x683
+ڄ	arabic letter dyeh	all	never	# ڄ 0x684
+څ	arabic letter hah with three dots above	all	never	# څ 0x685
+چ	arabic letter tcheh	all	never	# چ 0x686
+ڇ	arabic letter tcheheh	all	never	# ڇ 0x687
+ڈ	arabic letter ddal	all	never	# ڈ 0x688
+ډ	arabic letter dal with ring	all	never	# ډ 0x689
+ڊ	arabic letter dal with dot below	all	never	# ڊ 0x68a
+ڋ	arabic letter dal with dot below and small tah	all	never	# ڋ 0x68b
+ڌ	arabic letter dahal	all	never	# ڌ 0x68c
+ڍ	arabic letter ddahal	all	never	# ڍ 0x68d
+ڎ	arabic letter dul	all	never	# ڎ 0x68e
+ڏ	arabic letter dal with three dots above downwards	all	never	# ڏ 0x68f
+ڐ	arabic letter dal with four dots above	all	never	# ڐ 0x690
+ڑ	arabic letter rreh	all	never	# ڑ 0x691
+ڒ	arabic letter reh with small V	all	never	# ڒ 0x692
+ړ	arabic letter reh with ring	all	never	# ړ 0x693
+ڔ	arabic letter reh with dot below	all	never	# ڔ 0x694
+ڕ	arabic letter reh with small V below	all	never	# ڕ 0x695
+ږ	arabic letter reh with dot below and dot above	all	never	# ږ 0x696
+ڗ	arabic letter reh with two dots above	all	never	# ڗ 0x697
+ژ	arabic letter jeh	all	never	# ژ 0x698
+ڙ	arabic letter reh with four dots above	all	never	# ڙ 0x699
+ښ	arabic letter seen with dot below and dot above	all	never	# ښ 0x69a
+ڛ	arabic letter seen with three dots below	all	never	# ڛ 0x69b
+ڜ	arabic letter seen with three dots below and three dots above	all	never	# ڜ 0x69c
+ڝ	arabic letter sad with two dots below	all	never	# ڝ 0x69d
+ڞ	arabic letter sad with three dots above	all	never	# ڞ 0x69e
+ڟ	arabic letter tah with three dots above	all	never	# ڟ 0x69f
+ڠ	arabic letter ain with three dots above	all	never	# ڠ 0x6a0
+ڡ	arabic letter dotless feh	all	never	# ڡ 0x6a1
+ڢ	arabic letter feh with dot moved below	all	never	# ڢ 0x6a2
+ڣ	arabic letter feh with dot below	all	never	# ڣ 0x6a3
+ڤ	arabic letter veh	all	never	# ڤ 0x6a4
+ڥ	arabic letter feh with three dots below	all	never	# ڥ 0x6a5
+ڦ	arabic letter peheh	all	never	# ڦ 0x6a6
+ڧ	arabic letter qaf with dot above	all	never	# ڧ 0x6a7
+ڨ	arabic letter qaf with three dots above	all	never	# ڨ 0x6a8
+ک	arabic letter keheh	all	never	# ک 0x6a9
+ڪ	arabic letter swash kaf	all	never	# ڪ 0x6aa
+ګ	arabic letter kaf with ring	all	never	# ګ 0x6ab
+ڬ	arabic letter kaf with dot above	all	never	# ڬ 0x6ac
+ڭ	arabic letter ng	all	never	# ڭ 0x6ad
+ڮ	arabic letter kaf with three dots below	all	never	# ڮ 0x6ae
+گ	arabic letter gaf	all	never	# گ 0x6af
+ڰ	arabic letter gaf with ring	all	never	# ڰ 0x6b0
+ڱ	arabic letter ngoeh	all	never	# ڱ 0x6b1
+ڲ	arabic letter gaf with two dots below	all	never	# ڲ 0x6b2
+ڳ	arabic letter gueh	all	never	# ڳ 0x6b3
+ڴ	arabic letter gaf with three dots above	all	never	# ڴ 0x6b4
+ڵ	arabic letter lam with small V	all	never	# ڵ 0x6b5
+ڶ	arabic letter lam with dot above	all	never	# ڶ 0x6b6
+ڷ	arabic letter lam with three dots above	all	never	# ڷ 0x6b7
+ڸ	arabic letter lam with three dots below	all	never	# ڸ 0x6b8
+ڹ	arabic letter noon with dot below	all	never	# ڹ 0x6b9
+ں	arabic letter noon ghunna	all	never	# ں 0x6ba
+ڻ	arabic letter rnoon	all	never	# ڻ 0x6bb
+ڼ	arabic letter noon with ring	all	never	# ڼ 0x6bc
+ڽ	arabic letter noon with three dots above	all	never	# ڽ 0x6bd
+ھ	arabic letter heh doachashmee	all	never	# ھ 0x6be
+ڿ	arabic letter tcheh with dot above	all	never	# ڿ 0x6bf
+ۀ	arabic letter heh with yeh above	all	never	# ۀ 0x6c0
+ہ	arabic letter heh goal	all	never	# ہ 0x6c1
+ۂ	arabic letter heh goal with hamza above	all	never	# ۂ 0x6c2
+ۃ	arabic letter teh marbuta goal	all	never	# ۃ 0x6c3
+ۄ	arabic letter waw with ring	all	never	# ۄ 0x6c4
+ۅ	arabic letter kirghiz oe	all	never	# ۅ 0x6c5
+ۆ	arabic letter oe	all	never	# ۆ 0x6c6
+ۇ	arabic letter U	all	never	# ۇ 0x6c7
+ۈ	arabic letter yu	all	never	# ۈ 0x6c8
+ۉ	arabic letter kirghiz yu	all	never	# ۉ 0x6c9
+ۊ	arabic letter waw with two dots above	all	never	# ۊ 0x6ca
+ۋ	arabic letter ve	all	never	# ۋ 0x6cb
+ی	arabic letter farsi yeh	all	never	# ی 0x6cc
+ۍ	arabic letter yeh with tail	all	never	# ۍ 0x6cd
+ێ	arabic letter yeh with small V	all	never	# ێ 0x6ce
+ۏ	arabic letter waw with dot above	all	never	# ۏ 0x6cf
+ې	arabic letter E	all	never	# ې 0x6d0
+ۑ	arabic letter yeh with three dots below	all	never	# ۑ 0x6d1
+ے	arabic letter yeh barree	all	never	# ے 0x6d2
+ۓ	arabic letter yeh barree with hamza above	all	never	# ۓ 0x6d3
+۔	arabic full stop	all	never	# ۔ 0x6d4
+ە	arabic letter ae	all	never	# ە 0x6d5
+ۖ	arabic small high ligature sad with lam with alef maksura	all	never	# ۖ 0x6d6
+ۗ	arabic small high ligature qaf with lam with alef maksura	all	never	# ۗ 0x6d7
+ۘ	arabic small high meem initial form	all	never	# ۘ 0x6d8
+ۙ	arabic small high lam alef	all	never	# ۙ 0x6d9
+ۚ	arabic small high jeem	all	never	# ۚ 0x6da
+ۛ	arabic small high three dots	all	never	# ۛ 0x6db
+ۜ	arabic small high seen	all	never	# ۜ 0x6dc
+۝	arabic end of ayah	all	never	# ۝ 0x6dd
+۞	arabic start of rub el hizb	all	never	# ۞ 0x6de
+۟	arabic small high rounded zero	all	never	# ۟ 0x6df
+۠	arabic small high upright rectangular zero	all	never	# ۠ 0x6e0
+ۡ	arabic small high dotless head of khah	all	never	# ۡ 0x6e1
+ۢ	arabic small high meem isolated form	all	never	# ۢ 0x6e2
+ۣ	arabic small low seen	all	never	# ۣ 0x6e3
+ۤ	arabic small high madda	all	never	# ۤ 0x6e4
+ۥ	arabic small waw	all	never	# ۥ 0x6e5
+ۦ	arabic small yeh	all	never	# ۦ 0x6e6
+ۧ	arabic small high yeh	all	never	# ۧ 0x6e7
+ۨ	arabic small high noon	all	never	# ۨ 0x6e8
+۩	arabic place of sajdah	all	never	# ۩ 0x6e9
+۪	arabic empty centre low stop	all	never	# ۪ 0x6ea
+۫	arabic empty centre high stop	all	never	# ۫ 0x6eb
+۬	arabic rounded high stop with filled centre	all	never	# ۬ 0x6ec
+ۭ	arabic small low meem	all	never	# ۭ 0x6ed
+ۮ	arabic letter dal with inverted V	all	never	# ۮ 0x6ee
+ۯ	arabic letter reh with inverted V	all	never	# ۯ 0x6ef
+۰	extended arabic-indic digit zero	all	never	# ۰ 0x6f0
+۱	extended arabic-indic digit one	all	never	# ۱ 0x6f1
+۲	extended arabic-indic digit two	all	never	# ۲ 0x6f2
+۳	extended arabic-indic digit three	all	never	# ۳ 0x6f3
+۴	extended arabic-indic digit four	all	never	# ۴ 0x6f4
+۵	extended arabic-indic digit five	all	never	# ۵ 0x6f5
+۶	extended arabic-indic digit six	all	never	# ۶ 0x6f6
+۷	extended arabic-indic digit seven	all	never	# ۷ 0x6f7
+۸	extended arabic-indic digit eight	all	never	# ۸ 0x6f8
+۹	extended arabic-indic digit nine	all	never	# ۹ 0x6f9
+ۺ	arabic letter sheen with dot below	all	never	# ۺ 0x6fa
+ۻ	arabic letter dad with dot below	all	never	# ۻ 0x6fb
+ۼ	arabic letter ghain with dot below	all	never	# ۼ 0x6fc
+۽	arabic sign sindhi ampersand	all	never	# ۽ 0x6fd
+۾	arabic sign sindhi postposition men	all	never	# ۾ 0x6fe
+ۿ	arabic letter heh with inverted V	all	never	# ۿ 0x6ff

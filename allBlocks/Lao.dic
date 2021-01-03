@@ -1,0 +1,68 @@
+# # Lao
+ກ	lao letter ko	all	never	# ກ 0xe81
+ຂ	lao letter kho sung	all	never	# ຂ 0xe82
+ຄ	lao letter kho tam	all	never	# ຄ 0xe84
+ງ	lao letter ngo	all	never	# ງ 0xe87
+ຈ	lao letter co	all	never	# ຈ 0xe88
+ຊ	lao letter so tam	all	never	# ຊ 0xe8a
+ຍ	lao letter nyo	all	never	# ຍ 0xe8d
+ດ	lao letter do	all	never	# ດ 0xe94
+ຕ	lao letter to	all	never	# ຕ 0xe95
+ຖ	lao letter tho sung	all	never	# ຖ 0xe96
+ທ	lao letter tho tam	all	never	# ທ 0xe97
+ນ	lao letter no	all	never	# ນ 0xe99
+ບ	lao letter bo	all	never	# ບ 0xe9a
+ປ	lao letter po	all	never	# ປ 0xe9b
+ຜ	lao letter pho sung	all	never	# ຜ 0xe9c
+ຝ	lao letter fo tam	all	never	# ຝ 0xe9d
+ພ	lao letter pho tam	all	never	# ພ 0xe9e
+ຟ	lao letter fo sung	all	never	# ຟ 0xe9f
+ມ	lao letter mo	all	never	# ມ 0xea1
+ຢ	lao letter yo	all	never	# ຢ 0xea2
+ຣ	lao letter lo ling	all	never	# ຣ 0xea3
+ລ	lao letter lo loot	all	never	# ລ 0xea5
+ວ	lao letter wo	all	never	# ວ 0xea7
+ສ	lao letter so sung	all	never	# ສ 0xeaa
+ຫ	lao letter ho sung	all	never	# ຫ 0xeab
+ອ	lao letter O	all	never	# ອ 0xead
+ຮ	lao letter ho tam	all	never	# ຮ 0xeae
+ຯ	lao ellipsis	all	never	# ຯ 0xeaf
+ະ	lao vowel sign A	all	never	# ະ 0xeb0
+ັ	lao vowel sign mai kan	all	never	# ັ 0xeb1
+າ	lao vowel sign aa	all	never	# າ 0xeb2
+ຳ	lao vowel sign am	all	never	# ຳ 0xeb3
+ິ	lao vowel sign I	all	never	# ິ 0xeb4
+ີ	lao vowel sign ii	all	never	# ີ 0xeb5
+ຶ	lao vowel sign Y	all	never	# ຶ 0xeb6
+ື	lao vowel sign yy	all	never	# ື 0xeb7
+ຸ	lao vowel sign U	all	never	# ຸ 0xeb8
+ູ	lao vowel sign uu	all	never	# ູ 0xeb9
+ົ	lao vowel sign mai kon	all	never	# ົ 0xebb
+ຼ	lao semivowel sign lo	all	never	# ຼ 0xebc
+ຽ	lao semivowel sign nyo	all	never	# ຽ 0xebd
+ເ	lao vowel sign E	all	never	# ເ 0xec0
+ແ	lao vowel sign ei	all	never	# ແ 0xec1
+ໂ	lao vowel sign O	all	never	# ໂ 0xec2
+ໃ	lao vowel sign ay	all	never	# ໃ 0xec3
+ໄ	lao vowel sign ai	all	never	# ໄ 0xec4
+ໆ	lao ko la	all	never	# ໆ 0xec6
+່	lao tone mai ek	all	never	# ່ 0xec8
+້	lao tone mai tho	all	never	# ້ 0xec9
+໊	lao tone mai ti	all	never	# ໊ 0xeca
+໋	lao tone mai catawa	all	never	# ໋ 0xecb
+໌	lao cancellation mark	all	never	# ໌ 0xecc
+ໍ	lao niggahita	all	never	# ໍ 0xecd
+໐	lao digit zero	all	never	# ໐ 0xed0
+໑	lao digit one	all	never	# ໑ 0xed1
+໒	lao digit two	all	never	# ໒ 0xed2
+໓	lao digit three	all	never	# ໓ 0xed3
+໔	lao digit four	all	never	# ໔ 0xed4
+໕	lao digit five	all	never	# ໕ 0xed5
+໖	lao digit six	all	never	# ໖ 0xed6
+໗	lao digit seven	all	never	# ໗ 0xed7
+໘	lao digit eight	all	never	# ໘ 0xed8
+໙	lao digit nine	all	never	# ໙ 0xed9
+ໜ	lao ho no	all	never	# ໜ 0xedc
+ໝ	lao ho mo	all	never	# ໝ 0xedd
+ໞ	lao letter khmu go	all	never	# ໞ 0xede
+ໟ	lao letter khmu nyo	all	never	# ໟ 0xedf

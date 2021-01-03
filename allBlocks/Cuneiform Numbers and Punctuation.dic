@@ -1,0 +1,117 @@
+# # Cuneiform Numbers and Punctuation
+𒐀	cuneiform numeric sign two ash	all	never	# 𒐀 0x12400
+𒐁	cuneiform numeric sign three ash	all	never	# 𒐁 0x12401
+𒐂	cuneiform numeric sign four ash	all	never	# 𒐂 0x12402
+𒐃	cuneiform numeric sign five ash	all	never	# 𒐃 0x12403
+𒐄	cuneiform numeric sign six ash	all	never	# 𒐄 0x12404
+𒐅	cuneiform numeric sign seven ash	all	never	# 𒐅 0x12405
+𒐆	cuneiform numeric sign eight ash	all	never	# 𒐆 0x12406
+𒐇	cuneiform numeric sign nine ash	all	never	# 𒐇 0x12407
+𒐈	cuneiform numeric sign three dish	all	never	# 𒐈 0x12408
+𒐉	cuneiform numeric sign four dish	all	never	# 𒐉 0x12409
+𒐊	cuneiform numeric sign five dish	all	never	# 𒐊 0x1240a
+𒐋	cuneiform numeric sign six dish	all	never	# 𒐋 0x1240b
+𒐌	cuneiform numeric sign seven dish	all	never	# 𒐌 0x1240c
+𒐍	cuneiform numeric sign eight dish	all	never	# 𒐍 0x1240d
+𒐎	cuneiform numeric sign nine dish	all	never	# 𒐎 0x1240e
+𒐏	cuneiform numeric sign four U	all	never	# 𒐏 0x1240f
+𒐐	cuneiform numeric sign five U	all	never	# 𒐐 0x12410
+𒐑	cuneiform numeric sign six U	all	never	# 𒐑 0x12411
+𒐒	cuneiform numeric sign seven U	all	never	# 𒐒 0x12412
+𒐓	cuneiform numeric sign eight U	all	never	# 𒐓 0x12413
+𒐔	cuneiform numeric sign nine U	all	never	# 𒐔 0x12414
+𒐕	cuneiform numeric sign one GESH2	all	never	# 𒐕 0x12415
+𒐖	cuneiform numeric sign two GESH2	all	never	# 𒐖 0x12416
+𒐗	cuneiform numeric sign three GESH2	all	never	# 𒐗 0x12417
+𒐘	cuneiform numeric sign four GESH2	all	never	# 𒐘 0x12418
+𒐙	cuneiform numeric sign five GESH2	all	never	# 𒐙 0x12419
+𒐚	cuneiform numeric sign six GESH2	all	never	# 𒐚 0x1241a
+𒐛	cuneiform numeric sign seven GESH2	all	never	# 𒐛 0x1241b
+𒐜	cuneiform numeric sign eight GESH2	all	never	# 𒐜 0x1241c
+𒐝	cuneiform numeric sign nine GESH2	all	never	# 𒐝 0x1241d
+𒐞	cuneiform numeric sign one geshu	all	never	# 𒐞 0x1241e
+𒐟	cuneiform numeric sign two geshu	all	never	# 𒐟 0x1241f
+𒐠	cuneiform numeric sign three geshu	all	never	# 𒐠 0x12420
+𒐡	cuneiform numeric sign four geshu	all	never	# 𒐡 0x12421
+𒐢	cuneiform numeric sign five geshu	all	never	# 𒐢 0x12422
+𒐣	cuneiform numeric sign two SHAR2	all	never	# 𒐣 0x12423
+𒐤	cuneiform numeric sign three SHAR2	all	never	# 𒐤 0x12424
+𒐥	cuneiform numeric sign three SHAR2 variant form	all	never	# 𒐥 0x12425
+𒐦	cuneiform numeric sign four SHAR2	all	never	# 𒐦 0x12426
+𒐧	cuneiform numeric sign five SHAR2	all	never	# 𒐧 0x12427
+𒐨	cuneiform numeric sign six SHAR2	all	never	# 𒐨 0x12428
+𒐩	cuneiform numeric sign seven SHAR2	all	never	# 𒐩 0x12429
+𒐪	cuneiform numeric sign eight SHAR2	all	never	# 𒐪 0x1242a
+𒐫	cuneiform numeric sign nine SHAR2	all	never	# 𒐫 0x1242b
+𒐬	cuneiform numeric sign one sharu	all	never	# 𒐬 0x1242c
+𒐭	cuneiform numeric sign two sharu	all	never	# 𒐭 0x1242d
+𒐮	cuneiform numeric sign three sharu	all	never	# 𒐮 0x1242e
+𒐯	cuneiform numeric sign three sharu variant form	all	never	# 𒐯 0x1242f
+𒐰	cuneiform numeric sign four sharu	all	never	# 𒐰 0x12430
+𒐱	cuneiform numeric sign five sharu	all	never	# 𒐱 0x12431
+𒐲	cuneiform numeric sign SHAR2 times gal plus dish	all	never	# 𒐲 0x12432
+𒐳	cuneiform numeric sign SHAR2 times gal plus min	all	never	# 𒐳 0x12433
+𒐴	cuneiform numeric sign one buru	all	never	# 𒐴 0x12434
+𒐵	cuneiform numeric sign two buru	all	never	# 𒐵 0x12435
+𒐶	cuneiform numeric sign three buru	all	never	# 𒐶 0x12436
+𒐷	cuneiform numeric sign three buru variant form	all	never	# 𒐷 0x12437
+𒐸	cuneiform numeric sign four buru	all	never	# 𒐸 0x12438
+𒐹	cuneiform numeric sign five buru	all	never	# 𒐹 0x12439
+𒐺	cuneiform numeric sign three variant form ESH16	all	never	# 𒐺 0x1243a
+𒐻	cuneiform numeric sign three variant form ESH21	all	never	# 𒐻 0x1243b
+𒐼	cuneiform numeric sign four variant form limmu	all	never	# 𒐼 0x1243c
+𒐽	cuneiform numeric sign four variant form LIMMU4	all	never	# 𒐽 0x1243d
+𒐾	cuneiform numeric sign four variant form limmu A	all	never	# 𒐾 0x1243e
+𒐿	cuneiform numeric sign four variant form limmu B	all	never	# 𒐿 0x1243f
+𒑀	cuneiform numeric sign six variant form ASH9	all	never	# 𒑀 0x12440
+𒑁	cuneiform numeric sign seven variant form IMIN3	all	never	# 𒑁 0x12441
+𒑂	cuneiform numeric sign seven variant form imin A	all	never	# 𒑂 0x12442
+𒑃	cuneiform numeric sign seven variant form imin B	all	never	# 𒑃 0x12443
+𒑄	cuneiform numeric sign eight variant form ussu	all	never	# 𒑄 0x12444
+𒑅	cuneiform numeric sign eight variant form USSU3	all	never	# 𒑅 0x12445
+𒑆	cuneiform numeric sign nine variant form ilimmu	all	never	# 𒑆 0x12446
+𒑇	cuneiform numeric sign nine variant form ILIMMU3	all	never	# 𒑇 0x12447
+𒑈	cuneiform numeric sign nine variant form ILIMMU4	all	never	# 𒑈 0x12448
+𒑉	cuneiform numeric sign nine variant form ilimmu A	all	never	# 𒑉 0x12449
+𒑊	cuneiform numeric sign two ash tenu	all	never	# 𒑊 0x1244a
+𒑋	cuneiform numeric sign three ash tenu	all	never	# 𒑋 0x1244b
+𒑌	cuneiform numeric sign four ash tenu	all	never	# 𒑌 0x1244c
+𒑍	cuneiform numeric sign five ash tenu	all	never	# 𒑍 0x1244d
+𒑎	cuneiform numeric sign six ash tenu	all	never	# 𒑎 0x1244e
+𒑏	cuneiform numeric sign one BAN2	all	never	# 𒑏 0x1244f
+𒑐	cuneiform numeric sign two BAN2	all	never	# 𒑐 0x12450
+𒑑	cuneiform numeric sign three BAN2	all	never	# 𒑑 0x12451
+𒑒	cuneiform numeric sign four BAN2	all	never	# 𒑒 0x12452
+𒑓	cuneiform numeric sign four BAN2 variant form	all	never	# 𒑓 0x12453
+𒑔	cuneiform numeric sign five BAN2	all	never	# 𒑔 0x12454
+𒑕	cuneiform numeric sign five BAN2 variant form	all	never	# 𒑕 0x12455
+𒑖	cuneiform numeric sign nigidamin	all	never	# 𒑖 0x12456
+𒑗	cuneiform numeric sign nigidaesh	all	never	# 𒑗 0x12457
+𒑘	cuneiform numeric sign one ESHE3	all	never	# 𒑘 0x12458
+𒑙	cuneiform numeric sign two ESHE3	all	never	# 𒑙 0x12459
+𒑚	cuneiform numeric sign one third dish	all	never	# 𒑚 0x1245a
+𒑛	cuneiform numeric sign two thirds dish	all	never	# 𒑛 0x1245b
+𒑜	cuneiform numeric sign five sixths dish	all	never	# 𒑜 0x1245c
+𒑝	cuneiform numeric sign one third variant form A	all	never	# 𒑝 0x1245d
+𒑞	cuneiform numeric sign two thirds variant form A	all	never	# 𒑞 0x1245e
+𒑟	cuneiform numeric sign one eighth ash	all	never	# 𒑟 0x1245f
+𒑠	cuneiform numeric sign one quarter ash	all	never	# 𒑠 0x12460
+𒑡	cuneiform numeric sign old assyrian one sixth	all	never	# 𒑡 0x12461
+𒑢	cuneiform numeric sign old assyrian one quarter	all	never	# 𒑢 0x12462
+𒑣	cuneiform numeric sign one quarter gur	all	never	# 𒑣 0x12463
+𒑤	cuneiform numeric sign one half gur	all	never	# 𒑤 0x12464
+𒑥	cuneiform numeric sign elamite one third	all	never	# 𒑥 0x12465
+𒑦	cuneiform numeric sign elamite two thirds	all	never	# 𒑦 0x12466
+𒑧	cuneiform numeric sign elamite forty	all	never	# 𒑧 0x12467
+𒑨	cuneiform numeric sign elamite fifty	all	never	# 𒑨 0x12468
+𒑩	cuneiform numeric sign four U variant form	all	never	# 𒑩 0x12469
+𒑪	cuneiform numeric sign five U variant form	all	never	# 𒑪 0x1246a
+𒑫	cuneiform numeric sign six U variant form	all	never	# 𒑫 0x1246b
+𒑬	cuneiform numeric sign seven U variant form	all	never	# 𒑬 0x1246c
+𒑭	cuneiform numeric sign eight U variant form	all	never	# 𒑭 0x1246d
+𒑮	cuneiform numeric sign nine U variant form	all	never	# 𒑮 0x1246e
+𒑰	cuneiform punctuation sign old assyrian word divider	all	never	# 𒑰 0x12470
+𒑱	cuneiform punctuation sign vertical colon	all	never	# 𒑱 0x12471
+𒑲	cuneiform punctuation sign diagonal colon	all	never	# 𒑲 0x12472
+𒑳	cuneiform punctuation sign diagonal tricolon	all	never	# 𒑳 0x12473
+𒑴	cuneiform punctuation sign diagonal quadcolon	all	never	# 𒑴 0x12474

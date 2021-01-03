@@ -1,0 +1,257 @@
+# # Mathematical Operators
+# ∀	for all	all	never	# ∀ 0x2200
+# ∁	complement	all	never	# ∁ 0x2201
+# ∂	partial differential	all	never	# ∂ 0x2202
+# ∃	there exists	all	never	# ∃ 0x2203
+# ∄	there does not exist	all	never	# ∄ 0x2204
+# ∅	empty set	all	never	# ∅ 0x2205
+# ∆	increment	all	never	# ∆ 0x2206
+# ∇	nabla	all	never	# ∇ 0x2207
+# ∈	element of	all	never	# ∈ 0x2208
+# ∉	not an element of	all	never	# ∉ 0x2209
+# ∊	small element of	all	never	# ∊ 0x220a
+# ∋	contains as member	all	never	# ∋ 0x220b
+# ∌	does not contain as member	all	never	# ∌ 0x220c
+# ∍	small contains as member	all	never	# ∍ 0x220d
+# ∎	end of proof	all	never	# ∎ 0x220e
+# ∏	N-ary product	all	never	# ∏ 0x220f
+∐	N-ary coproduct	all	never	# ∐ 0x2210
+# ∑	N-ary summation	all	never	# ∑ 0x2211
+# −	minus sign	all	never	# − 0x2212
+∓	minus-or-plus sign	all	never	# ∓ 0x2213
+∔	dot plus	all	never	# ∔ 0x2214
+∕	division slash	all	never	# ∕ 0x2215
+∖	set minus	all	never	# ∖ 0x2216
+∗	asterisk operator	all	never	# ∗ 0x2217
+∘	ring operator	all	never	# ∘ 0x2218
+∙	bullet operator	all	never	# ∙ 0x2219
+# √	square root	all	never	# √ 0x221a
+# ∛	cube root	all	never	# ∛ 0x221b
+# ∜	fourth root	all	never	# ∜ 0x221c
+# ∝	proportional to	all	never	# ∝ 0x221d
+# ∞	infinity	all	never	# ∞ 0x221e
+# ∟	right angle	all	never	# ∟ 0x221f
+# ∠	angle	all	never	# ∠ 0x2220
+∡	measured angle	all	never	# ∡ 0x2221
+∢	spherical angle	all	never	# ∢ 0x2222
+∣	divides	all	never	# ∣ 0x2223
+∤	does not divide	all	never	# ∤ 0x2224
+# ∥	parallel to	all	never	# ∥ 0x2225
+# ∦	not parallel to	all	never	# ∦ 0x2226
+# ∧	logical and	all	never	# ∧ 0x2227
+# ∨	logical or	all	never	# ∨ 0x2228
+# ∩	intersection	all	never	# ∩ 0x2229
+# ∪	union	all	never	# ∪ 0x222a
+# ∫	integral	all	never	# ∫ 0x222b
+∬	double integral	all	never	# ∬ 0x222c
+∭	triple integral	all	never	# ∭ 0x222d
+∮	contour integral	all	never	# ∮ 0x222e
+∯	surface integral	all	never	# ∯ 0x222f
+∰	volume integral	all	never	# ∰ 0x2230
+∱	clockwise integral	all	never	# ∱ 0x2231
+∲	clockwise contour integral	all	never	# ∲ 0x2232
+∳	anticlockwise contour integral	all	never	# ∳ 0x2233
+# ∴	therefore	all	never	# ∴ 0x2234
+# ∵	because	all	never	# ∵ 0x2235
+# ∶	ratio	all	never	# ∶ 0x2236
+# ∷	proportion	all	never	# ∷ 0x2237
+∸	dot minus	all	never	# ∸ 0x2238
+∹	excess	all	never	# ∹ 0x2239
+∺	geometric proportion	all	never	# ∺ 0x223a
+∻	homothetic	all	never	# ∻ 0x223b
+∼	tilde operator	all	never	# ∼ 0x223c
+∽	reversed tilde	all	never	# ∽ 0x223d
+∾	inverted lazy S	all	never	# ∾ 0x223e
+∿	sine wave	all	never	# ∿ 0x223f
+≀	wreath product	all	never	# ≀ 0x2240
+≁	not tilde	all	never	# ≁ 0x2241
+≂	minus tilde	all	never	# ≂ 0x2242
+≃	asymptotically equal to	all	never	# ≃ 0x2243
+≄	not asymptotically equal to	all	never	# ≄ 0x2244
+≅	approximately equal to	all	never	# ≅ 0x2245
+≆	approximately but not actually equal to	all	never	# ≆ 0x2246
+≇	neither approximately nor actually equal to	all	never	# ≇ 0x2247
+≈	almost equal to	all	never	# ≈ 0x2248
+≉	not almost equal to	all	never	# ≉ 0x2249
+≊	almost equal or equal to	all	never	# ≊ 0x224a
+≋	triple tilde	all	never	# ≋ 0x224b
+≌	all equal to	all	never	# ≌ 0x224c
+≍	equivalent to	all	never	# ≍ 0x224d
+≎	geometrically equivalent to	all	never	# ≎ 0x224e
+≏	difference between	all	never	# ≏ 0x224f
+≐	approaches the limit	all	never	# ≐ 0x2250
+≑	geometrically equal to	all	never	# ≑ 0x2251
+≒	approximately equal to or the image of	all	never	# ≒ 0x2252
+≓	image of or approximately equal to	all	never	# ≓ 0x2253
+≔	colon equals	all	never	# ≔ 0x2254
+≕	equals colon	all	never	# ≕ 0x2255
+≖	ring in equal to	all	never	# ≖ 0x2256
+≗	ring equal to	all	never	# ≗ 0x2257
+≘	corresponds to	all	never	# ≘ 0x2258
+≙	estimates	all	never	# ≙ 0x2259
+≚	equiangular to	all	never	# ≚ 0x225a
+≛	star equals	all	never	# ≛ 0x225b
+≜	delta equal to	all	never	# ≜ 0x225c
+≝	equal to by definition	all	never	# ≝ 0x225d
+≞	measured by	all	never	# ≞ 0x225e
+≟	questioned equal to	all	never	# ≟ 0x225f
+≠	not equal to	all	never	# ≠ 0x2260
+≡	identical to	all	never	# ≡ 0x2261
+≢	not identical to	all	never	# ≢ 0x2262
+≣	strictly equivalent to	all	never	# ≣ 0x2263
+# ≤	less-than or equal to	all	never	# ≤ 0x2264
+# ≥	greater-than or equal to	all	never	# ≥ 0x2265
+≦	less-than over equal to	all	never	# ≦ 0x2266
+≧	greater-than over equal to	all	never	# ≧ 0x2267
+≨	less-than but not equal to	all	never	# ≨ 0x2268
+≩	greater-than but not equal to	all	never	# ≩ 0x2269
+≪	much less-than	all	never	# ≪ 0x226a
+≫	much greater-than	all	never	# ≫ 0x226b
+≬	between	all	never	# ≬ 0x226c
+≭	not equivalent to	all	never	# ≭ 0x226d
+≮	not less-than	all	never	# ≮ 0x226e
+≯	not greater-than	all	never	# ≯ 0x226f
+≰	neither less-than nor equal to	all	never	# ≰ 0x2270
+≱	neither greater-than nor equal to	all	never	# ≱ 0x2271
+≲	less-than or equivalent to	all	never	# ≲ 0x2272
+≳	greater-than or equivalent to	all	never	# ≳ 0x2273
+≴	neither less-than nor equivalent to	all	never	# ≴ 0x2274
+≵	neither greater-than nor equivalent to	all	never	# ≵ 0x2275
+≶	less-than or greater-than	all	never	# ≶ 0x2276
+≷	greater-than or less-than	all	never	# ≷ 0x2277
+≸	neither less-than nor greater-than	all	never	# ≸ 0x2278
+≹	neither greater-than nor less-than	all	never	# ≹ 0x2279
+≺	precedes	all	never	# ≺ 0x227a
+≻	succeeds	all	never	# ≻ 0x227b
+≼	precedes or equal to	all	never	# ≼ 0x227c
+≽	succeeds or equal to	all	never	# ≽ 0x227d
+≾	precedes or equivalent to	all	never	# ≾ 0x227e
+≿	succeeds or equivalent to	all	never	# ≿ 0x227f
+⊀	does not precede	all	never	# ⊀ 0x2280
+⊁	does not succeed	all	never	# ⊁ 0x2281
+# ⊂	subset of	all	never	# ⊂ 0x2282
+# ⊃	superset of	all	never	# ⊃ 0x2283
+⊄	not A subset of	all	never	# ⊄ 0x2284
+⊅	not A superset of	all	never	# ⊅ 0x2285
+# ⊆	subset of or equal to	all	never	# ⊆ 0x2286
+# ⊇	superset of or equal to	all	never	# ⊇ 0x2287
+⊈	neither A subset of nor equal to	all	never	# ⊈ 0x2288
+⊉	neither A superset of nor equal to	all	never	# ⊉ 0x2289
+⊊	subset of with not equal to	all	never	# ⊊ 0x228a
+⊋	superset of with not equal to	all	never	# ⊋ 0x228b
+⊌	multiset	all	never	# ⊌ 0x228c
+⊍	multiset multiplication	all	never	# ⊍ 0x228d
+⊎	multiset union	all	never	# ⊎ 0x228e
+⊏	square image of	all	never	# ⊏ 0x228f
+⊐	square original of	all	never	# ⊐ 0x2290
+⊑	square image of or equal to	all	never	# ⊑ 0x2291
+⊒	square original of or equal to	all	never	# ⊒ 0x2292
+⊓	square cap	all	never	# ⊓ 0x2293
+⊔	square cup	all	never	# ⊔ 0x2294
+⊕	circled plus	all	never	# ⊕ 0x2295
+⊖	circled minus	all	never	# ⊖ 0x2296
+⊗	circled times	all	never	# ⊗ 0x2297
+⊘	circled division slash	all	never	# ⊘ 0x2298
+⊙	circled dot operator	all	never	# ⊙ 0x2299
+⊚	circled ring operator	all	never	# ⊚ 0x229a
+⊛	circled asterisk operator	all	never	# ⊛ 0x229b
+⊜	circled equals	all	never	# ⊜ 0x229c
+⊝	circled dash	all	never	# ⊝ 0x229d
+⊞	squared plus	all	never	# ⊞ 0x229e
+⊟	squared minus	all	never	# ⊟ 0x229f
+⊠	squared times	all	never	# ⊠ 0x22a0
+⊡	squared dot operator	all	never	# ⊡ 0x22a1
+⊢	right tack	all	never	# ⊢ 0x22a2
+⊣	left tack	all	never	# ⊣ 0x22a3
+⊤	down tack	all	never	# ⊤ 0x22a4
+⊥	up tack	all	never	# ⊥ 0x22a5
+⊦	assertion	all	never	# ⊦ 0x22a6
+⊧	models	all	never	# ⊧ 0x22a7
+⊨	true	all	never	# ⊨ 0x22a8
+⊩	forces	all	never	# ⊩ 0x22a9
+⊪	triple vertical bar right turnstile	all	never	# ⊪ 0x22aa
+⊫	double vertical bar double right turnstile	all	never	# ⊫ 0x22ab
+⊬	does not prove	all	never	# ⊬ 0x22ac
+⊭	not true	all	never	# ⊭ 0x22ad
+⊮	does not force	all	never	# ⊮ 0x22ae
+⊯	negated double vertical bar double right turnstile	all	never	# ⊯ 0x22af
+⊰	precedes under relation	all	never	# ⊰ 0x22b0
+⊱	succeeds under relation	all	never	# ⊱ 0x22b1
+⊲	normal subgroup of	all	never	# ⊲ 0x22b2
+⊳	contains as normal subgroup	all	never	# ⊳ 0x22b3
+⊴	normal subgroup of or equal to	all	never	# ⊴ 0x22b4
+⊵	contains as normal subgroup or equal to	all	never	# ⊵ 0x22b5
+⊶	original of	all	never	# ⊶ 0x22b6
+⊷	image of	all	never	# ⊷ 0x22b7
+⊸	multimap	all	never	# ⊸ 0x22b8
+⊹	hermitian conjugate matrix	all	never	# ⊹ 0x22b9
+⊺	intercalate	all	never	# ⊺ 0x22ba
+⊻	xor	all	never	# ⊻ 0x22bb
+⊼	nand	all	never	# ⊼ 0x22bc
+⊽	nor	all	never	# ⊽ 0x22bd
+⊾	right angle with arc	all	never	# ⊾ 0x22be
+⊿	right triangle	all	never	# ⊿ 0x22bf
+⋀	N-ary logical and	all	never	# ⋀ 0x22c0
+⋁	N-ary logical or	all	never	# ⋁ 0x22c1
+⋂	N-ary intersection	all	never	# ⋂ 0x22c2
+⋃	N-ary union	all	never	# ⋃ 0x22c3
+⋄	diamond operator	all	never	# ⋄ 0x22c4
+⋅	dot operator	all	never	# ⋅ 0x22c5
+⋆	star operator	all	never	# ⋆ 0x22c6
+⋇	division times	all	never	# ⋇ 0x22c7
+⋈	bowtie	all	never	# ⋈ 0x22c8
+⋉	left normal factor semidirect product	all	never	# ⋉ 0x22c9
+⋊	right normal factor semidirect product	all	never	# ⋊ 0x22ca
+⋋	left semidirect product	all	never	# ⋋ 0x22cb
+⋌	right semidirect product	all	never	# ⋌ 0x22cc
+⋍	reversed tilde equals	all	never	# ⋍ 0x22cd
+⋎	curly logical or	all	never	# ⋎ 0x22ce
+⋏	curly logical and	all	never	# ⋏ 0x22cf
+⋐	double subset	all	never	# ⋐ 0x22d0
+⋑	double superset	all	never	# ⋑ 0x22d1
+⋒	double intersection	all	never	# ⋒ 0x22d2
+⋓	double union	all	never	# ⋓ 0x22d3
+⋔	pitchfork	all	never	# ⋔ 0x22d4
+⋕	equal and parallel to	all	never	# ⋕ 0x22d5
+⋖	less-than with dot	all	never	# ⋖ 0x22d6
+⋗	greater-than with dot	all	never	# ⋗ 0x22d7
+⋘	very much less-than	all	never	# ⋘ 0x22d8
+⋙	very much greater-than	all	never	# ⋙ 0x22d9
+⋚	less-than equal to or greater-than	all	never	# ⋚ 0x22da
+⋛	greater-than equal to or less-than	all	never	# ⋛ 0x22db
+⋜	equal to or less-than	all	never	# ⋜ 0x22dc
+⋝	equal to or greater-than	all	never	# ⋝ 0x22dd
+⋞	equal to or precedes	all	never	# ⋞ 0x22de
+⋟	equal to or succeeds	all	never	# ⋟ 0x22df
+⋠	does not precede or equal	all	never	# ⋠ 0x22e0
+⋡	does not succeed or equal	all	never	# ⋡ 0x22e1
+⋢	not square image of or equal to	all	never	# ⋢ 0x22e2
+⋣	not square original of or equal to	all	never	# ⋣ 0x22e3
+⋤	square image of or not equal to	all	never	# ⋤ 0x22e4
+⋥	square original of or not equal to	all	never	# ⋥ 0x22e5
+⋦	less-than but not equivalent to	all	never	# ⋦ 0x22e6
+⋧	greater-than but not equivalent to	all	never	# ⋧ 0x22e7
+⋨	precedes but not equivalent to	all	never	# ⋨ 0x22e8
+⋩	succeeds but not equivalent to	all	never	# ⋩ 0x22e9
+⋪	not normal subgroup of	all	never	# ⋪ 0x22ea
+⋫	does not contain as normal subgroup	all	never	# ⋫ 0x22eb
+⋬	not normal subgroup of or equal to	all	never	# ⋬ 0x22ec
+⋭	does not contain as normal subgroup or equal	all	never	# ⋭ 0x22ed
+⋮	vertical ellipsis	all	never	# ⋮ 0x22ee
+⋯	midline horizontal ellipsis	all	never	# ⋯ 0x22ef
+⋰	up right diagonal ellipsis	all	never	# ⋰ 0x22f0
+⋱	down right diagonal ellipsis	all	never	# ⋱ 0x22f1
+⋲	element of with long horizontal stroke	all	never	# ⋲ 0x22f2
+⋳	element of with vertical bar at end of horizontal stroke	all	never	# ⋳ 0x22f3
+⋴	small element of with vertical bar at end of horizontal stroke	all	never	# ⋴ 0x22f4
+⋵	element of with dot above	all	never	# ⋵ 0x22f5
+⋶	element of with overbar	all	never	# ⋶ 0x22f6
+⋷	small element of with overbar	all	never	# ⋷ 0x22f7
+⋸	element of with underbar	all	never	# ⋸ 0x22f8
+⋹	element of with two horizontal strokes	all	never	# ⋹ 0x22f9
+⋺	contains with long horizontal stroke	all	never	# ⋺ 0x22fa
+⋻	contains with vertical bar at end of horizontal stroke	all	never	# ⋻ 0x22fb
+⋼	small contains with vertical bar at end of horizontal stroke	all	never	# ⋼ 0x22fc
+⋽	contains with overbar	all	never	# ⋽ 0x22fd
+⋾	small contains with overbar	all	never	# ⋾ 0x22fe
+⋿	Z notation bag membership	all	never	# ⋿ 0x22ff

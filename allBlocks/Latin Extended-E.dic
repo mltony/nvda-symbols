@@ -1,0 +1,55 @@
+# # Latin Extended-E
+ꬰ	latin small letter barred alpha	all	never	# ꬰ 0xab30
+ꬱ	latin small letter A reversed-schwa	all	never	# ꬱ 0xab31
+ꬲ	latin small letter blackletter E	all	never	# ꬲ 0xab32
+ꬳ	latin small letter barred E	all	never	# ꬳ 0xab33
+ꬴ	latin small letter E with flourish	all	never	# ꬴ 0xab34
+ꬵ	latin small letter lenis F	all	never	# ꬵ 0xab35
+ꬶ	latin small letter script G with crossed-tail	all	never	# ꬶ 0xab36
+ꬷ	latin small letter L with inverted lazy S	all	never	# ꬷ 0xab37
+ꬸ	latin small letter L with double middle tilde	all	never	# ꬸ 0xab38
+ꬹ	latin small letter L with middle ring	all	never	# ꬹ 0xab39
+ꬺ	latin small letter M with crossed-tail	all	never	# ꬺ 0xab3a
+ꬻ	latin small letter N with crossed-tail	all	never	# ꬻ 0xab3b
+ꬼ	latin small letter eng with crossed-tail	all	never	# ꬼ 0xab3c
+ꬽ	latin small letter blackletter O	all	never	# ꬽ 0xab3d
+ꬾ	latin small letter blackletter O with stroke	all	never	# ꬾ 0xab3e
+ꬿ	latin small letter open O with stroke	all	never	# ꬿ 0xab3f
+ꭀ	latin small letter inverted oe	all	never	# ꭀ 0xab40
+ꭁ	latin small letter turned oe with stroke	all	never	# ꭁ 0xab41
+ꭂ	latin small letter turned oe with horizontal stroke	all	never	# ꭂ 0xab42
+ꭃ	latin small letter turned O open-O	all	never	# ꭃ 0xab43
+ꭄ	latin small letter turned O open-O with stroke	all	never	# ꭄ 0xab44
+ꭅ	latin small letter stirrup R	all	never	# ꭅ 0xab45
+ꭆ	latin letter small capital R with right leg	all	never	# ꭆ 0xab46
+ꭇ	latin small letter R without handle	all	never	# ꭇ 0xab47
+ꭈ	latin small letter double R	all	never	# ꭈ 0xab48
+ꭉ	latin small letter R with crossed-tail	all	never	# ꭉ 0xab49
+ꭊ	latin small letter double R with crossed-tail	all	never	# ꭊ 0xab4a
+ꭋ	latin small letter script R	all	never	# ꭋ 0xab4b
+ꭌ	latin small letter script R with ring	all	never	# ꭌ 0xab4c
+ꭍ	latin small letter baseline esh	all	never	# ꭍ 0xab4d
+ꭎ	latin small letter U with short right leg	all	never	# ꭎ 0xab4e
+ꭏ	latin small letter U bar with short right leg	all	never	# ꭏ 0xab4f
+ꭐ	latin small letter ui	all	never	# ꭐ 0xab50
+ꭑ	latin small letter turned ui	all	never	# ꭑ 0xab51
+ꭒ	latin small letter U with left hook	all	never	# ꭒ 0xab52
+ꭓ	latin small letter chi	all	never	# ꭓ 0xab53
+ꭔ	latin small letter chi with low right ring	all	never	# ꭔ 0xab54
+ꭕ	latin small letter chi with low left serif	all	never	# ꭕ 0xab55
+ꭖ	latin small letter X with low right ring	all	never	# ꭖ 0xab56
+ꭗ	latin small letter X with long left leg	all	never	# ꭗ 0xab57
+ꭘ	latin small letter X with long left leg and low right ring	all	never	# ꭘ 0xab58
+ꭙ	latin small letter X with long left leg with serif	all	never	# ꭙ 0xab59
+ꭚ	latin small letter Y with short right leg	all	never	# ꭚ 0xab5a
+꭛	modifier breve with inverted breve	all	never	# ꭛ 0xab5b
+ꭜ	modifier letter small heng	all	never	# ꭜ 0xab5c
+ꭝ	modifier letter small L with inverted lazy S	all	never	# ꭝ 0xab5d
+ꭞ	modifier letter small L with middle tilde	all	never	# ꭞ 0xab5e
+ꭟ	modifier letter small U with left hook	all	never	# ꭟ 0xab5f
+ꭠ	latin small letter sakha yat	all	never	# ꭠ 0xab60
+ꭡ	latin small letter iotified E	all	never	# ꭡ 0xab61
+ꭢ	latin small letter open oe	all	never	# ꭢ 0xab62
+ꭣ	latin small letter uo	all	never	# ꭣ 0xab63
+ꭤ	latin small letter inverted alpha	all	never	# ꭤ 0xab64
+ꭥ	greek letter small capital omega	all	never	# ꭥ 0xab65

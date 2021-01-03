@@ -1,0 +1,81 @@
+# # Deseret
+𐐀	deseret capital letter long I	all	never	# 𐐀 0x10400
+𐐁	deseret capital letter long E	all	never	# 𐐁 0x10401
+𐐂	deseret capital letter long A	all	never	# 𐐂 0x10402
+𐐃	deseret capital letter long ah	all	never	# 𐐃 0x10403
+𐐄	deseret capital letter long O	all	never	# 𐐄 0x10404
+𐐅	deseret capital letter long oo	all	never	# 𐐅 0x10405
+𐐆	deseret capital letter short I	all	never	# 𐐆 0x10406
+𐐇	deseret capital letter short E	all	never	# 𐐇 0x10407
+𐐈	deseret capital letter short A	all	never	# 𐐈 0x10408
+𐐉	deseret capital letter short ah	all	never	# 𐐉 0x10409
+𐐊	deseret capital letter short O	all	never	# 𐐊 0x1040a
+𐐋	deseret capital letter short oo	all	never	# 𐐋 0x1040b
+𐐌	deseret capital letter ay	all	never	# 𐐌 0x1040c
+𐐍	deseret capital letter ow	all	never	# 𐐍 0x1040d
+𐐎	deseret capital letter wu	all	never	# 𐐎 0x1040e
+𐐏	deseret capital letter yee	all	never	# 𐐏 0x1040f
+𐐐	deseret capital letter H	all	never	# 𐐐 0x10410
+𐐑	deseret capital letter pee	all	never	# 𐐑 0x10411
+𐐒	deseret capital letter bee	all	never	# 𐐒 0x10412
+𐐓	deseret capital letter tee	all	never	# 𐐓 0x10413
+𐐔	deseret capital letter dee	all	never	# 𐐔 0x10414
+𐐕	deseret capital letter chee	all	never	# 𐐕 0x10415
+𐐖	deseret capital letter jee	all	never	# 𐐖 0x10416
+𐐗	deseret capital letter kay	all	never	# 𐐗 0x10417
+𐐘	deseret capital letter gay	all	never	# 𐐘 0x10418
+𐐙	deseret capital letter ef	all	never	# 𐐙 0x10419
+𐐚	deseret capital letter vee	all	never	# 𐐚 0x1041a
+𐐛	deseret capital letter eth	all	never	# 𐐛 0x1041b
+𐐜	deseret capital letter thee	all	never	# 𐐜 0x1041c
+𐐝	deseret capital letter es	all	never	# 𐐝 0x1041d
+𐐞	deseret capital letter zee	all	never	# 𐐞 0x1041e
+𐐟	deseret capital letter esh	all	never	# 𐐟 0x1041f
+𐐠	deseret capital letter zhee	all	never	# 𐐠 0x10420
+𐐡	deseret capital letter er	all	never	# 𐐡 0x10421
+𐐢	deseret capital letter el	all	never	# 𐐢 0x10422
+𐐣	deseret capital letter em	all	never	# 𐐣 0x10423
+𐐤	deseret capital letter en	all	never	# 𐐤 0x10424
+𐐥	deseret capital letter eng	all	never	# 𐐥 0x10425
+𐐦	deseret capital letter oi	all	never	# 𐐦 0x10426
+𐐧	deseret capital letter ew	all	never	# 𐐧 0x10427
+𐐨	deseret small letter long I	all	never	# 𐐨 0x10428
+𐐩	deseret small letter long E	all	never	# 𐐩 0x10429
+𐐪	deseret small letter long A	all	never	# 𐐪 0x1042a
+𐐫	deseret small letter long ah	all	never	# 𐐫 0x1042b
+𐐬	deseret small letter long O	all	never	# 𐐬 0x1042c
+𐐭	deseret small letter long oo	all	never	# 𐐭 0x1042d
+𐐮	deseret small letter short I	all	never	# 𐐮 0x1042e
+𐐯	deseret small letter short E	all	never	# 𐐯 0x1042f
+𐐰	deseret small letter short A	all	never	# 𐐰 0x10430
+𐐱	deseret small letter short ah	all	never	# 𐐱 0x10431
+𐐲	deseret small letter short O	all	never	# 𐐲 0x10432
+𐐳	deseret small letter short oo	all	never	# 𐐳 0x10433
+𐐴	deseret small letter ay	all	never	# 𐐴 0x10434
+𐐵	deseret small letter ow	all	never	# 𐐵 0x10435
+𐐶	deseret small letter wu	all	never	# 𐐶 0x10436
+𐐷	deseret small letter yee	all	never	# 𐐷 0x10437
+𐐸	deseret small letter H	all	never	# 𐐸 0x10438
+𐐹	deseret small letter pee	all	never	# 𐐹 0x10439
+𐐺	deseret small letter bee	all	never	# 𐐺 0x1043a
+𐐻	deseret small letter tee	all	never	# 𐐻 0x1043b
+𐐼	deseret small letter dee	all	never	# 𐐼 0x1043c
+𐐽	deseret small letter chee	all	never	# 𐐽 0x1043d
+𐐾	deseret small letter jee	all	never	# 𐐾 0x1043e
+𐐿	deseret small letter kay	all	never	# 𐐿 0x1043f
+𐑀	deseret small letter gay	all	never	# 𐑀 0x10440
+𐑁	deseret small letter ef	all	never	# 𐑁 0x10441
+𐑂	deseret small letter vee	all	never	# 𐑂 0x10442
+𐑃	deseret small letter eth	all	never	# 𐑃 0x10443
+𐑄	deseret small letter thee	all	never	# 𐑄 0x10444
+𐑅	deseret small letter es	all	never	# 𐑅 0x10445
+𐑆	deseret small letter zee	all	never	# 𐑆 0x10446
+𐑇	deseret small letter esh	all	never	# 𐑇 0x10447
+𐑈	deseret small letter zhee	all	never	# 𐑈 0x10448
+𐑉	deseret small letter er	all	never	# 𐑉 0x10449
+𐑊	deseret small letter el	all	never	# 𐑊 0x1044a
+𐑋	deseret small letter em	all	never	# 𐑋 0x1044b
+𐑌	deseret small letter en	all	never	# 𐑌 0x1044c
+𐑍	deseret small letter eng	all	never	# 𐑍 0x1044d
+𐑎	deseret small letter oi	all	never	# 𐑎 0x1044e
+𐑏	deseret small letter ew	all	never	# 𐑏 0x1044f

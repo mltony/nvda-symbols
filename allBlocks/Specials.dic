@@ -1,0 +1,6 @@
+# # Specials
+￹	interlinear annotation anchor	all	never	# ￹ 0xfff9
+￺	interlinear annotation separator	all	never	# ￺ 0xfffa
+￻	interlinear annotation terminator	all	never	# ￻ 0xfffb
+￼	object replacement character	all	never	# ￼ 0xfffc
+�	replacement character	all	never	# � 0xfffd

@@ -1,0 +1,212 @@
+# # Tibetan
+ༀ	tibetan syllable om	all	never	# ༀ 0xf00
+༁	tibetan mark gter yig mgo truncated A	all	never	# ༁ 0xf01
+༂	tibetan mark gter yig mgo -um rnam bcad ma	all	never	# ༂ 0xf02
+༃	tibetan mark gter yig mgo -um gter tsheg ma	all	never	# ༃ 0xf03
+༄	tibetan mark initial yig mgo mdun ma	all	never	# ༄ 0xf04
+༅	tibetan mark closing yig mgo sgab ma	all	never	# ༅ 0xf05
+༆	tibetan mark caret yig mgo phur shad ma	all	never	# ༆ 0xf06
+༇	tibetan mark yig mgo tsheg shad ma	all	never	# ༇ 0xf07
+༈	tibetan mark sbrul shad	all	never	# ༈ 0xf08
+༉	tibetan mark bskur yig mgo	all	never	# ༉ 0xf09
+༊	tibetan mark bka- shog yig mgo	all	never	# ༊ 0xf0a
+་	tibetan mark intersyllabic tsheg	all	never	# ་ 0xf0b
+༌	tibetan mark delimiter tsheg bstar	all	never	# ༌ 0xf0c
+།	tibetan mark shad	all	never	# ། 0xf0d
+༎	tibetan mark nyis shad	all	never	# ༎ 0xf0e
+༏	tibetan mark tsheg shad	all	never	# ༏ 0xf0f
+༐	tibetan mark nyis tsheg shad	all	never	# ༐ 0xf10
+༑	tibetan mark rin chen spungs shad	all	never	# ༑ 0xf11
+༒	tibetan mark rgya gram shad	all	never	# ༒ 0xf12
+༓	tibetan mark caret -dzud rtags me long can	all	never	# ༓ 0xf13
+༔	tibetan mark gter tsheg	all	never	# ༔ 0xf14
+༕	tibetan logotype sign chad rtags	all	never	# ༕ 0xf15
+༖	tibetan logotype sign lhag rtags	all	never	# ༖ 0xf16
+༗	tibetan astrological sign sgra gcan -char rtags	all	never	# ༗ 0xf17
+༘	tibetan astrological sign -khyud pa	all	never	# ༘ 0xf18
+༙	tibetan astrological sign sdong tshugs	all	never	# ༙ 0xf19
+༚	tibetan sign rdel dkar gcig	all	never	# ༚ 0xf1a
+༛	tibetan sign rdel dkar gnyis	all	never	# ༛ 0xf1b
+༜	tibetan sign rdel dkar gsum	all	never	# ༜ 0xf1c
+༝	tibetan sign rdel nag gcig	all	never	# ༝ 0xf1d
+༞	tibetan sign rdel nag gnyis	all	never	# ༞ 0xf1e
+༟	tibetan sign rdel dkar rdel nag	all	never	# ༟ 0xf1f
+༠	tibetan digit zero	all	never	# ༠ 0xf20
+༡	tibetan digit one	all	never	# ༡ 0xf21
+༢	tibetan digit two	all	never	# ༢ 0xf22
+༣	tibetan digit three	all	never	# ༣ 0xf23
+༤	tibetan digit four	all	never	# ༤ 0xf24
+༥	tibetan digit five	all	never	# ༥ 0xf25
+༦	tibetan digit six	all	never	# ༦ 0xf26
+༧	tibetan digit seven	all	never	# ༧ 0xf27
+༨	tibetan digit eight	all	never	# ༨ 0xf28
+༩	tibetan digit nine	all	never	# ༩ 0xf29
+༪	tibetan digit half one	all	never	# ༪ 0xf2a
+༫	tibetan digit half two	all	never	# ༫ 0xf2b
+༬	tibetan digit half three	all	never	# ༬ 0xf2c
+༭	tibetan digit half four	all	never	# ༭ 0xf2d
+༮	tibetan digit half five	all	never	# ༮ 0xf2e
+༯	tibetan digit half six	all	never	# ༯ 0xf2f
+༰	tibetan digit half seven	all	never	# ༰ 0xf30
+༱	tibetan digit half eight	all	never	# ༱ 0xf31
+༲	tibetan digit half nine	all	never	# ༲ 0xf32
+༳	tibetan digit half zero	all	never	# ༳ 0xf33
+༴	tibetan mark bsdus rtags	all	never	# ༴ 0xf34
+༵	tibetan mark ngas bzung nyi zla	all	never	# ༵ 0xf35
+༶	tibetan mark caret -dzud rtags bzhi mig can	all	never	# ༶ 0xf36
+༷	tibetan mark ngas bzung sgor rtags	all	never	# ༷ 0xf37
+༸	tibetan mark che mgo	all	never	# ༸ 0xf38
+༹	tibetan mark tsa -phru	all	never	# ༹ 0xf39
+༺	tibetan mark gug rtags gyon	all	never	# ༺ 0xf3a
+༻	tibetan mark gug rtags gyas	all	never	# ༻ 0xf3b
+༼	tibetan mark ang khang gyon	all	never	# ༼ 0xf3c
+༽	tibetan mark ang khang gyas	all	never	# ༽ 0xf3d
+༾	tibetan sign yar tshes	all	never	# ༾ 0xf3e
+༿	tibetan sign mar tshes	all	never	# ༿ 0xf3f
+ཀ	tibetan letter ka	all	never	# ཀ 0xf40
+ཁ	tibetan letter kha	all	never	# ཁ 0xf41
+ག	tibetan letter ga	all	never	# ག 0xf42
+གྷ	tibetan letter gha	all	never	# གྷ 0xf43
+ང	tibetan letter nga	all	never	# ང 0xf44
+ཅ	tibetan letter ca	all	never	# ཅ 0xf45
+ཆ	tibetan letter cha	all	never	# ཆ 0xf46
+ཇ	tibetan letter ja	all	never	# ཇ 0xf47
+ཉ	tibetan letter nya	all	never	# ཉ 0xf49
+ཊ	tibetan letter tta	all	never	# ཊ 0xf4a
+ཋ	tibetan letter ttha	all	never	# ཋ 0xf4b
+ཌ	tibetan letter dda	all	never	# ཌ 0xf4c
+ཌྷ	tibetan letter ddha	all	never	# ཌྷ 0xf4d
+ཎ	tibetan letter nna	all	never	# ཎ 0xf4e
+ཏ	tibetan letter ta	all	never	# ཏ 0xf4f
+ཐ	tibetan letter tha	all	never	# ཐ 0xf50
+ད	tibetan letter da	all	never	# ད 0xf51
+དྷ	tibetan letter dha	all	never	# དྷ 0xf52
+ན	tibetan letter na	all	never	# ན 0xf53
+པ	tibetan letter pa	all	never	# པ 0xf54
+ཕ	tibetan letter pha	all	never	# ཕ 0xf55
+བ	tibetan letter ba	all	never	# བ 0xf56
+བྷ	tibetan letter bha	all	never	# བྷ 0xf57
+མ	tibetan letter ma	all	never	# མ 0xf58
+ཙ	tibetan letter tsa	all	never	# ཙ 0xf59
+ཚ	tibetan letter tsha	all	never	# ཚ 0xf5a
+ཛ	tibetan letter dza	all	never	# ཛ 0xf5b
+ཛྷ	tibetan letter dzha	all	never	# ཛྷ 0xf5c
+ཝ	tibetan letter wa	all	never	# ཝ 0xf5d
+ཞ	tibetan letter zha	all	never	# ཞ 0xf5e
+ཟ	tibetan letter za	all	never	# ཟ 0xf5f
+འ	tibetan letter -A	all	never	# འ 0xf60
+ཡ	tibetan letter ya	all	never	# ཡ 0xf61
+ར	tibetan letter ra	all	never	# ར 0xf62
+ལ	tibetan letter la	all	never	# ལ 0xf63
+ཤ	tibetan letter sha	all	never	# ཤ 0xf64
+ཥ	tibetan letter ssa	all	never	# ཥ 0xf65
+ས	tibetan letter sa	all	never	# ས 0xf66
+ཧ	tibetan letter ha	all	never	# ཧ 0xf67
+ཨ	tibetan letter A	all	never	# ཨ 0xf68
+ཀྵ	tibetan letter kssa	all	never	# ཀྵ 0xf69
+ཪ	tibetan letter fixed-form ra	all	never	# ཪ 0xf6a
+ཫ	tibetan letter kka	all	never	# ཫ 0xf6b
+ཬ	tibetan letter rra	all	never	# ཬ 0xf6c
+ཱ	tibetan vowel sign aa	all	never	# ཱ 0xf71
+ི	tibetan vowel sign I	all	never	# ི 0xf72
+ཱི	tibetan vowel sign ii	all	never	# ཱི 0xf73
+ུ	tibetan vowel sign U	all	never	# ུ 0xf74
+ཱུ	tibetan vowel sign uu	all	never	# ཱུ 0xf75
+ྲྀ	tibetan vowel sign vocalic R	all	never	# ྲྀ 0xf76
+ཷ	tibetan vowel sign vocalic rr	all	never	# ཷ 0xf77
+ླྀ	tibetan vowel sign vocalic L	all	never	# ླྀ 0xf78
+ཹ	tibetan vowel sign vocalic ll	all	never	# ཹ 0xf79
+ེ	tibetan vowel sign E	all	never	# ེ 0xf7a
+ཻ	tibetan vowel sign ee	all	never	# ཻ 0xf7b
+ོ	tibetan vowel sign O	all	never	# ོ 0xf7c
+ཽ	tibetan vowel sign oo	all	never	# ཽ 0xf7d
+ཾ	tibetan sign rjes su nga ro	all	never	# ཾ 0xf7e
+ཿ	tibetan sign rnam bcad	all	never	# ཿ 0xf7f
+ྀ	tibetan vowel sign reversed I	all	never	# ྀ 0xf80
+ཱྀ	tibetan vowel sign reversed ii	all	never	# ཱྀ 0xf81
+ྂ	tibetan sign nyi zla naa da	all	never	# ྂ 0xf82
+ྃ	tibetan sign sna ldan	all	never	# ྃ 0xf83
+྄	tibetan mark halanta	all	never	# ྄ 0xf84
+྅	tibetan mark paluta	all	never	# ྅ 0xf85
+྆	tibetan sign lci rtags	all	never	# ྆ 0xf86
+྇	tibetan sign yang rtags	all	never	# ྇ 0xf87
+ྈ	tibetan sign lce tsa can	all	never	# ྈ 0xf88
+ྉ	tibetan sign mchu can	all	never	# ྉ 0xf89
+ྊ	tibetan sign gru can rgyings	all	never	# ྊ 0xf8a
+ྋ	tibetan sign gru med rgyings	all	never	# ྋ 0xf8b
+ྌ	tibetan sign inverted mchu can	all	never	# ྌ 0xf8c
+ྍ	tibetan subjoined sign lce tsa can	all	never	# ྍ 0xf8d
+ྎ	tibetan subjoined sign mchu can	all	never	# ྎ 0xf8e
+ྏ	tibetan subjoined sign inverted mchu can	all	never	# ྏ 0xf8f
+ྐ	tibetan subjoined letter ka	all	never	# ྐ 0xf90
+ྑ	tibetan subjoined letter kha	all	never	# ྑ 0xf91
+ྒ	tibetan subjoined letter ga	all	never	# ྒ 0xf92
+ྒྷ	tibetan subjoined letter gha	all	never	# ྒྷ 0xf93
+ྔ	tibetan subjoined letter nga	all	never	# ྔ 0xf94
+ྕ	tibetan subjoined letter ca	all	never	# ྕ 0xf95
+ྖ	tibetan subjoined letter cha	all	never	# ྖ 0xf96
+ྗ	tibetan subjoined letter ja	all	never	# ྗ 0xf97
+ྙ	tibetan subjoined letter nya	all	never	# ྙ 0xf99
+ྚ	tibetan subjoined letter tta	all	never	# ྚ 0xf9a
+ྛ	tibetan subjoined letter ttha	all	never	# ྛ 0xf9b
+ྜ	tibetan subjoined letter dda	all	never	# ྜ 0xf9c
+ྜྷ	tibetan subjoined letter ddha	all	never	# ྜྷ 0xf9d
+ྞ	tibetan subjoined letter nna	all	never	# ྞ 0xf9e
+ྟ	tibetan subjoined letter ta	all	never	# ྟ 0xf9f
+ྠ	tibetan subjoined letter tha	all	never	# ྠ 0xfa0
+ྡ	tibetan subjoined letter da	all	never	# ྡ 0xfa1
+ྡྷ	tibetan subjoined letter dha	all	never	# ྡྷ 0xfa2
+ྣ	tibetan subjoined letter na	all	never	# ྣ 0xfa3
+ྤ	tibetan subjoined letter pa	all	never	# ྤ 0xfa4
+ྥ	tibetan subjoined letter pha	all	never	# ྥ 0xfa5
+ྦ	tibetan subjoined letter ba	all	never	# ྦ 0xfa6
+ྦྷ	tibetan subjoined letter bha	all	never	# ྦྷ 0xfa7
+ྨ	tibetan subjoined letter ma	all	never	# ྨ 0xfa8
+ྩ	tibetan subjoined letter tsa	all	never	# ྩ 0xfa9
+ྪ	tibetan subjoined letter tsha	all	never	# ྪ 0xfaa
+ྫ	tibetan subjoined letter dza	all	never	# ྫ 0xfab
+ྫྷ	tibetan subjoined letter dzha	all	never	# ྫྷ 0xfac
+ྭ	tibetan subjoined letter wa	all	never	# ྭ 0xfad
+ྮ	tibetan subjoined letter zha	all	never	# ྮ 0xfae
+ྯ	tibetan subjoined letter za	all	never	# ྯ 0xfaf
+ྰ	tibetan subjoined letter -A	all	never	# ྰ 0xfb0
+ྱ	tibetan subjoined letter ya	all	never	# ྱ 0xfb1
+ྲ	tibetan subjoined letter ra	all	never	# ྲ 0xfb2
+ླ	tibetan subjoined letter la	all	never	# ླ 0xfb3
+ྴ	tibetan subjoined letter sha	all	never	# ྴ 0xfb4
+ྵ	tibetan subjoined letter ssa	all	never	# ྵ 0xfb5
+ྶ	tibetan subjoined letter sa	all	never	# ྶ 0xfb6
+ྷ	tibetan subjoined letter ha	all	never	# ྷ 0xfb7
+ྸ	tibetan subjoined letter A	all	never	# ྸ 0xfb8
+ྐྵ	tibetan subjoined letter kssa	all	never	# ྐྵ 0xfb9
+ྺ	tibetan subjoined letter fixed-form wa	all	never	# ྺ 0xfba
+ྻ	tibetan subjoined letter fixed-form ya	all	never	# ྻ 0xfbb
+ྼ	tibetan subjoined letter fixed-form ra	all	never	# ྼ 0xfbc
+྾	tibetan ku ru kha	all	never	# ྾ 0xfbe
+྿	tibetan ku ru kha bzhi mig can	all	never	# ྿ 0xfbf
+࿀	tibetan cantillation sign heavy beat	all	never	# ࿀ 0xfc0
+࿁	tibetan cantillation sign light beat	all	never	# ࿁ 0xfc1
+࿂	tibetan cantillation sign cang te-U	all	never	# ࿂ 0xfc2
+࿃	tibetan cantillation sign sbub -chal	all	never	# ࿃ 0xfc3
+࿄	tibetan symbol dril bu	all	never	# ࿄ 0xfc4
+࿅	tibetan symbol rdo rje	all	never	# ࿅ 0xfc5
+࿆	tibetan symbol padma gdan	all	never	# ࿆ 0xfc6
+࿇	tibetan symbol rdo rje rgya gram	all	never	# ࿇ 0xfc7
+࿈	tibetan symbol phur pa	all	never	# ࿈ 0xfc8
+࿉	tibetan symbol nor bu	all	never	# ࿉ 0xfc9
+࿊	tibetan symbol nor bu nyis -khyil	all	never	# ࿊ 0xfca
+࿋	tibetan symbol nor bu gsum -khyil	all	never	# ࿋ 0xfcb
+࿌	tibetan symbol nor bu bzhi -khyil	all	never	# ࿌ 0xfcc
+࿎	tibetan sign rdel nag rdel dkar	all	never	# ࿎ 0xfce
+࿏	tibetan sign rdel nag gsum	all	never	# ࿏ 0xfcf
+࿐	tibetan mark bska- shog gi mgo rgyan	all	never	# ࿐ 0xfd0
+࿑	tibetan mark mnyam yig gi mgo rgyan	all	never	# ࿑ 0xfd1
+࿒	tibetan mark nyis tsheg	all	never	# ࿒ 0xfd2
+࿓	tibetan mark initial brda rnying yig mgo mdun ma	all	never	# ࿓ 0xfd3
+࿔	tibetan mark closing brda rnying yig mgo sgab ma	all	never	# ࿔ 0xfd4
+࿕	right-facing svasti sign	all	never	# ࿕ 0xfd5
+࿖	left-facing svasti sign	all	never	# ࿖ 0xfd6
+࿗	right-facing svasti sign with dots	all	never	# ࿗ 0xfd7
+࿘	left-facing svasti sign with dots	all	never	# ࿘ 0xfd8
+࿙	tibetan mark leading mchan rtags	all	never	# ࿙ 0xfd9
+࿚	tibetan mark trailing mchan rtags	all	never	# ࿚ 0xfda

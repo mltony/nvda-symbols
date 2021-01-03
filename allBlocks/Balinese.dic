@@ -1,0 +1,122 @@
+# # Balinese
+ᬀ	balinese sign ulu ricem	all	never	# ᬀ 0x1b00
+ᬁ	balinese sign ulu candra	all	never	# ᬁ 0x1b01
+ᬂ	balinese sign cecek	all	never	# ᬂ 0x1b02
+ᬃ	balinese sign surang	all	never	# ᬃ 0x1b03
+ᬄ	balinese sign bisah	all	never	# ᬄ 0x1b04
+ᬅ	balinese letter akara	all	never	# ᬅ 0x1b05
+ᬆ	balinese letter akara tedung	all	never	# ᬆ 0x1b06
+ᬇ	balinese letter ikara	all	never	# ᬇ 0x1b07
+ᬈ	balinese letter ikara tedung	all	never	# ᬈ 0x1b08
+ᬉ	balinese letter ukara	all	never	# ᬉ 0x1b09
+ᬊ	balinese letter ukara tedung	all	never	# ᬊ 0x1b0a
+ᬋ	balinese letter ra repa	all	never	# ᬋ 0x1b0b
+ᬌ	balinese letter ra repa tedung	all	never	# ᬌ 0x1b0c
+ᬍ	balinese letter la lenga	all	never	# ᬍ 0x1b0d
+ᬎ	balinese letter la lenga tedung	all	never	# ᬎ 0x1b0e
+ᬏ	balinese letter ekara	all	never	# ᬏ 0x1b0f
+ᬐ	balinese letter aikara	all	never	# ᬐ 0x1b10
+ᬑ	balinese letter okara	all	never	# ᬑ 0x1b11
+ᬒ	balinese letter okara tedung	all	never	# ᬒ 0x1b12
+ᬓ	balinese letter ka	all	never	# ᬓ 0x1b13
+ᬔ	balinese letter ka mahaprana	all	never	# ᬔ 0x1b14
+ᬕ	balinese letter ga	all	never	# ᬕ 0x1b15
+ᬖ	balinese letter ga gora	all	never	# ᬖ 0x1b16
+ᬗ	balinese letter nga	all	never	# ᬗ 0x1b17
+ᬘ	balinese letter ca	all	never	# ᬘ 0x1b18
+ᬙ	balinese letter ca laca	all	never	# ᬙ 0x1b19
+ᬚ	balinese letter ja	all	never	# ᬚ 0x1b1a
+ᬛ	balinese letter ja jera	all	never	# ᬛ 0x1b1b
+ᬜ	balinese letter nya	all	never	# ᬜ 0x1b1c
+ᬝ	balinese letter ta latik	all	never	# ᬝ 0x1b1d
+ᬞ	balinese letter ta murda mahaprana	all	never	# ᬞ 0x1b1e
+ᬟ	balinese letter da murda alpaprana	all	never	# ᬟ 0x1b1f
+ᬠ	balinese letter da murda mahaprana	all	never	# ᬠ 0x1b20
+ᬡ	balinese letter na rambat	all	never	# ᬡ 0x1b21
+ᬢ	balinese letter ta	all	never	# ᬢ 0x1b22
+ᬣ	balinese letter ta tawa	all	never	# ᬣ 0x1b23
+ᬤ	balinese letter da	all	never	# ᬤ 0x1b24
+ᬥ	balinese letter da madu	all	never	# ᬥ 0x1b25
+ᬦ	balinese letter na	all	never	# ᬦ 0x1b26
+ᬧ	balinese letter pa	all	never	# ᬧ 0x1b27
+ᬨ	balinese letter pa kapal	all	never	# ᬨ 0x1b28
+ᬩ	balinese letter ba	all	never	# ᬩ 0x1b29
+ᬪ	balinese letter ba kembang	all	never	# ᬪ 0x1b2a
+ᬫ	balinese letter ma	all	never	# ᬫ 0x1b2b
+ᬬ	balinese letter ya	all	never	# ᬬ 0x1b2c
+ᬭ	balinese letter ra	all	never	# ᬭ 0x1b2d
+ᬮ	balinese letter la	all	never	# ᬮ 0x1b2e
+ᬯ	balinese letter wa	all	never	# ᬯ 0x1b2f
+ᬰ	balinese letter sa saga	all	never	# ᬰ 0x1b30
+ᬱ	balinese letter sa sapa	all	never	# ᬱ 0x1b31
+ᬲ	balinese letter sa	all	never	# ᬲ 0x1b32
+ᬳ	balinese letter ha	all	never	# ᬳ 0x1b33
+᬴	balinese sign rerekan	all	never	# ᬴ 0x1b34
+ᬵ	balinese vowel sign tedung	all	never	# ᬵ 0x1b35
+ᬶ	balinese vowel sign ulu	all	never	# ᬶ 0x1b36
+ᬷ	balinese vowel sign ulu sari	all	never	# ᬷ 0x1b37
+ᬸ	balinese vowel sign suku	all	never	# ᬸ 0x1b38
+ᬹ	balinese vowel sign suku ilut	all	never	# ᬹ 0x1b39
+ᬺ	balinese vowel sign ra repa	all	never	# ᬺ 0x1b3a
+ᬻ	balinese vowel sign ra repa tedung	all	never	# ᬻ 0x1b3b
+ᬼ	balinese vowel sign la lenga	all	never	# ᬼ 0x1b3c
+ᬽ	balinese vowel sign la lenga tedung	all	never	# ᬽ 0x1b3d
+ᬾ	balinese vowel sign taling	all	never	# ᬾ 0x1b3e
+ᬿ	balinese vowel sign taling repa	all	never	# ᬿ 0x1b3f
+ᭀ	balinese vowel sign taling tedung	all	never	# ᭀ 0x1b40
+ᭁ	balinese vowel sign taling repa tedung	all	never	# ᭁ 0x1b41
+ᭂ	balinese vowel sign pepet	all	never	# ᭂ 0x1b42
+ᭃ	balinese vowel sign pepet tedung	all	never	# ᭃ 0x1b43
+᭄	balinese adeg adeg	all	never	# ᭄ 0x1b44
+ᭅ	balinese letter kaf sasak	all	never	# ᭅ 0x1b45
+ᭆ	balinese letter khot sasak	all	never	# ᭆ 0x1b46
+ᭇ	balinese letter tzir sasak	all	never	# ᭇ 0x1b47
+ᭈ	balinese letter ef sasak	all	never	# ᭈ 0x1b48
+ᭉ	balinese letter ve sasak	all	never	# ᭉ 0x1b49
+ᭊ	balinese letter zal sasak	all	never	# ᭊ 0x1b4a
+ᭋ	balinese letter asyura sasak	all	never	# ᭋ 0x1b4b
+᭐	balinese digit zero	all	never	# ᭐ 0x1b50
+᭑	balinese digit one	all	never	# ᭑ 0x1b51
+᭒	balinese digit two	all	never	# ᭒ 0x1b52
+᭓	balinese digit three	all	never	# ᭓ 0x1b53
+᭔	balinese digit four	all	never	# ᭔ 0x1b54
+᭕	balinese digit five	all	never	# ᭕ 0x1b55
+᭖	balinese digit six	all	never	# ᭖ 0x1b56
+᭗	balinese digit seven	all	never	# ᭗ 0x1b57
+᭘	balinese digit eight	all	never	# ᭘ 0x1b58
+᭙	balinese digit nine	all	never	# ᭙ 0x1b59
+᭚	balinese panti	all	never	# ᭚ 0x1b5a
+᭛	balinese pamada	all	never	# ᭛ 0x1b5b
+᭜	balinese windu	all	never	# ᭜ 0x1b5c
+᭝	balinese carik pamungkah	all	never	# ᭝ 0x1b5d
+᭞	balinese carik siki	all	never	# ᭞ 0x1b5e
+᭟	balinese carik pareren	all	never	# ᭟ 0x1b5f
+᭠	balinese pameneng	all	never	# ᭠ 0x1b60
+᭡	balinese musical symbol dong	all	never	# ᭡ 0x1b61
+᭢	balinese musical symbol deng	all	never	# ᭢ 0x1b62
+᭣	balinese musical symbol dung	all	never	# ᭣ 0x1b63
+᭤	balinese musical symbol dang	all	never	# ᭤ 0x1b64
+᭥	balinese musical symbol dang surang	all	never	# ᭥ 0x1b65
+᭦	balinese musical symbol ding	all	never	# ᭦ 0x1b66
+᭧	balinese musical symbol daeng	all	never	# ᭧ 0x1b67
+᭨	balinese musical symbol deung	all	never	# ᭨ 0x1b68
+᭩	balinese musical symbol daing	all	never	# ᭩ 0x1b69
+᭪	balinese musical symbol dang gede	all	never	# ᭪ 0x1b6a
+᭫	balinese musical symbol combining tegeh	all	never	# ᭫ 0x1b6b
+᭬	balinese musical symbol combining endep	all	never	# ᭬ 0x1b6c
+᭭	balinese musical symbol combining kempul	all	never	# ᭭ 0x1b6d
+᭮	balinese musical symbol combining kempli	all	never	# ᭮ 0x1b6e
+᭯	balinese musical symbol combining jegogan	all	never	# ᭯ 0x1b6f
+᭰	balinese musical symbol combining kempul with jegogan	all	never	# ᭰ 0x1b70
+᭱	balinese musical symbol combining kempli with jegogan	all	never	# ᭱ 0x1b71
+᭲	balinese musical symbol combining bende	all	never	# ᭲ 0x1b72
+᭳	balinese musical symbol combining gong	all	never	# ᭳ 0x1b73
+᭴	balinese musical symbol right-hand open dug	all	never	# ᭴ 0x1b74
+᭵	balinese musical symbol right-hand open dag	all	never	# ᭵ 0x1b75
+᭶	balinese musical symbol right-hand closed tuk	all	never	# ᭶ 0x1b76
+᭷	balinese musical symbol right-hand closed tak	all	never	# ᭷ 0x1b77
+᭸	balinese musical symbol left-hand open pang	all	never	# ᭸ 0x1b78
+᭹	balinese musical symbol left-hand open pung	all	never	# ᭹ 0x1b79
+᭺	balinese musical symbol left-hand closed plak	all	never	# ᭺ 0x1b7a
+᭻	balinese musical symbol left-hand closed pluk	all	never	# ᭻ 0x1b7b
+᭼	balinese musical symbol left-hand open ping	all	never	# ᭼ 0x1b7c

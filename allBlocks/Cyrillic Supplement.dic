@@ -1,0 +1,49 @@
+# # Cyrillic Supplement
+Ԁ	cyrillic capital letter komi de	all	never	# Ԁ 0x500
+ԁ	cyrillic small letter komi de	all	never	# ԁ 0x501
+Ԃ	cyrillic capital letter komi dje	all	never	# Ԃ 0x502
+ԃ	cyrillic small letter komi dje	all	never	# ԃ 0x503
+Ԅ	cyrillic capital letter komi zje	all	never	# Ԅ 0x504
+ԅ	cyrillic small letter komi zje	all	never	# ԅ 0x505
+Ԇ	cyrillic capital letter komi dzje	all	never	# Ԇ 0x506
+ԇ	cyrillic small letter komi dzje	all	never	# ԇ 0x507
+Ԉ	cyrillic capital letter komi lje	all	never	# Ԉ 0x508
+ԉ	cyrillic small letter komi lje	all	never	# ԉ 0x509
+Ԋ	cyrillic capital letter komi nje	all	never	# Ԋ 0x50a
+ԋ	cyrillic small letter komi nje	all	never	# ԋ 0x50b
+Ԍ	cyrillic capital letter komi sje	all	never	# Ԍ 0x50c
+ԍ	cyrillic small letter komi sje	all	never	# ԍ 0x50d
+Ԏ	cyrillic capital letter komi tje	all	never	# Ԏ 0x50e
+ԏ	cyrillic small letter komi tje	all	never	# ԏ 0x50f
+Ԑ	cyrillic capital letter reversed ze	all	never	# Ԑ 0x510
+ԑ	cyrillic small letter reversed ze	all	never	# ԑ 0x511
+Ԓ	cyrillic capital letter el with hook	all	never	# Ԓ 0x512
+ԓ	cyrillic small letter el with hook	all	never	# ԓ 0x513
+Ԕ	cyrillic capital letter lha	all	never	# Ԕ 0x514
+ԕ	cyrillic small letter lha	all	never	# ԕ 0x515
+Ԗ	cyrillic capital letter rha	all	never	# Ԗ 0x516
+ԗ	cyrillic small letter rha	all	never	# ԗ 0x517
+Ԙ	cyrillic capital letter yae	all	never	# Ԙ 0x518
+ԙ	cyrillic small letter yae	all	never	# ԙ 0x519
+Ԛ	cyrillic capital letter qa	all	never	# Ԛ 0x51a
+ԛ	cyrillic small letter qa	all	never	# ԛ 0x51b
+Ԝ	cyrillic capital letter we	all	never	# Ԝ 0x51c
+ԝ	cyrillic small letter we	all	never	# ԝ 0x51d
+Ԟ	cyrillic capital letter aleut ka	all	never	# Ԟ 0x51e
+ԟ	cyrillic small letter aleut ka	all	never	# ԟ 0x51f
+Ԡ	cyrillic capital letter el with middle hook	all	never	# Ԡ 0x520
+ԡ	cyrillic small letter el with middle hook	all	never	# ԡ 0x521
+Ԣ	cyrillic capital letter en with middle hook	all	never	# Ԣ 0x522
+ԣ	cyrillic small letter en with middle hook	all	never	# ԣ 0x523
+Ԥ	cyrillic capital letter pe with descender	all	never	# Ԥ 0x524
+ԥ	cyrillic small letter pe with descender	all	never	# ԥ 0x525
+Ԧ	cyrillic capital letter shha with descender	all	never	# Ԧ 0x526
+ԧ	cyrillic small letter shha with descender	all	never	# ԧ 0x527
+Ԩ	cyrillic capital letter en with left hook	all	never	# Ԩ 0x528
+ԩ	cyrillic small letter en with left hook	all	never	# ԩ 0x529
+Ԫ	cyrillic capital letter dzzhe	all	never	# Ԫ 0x52a
+ԫ	cyrillic small letter dzzhe	all	never	# ԫ 0x52b
+Ԭ	cyrillic capital letter dche	all	never	# Ԭ 0x52c
+ԭ	cyrillic small letter dche	all	never	# ԭ 0x52d
+Ԯ	cyrillic capital letter el with descender	all	never	# Ԯ 0x52e
+ԯ	cyrillic small letter el with descender	all	never	# ԯ 0x52f

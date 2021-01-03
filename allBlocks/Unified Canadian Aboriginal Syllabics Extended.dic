@@ -1,0 +1,71 @@
+# # Unified Canadian Aboriginal Syllabics Extended
+ᢰ	canadian syllabics oy	all	never	# ᢰ 0x18b0
+ᢱ	canadian syllabics ay	all	never	# ᢱ 0x18b1
+ᢲ	canadian syllabics aay	all	never	# ᢲ 0x18b2
+ᢳ	canadian syllabics way	all	never	# ᢳ 0x18b3
+ᢴ	canadian syllabics poy	all	never	# ᢴ 0x18b4
+ᢵ	canadian syllabics pay	all	never	# ᢵ 0x18b5
+ᢶ	canadian syllabics pwoy	all	never	# ᢶ 0x18b6
+ᢷ	canadian syllabics tay	all	never	# ᢷ 0x18b7
+ᢸ	canadian syllabics kay	all	never	# ᢸ 0x18b8
+ᢹ	canadian syllabics kway	all	never	# ᢹ 0x18b9
+ᢺ	canadian syllabics may	all	never	# ᢺ 0x18ba
+ᢻ	canadian syllabics noy	all	never	# ᢻ 0x18bb
+ᢼ	canadian syllabics nay	all	never	# ᢼ 0x18bc
+ᢽ	canadian syllabics lay	all	never	# ᢽ 0x18bd
+ᢾ	canadian syllabics soy	all	never	# ᢾ 0x18be
+ᢿ	canadian syllabics say	all	never	# ᢿ 0x18bf
+ᣀ	canadian syllabics shoy	all	never	# ᣀ 0x18c0
+ᣁ	canadian syllabics shay	all	never	# ᣁ 0x18c1
+ᣂ	canadian syllabics shwoy	all	never	# ᣂ 0x18c2
+ᣃ	canadian syllabics yoy	all	never	# ᣃ 0x18c3
+ᣄ	canadian syllabics yay	all	never	# ᣄ 0x18c4
+ᣅ	canadian syllabics ray	all	never	# ᣅ 0x18c5
+ᣆ	canadian syllabics nwi	all	never	# ᣆ 0x18c6
+ᣇ	canadian syllabics ojibway nwi	all	never	# ᣇ 0x18c7
+ᣈ	canadian syllabics nwii	all	never	# ᣈ 0x18c8
+ᣉ	canadian syllabics ojibway nwii	all	never	# ᣉ 0x18c9
+ᣊ	canadian syllabics nwo	all	never	# ᣊ 0x18ca
+ᣋ	canadian syllabics ojibway nwo	all	never	# ᣋ 0x18cb
+ᣌ	canadian syllabics nwoo	all	never	# ᣌ 0x18cc
+ᣍ	canadian syllabics ojibway nwoo	all	never	# ᣍ 0x18cd
+ᣎ	canadian syllabics rwee	all	never	# ᣎ 0x18ce
+ᣏ	canadian syllabics rwi	all	never	# ᣏ 0x18cf
+ᣐ	canadian syllabics rwii	all	never	# ᣐ 0x18d0
+ᣑ	canadian syllabics rwo	all	never	# ᣑ 0x18d1
+ᣒ	canadian syllabics rwoo	all	never	# ᣒ 0x18d2
+ᣓ	canadian syllabics rwa	all	never	# ᣓ 0x18d3
+ᣔ	canadian syllabics ojibway P	all	never	# ᣔ 0x18d4
+ᣕ	canadian syllabics ojibway T	all	never	# ᣕ 0x18d5
+ᣖ	canadian syllabics ojibway K	all	never	# ᣖ 0x18d6
+ᣗ	canadian syllabics ojibway C	all	never	# ᣗ 0x18d7
+ᣘ	canadian syllabics ojibway M	all	never	# ᣘ 0x18d8
+ᣙ	canadian syllabics ojibway N	all	never	# ᣙ 0x18d9
+ᣚ	canadian syllabics ojibway S	all	never	# ᣚ 0x18da
+ᣛ	canadian syllabics ojibway sh	all	never	# ᣛ 0x18db
+ᣜ	canadian syllabics eastern W	all	never	# ᣜ 0x18dc
+ᣝ	canadian syllabics western W	all	never	# ᣝ 0x18dd
+ᣞ	canadian syllabics final small ring	all	never	# ᣞ 0x18de
+ᣟ	canadian syllabics final raised dot	all	never	# ᣟ 0x18df
+ᣠ	canadian syllabics R-cree rwe	all	never	# ᣠ 0x18e0
+ᣡ	canadian syllabics west-cree loo	all	never	# ᣡ 0x18e1
+ᣢ	canadian syllabics west-cree laa	all	never	# ᣢ 0x18e2
+ᣣ	canadian syllabics thwe	all	never	# ᣣ 0x18e3
+ᣤ	canadian syllabics thwa	all	never	# ᣤ 0x18e4
+ᣥ	canadian syllabics tthwe	all	never	# ᣥ 0x18e5
+ᣦ	canadian syllabics tthoo	all	never	# ᣦ 0x18e6
+ᣧ	canadian syllabics tthaa	all	never	# ᣧ 0x18e7
+ᣨ	canadian syllabics tlhwe	all	never	# ᣨ 0x18e8
+ᣩ	canadian syllabics tlhoo	all	never	# ᣩ 0x18e9
+ᣪ	canadian syllabics sayisi shwe	all	never	# ᣪ 0x18ea
+ᣫ	canadian syllabics sayisi shoo	all	never	# ᣫ 0x18eb
+ᣬ	canadian syllabics sayisi hoo	all	never	# ᣬ 0x18ec
+ᣭ	canadian syllabics carrier gwu	all	never	# ᣭ 0x18ed
+ᣮ	canadian syllabics carrier dene gee	all	never	# ᣮ 0x18ee
+ᣯ	canadian syllabics carrier gaa	all	never	# ᣯ 0x18ef
+ᣰ	canadian syllabics carrier gwa	all	never	# ᣰ 0x18f0
+ᣱ	canadian syllabics sayisi juu	all	never	# ᣱ 0x18f1
+ᣲ	canadian syllabics carrier jwa	all	never	# ᣲ 0x18f2
+ᣳ	canadian syllabics beaver dene L	all	never	# ᣳ 0x18f3
+ᣴ	canadian syllabics beaver dene R	all	never	# ᣴ 0x18f4
+ᣵ	canadian syllabics carrier dental S	all	never	# ᣵ 0x18f5

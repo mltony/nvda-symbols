@@ -1,0 +1,110 @@
+# # Brahmi
+𑀀	brahmi sign candrabindu	all	never	# 𑀀 0x11000
+𑀁	brahmi sign anusvara	all	never	# 𑀁 0x11001
+𑀂	brahmi sign visarga	all	never	# 𑀂 0x11002
+𑀃	brahmi sign jihvamuliya	all	never	# 𑀃 0x11003
+𑀄	brahmi sign upadhmaniya	all	never	# 𑀄 0x11004
+𑀅	brahmi letter A	all	never	# 𑀅 0x11005
+𑀆	brahmi letter aa	all	never	# 𑀆 0x11006
+𑀇	brahmi letter I	all	never	# 𑀇 0x11007
+𑀈	brahmi letter ii	all	never	# 𑀈 0x11008
+𑀉	brahmi letter U	all	never	# 𑀉 0x11009
+𑀊	brahmi letter uu	all	never	# 𑀊 0x1100a
+𑀋	brahmi letter vocalic R	all	never	# 𑀋 0x1100b
+𑀌	brahmi letter vocalic rr	all	never	# 𑀌 0x1100c
+𑀍	brahmi letter vocalic L	all	never	# 𑀍 0x1100d
+𑀎	brahmi letter vocalic ll	all	never	# 𑀎 0x1100e
+𑀏	brahmi letter E	all	never	# 𑀏 0x1100f
+𑀐	brahmi letter ai	all	never	# 𑀐 0x11010
+𑀑	brahmi letter O	all	never	# 𑀑 0x11011
+𑀒	brahmi letter au	all	never	# 𑀒 0x11012
+𑀓	brahmi letter ka	all	never	# 𑀓 0x11013
+𑀔	brahmi letter kha	all	never	# 𑀔 0x11014
+𑀕	brahmi letter ga	all	never	# 𑀕 0x11015
+𑀖	brahmi letter gha	all	never	# 𑀖 0x11016
+𑀗	brahmi letter nga	all	never	# 𑀗 0x11017
+𑀘	brahmi letter ca	all	never	# 𑀘 0x11018
+𑀙	brahmi letter cha	all	never	# 𑀙 0x11019
+𑀚	brahmi letter ja	all	never	# 𑀚 0x1101a
+𑀛	brahmi letter jha	all	never	# 𑀛 0x1101b
+𑀜	brahmi letter nya	all	never	# 𑀜 0x1101c
+𑀝	brahmi letter tta	all	never	# 𑀝 0x1101d
+𑀞	brahmi letter ttha	all	never	# 𑀞 0x1101e
+𑀟	brahmi letter dda	all	never	# 𑀟 0x1101f
+𑀠	brahmi letter ddha	all	never	# 𑀠 0x11020
+𑀡	brahmi letter nna	all	never	# 𑀡 0x11021
+𑀢	brahmi letter ta	all	never	# 𑀢 0x11022
+𑀣	brahmi letter tha	all	never	# 𑀣 0x11023
+𑀤	brahmi letter da	all	never	# 𑀤 0x11024
+𑀥	brahmi letter dha	all	never	# 𑀥 0x11025
+𑀦	brahmi letter na	all	never	# 𑀦 0x11026
+𑀧	brahmi letter pa	all	never	# 𑀧 0x11027
+𑀨	brahmi letter pha	all	never	# 𑀨 0x11028
+𑀩	brahmi letter ba	all	never	# 𑀩 0x11029
+𑀪	brahmi letter bha	all	never	# 𑀪 0x1102a
+𑀫	brahmi letter ma	all	never	# 𑀫 0x1102b
+𑀬	brahmi letter ya	all	never	# 𑀬 0x1102c
+𑀭	brahmi letter ra	all	never	# 𑀭 0x1102d
+𑀮	brahmi letter la	all	never	# 𑀮 0x1102e
+𑀯	brahmi letter va	all	never	# 𑀯 0x1102f
+𑀰	brahmi letter sha	all	never	# 𑀰 0x11030
+𑀱	brahmi letter ssa	all	never	# 𑀱 0x11031
+𑀲	brahmi letter sa	all	never	# 𑀲 0x11032
+𑀳	brahmi letter ha	all	never	# 𑀳 0x11033
+𑀴	brahmi letter lla	all	never	# 𑀴 0x11034
+𑀵	brahmi letter old tamil llla	all	never	# 𑀵 0x11035
+𑀶	brahmi letter old tamil rra	all	never	# 𑀶 0x11036
+𑀷	brahmi letter old tamil nnna	all	never	# 𑀷 0x11037
+𑀸	brahmi vowel sign aa	all	never	# 𑀸 0x11038
+𑀹	brahmi vowel sign bhattiprolu aa	all	never	# 𑀹 0x11039
+𑀺	brahmi vowel sign I	all	never	# 𑀺 0x1103a
+𑀻	brahmi vowel sign ii	all	never	# 𑀻 0x1103b
+𑀼	brahmi vowel sign U	all	never	# 𑀼 0x1103c
+𑀽	brahmi vowel sign uu	all	never	# 𑀽 0x1103d
+𑀾	brahmi vowel sign vocalic R	all	never	# 𑀾 0x1103e
+𑀿	brahmi vowel sign vocalic rr	all	never	# 𑀿 0x1103f
+𑁀	brahmi vowel sign vocalic L	all	never	# 𑁀 0x11040
+𑁁	brahmi vowel sign vocalic ll	all	never	# 𑁁 0x11041
+𑁂	brahmi vowel sign E	all	never	# 𑁂 0x11042
+𑁃	brahmi vowel sign ai	all	never	# 𑁃 0x11043
+𑁄	brahmi vowel sign O	all	never	# 𑁄 0x11044
+𑁅	brahmi vowel sign au	all	never	# 𑁅 0x11045
+𑁆	brahmi virama	all	never	# 𑁆 0x11046
+𑁇	brahmi danda	all	never	# 𑁇 0x11047
+𑁈	brahmi double danda	all	never	# 𑁈 0x11048
+𑁉	brahmi punctuation dot	all	never	# 𑁉 0x11049
+𑁊	brahmi punctuation double dot	all	never	# 𑁊 0x1104a
+𑁋	brahmi punctuation line	all	never	# 𑁋 0x1104b
+𑁌	brahmi punctuation crescent bar	all	never	# 𑁌 0x1104c
+𑁍	brahmi punctuation lotus	all	never	# 𑁍 0x1104d
+𑁒	brahmi number one	all	never	# 𑁒 0x11052
+𑁓	brahmi number two	all	never	# 𑁓 0x11053
+𑁔	brahmi number three	all	never	# 𑁔 0x11054
+𑁕	brahmi number four	all	never	# 𑁕 0x11055
+𑁖	brahmi number five	all	never	# 𑁖 0x11056
+𑁗	brahmi number six	all	never	# 𑁗 0x11057
+𑁘	brahmi number seven	all	never	# 𑁘 0x11058
+𑁙	brahmi number eight	all	never	# 𑁙 0x11059
+𑁚	brahmi number nine	all	never	# 𑁚 0x1105a
+𑁛	brahmi number ten	all	never	# 𑁛 0x1105b
+𑁜	brahmi number twenty	all	never	# 𑁜 0x1105c
+𑁝	brahmi number thirty	all	never	# 𑁝 0x1105d
+𑁞	brahmi number forty	all	never	# 𑁞 0x1105e
+𑁟	brahmi number fifty	all	never	# 𑁟 0x1105f
+𑁠	brahmi number sixty	all	never	# 𑁠 0x11060
+𑁡	brahmi number seventy	all	never	# 𑁡 0x11061
+𑁢	brahmi number eighty	all	never	# 𑁢 0x11062
+𑁣	brahmi number ninety	all	never	# 𑁣 0x11063
+𑁤	brahmi number one hundred	all	never	# 𑁤 0x11064
+𑁥	brahmi number one thousand	all	never	# 𑁥 0x11065
+𑁦	brahmi digit zero	all	never	# 𑁦 0x11066
+𑁧	brahmi digit one	all	never	# 𑁧 0x11067
+𑁨	brahmi digit two	all	never	# 𑁨 0x11068
+𑁩	brahmi digit three	all	never	# 𑁩 0x11069
+𑁪	brahmi digit four	all	never	# 𑁪 0x1106a
+𑁫	brahmi digit five	all	never	# 𑁫 0x1106b
+𑁬	brahmi digit six	all	never	# 𑁬 0x1106c
+𑁭	brahmi digit seven	all	never	# 𑁭 0x1106d
+𑁮	brahmi digit eight	all	never	# 𑁮 0x1106e
+𑁯	brahmi digit nine	all	never	# 𑁯 0x1106f
+𑁿	brahmi number joiner	all	never	# 𑁿 0x1107f

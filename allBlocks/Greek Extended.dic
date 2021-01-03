@@ -1,0 +1,234 @@
+# # Greek Extended
+ἀ	greek small letter alpha with psili	all	never	# ἀ 0x1f00
+ἁ	greek small letter alpha with dasia	all	never	# ἁ 0x1f01
+ἂ	greek small letter alpha with psili and varia	all	never	# ἂ 0x1f02
+ἃ	greek small letter alpha with dasia and varia	all	never	# ἃ 0x1f03
+ἄ	greek small letter alpha with psili and oxia	all	never	# ἄ 0x1f04
+ἅ	greek small letter alpha with dasia and oxia	all	never	# ἅ 0x1f05
+ἆ	greek small letter alpha with psili and perispomeni	all	never	# ἆ 0x1f06
+ἇ	greek small letter alpha with dasia and perispomeni	all	never	# ἇ 0x1f07
+Ἀ	greek capital letter alpha with psili	all	never	# Ἀ 0x1f08
+Ἁ	greek capital letter alpha with dasia	all	never	# Ἁ 0x1f09
+Ἂ	greek capital letter alpha with psili and varia	all	never	# Ἂ 0x1f0a
+Ἃ	greek capital letter alpha with dasia and varia	all	never	# Ἃ 0x1f0b
+Ἄ	greek capital letter alpha with psili and oxia	all	never	# Ἄ 0x1f0c
+Ἅ	greek capital letter alpha with dasia and oxia	all	never	# Ἅ 0x1f0d
+Ἆ	greek capital letter alpha with psili and perispomeni	all	never	# Ἆ 0x1f0e
+Ἇ	greek capital letter alpha with dasia and perispomeni	all	never	# Ἇ 0x1f0f
+ἐ	greek small letter epsilon with psili	all	never	# ἐ 0x1f10
+ἑ	greek small letter epsilon with dasia	all	never	# ἑ 0x1f11
+ἒ	greek small letter epsilon with psili and varia	all	never	# ἒ 0x1f12
+ἓ	greek small letter epsilon with dasia and varia	all	never	# ἓ 0x1f13
+ἔ	greek small letter epsilon with psili and oxia	all	never	# ἔ 0x1f14
+ἕ	greek small letter epsilon with dasia and oxia	all	never	# ἕ 0x1f15
+Ἐ	greek capital letter epsilon with psili	all	never	# Ἐ 0x1f18
+Ἑ	greek capital letter epsilon with dasia	all	never	# Ἑ 0x1f19
+Ἒ	greek capital letter epsilon with psili and varia	all	never	# Ἒ 0x1f1a
+Ἓ	greek capital letter epsilon with dasia and varia	all	never	# Ἓ 0x1f1b
+Ἔ	greek capital letter epsilon with psili and oxia	all	never	# Ἔ 0x1f1c
+Ἕ	greek capital letter epsilon with dasia and oxia	all	never	# Ἕ 0x1f1d
+ἠ	greek small letter eta with psili	all	never	# ἠ 0x1f20
+ἡ	greek small letter eta with dasia	all	never	# ἡ 0x1f21
+ἢ	greek small letter eta with psili and varia	all	never	# ἢ 0x1f22
+ἣ	greek small letter eta with dasia and varia	all	never	# ἣ 0x1f23
+ἤ	greek small letter eta with psili and oxia	all	never	# ἤ 0x1f24
+ἥ	greek small letter eta with dasia and oxia	all	never	# ἥ 0x1f25
+ἦ	greek small letter eta with psili and perispomeni	all	never	# ἦ 0x1f26
+ἧ	greek small letter eta with dasia and perispomeni	all	never	# ἧ 0x1f27
+Ἠ	greek capital letter eta with psili	all	never	# Ἠ 0x1f28
+Ἡ	greek capital letter eta with dasia	all	never	# Ἡ 0x1f29
+Ἢ	greek capital letter eta with psili and varia	all	never	# Ἢ 0x1f2a
+Ἣ	greek capital letter eta with dasia and varia	all	never	# Ἣ 0x1f2b
+Ἤ	greek capital letter eta with psili and oxia	all	never	# Ἤ 0x1f2c
+Ἥ	greek capital letter eta with dasia and oxia	all	never	# Ἥ 0x1f2d
+Ἦ	greek capital letter eta with psili and perispomeni	all	never	# Ἦ 0x1f2e
+Ἧ	greek capital letter eta with dasia and perispomeni	all	never	# Ἧ 0x1f2f
+ἰ	greek small letter iota with psili	all	never	# ἰ 0x1f30
+ἱ	greek small letter iota with dasia	all	never	# ἱ 0x1f31
+ἲ	greek small letter iota with psili and varia	all	never	# ἲ 0x1f32
+ἳ	greek small letter iota with dasia and varia	all	never	# ἳ 0x1f33
+ἴ	greek small letter iota with psili and oxia	all	never	# ἴ 0x1f34
+ἵ	greek small letter iota with dasia and oxia	all	never	# ἵ 0x1f35
+ἶ	greek small letter iota with psili and perispomeni	all	never	# ἶ 0x1f36
+ἷ	greek small letter iota with dasia and perispomeni	all	never	# ἷ 0x1f37
+Ἰ	greek capital letter iota with psili	all	never	# Ἰ 0x1f38
+Ἱ	greek capital letter iota with dasia	all	never	# Ἱ 0x1f39
+Ἲ	greek capital letter iota with psili and varia	all	never	# Ἲ 0x1f3a
+Ἳ	greek capital letter iota with dasia and varia	all	never	# Ἳ 0x1f3b
+Ἴ	greek capital letter iota with psili and oxia	all	never	# Ἴ 0x1f3c
+Ἵ	greek capital letter iota with dasia and oxia	all	never	# Ἵ 0x1f3d
+Ἶ	greek capital letter iota with psili and perispomeni	all	never	# Ἶ 0x1f3e
+Ἷ	greek capital letter iota with dasia and perispomeni	all	never	# Ἷ 0x1f3f
+ὀ	greek small letter omicron with psili	all	never	# ὀ 0x1f40
+ὁ	greek small letter omicron with dasia	all	never	# ὁ 0x1f41
+ὂ	greek small letter omicron with psili and varia	all	never	# ὂ 0x1f42
+ὃ	greek small letter omicron with dasia and varia	all	never	# ὃ 0x1f43
+ὄ	greek small letter omicron with psili and oxia	all	never	# ὄ 0x1f44
+ὅ	greek small letter omicron with dasia and oxia	all	never	# ὅ 0x1f45
+Ὀ	greek capital letter omicron with psili	all	never	# Ὀ 0x1f48
+Ὁ	greek capital letter omicron with dasia	all	never	# Ὁ 0x1f49
+Ὂ	greek capital letter omicron with psili and varia	all	never	# Ὂ 0x1f4a
+Ὃ	greek capital letter omicron with dasia and varia	all	never	# Ὃ 0x1f4b
+Ὄ	greek capital letter omicron with psili and oxia	all	never	# Ὄ 0x1f4c
+Ὅ	greek capital letter omicron with dasia and oxia	all	never	# Ὅ 0x1f4d
+ὐ	greek small letter upsilon with psili	all	never	# ὐ 0x1f50
+ὑ	greek small letter upsilon with dasia	all	never	# ὑ 0x1f51
+ὒ	greek small letter upsilon with psili and varia	all	never	# ὒ 0x1f52
+ὓ	greek small letter upsilon with dasia and varia	all	never	# ὓ 0x1f53
+ὔ	greek small letter upsilon with psili and oxia	all	never	# ὔ 0x1f54
+ὕ	greek small letter upsilon with dasia and oxia	all	never	# ὕ 0x1f55
+ὖ	greek small letter upsilon with psili and perispomeni	all	never	# ὖ 0x1f56
+ὗ	greek small letter upsilon with dasia and perispomeni	all	never	# ὗ 0x1f57
+Ὑ	greek capital letter upsilon with dasia	all	never	# Ὑ 0x1f59
+Ὓ	greek capital letter upsilon with dasia and varia	all	never	# Ὓ 0x1f5b
+Ὕ	greek capital letter upsilon with dasia and oxia	all	never	# Ὕ 0x1f5d
+Ὗ	greek capital letter upsilon with dasia and perispomeni	all	never	# Ὗ 0x1f5f
+ὠ	greek small letter omega with psili	all	never	# ὠ 0x1f60
+ὡ	greek small letter omega with dasia	all	never	# ὡ 0x1f61
+ὢ	greek small letter omega with psili and varia	all	never	# ὢ 0x1f62
+ὣ	greek small letter omega with dasia and varia	all	never	# ὣ 0x1f63
+ὤ	greek small letter omega with psili and oxia	all	never	# ὤ 0x1f64
+ὥ	greek small letter omega with dasia and oxia	all	never	# ὥ 0x1f65
+ὦ	greek small letter omega with psili and perispomeni	all	never	# ὦ 0x1f66
+ὧ	greek small letter omega with dasia and perispomeni	all	never	# ὧ 0x1f67
+Ὠ	greek capital letter omega with psili	all	never	# Ὠ 0x1f68
+Ὡ	greek capital letter omega with dasia	all	never	# Ὡ 0x1f69
+Ὢ	greek capital letter omega with psili and varia	all	never	# Ὢ 0x1f6a
+Ὣ	greek capital letter omega with dasia and varia	all	never	# Ὣ 0x1f6b
+Ὤ	greek capital letter omega with psili and oxia	all	never	# Ὤ 0x1f6c
+Ὥ	greek capital letter omega with dasia and oxia	all	never	# Ὥ 0x1f6d
+Ὦ	greek capital letter omega with psili and perispomeni	all	never	# Ὦ 0x1f6e
+Ὧ	greek capital letter omega with dasia and perispomeni	all	never	# Ὧ 0x1f6f
+ὰ	greek small letter alpha with varia	all	never	# ὰ 0x1f70
+ά	greek small letter alpha with oxia	all	never	# ά 0x1f71
+ὲ	greek small letter epsilon with varia	all	never	# ὲ 0x1f72
+έ	greek small letter epsilon with oxia	all	never	# έ 0x1f73
+ὴ	greek small letter eta with varia	all	never	# ὴ 0x1f74
+ή	greek small letter eta with oxia	all	never	# ή 0x1f75
+ὶ	greek small letter iota with varia	all	never	# ὶ 0x1f76
+ί	greek small letter iota with oxia	all	never	# ί 0x1f77
+ὸ	greek small letter omicron with varia	all	never	# ὸ 0x1f78
+ό	greek small letter omicron with oxia	all	never	# ό 0x1f79
+ὺ	greek small letter upsilon with varia	all	never	# ὺ 0x1f7a
+ύ	greek small letter upsilon with oxia	all	never	# ύ 0x1f7b
+ὼ	greek small letter omega with varia	all	never	# ὼ 0x1f7c
+ώ	greek small letter omega with oxia	all	never	# ώ 0x1f7d
+ᾀ	greek small letter alpha with psili and ypogegrammeni	all	never	# ᾀ 0x1f80
+ᾁ	greek small letter alpha with dasia and ypogegrammeni	all	never	# ᾁ 0x1f81
+ᾂ	greek small letter alpha with psili and varia and ypogegrammeni	all	never	# ᾂ 0x1f82
+ᾃ	greek small letter alpha with dasia and varia and ypogegrammeni	all	never	# ᾃ 0x1f83
+ᾄ	greek small letter alpha with psili and oxia and ypogegrammeni	all	never	# ᾄ 0x1f84
+ᾅ	greek small letter alpha with dasia and oxia and ypogegrammeni	all	never	# ᾅ 0x1f85
+ᾆ	greek small letter alpha with psili and perispomeni and ypogegrammeni	all	never	# ᾆ 0x1f86
+ᾇ	greek small letter alpha with dasia and perispomeni and ypogegrammeni	all	never	# ᾇ 0x1f87
+ᾈ	greek capital letter alpha with psili and prosgegrammeni	all	never	# ᾈ 0x1f88
+ᾉ	greek capital letter alpha with dasia and prosgegrammeni	all	never	# ᾉ 0x1f89
+ᾊ	greek capital letter alpha with psili and varia and prosgegrammeni	all	never	# ᾊ 0x1f8a
+ᾋ	greek capital letter alpha with dasia and varia and prosgegrammeni	all	never	# ᾋ 0x1f8b
+ᾌ	greek capital letter alpha with psili and oxia and prosgegrammeni	all	never	# ᾌ 0x1f8c
+ᾍ	greek capital letter alpha with dasia and oxia and prosgegrammeni	all	never	# ᾍ 0x1f8d
+ᾎ	greek capital letter alpha with psili and perispomeni and prosgegrammeni	all	never	# ᾎ 0x1f8e
+ᾏ	greek capital letter alpha with dasia and perispomeni and prosgegrammeni	all	never	# ᾏ 0x1f8f
+ᾐ	greek small letter eta with psili and ypogegrammeni	all	never	# ᾐ 0x1f90
+ᾑ	greek small letter eta with dasia and ypogegrammeni	all	never	# ᾑ 0x1f91
+ᾒ	greek small letter eta with psili and varia and ypogegrammeni	all	never	# ᾒ 0x1f92
+ᾓ	greek small letter eta with dasia and varia and ypogegrammeni	all	never	# ᾓ 0x1f93
+ᾔ	greek small letter eta with psili and oxia and ypogegrammeni	all	never	# ᾔ 0x1f94
+ᾕ	greek small letter eta with dasia and oxia and ypogegrammeni	all	never	# ᾕ 0x1f95
+ᾖ	greek small letter eta with psili and perispomeni and ypogegrammeni	all	never	# ᾖ 0x1f96
+ᾗ	greek small letter eta with dasia and perispomeni and ypogegrammeni	all	never	# ᾗ 0x1f97
+ᾘ	greek capital letter eta with psili and prosgegrammeni	all	never	# ᾘ 0x1f98
+ᾙ	greek capital letter eta with dasia and prosgegrammeni	all	never	# ᾙ 0x1f99
+ᾚ	greek capital letter eta with psili and varia and prosgegrammeni	all	never	# ᾚ 0x1f9a
+ᾛ	greek capital letter eta with dasia and varia and prosgegrammeni	all	never	# ᾛ 0x1f9b
+ᾜ	greek capital letter eta with psili and oxia and prosgegrammeni	all	never	# ᾜ 0x1f9c
+ᾝ	greek capital letter eta with dasia and oxia and prosgegrammeni	all	never	# ᾝ 0x1f9d
+ᾞ	greek capital letter eta with psili and perispomeni and prosgegrammeni	all	never	# ᾞ 0x1f9e
+ᾟ	greek capital letter eta with dasia and perispomeni and prosgegrammeni	all	never	# ᾟ 0x1f9f
+ᾠ	greek small letter omega with psili and ypogegrammeni	all	never	# ᾠ 0x1fa0
+ᾡ	greek small letter omega with dasia and ypogegrammeni	all	never	# ᾡ 0x1fa1
+ᾢ	greek small letter omega with psili and varia and ypogegrammeni	all	never	# ᾢ 0x1fa2
+ᾣ	greek small letter omega with dasia and varia and ypogegrammeni	all	never	# ᾣ 0x1fa3
+ᾤ	greek small letter omega with psili and oxia and ypogegrammeni	all	never	# ᾤ 0x1fa4
+ᾥ	greek small letter omega with dasia and oxia and ypogegrammeni	all	never	# ᾥ 0x1fa5
+ᾦ	greek small letter omega with psili and perispomeni and ypogegrammeni	all	never	# ᾦ 0x1fa6
+ᾧ	greek small letter omega with dasia and perispomeni and ypogegrammeni	all	never	# ᾧ 0x1fa7
+ᾨ	greek capital letter omega with psili and prosgegrammeni	all	never	# ᾨ 0x1fa8
+ᾩ	greek capital letter omega with dasia and prosgegrammeni	all	never	# ᾩ 0x1fa9
+ᾪ	greek capital letter omega with psili and varia and prosgegrammeni	all	never	# ᾪ 0x1faa
+ᾫ	greek capital letter omega with dasia and varia and prosgegrammeni	all	never	# ᾫ 0x1fab
+ᾬ	greek capital letter omega with psili and oxia and prosgegrammeni	all	never	# ᾬ 0x1fac
+ᾭ	greek capital letter omega with dasia and oxia and prosgegrammeni	all	never	# ᾭ 0x1fad
+ᾮ	greek capital letter omega with psili and perispomeni and prosgegrammeni	all	never	# ᾮ 0x1fae
+ᾯ	greek capital letter omega with dasia and perispomeni and prosgegrammeni	all	never	# ᾯ 0x1faf
+ᾰ	greek small letter alpha with vrachy	all	never	# ᾰ 0x1fb0
+ᾱ	greek small letter alpha with macron	all	never	# ᾱ 0x1fb1
+ᾲ	greek small letter alpha with varia and ypogegrammeni	all	never	# ᾲ 0x1fb2
+ᾳ	greek small letter alpha with ypogegrammeni	all	never	# ᾳ 0x1fb3
+ᾴ	greek small letter alpha with oxia and ypogegrammeni	all	never	# ᾴ 0x1fb4
+ᾶ	greek small letter alpha with perispomeni	all	never	# ᾶ 0x1fb6
+ᾷ	greek small letter alpha with perispomeni and ypogegrammeni	all	never	# ᾷ 0x1fb7
+Ᾰ	greek capital letter alpha with vrachy	all	never	# Ᾰ 0x1fb8
+Ᾱ	greek capital letter alpha with macron	all	never	# Ᾱ 0x1fb9
+Ὰ	greek capital letter alpha with varia	all	never	# Ὰ 0x1fba
+Ά	greek capital letter alpha with oxia	all	never	# Ά 0x1fbb
+ᾼ	greek capital letter alpha with prosgegrammeni	all	never	# ᾼ 0x1fbc
+᾽	greek koronis	all	never	# ᾽ 0x1fbd
+ι	greek prosgegrammeni	all	never	# ι 0x1fbe
+᾿	greek psili	all	never	# ᾿ 0x1fbf
+῀	greek perispomeni	all	never	# ῀ 0x1fc0
+῁	greek dialytika and perispomeni	all	never	# ῁ 0x1fc1
+ῂ	greek small letter eta with varia and ypogegrammeni	all	never	# ῂ 0x1fc2
+ῃ	greek small letter eta with ypogegrammeni	all	never	# ῃ 0x1fc3
+ῄ	greek small letter eta with oxia and ypogegrammeni	all	never	# ῄ 0x1fc4
+ῆ	greek small letter eta with perispomeni	all	never	# ῆ 0x1fc6
+ῇ	greek small letter eta with perispomeni and ypogegrammeni	all	never	# ῇ 0x1fc7
+Ὲ	greek capital letter epsilon with varia	all	never	# Ὲ 0x1fc8
+Έ	greek capital letter epsilon with oxia	all	never	# Έ 0x1fc9
+Ὴ	greek capital letter eta with varia	all	never	# Ὴ 0x1fca
+Ή	greek capital letter eta with oxia	all	never	# Ή 0x1fcb
+ῌ	greek capital letter eta with prosgegrammeni	all	never	# ῌ 0x1fcc
+῍	greek psili and varia	all	never	# ῍ 0x1fcd
+῎	greek psili and oxia	all	never	# ῎ 0x1fce
+῏	greek psili and perispomeni	all	never	# ῏ 0x1fcf
+ῐ	greek small letter iota with vrachy	all	never	# ῐ 0x1fd0
+ῑ	greek small letter iota with macron	all	never	# ῑ 0x1fd1
+ῒ	greek small letter iota with dialytika and varia	all	never	# ῒ 0x1fd2
+ΐ	greek small letter iota with dialytika and oxia	all	never	# ΐ 0x1fd3
+ῖ	greek small letter iota with perispomeni	all	never	# ῖ 0x1fd6
+ῗ	greek small letter iota with dialytika and perispomeni	all	never	# ῗ 0x1fd7
+Ῐ	greek capital letter iota with vrachy	all	never	# Ῐ 0x1fd8
+Ῑ	greek capital letter iota with macron	all	never	# Ῑ 0x1fd9
+Ὶ	greek capital letter iota with varia	all	never	# Ὶ 0x1fda
+Ί	greek capital letter iota with oxia	all	never	# Ί 0x1fdb
+῝	greek dasia and varia	all	never	# ῝ 0x1fdd
+῞	greek dasia and oxia	all	never	# ῞ 0x1fde
+῟	greek dasia and perispomeni	all	never	# ῟ 0x1fdf
+ῠ	greek small letter upsilon with vrachy	all	never	# ῠ 0x1fe0
+ῡ	greek small letter upsilon with macron	all	never	# ῡ 0x1fe1
+ῢ	greek small letter upsilon with dialytika and varia	all	never	# ῢ 0x1fe2
+ΰ	greek small letter upsilon with dialytika and oxia	all	never	# ΰ 0x1fe3
+ῤ	greek small letter rho with psili	all	never	# ῤ 0x1fe4
+ῥ	greek small letter rho with dasia	all	never	# ῥ 0x1fe5
+ῦ	greek small letter upsilon with perispomeni	all	never	# ῦ 0x1fe6
+ῧ	greek small letter upsilon with dialytika and perispomeni	all	never	# ῧ 0x1fe7
+Ῠ	greek capital letter upsilon with vrachy	all	never	# Ῠ 0x1fe8
+Ῡ	greek capital letter upsilon with macron	all	never	# Ῡ 0x1fe9
+Ὺ	greek capital letter upsilon with varia	all	never	# Ὺ 0x1fea
+Ύ	greek capital letter upsilon with oxia	all	never	# Ύ 0x1feb
+Ῥ	greek capital letter rho with dasia	all	never	# Ῥ 0x1fec
+῭	greek dialytika and varia	all	never	# ῭ 0x1fed
+΅	greek dialytika and oxia	all	never	# ΅ 0x1fee
+`	greek varia	all	never	# ` 0x1fef
+ῲ	greek small letter omega with varia and ypogegrammeni	all	never	# ῲ 0x1ff2
+ῳ	greek small letter omega with ypogegrammeni	all	never	# ῳ 0x1ff3
+ῴ	greek small letter omega with oxia and ypogegrammeni	all	never	# ῴ 0x1ff4
+ῶ	greek small letter omega with perispomeni	all	never	# ῶ 0x1ff6
+ῷ	greek small letter omega with perispomeni and ypogegrammeni	all	never	# ῷ 0x1ff7
+Ὸ	greek capital letter omicron with varia	all	never	# Ὸ 0x1ff8
+Ό	greek capital letter omicron with oxia	all	never	# Ό 0x1ff9
+Ὼ	greek capital letter omega with varia	all	never	# Ὼ 0x1ffa
+Ώ	greek capital letter omega with oxia	all	never	# Ώ 0x1ffb
+ῼ	greek capital letter omega with prosgegrammeni	all	never	# ῼ 0x1ffc
+´	greek oxia	all	never	# ´ 0x1ffd
+῾	greek dasia	all	never	# ῾ 0x1ffe

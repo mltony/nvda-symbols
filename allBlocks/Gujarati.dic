@@ -1,0 +1,86 @@
+# # Gujarati
+ઁ	gujarati sign candrabindu	all	never	# ઁ 0xa81
+ં	gujarati sign anusvara	all	never	# ં 0xa82
+ઃ	gujarati sign visarga	all	never	# ઃ 0xa83
+અ	gujarati letter A	all	never	# અ 0xa85
+આ	gujarati letter aa	all	never	# આ 0xa86
+ઇ	gujarati letter I	all	never	# ઇ 0xa87
+ઈ	gujarati letter ii	all	never	# ઈ 0xa88
+ઉ	gujarati letter U	all	never	# ઉ 0xa89
+ઊ	gujarati letter uu	all	never	# ઊ 0xa8a
+ઋ	gujarati letter vocalic R	all	never	# ઋ 0xa8b
+ઌ	gujarati letter vocalic L	all	never	# ઌ 0xa8c
+ઍ	gujarati vowel candra E	all	never	# ઍ 0xa8d
+એ	gujarati letter E	all	never	# એ 0xa8f
+ઐ	gujarati letter ai	all	never	# ઐ 0xa90
+ઑ	gujarati vowel candra O	all	never	# ઑ 0xa91
+ઓ	gujarati letter O	all	never	# ઓ 0xa93
+ઔ	gujarati letter au	all	never	# ઔ 0xa94
+ક	gujarati letter ka	all	never	# ક 0xa95
+ખ	gujarati letter kha	all	never	# ખ 0xa96
+ગ	gujarati letter ga	all	never	# ગ 0xa97
+ઘ	gujarati letter gha	all	never	# ઘ 0xa98
+ઙ	gujarati letter nga	all	never	# ઙ 0xa99
+ચ	gujarati letter ca	all	never	# ચ 0xa9a
+છ	gujarati letter cha	all	never	# છ 0xa9b
+જ	gujarati letter ja	all	never	# જ 0xa9c
+ઝ	gujarati letter jha	all	never	# ઝ 0xa9d
+ઞ	gujarati letter nya	all	never	# ઞ 0xa9e
+ટ	gujarati letter tta	all	never	# ટ 0xa9f
+ઠ	gujarati letter ttha	all	never	# ઠ 0xaa0
+ડ	gujarati letter dda	all	never	# ડ 0xaa1
+ઢ	gujarati letter ddha	all	never	# ઢ 0xaa2
+ણ	gujarati letter nna	all	never	# ણ 0xaa3
+ત	gujarati letter ta	all	never	# ત 0xaa4
+થ	gujarati letter tha	all	never	# થ 0xaa5
+દ	gujarati letter da	all	never	# દ 0xaa6
+ધ	gujarati letter dha	all	never	# ધ 0xaa7
+ન	gujarati letter na	all	never	# ન 0xaa8
+પ	gujarati letter pa	all	never	# પ 0xaaa
+ફ	gujarati letter pha	all	never	# ફ 0xaab
+બ	gujarati letter ba	all	never	# બ 0xaac
+ભ	gujarati letter bha	all	never	# ભ 0xaad
+મ	gujarati letter ma	all	never	# મ 0xaae
+ય	gujarati letter ya	all	never	# ય 0xaaf
+ર	gujarati letter ra	all	never	# ર 0xab0
+લ	gujarati letter la	all	never	# લ 0xab2
+ળ	gujarati letter lla	all	never	# ળ 0xab3
+વ	gujarati letter va	all	never	# વ 0xab5
+શ	gujarati letter sha	all	never	# શ 0xab6
+ષ	gujarati letter ssa	all	never	# ષ 0xab7
+સ	gujarati letter sa	all	never	# સ 0xab8
+હ	gujarati letter ha	all	never	# હ 0xab9
+઼	gujarati sign nukta	all	never	# ઼ 0xabc
+ઽ	gujarati sign avagraha	all	never	# ઽ 0xabd
+ા	gujarati vowel sign aa	all	never	# ા 0xabe
+િ	gujarati vowel sign I	all	never	# િ 0xabf
+ી	gujarati vowel sign ii	all	never	# ી 0xac0
+ુ	gujarati vowel sign U	all	never	# ુ 0xac1
+ૂ	gujarati vowel sign uu	all	never	# ૂ 0xac2
+ૃ	gujarati vowel sign vocalic R	all	never	# ૃ 0xac3
+ૄ	gujarati vowel sign vocalic rr	all	never	# ૄ 0xac4
+ૅ	gujarati vowel sign candra E	all	never	# ૅ 0xac5
+ે	gujarati vowel sign E	all	never	# ે 0xac7
+ૈ	gujarati vowel sign ai	all	never	# ૈ 0xac8
+ૉ	gujarati vowel sign candra O	all	never	# ૉ 0xac9
+ો	gujarati vowel sign O	all	never	# ો 0xacb
+ૌ	gujarati vowel sign au	all	never	# ૌ 0xacc
+્	gujarati sign virama	all	never	# ્ 0xacd
+ૐ	gujarati om	all	never	# ૐ 0xad0
+ૠ	gujarati letter vocalic rr	all	never	# ૠ 0xae0
+ૡ	gujarati letter vocalic ll	all	never	# ૡ 0xae1
+ૢ	gujarati vowel sign vocalic L	all	never	# ૢ 0xae2
+ૣ	gujarati vowel sign vocalic ll	all	never	# ૣ 0xae3
+૦	gujarati digit zero	all	never	# ૦ 0xae6
+૧	gujarati digit one	all	never	# ૧ 0xae7
+૨	gujarati digit two	all	never	# ૨ 0xae8
+૩	gujarati digit three	all	never	# ૩ 0xae9
+૪	gujarati digit four	all	never	# ૪ 0xaea
+૫	gujarati digit five	all	never	# ૫ 0xaeb
+૬	gujarati digit six	all	never	# ૬ 0xaec
+૭	gujarati digit seven	all	never	# ૭ 0xaed
+૮	gujarati digit eight	all	never	# ૮ 0xaee
+૯	gujarati digit nine	all	never	# ૯ 0xaef
+૰	gujarati abbreviation sign	all	never	# ૰ 0xaf0
+૱	gujarati rupee sign	all	never	# ૱ 0xaf1
+ૹ	gujarati letter zha	all	never	# ૹ 0xaf9

@@ -1,0 +1,57 @@
+# # Batak
+ᯀ	batak letter A	all	never	# ᯀ 0x1bc0
+ᯁ	batak letter simalungun A	all	never	# ᯁ 0x1bc1
+ᯂ	batak letter ha	all	never	# ᯂ 0x1bc2
+ᯃ	batak letter simalungun ha	all	never	# ᯃ 0x1bc3
+ᯄ	batak letter mandailing ha	all	never	# ᯄ 0x1bc4
+ᯅ	batak letter ba	all	never	# ᯅ 0x1bc5
+ᯆ	batak letter karo ba	all	never	# ᯆ 0x1bc6
+ᯇ	batak letter pa	all	never	# ᯇ 0x1bc7
+ᯈ	batak letter simalungun pa	all	never	# ᯈ 0x1bc8
+ᯉ	batak letter na	all	never	# ᯉ 0x1bc9
+ᯊ	batak letter mandailing na	all	never	# ᯊ 0x1bca
+ᯋ	batak letter wa	all	never	# ᯋ 0x1bcb
+ᯌ	batak letter simalungun wa	all	never	# ᯌ 0x1bcc
+ᯍ	batak letter pakpak wa	all	never	# ᯍ 0x1bcd
+ᯎ	batak letter ga	all	never	# ᯎ 0x1bce
+ᯏ	batak letter simalungun ga	all	never	# ᯏ 0x1bcf
+ᯐ	batak letter ja	all	never	# ᯐ 0x1bd0
+ᯑ	batak letter da	all	never	# ᯑ 0x1bd1
+ᯒ	batak letter ra	all	never	# ᯒ 0x1bd2
+ᯓ	batak letter simalungun ra	all	never	# ᯓ 0x1bd3
+ᯔ	batak letter ma	all	never	# ᯔ 0x1bd4
+ᯕ	batak letter simalungun ma	all	never	# ᯕ 0x1bd5
+ᯖ	batak letter southern ta	all	never	# ᯖ 0x1bd6
+ᯗ	batak letter northern ta	all	never	# ᯗ 0x1bd7
+ᯘ	batak letter sa	all	never	# ᯘ 0x1bd8
+ᯙ	batak letter simalungun sa	all	never	# ᯙ 0x1bd9
+ᯚ	batak letter mandailing sa	all	never	# ᯚ 0x1bda
+ᯛ	batak letter ya	all	never	# ᯛ 0x1bdb
+ᯜ	batak letter simalungun ya	all	never	# ᯜ 0x1bdc
+ᯝ	batak letter nga	all	never	# ᯝ 0x1bdd
+ᯞ	batak letter la	all	never	# ᯞ 0x1bde
+ᯟ	batak letter simalungun la	all	never	# ᯟ 0x1bdf
+ᯠ	batak letter nya	all	never	# ᯠ 0x1be0
+ᯡ	batak letter ca	all	never	# ᯡ 0x1be1
+ᯢ	batak letter nda	all	never	# ᯢ 0x1be2
+ᯣ	batak letter mba	all	never	# ᯣ 0x1be3
+ᯤ	batak letter I	all	never	# ᯤ 0x1be4
+ᯥ	batak letter U	all	never	# ᯥ 0x1be5
+᯦	batak sign tompi	all	never	# ᯦ 0x1be6
+ᯧ	batak vowel sign E	all	never	# ᯧ 0x1be7
+ᯨ	batak vowel sign pakpak E	all	never	# ᯨ 0x1be8
+ᯩ	batak vowel sign ee	all	never	# ᯩ 0x1be9
+ᯪ	batak vowel sign I	all	never	# ᯪ 0x1bea
+ᯫ	batak vowel sign karo I	all	never	# ᯫ 0x1beb
+ᯬ	batak vowel sign O	all	never	# ᯬ 0x1bec
+ᯭ	batak vowel sign karo O	all	never	# ᯭ 0x1bed
+ᯮ	batak vowel sign U	all	never	# ᯮ 0x1bee
+ᯯ	batak vowel sign U for simalungun sa	all	never	# ᯯ 0x1bef
+ᯰ	batak consonant sign ng	all	never	# ᯰ 0x1bf0
+ᯱ	batak consonant sign H	all	never	# ᯱ 0x1bf1
+᯲	batak pangolat	all	never	# ᯲ 0x1bf2
+᯳	batak panongonan	all	never	# ᯳ 0x1bf3
+᯼	batak symbol bindu na metek	all	never	# ᯼ 0x1bfc
+᯽	batak symbol bindu pinarboras	all	never	# ᯽ 0x1bfd
+᯾	batak symbol bindu judul	all	never	# ᯾ 0x1bfe
+᯿	batak symbol bindu pangolat	all	never	# ᯿ 0x1bff

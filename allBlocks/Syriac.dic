@@ -1,0 +1,78 @@
+# # Syriac
+܀	syriac end of paragraph	all	never	# ܀ 0x700
+܁	syriac supralinear full stop	all	never	# ܁ 0x701
+܂	syriac sublinear full stop	all	never	# ܂ 0x702
+܃	syriac supralinear colon	all	never	# ܃ 0x703
+܄	syriac sublinear colon	all	never	# ܄ 0x704
+܅	syriac horizontal colon	all	never	# ܅ 0x705
+܆	syriac colon skewed left	all	never	# ܆ 0x706
+܇	syriac colon skewed right	all	never	# ܇ 0x707
+܈	syriac supralinear colon skewed left	all	never	# ܈ 0x708
+܉	syriac sublinear colon skewed right	all	never	# ܉ 0x709
+܊	syriac contraction	all	never	# ܊ 0x70a
+܋	syriac harklean obelus	all	never	# ܋ 0x70b
+܌	syriac harklean metobelus	all	never	# ܌ 0x70c
+܍	syriac harklean asteriscus	all	never	# ܍ 0x70d
+܏	syriac abbreviation mark	all	never	# ܏ 0x70f
+ܐ	syriac letter alaph	all	never	# ܐ 0x710
+ܑ	syriac letter superscript alaph	all	never	# ܑ 0x711
+ܒ	syriac letter beth	all	never	# ܒ 0x712
+ܓ	syriac letter gamal	all	never	# ܓ 0x713
+ܔ	syriac letter gamal garshuni	all	never	# ܔ 0x714
+ܕ	syriac letter dalath	all	never	# ܕ 0x715
+ܖ	syriac letter dotless dalath rish	all	never	# ܖ 0x716
+ܗ	syriac letter he	all	never	# ܗ 0x717
+ܘ	syriac letter waw	all	never	# ܘ 0x718
+ܙ	syriac letter zain	all	never	# ܙ 0x719
+ܚ	syriac letter heth	all	never	# ܚ 0x71a
+ܛ	syriac letter teth	all	never	# ܛ 0x71b
+ܜ	syriac letter teth garshuni	all	never	# ܜ 0x71c
+ܝ	syriac letter yudh	all	never	# ܝ 0x71d
+ܞ	syriac letter yudh he	all	never	# ܞ 0x71e
+ܟ	syriac letter kaph	all	never	# ܟ 0x71f
+ܠ	syriac letter lamadh	all	never	# ܠ 0x720
+ܡ	syriac letter mim	all	never	# ܡ 0x721
+ܢ	syriac letter nun	all	never	# ܢ 0x722
+ܣ	syriac letter semkath	all	never	# ܣ 0x723
+ܤ	syriac letter final semkath	all	never	# ܤ 0x724
+ܥ	syriac letter E	all	never	# ܥ 0x725
+ܦ	syriac letter pe	all	never	# ܦ 0x726
+ܧ	syriac letter reversed pe	all	never	# ܧ 0x727
+ܨ	syriac letter sadhe	all	never	# ܨ 0x728
+ܩ	syriac letter qaph	all	never	# ܩ 0x729
+ܪ	syriac letter rish	all	never	# ܪ 0x72a
+ܫ	syriac letter shin	all	never	# ܫ 0x72b
+ܬ	syriac letter taw	all	never	# ܬ 0x72c
+ܭ	syriac letter persian bheth	all	never	# ܭ 0x72d
+ܮ	syriac letter persian ghamal	all	never	# ܮ 0x72e
+ܯ	syriac letter persian dhalath	all	never	# ܯ 0x72f
+ܰ	syriac pthaha above	all	never	# ܰ 0x730
+ܱ	syriac pthaha below	all	never	# ܱ 0x731
+ܲ	syriac pthaha dotted	all	never	# ܲ 0x732
+ܳ	syriac zqapha above	all	never	# ܳ 0x733
+ܴ	syriac zqapha below	all	never	# ܴ 0x734
+ܵ	syriac zqapha dotted	all	never	# ܵ 0x735
+ܶ	syriac rbasa above	all	never	# ܶ 0x736
+ܷ	syriac rbasa below	all	never	# ܷ 0x737
+ܸ	syriac dotted zlama horizontal	all	never	# ܸ 0x738
+ܹ	syriac dotted zlama angular	all	never	# ܹ 0x739
+ܺ	syriac hbasa above	all	never	# ܺ 0x73a
+ܻ	syriac hbasa below	all	never	# ܻ 0x73b
+ܼ	syriac hbasa-esasa dotted	all	never	# ܼ 0x73c
+ܽ	syriac esasa above	all	never	# ܽ 0x73d
+ܾ	syriac esasa below	all	never	# ܾ 0x73e
+ܿ	syriac rwaha	all	never	# ܿ 0x73f
+݀	syriac feminine dot	all	never	# ݀ 0x740
+݁	syriac qushshaya	all	never	# ݁ 0x741
+݂	syriac rukkakha	all	never	# ݂ 0x742
+݃	syriac two vertical dots above	all	never	# ݃ 0x743
+݄	syriac two vertical dots below	all	never	# ݄ 0x744
+݅	syriac three dots above	all	never	# ݅ 0x745
+݆	syriac three dots below	all	never	# ݆ 0x746
+݇	syriac oblique line above	all	never	# ݇ 0x747
+݈	syriac oblique line below	all	never	# ݈ 0x748
+݉	syriac music	all	never	# ݉ 0x749
+݊	syriac barrekh	all	never	# ݊ 0x74a
+ݍ	syriac letter sogdian zhain	all	never	# ݍ 0x74d
+ݎ	syriac letter sogdian khaph	all	never	# ݎ 0x74e
+ݏ	syriac letter sogdian fe	all	never	# ݏ 0x74f

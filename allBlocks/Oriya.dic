@@ -1,0 +1,91 @@
+# # Oriya
+ଁ	oriya sign candrabindu	all	never	# ଁ 0xb01
+ଂ	oriya sign anusvara	all	never	# ଂ 0xb02
+ଃ	oriya sign visarga	all	never	# ଃ 0xb03
+ଅ	oriya letter A	all	never	# ଅ 0xb05
+ଆ	oriya letter aa	all	never	# ଆ 0xb06
+ଇ	oriya letter I	all	never	# ଇ 0xb07
+ଈ	oriya letter ii	all	never	# ଈ 0xb08
+ଉ	oriya letter U	all	never	# ଉ 0xb09
+ଊ	oriya letter uu	all	never	# ଊ 0xb0a
+ଋ	oriya letter vocalic R	all	never	# ଋ 0xb0b
+ଌ	oriya letter vocalic L	all	never	# ଌ 0xb0c
+ଏ	oriya letter E	all	never	# ଏ 0xb0f
+ଐ	oriya letter ai	all	never	# ଐ 0xb10
+ଓ	oriya letter O	all	never	# ଓ 0xb13
+ଔ	oriya letter au	all	never	# ଔ 0xb14
+କ	oriya letter ka	all	never	# କ 0xb15
+ଖ	oriya letter kha	all	never	# ଖ 0xb16
+ଗ	oriya letter ga	all	never	# ଗ 0xb17
+ଘ	oriya letter gha	all	never	# ଘ 0xb18
+ଙ	oriya letter nga	all	never	# ଙ 0xb19
+ଚ	oriya letter ca	all	never	# ଚ 0xb1a
+ଛ	oriya letter cha	all	never	# ଛ 0xb1b
+ଜ	oriya letter ja	all	never	# ଜ 0xb1c
+ଝ	oriya letter jha	all	never	# ଝ 0xb1d
+ଞ	oriya letter nya	all	never	# ଞ 0xb1e
+ଟ	oriya letter tta	all	never	# ଟ 0xb1f
+ଠ	oriya letter ttha	all	never	# ଠ 0xb20
+ଡ	oriya letter dda	all	never	# ଡ 0xb21
+ଢ	oriya letter ddha	all	never	# ଢ 0xb22
+ଣ	oriya letter nna	all	never	# ଣ 0xb23
+ତ	oriya letter ta	all	never	# ତ 0xb24
+ଥ	oriya letter tha	all	never	# ଥ 0xb25
+ଦ	oriya letter da	all	never	# ଦ 0xb26
+ଧ	oriya letter dha	all	never	# ଧ 0xb27
+ନ	oriya letter na	all	never	# ନ 0xb28
+ପ	oriya letter pa	all	never	# ପ 0xb2a
+ଫ	oriya letter pha	all	never	# ଫ 0xb2b
+ବ	oriya letter ba	all	never	# ବ 0xb2c
+ଭ	oriya letter bha	all	never	# ଭ 0xb2d
+ମ	oriya letter ma	all	never	# ମ 0xb2e
+ଯ	oriya letter ya	all	never	# ଯ 0xb2f
+ର	oriya letter ra	all	never	# ର 0xb30
+ଲ	oriya letter la	all	never	# ଲ 0xb32
+ଳ	oriya letter lla	all	never	# ଳ 0xb33
+ଵ	oriya letter va	all	never	# ଵ 0xb35
+ଶ	oriya letter sha	all	never	# ଶ 0xb36
+ଷ	oriya letter ssa	all	never	# ଷ 0xb37
+ସ	oriya letter sa	all	never	# ସ 0xb38
+ହ	oriya letter ha	all	never	# ହ 0xb39
+଼	oriya sign nukta	all	never	# ଼ 0xb3c
+ଽ	oriya sign avagraha	all	never	# ଽ 0xb3d
+ା	oriya vowel sign aa	all	never	# ା 0xb3e
+ି	oriya vowel sign I	all	never	# ି 0xb3f
+ୀ	oriya vowel sign ii	all	never	# ୀ 0xb40
+ୁ	oriya vowel sign U	all	never	# ୁ 0xb41
+ୂ	oriya vowel sign uu	all	never	# ୂ 0xb42
+ୃ	oriya vowel sign vocalic R	all	never	# ୃ 0xb43
+ୄ	oriya vowel sign vocalic rr	all	never	# ୄ 0xb44
+େ	oriya vowel sign E	all	never	# େ 0xb47
+ୈ	oriya vowel sign ai	all	never	# ୈ 0xb48
+ୋ	oriya vowel sign O	all	never	# ୋ 0xb4b
+ୌ	oriya vowel sign au	all	never	# ୌ 0xb4c
+୍	oriya sign virama	all	never	# ୍ 0xb4d
+ୖ	oriya ai length mark	all	never	# ୖ 0xb56
+ୗ	oriya au length mark	all	never	# ୗ 0xb57
+ଡ଼	oriya letter rra	all	never	# ଡ଼ 0xb5c
+ଢ଼	oriya letter rha	all	never	# ଢ଼ 0xb5d
+ୟ	oriya letter yya	all	never	# ୟ 0xb5f
+ୠ	oriya letter vocalic rr	all	never	# ୠ 0xb60
+ୡ	oriya letter vocalic ll	all	never	# ୡ 0xb61
+ୢ	oriya vowel sign vocalic L	all	never	# ୢ 0xb62
+ୣ	oriya vowel sign vocalic ll	all	never	# ୣ 0xb63
+୦	oriya digit zero	all	never	# ୦ 0xb66
+୧	oriya digit one	all	never	# ୧ 0xb67
+୨	oriya digit two	all	never	# ୨ 0xb68
+୩	oriya digit three	all	never	# ୩ 0xb69
+୪	oriya digit four	all	never	# ୪ 0xb6a
+୫	oriya digit five	all	never	# ୫ 0xb6b
+୬	oriya digit six	all	never	# ୬ 0xb6c
+୭	oriya digit seven	all	never	# ୭ 0xb6d
+୮	oriya digit eight	all	never	# ୮ 0xb6e
+୯	oriya digit nine	all	never	# ୯ 0xb6f
+୰	oriya isshar	all	never	# ୰ 0xb70
+ୱ	oriya letter wa	all	never	# ୱ 0xb71
+୲	oriya fraction one quarter	all	never	# ୲ 0xb72
+୳	oriya fraction one half	all	never	# ୳ 0xb73
+୴	oriya fraction three quarters	all	never	# ୴ 0xb74
+୵	oriya fraction one sixteenth	all	never	# ୵ 0xb75
+୶	oriya fraction one eighth	all	never	# ୶ 0xb76
+୷	oriya fraction three sixteenths	all	never	# ୷ 0xb77

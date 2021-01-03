@@ -1,0 +1,17 @@
+# # Supplemental Arrows-A
+⟰	upwards quadruple arrow	all	never	# ⟰ 0x27f0
+⟱	downwards quadruple arrow	all	never	# ⟱ 0x27f1
+⟲	anticlockwise gapped circle arrow	all	never	# ⟲ 0x27f2
+⟳	clockwise gapped circle arrow	all	never	# ⟳ 0x27f3
+⟴	right arrow with circled plus	all	never	# ⟴ 0x27f4
+⟵	long leftwards arrow	all	never	# ⟵ 0x27f5
+⟶	long rightwards arrow	all	never	# ⟶ 0x27f6
+⟷	long left right arrow	all	never	# ⟷ 0x27f7
+⟸	long leftwards double arrow	all	never	# ⟸ 0x27f8
+⟹	long rightwards double arrow	all	never	# ⟹ 0x27f9
+⟺	long left right double arrow	all	never	# ⟺ 0x27fa
+⟻	long leftwards arrow from bar	all	never	# ⟻ 0x27fb
+⟼	long rightwards arrow from bar	all	never	# ⟼ 0x27fc
+⟽	long leftwards double arrow from bar	all	never	# ⟽ 0x27fd
+⟾	long rightwards double arrow from bar	all	never	# ⟾ 0x27fe
+⟿	long rightwards squiggle arrow	all	never	# ⟿ 0x27ff

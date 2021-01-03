@@ -1,0 +1,88 @@
+# # Thai
+ก	thai character ko kai	all	never	# ก 0xe01
+ข	thai character kho khai	all	never	# ข 0xe02
+ฃ	thai character kho khuat	all	never	# ฃ 0xe03
+ค	thai character kho khwai	all	never	# ค 0xe04
+ฅ	thai character kho khon	all	never	# ฅ 0xe05
+ฆ	thai character kho rakhang	all	never	# ฆ 0xe06
+ง	thai character ngo ngu	all	never	# ง 0xe07
+จ	thai character cho chan	all	never	# จ 0xe08
+ฉ	thai character cho ching	all	never	# ฉ 0xe09
+ช	thai character cho chang	all	never	# ช 0xe0a
+ซ	thai character so so	all	never	# ซ 0xe0b
+ฌ	thai character cho choe	all	never	# ฌ 0xe0c
+ญ	thai character yo ying	all	never	# ญ 0xe0d
+ฎ	thai character do chada	all	never	# ฎ 0xe0e
+ฏ	thai character to patak	all	never	# ฏ 0xe0f
+ฐ	thai character tho than	all	never	# ฐ 0xe10
+ฑ	thai character tho nangmontho	all	never	# ฑ 0xe11
+ฒ	thai character tho phuthao	all	never	# ฒ 0xe12
+ณ	thai character no nen	all	never	# ณ 0xe13
+ด	thai character do dek	all	never	# ด 0xe14
+ต	thai character to tao	all	never	# ต 0xe15
+ถ	thai character tho thung	all	never	# ถ 0xe16
+ท	thai character tho thahan	all	never	# ท 0xe17
+ธ	thai character tho thong	all	never	# ธ 0xe18
+น	thai character no nu	all	never	# น 0xe19
+บ	thai character bo baimai	all	never	# บ 0xe1a
+ป	thai character po pla	all	never	# ป 0xe1b
+ผ	thai character pho phung	all	never	# ผ 0xe1c
+ฝ	thai character fo fa	all	never	# ฝ 0xe1d
+พ	thai character pho phan	all	never	# พ 0xe1e
+ฟ	thai character fo fan	all	never	# ฟ 0xe1f
+ภ	thai character pho samphao	all	never	# ภ 0xe20
+ม	thai character mo ma	all	never	# ม 0xe21
+ย	thai character yo yak	all	never	# ย 0xe22
+ร	thai character ro rua	all	never	# ร 0xe23
+ฤ	thai character ru	all	never	# ฤ 0xe24
+ล	thai character lo ling	all	never	# ล 0xe25
+ฦ	thai character lu	all	never	# ฦ 0xe26
+ว	thai character wo waen	all	never	# ว 0xe27
+ศ	thai character so sala	all	never	# ศ 0xe28
+ษ	thai character so rusi	all	never	# ษ 0xe29
+ส	thai character so sua	all	never	# ส 0xe2a
+ห	thai character ho hip	all	never	# ห 0xe2b
+ฬ	thai character lo chula	all	never	# ฬ 0xe2c
+อ	thai character O ang	all	never	# อ 0xe2d
+ฮ	thai character ho nokhuk	all	never	# ฮ 0xe2e
+ฯ	thai character paiyannoi	all	never	# ฯ 0xe2f
+ะ	thai character sara A	all	never	# ะ 0xe30
+ั	thai character mai han-akat	all	never	# ั 0xe31
+า	thai character sara aa	all	never	# า 0xe32
+ำ	thai character sara am	all	never	# ำ 0xe33
+ิ	thai character sara I	all	never	# ิ 0xe34
+ี	thai character sara ii	all	never	# ี 0xe35
+ึ	thai character sara ue	all	never	# ึ 0xe36
+ื	thai character sara uee	all	never	# ื 0xe37
+ุ	thai character sara U	all	never	# ุ 0xe38
+ู	thai character sara uu	all	never	# ู 0xe39
+ฺ	thai character phinthu	all	never	# ฺ 0xe3a
+฿	thai currency symbol baht	all	never	# ฿ 0xe3f
+เ	thai character sara E	all	never	# เ 0xe40
+แ	thai character sara ae	all	never	# แ 0xe41
+โ	thai character sara O	all	never	# โ 0xe42
+ใ	thai character sara ai maimuan	all	never	# ใ 0xe43
+ไ	thai character sara ai maimalai	all	never	# ไ 0xe44
+ๅ	thai character lakkhangyao	all	never	# ๅ 0xe45
+ๆ	thai character maiyamok	all	never	# ๆ 0xe46
+็	thai character maitaikhu	all	never	# ็ 0xe47
+่	thai character mai ek	all	never	# ่ 0xe48
+้	thai character mai tho	all	never	# ้ 0xe49
+๊	thai character mai tri	all	never	# ๊ 0xe4a
+๋	thai character mai chattawa	all	never	# ๋ 0xe4b
+์	thai character thanthakhat	all	never	# ์ 0xe4c
+ํ	thai character nikhahit	all	never	# ํ 0xe4d
+๎	thai character yamakkan	all	never	# ๎ 0xe4e
+๏	thai character fongman	all	never	# ๏ 0xe4f
+๐	thai digit zero	all	never	# ๐ 0xe50
+๑	thai digit one	all	never	# ๑ 0xe51
+๒	thai digit two	all	never	# ๒ 0xe52
+๓	thai digit three	all	never	# ๓ 0xe53
+๔	thai digit four	all	never	# ๔ 0xe54
+๕	thai digit five	all	never	# ๕ 0xe55
+๖	thai digit six	all	never	# ๖ 0xe56
+๗	thai digit seven	all	never	# ๗ 0xe57
+๘	thai digit eight	all	never	# ๘ 0xe58
+๙	thai digit nine	all	never	# ๙ 0xe59
+๚	thai character angkhankhu	all	never	# ๚ 0xe5a
+๛	thai character khomut	all	never	# ๛ 0xe5b

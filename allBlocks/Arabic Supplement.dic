@@ -1,0 +1,49 @@
+# # Arabic Supplement
+ݐ	arabic letter beh with three dots horizontally below	all	never	# ݐ 0x750
+ݑ	arabic letter beh with dot below and three dots above	all	never	# ݑ 0x751
+ݒ	arabic letter beh with three dots pointing upwards below	all	never	# ݒ 0x752
+ݓ	arabic letter beh with three dots pointing upwards below and two dots above	all	never	# ݓ 0x753
+ݔ	arabic letter beh with two dots below and dot above	all	never	# ݔ 0x754
+ݕ	arabic letter beh with inverted small V below	all	never	# ݕ 0x755
+ݖ	arabic letter beh with small V	all	never	# ݖ 0x756
+ݗ	arabic letter hah with two dots above	all	never	# ݗ 0x757
+ݘ	arabic letter hah with three dots pointing upwards below	all	never	# ݘ 0x758
+ݙ	arabic letter dal with two dots vertically below and small tah	all	never	# ݙ 0x759
+ݚ	arabic letter dal with inverted small V below	all	never	# ݚ 0x75a
+ݛ	arabic letter reh with stroke	all	never	# ݛ 0x75b
+ݜ	arabic letter seen with four dots above	all	never	# ݜ 0x75c
+ݝ	arabic letter ain with two dots above	all	never	# ݝ 0x75d
+ݞ	arabic letter ain with three dots pointing downwards above	all	never	# ݞ 0x75e
+ݟ	arabic letter ain with two dots vertically above	all	never	# ݟ 0x75f
+ݠ	arabic letter feh with two dots below	all	never	# ݠ 0x760
+ݡ	arabic letter feh with three dots pointing upwards below	all	never	# ݡ 0x761
+ݢ	arabic letter keheh with dot above	all	never	# ݢ 0x762
+ݣ	arabic letter keheh with three dots above	all	never	# ݣ 0x763
+ݤ	arabic letter keheh with three dots pointing upwards below	all	never	# ݤ 0x764
+ݥ	arabic letter meem with dot above	all	never	# ݥ 0x765
+ݦ	arabic letter meem with dot below	all	never	# ݦ 0x766
+ݧ	arabic letter noon with two dots below	all	never	# ݧ 0x767
+ݨ	arabic letter noon with small tah	all	never	# ݨ 0x768
+ݩ	arabic letter noon with small V	all	never	# ݩ 0x769
+ݪ	arabic letter lam with bar	all	never	# ݪ 0x76a
+ݫ	arabic letter reh with two dots vertically above	all	never	# ݫ 0x76b
+ݬ	arabic letter reh with hamza above	all	never	# ݬ 0x76c
+ݭ	arabic letter seen with two dots vertically above	all	never	# ݭ 0x76d
+ݮ	arabic letter hah with small arabic letter tah below	all	never	# ݮ 0x76e
+ݯ	arabic letter hah with small arabic letter tah and two dots	all	never	# ݯ 0x76f
+ݰ	arabic letter seen with small arabic letter tah and two dots	all	never	# ݰ 0x770
+ݱ	arabic letter reh with small arabic letter tah and two dots	all	never	# ݱ 0x771
+ݲ	arabic letter hah with small arabic letter tah above	all	never	# ݲ 0x772
+ݳ	arabic letter alef with extended arabic-indic digit two above	all	never	# ݳ 0x773
+ݴ	arabic letter alef with extended arabic-indic digit three above	all	never	# ݴ 0x774
+ݵ	arabic letter farsi yeh with extended arabic-indic digit two above	all	never	# ݵ 0x775
+ݶ	arabic letter farsi yeh with extended arabic-indic digit three above	all	never	# ݶ 0x776
+ݷ	arabic letter farsi yeh with extended arabic-indic digit four below	all	never	# ݷ 0x777
+ݸ	arabic letter waw with extended arabic-indic digit two above	all	never	# ݸ 0x778
+ݹ	arabic letter waw with extended arabic-indic digit three above	all	never	# ݹ 0x779
+ݺ	arabic letter yeh barree with extended arabic-indic digit two above	all	never	# ݺ 0x77a
+ݻ	arabic letter yeh barree with extended arabic-indic digit three above	all	never	# ݻ 0x77b
+ݼ	arabic letter hah with extended arabic-indic digit four below	all	never	# ݼ 0x77c
+ݽ	arabic letter seen with extended arabic-indic digit four above	all	never	# ݽ 0x77d
+ݾ	arabic letter seen with inverted V	all	never	# ݾ 0x77e
+ݿ	arabic letter kaf with two dots above	all	never	# ݿ 0x77f

@@ -1,0 +1,34 @@
+# # Combining Diacritical Marks for Symbols
+⃐	combining left harpoon above	all	never	# ⃐ 0x20d0
+⃑	combining right harpoon above	all	never	# ⃑ 0x20d1
+⃒	combining long vertical line overlay	all	never	# ⃒ 0x20d2
+⃓	combining short vertical line overlay	all	never	# ⃓ 0x20d3
+⃔	combining anticlockwise arrow above	all	never	# ⃔ 0x20d4
+⃕	combining clockwise arrow above	all	never	# ⃕ 0x20d5
+⃖	combining left arrow above	all	never	# ⃖ 0x20d6
+⃗	combining right arrow above	all	never	# ⃗ 0x20d7
+⃘	combining ring overlay	all	never	# ⃘ 0x20d8
+⃙	combining clockwise ring overlay	all	never	# ⃙ 0x20d9
+⃚	combining anticlockwise ring overlay	all	never	# ⃚ 0x20da
+⃛	combining three dots above	all	never	# ⃛ 0x20db
+⃜	combining four dots above	all	never	# ⃜ 0x20dc
+⃝	combining enclosing circle	all	never	# ⃝ 0x20dd
+⃞	combining enclosing square	all	never	# ⃞ 0x20de
+⃟	combining enclosing diamond	all	never	# ⃟ 0x20df
+⃠	combining enclosing circle backslash	all	never	# ⃠ 0x20e0
+⃡	combining left right arrow above	all	never	# ⃡ 0x20e1
+⃢	combining enclosing screen	all	never	# ⃢ 0x20e2
+⃣	combining enclosing keycap	all	never	# ⃣ 0x20e3
+⃤	combining enclosing upward pointing triangle	all	never	# ⃤ 0x20e4
+⃥	combining reverse solidus overlay	all	never	# ⃥ 0x20e5
+⃦	combining double vertical stroke overlay	all	never	# ⃦ 0x20e6
+⃧	combining annuity symbol	all	never	# ⃧ 0x20e7
+⃨	combining triple underdot	all	never	# ⃨ 0x20e8
+⃩	combining wide bridge above	all	never	# ⃩ 0x20e9
+⃪	combining leftwards arrow overlay	all	never	# ⃪ 0x20ea
+⃫	combining long double solidus overlay	all	never	# ⃫ 0x20eb
+⃬	combining rightwards harpoon with barb downwards	all	never	# ⃬ 0x20ec
+⃭	combining leftwards harpoon with barb downwards	all	never	# ⃭ 0x20ed
+⃮	combining left arrow below	all	never	# ⃮ 0x20ee
+⃯	combining right arrow below	all	never	# ⃯ 0x20ef
+⃰	combining asterisk above	all	never	# ⃰ 0x20f0

@@ -1,0 +1,193 @@
+# # Dingbats
+✀	black safety scissors	all	never	# ✀ 0x2700
+✁	upper blade scissors	all	never	# ✁ 0x2701
+✂	black scissors	all	never	# ✂ 0x2702
+✃	lower blade scissors	all	never	# ✃ 0x2703
+✄	white scissors	all	never	# ✄ 0x2704
+✅	white heavy check mark	all	never	# ✅ 0x2705
+✆	telephone location sign	all	never	# ✆ 0x2706
+✇	tape drive	all	never	# ✇ 0x2707
+✈	airplane	all	never	# ✈ 0x2708
+✉	envelope	all	never	# ✉ 0x2709
+✊	raised fist	all	never	# ✊ 0x270a
+✋	raised hand	all	never	# ✋ 0x270b
+✌	victory hand	all	never	# ✌ 0x270c
+✍	writing hand	all	never	# ✍ 0x270d
+✎	lower right pencil	all	never	# ✎ 0x270e
+✏	pencil	all	never	# ✏ 0x270f
+✐	upper right pencil	all	never	# ✐ 0x2710
+✑	white nib	all	never	# ✑ 0x2711
+✒	black nib	all	never	# ✒ 0x2712
+# ✓	check mark	all	never	# ✓ 0x2713
+# ✔	heavy check mark	all	never	# ✔ 0x2714
+✕	multiplication X	all	never	# ✕ 0x2715
+✖	heavy multiplication X	all	never	# ✖ 0x2716
+# ✗	ballot X	all	never	# ✗ 0x2717
+✘	heavy ballot X	all	never	# ✘ 0x2718
+✙	outlined greek cross	all	never	# ✙ 0x2719
+✚	heavy greek cross	all	never	# ✚ 0x271a
+✛	open centre cross	all	never	# ✛ 0x271b
+✜	heavy open centre cross	all	never	# ✜ 0x271c
+✝	latin cross	all	never	# ✝ 0x271d
+✞	shadowed white latin cross	all	never	# ✞ 0x271e
+✟	outlined latin cross	all	never	# ✟ 0x271f
+✠	maltese cross	all	never	# ✠ 0x2720
+✡	star of david	all	never	# ✡ 0x2721
+✢	four teardrop-spoked asterisk	all	never	# ✢ 0x2722
+✣	four balloon-spoked asterisk	all	never	# ✣ 0x2723
+✤	heavy four balloon-spoked asterisk	all	never	# ✤ 0x2724
+✥	four club-spoked asterisk	all	never	# ✥ 0x2725
+✦	black four pointed star	all	never	# ✦ 0x2726
+✧	white four pointed star	all	never	# ✧ 0x2727
+✨	sparkles	all	never	# ✨ 0x2728
+✩	stress outlined white star	all	never	# ✩ 0x2729
+✪	circled white star	all	never	# ✪ 0x272a
+✫	open centre black star	all	never	# ✫ 0x272b
+✬	black centre white star	all	never	# ✬ 0x272c
+✭	outlined black star	all	never	# ✭ 0x272d
+✮	heavy outlined black star	all	never	# ✮ 0x272e
+✯	pinwheel star	all	never	# ✯ 0x272f
+✰	shadowed white star	all	never	# ✰ 0x2730
+✱	heavy asterisk	all	never	# ✱ 0x2731
+✲	open centre asterisk	all	never	# ✲ 0x2732
+✳	eight spoked asterisk	all	never	# ✳ 0x2733
+✴	eight pointed black star	all	never	# ✴ 0x2734
+✵	eight pointed pinwheel star	all	never	# ✵ 0x2735
+✶	six pointed black star	all	never	# ✶ 0x2736
+✷	eight pointed rectilinear black star	all	never	# ✷ 0x2737
+✸	heavy eight pointed rectilinear black star	all	never	# ✸ 0x2738
+✹	twelve pointed black star	all	never	# ✹ 0x2739
+✺	sixteen pointed asterisk	all	never	# ✺ 0x273a
+✻	teardrop-spoked asterisk	all	never	# ✻ 0x273b
+✼	open centre teardrop-spoked asterisk	all	never	# ✼ 0x273c
+✽	heavy teardrop-spoked asterisk	all	never	# ✽ 0x273d
+✾	six petalled black and white florette	all	never	# ✾ 0x273e
+✿	black florette	all	never	# ✿ 0x273f
+❀	white florette	all	never	# ❀ 0x2740
+❁	eight petalled outlined black florette	all	never	# ❁ 0x2741
+❂	circled open centre eight pointed star	all	never	# ❂ 0x2742
+❃	heavy teardrop-spoked pinwheel asterisk	all	never	# ❃ 0x2743
+❄	snowflake	all	never	# ❄ 0x2744
+❅	tight trifoliate snowflake	all	never	# ❅ 0x2745
+❆	heavy chevron snowflake	all	never	# ❆ 0x2746
+❇	sparkle	all	never	# ❇ 0x2747
+❈	heavy sparkle	all	never	# ❈ 0x2748
+❉	balloon-spoked asterisk	all	never	# ❉ 0x2749
+❊	eight teardrop-spoked propeller asterisk	all	never	# ❊ 0x274a
+❋	heavy eight teardrop-spoked propeller asterisk	all	never	# ❋ 0x274b
+❌	cross mark	all	never	# ❌ 0x274c
+❍	shadowed white circle	all	never	# ❍ 0x274d
+❎	negative squared cross mark	all	never	# ❎ 0x274e
+❏	lower right drop-shadowed white square	all	never	# ❏ 0x274f
+❐	upper right drop-shadowed white square	all	never	# ❐ 0x2750
+❑	lower right shadowed white square	all	never	# ❑ 0x2751
+❒	upper right shadowed white square	all	never	# ❒ 0x2752
+❓	black question mark ornament	all	never	# ❓ 0x2753
+❔	white question mark ornament	all	never	# ❔ 0x2754
+❕	white exclamation mark ornament	all	never	# ❕ 0x2755
+# ❖	black diamond minus white X	all	never	# ❖ 0x2756
+❗	heavy exclamation mark symbol	all	never	# ❗ 0x2757
+❘	light vertical bar	all	never	# ❘ 0x2758
+❙	medium vertical bar	all	never	# ❙ 0x2759
+❚	heavy vertical bar	all	never	# ❚ 0x275a
+❛	heavy single turned comma quotation mark ornament	all	never	# ❛ 0x275b
+❜	heavy single comma quotation mark ornament	all	never	# ❜ 0x275c
+❝	heavy double turned comma quotation mark ornament	all	never	# ❝ 0x275d
+❞	heavy double comma quotation mark ornament	all	never	# ❞ 0x275e
+❟	heavy low single comma quotation mark ornament	all	never	# ❟ 0x275f
+❠	heavy low double comma quotation mark ornament	all	never	# ❠ 0x2760
+❡	curved stem paragraph sign ornament	all	never	# ❡ 0x2761
+❢	heavy exclamation mark ornament	all	never	# ❢ 0x2762
+❣	heavy heart exclamation mark ornament	all	never	# ❣ 0x2763
+❤	heavy black heart	all	never	# ❤ 0x2764
+❥	rotated heavy black heart bullet	all	never	# ❥ 0x2765
+❦	floral heart	all	never	# ❦ 0x2766
+❧	rotated floral heart bullet	all	never	# ❧ 0x2767
+❨	medium left parenthesis ornament	all	never	# ❨ 0x2768
+❩	medium right parenthesis ornament	all	never	# ❩ 0x2769
+❪	medium flattened left parenthesis ornament	all	never	# ❪ 0x276a
+❫	medium flattened right parenthesis ornament	all	never	# ❫ 0x276b
+❬	medium left-pointing angle bracket ornament	all	never	# ❬ 0x276c
+❭	medium right-pointing angle bracket ornament	all	never	# ❭ 0x276d
+❮	heavy left-pointing angle quotation mark ornament	all	never	# ❮ 0x276e
+❯	heavy right-pointing angle quotation mark ornament	all	never	# ❯ 0x276f
+❰	heavy left-pointing angle bracket ornament	all	never	# ❰ 0x2770
+❱	heavy right-pointing angle bracket ornament	all	never	# ❱ 0x2771
+❲	light left tortoise shell bracket ornament	all	never	# ❲ 0x2772
+❳	light right tortoise shell bracket ornament	all	never	# ❳ 0x2773
+❴	medium left curly bracket ornament	all	never	# ❴ 0x2774
+❵	medium right curly bracket ornament	all	never	# ❵ 0x2775
+❶	dingbat negative circled digit one	all	never	# ❶ 0x2776
+❷	dingbat negative circled digit two	all	never	# ❷ 0x2777
+❸	dingbat negative circled digit three	all	never	# ❸ 0x2778
+❹	dingbat negative circled digit four	all	never	# ❹ 0x2779
+❺	dingbat negative circled digit five	all	never	# ❺ 0x277a
+❻	dingbat negative circled digit six	all	never	# ❻ 0x277b
+❼	dingbat negative circled digit seven	all	never	# ❼ 0x277c
+❽	dingbat negative circled digit eight	all	never	# ❽ 0x277d
+❾	dingbat negative circled digit nine	all	never	# ❾ 0x277e
+❿	dingbat negative circled number ten	all	never	# ❿ 0x277f
+➀	dingbat circled sans-serif digit one	all	never	# ➀ 0x2780
+➁	dingbat circled sans-serif digit two	all	never	# ➁ 0x2781
+➂	dingbat circled sans-serif digit three	all	never	# ➂ 0x2782
+➃	dingbat circled sans-serif digit four	all	never	# ➃ 0x2783
+➄	dingbat circled sans-serif digit five	all	never	# ➄ 0x2784
+➅	dingbat circled sans-serif digit six	all	never	# ➅ 0x2785
+➆	dingbat circled sans-serif digit seven	all	never	# ➆ 0x2786
+➇	dingbat circled sans-serif digit eight	all	never	# ➇ 0x2787
+➈	dingbat circled sans-serif digit nine	all	never	# ➈ 0x2788
+➉	dingbat circled sans-serif number ten	all	never	# ➉ 0x2789
+➊	dingbat negative circled sans-serif digit one	all	never	# ➊ 0x278a
+➋	dingbat negative circled sans-serif digit two	all	never	# ➋ 0x278b
+➌	dingbat negative circled sans-serif digit three	all	never	# ➌ 0x278c
+➍	dingbat negative circled sans-serif digit four	all	never	# ➍ 0x278d
+➎	dingbat negative circled sans-serif digit five	all	never	# ➎ 0x278e
+➏	dingbat negative circled sans-serif digit six	all	never	# ➏ 0x278f
+➐	dingbat negative circled sans-serif digit seven	all	never	# ➐ 0x2790
+➑	dingbat negative circled sans-serif digit eight	all	never	# ➑ 0x2791
+➒	dingbat negative circled sans-serif digit nine	all	never	# ➒ 0x2792
+➓	dingbat negative circled sans-serif number ten	all	never	# ➓ 0x2793
+# ➔	heavy wide-headed rightwards arrow	all	never	# ➔ 0x2794
+➕	heavy plus sign	all	never	# ➕ 0x2795
+➖	heavy minus sign	all	never	# ➖ 0x2796
+➗	heavy division sign	all	never	# ➗ 0x2797
+➘	heavy south east arrow	all	never	# ➘ 0x2798
+➙	heavy rightwards arrow	all	never	# ➙ 0x2799
+➚	heavy north east arrow	all	never	# ➚ 0x279a
+➛	drafting point rightwards arrow	all	never	# ➛ 0x279b
+➜	heavy round-tipped rightwards arrow	all	never	# ➜ 0x279c
+➝	triangle-headed rightwards arrow	all	never	# ➝ 0x279d
+➞	heavy triangle-headed rightwards arrow	all	never	# ➞ 0x279e
+➟	dashed triangle-headed rightwards arrow	all	never	# ➟ 0x279f
+➠	heavy dashed triangle-headed rightwards arrow	all	never	# ➠ 0x27a0
+➡	black rightwards arrow	all	never	# ➡ 0x27a1
+# ➢	three-D top-lighted rightwards arrowhead	all	never	# ➢ 0x27a2
+➣	three-D bottom-lighted rightwards arrowhead	all	never	# ➣ 0x27a3
+➤	black rightwards arrowhead	all	never	# ➤ 0x27a4
+➥	heavy black curved downwards and rightwards arrow	all	never	# ➥ 0x27a5
+➦	heavy black curved upwards and rightwards arrow	all	never	# ➦ 0x27a6
+➧	squat black rightwards arrow	all	never	# ➧ 0x27a7
+➨	heavy concave-pointed black rightwards arrow	all	never	# ➨ 0x27a8
+➩	right-shaded white rightwards arrow	all	never	# ➩ 0x27a9
+➪	left-shaded white rightwards arrow	all	never	# ➪ 0x27aa
+➫	back-tilted shadowed white rightwards arrow	all	never	# ➫ 0x27ab
+➬	front-tilted shadowed white rightwards arrow	all	never	# ➬ 0x27ac
+➭	heavy lower right-shadowed white rightwards arrow	all	never	# ➭ 0x27ad
+➮	heavy upper right-shadowed white rightwards arrow	all	never	# ➮ 0x27ae
+➯	notched lower right-shadowed white rightwards arrow	all	never	# ➯ 0x27af
+➰	curly loop	all	never	# ➰ 0x27b0
+➱	notched upper right-shadowed white rightwards arrow	all	never	# ➱ 0x27b1
+➲	circled heavy white rightwards arrow	all	never	# ➲ 0x27b2
+➳	white-feathered rightwards arrow	all	never	# ➳ 0x27b3
+➴	black-feathered south east arrow	all	never	# ➴ 0x27b4
+➵	black-feathered rightwards arrow	all	never	# ➵ 0x27b5
+➶	black-feathered north east arrow	all	never	# ➶ 0x27b6
+➷	heavy black-feathered south east arrow	all	never	# ➷ 0x27b7
+➸	heavy black-feathered rightwards arrow	all	never	# ➸ 0x27b8
+➹	heavy black-feathered north east arrow	all	never	# ➹ 0x27b9
+➺	teardrop-barbed rightwards arrow	all	never	# ➺ 0x27ba
+➻	heavy teardrop-shanked rightwards arrow	all	never	# ➻ 0x27bb
+➼	wedge-tailed rightwards arrow	all	never	# ➼ 0x27bc
+➽	heavy wedge-tailed rightwards arrow	all	never	# ➽ 0x27bd
+➾	open-outlined rightwards arrow	all	never	# ➾ 0x27be
+➿	double curly loop	all	never	# ➿ 0x27bf

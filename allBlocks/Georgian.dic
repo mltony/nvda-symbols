@@ -1,0 +1,89 @@
+# # Georgian
+Ⴀ	georgian capital letter an	all	never	# Ⴀ 0x10a0
+Ⴁ	georgian capital letter ban	all	never	# Ⴁ 0x10a1
+Ⴂ	georgian capital letter gan	all	never	# Ⴂ 0x10a2
+Ⴃ	georgian capital letter don	all	never	# Ⴃ 0x10a3
+Ⴄ	georgian capital letter en	all	never	# Ⴄ 0x10a4
+Ⴅ	georgian capital letter vin	all	never	# Ⴅ 0x10a5
+Ⴆ	georgian capital letter zen	all	never	# Ⴆ 0x10a6
+Ⴇ	georgian capital letter tan	all	never	# Ⴇ 0x10a7
+Ⴈ	georgian capital letter in	all	never	# Ⴈ 0x10a8
+Ⴉ	georgian capital letter kan	all	never	# Ⴉ 0x10a9
+Ⴊ	georgian capital letter las	all	never	# Ⴊ 0x10aa
+Ⴋ	georgian capital letter man	all	never	# Ⴋ 0x10ab
+Ⴌ	georgian capital letter nar	all	never	# Ⴌ 0x10ac
+Ⴍ	georgian capital letter on	all	never	# Ⴍ 0x10ad
+Ⴎ	georgian capital letter par	all	never	# Ⴎ 0x10ae
+Ⴏ	georgian capital letter zhar	all	never	# Ⴏ 0x10af
+Ⴐ	georgian capital letter rae	all	never	# Ⴐ 0x10b0
+Ⴑ	georgian capital letter san	all	never	# Ⴑ 0x10b1
+Ⴒ	georgian capital letter tar	all	never	# Ⴒ 0x10b2
+Ⴓ	georgian capital letter un	all	never	# Ⴓ 0x10b3
+Ⴔ	georgian capital letter phar	all	never	# Ⴔ 0x10b4
+Ⴕ	georgian capital letter khar	all	never	# Ⴕ 0x10b5
+Ⴖ	georgian capital letter ghan	all	never	# Ⴖ 0x10b6
+Ⴗ	georgian capital letter qar	all	never	# Ⴗ 0x10b7
+Ⴘ	georgian capital letter shin	all	never	# Ⴘ 0x10b8
+Ⴙ	georgian capital letter chin	all	never	# Ⴙ 0x10b9
+Ⴚ	georgian capital letter can	all	never	# Ⴚ 0x10ba
+Ⴛ	georgian capital letter jil	all	never	# Ⴛ 0x10bb
+Ⴜ	georgian capital letter cil	all	never	# Ⴜ 0x10bc
+Ⴝ	georgian capital letter char	all	never	# Ⴝ 0x10bd
+Ⴞ	georgian capital letter xan	all	never	# Ⴞ 0x10be
+Ⴟ	georgian capital letter jhan	all	never	# Ⴟ 0x10bf
+Ⴠ	georgian capital letter hae	all	never	# Ⴠ 0x10c0
+Ⴡ	georgian capital letter he	all	never	# Ⴡ 0x10c1
+Ⴢ	georgian capital letter hie	all	never	# Ⴢ 0x10c2
+Ⴣ	georgian capital letter we	all	never	# Ⴣ 0x10c3
+Ⴤ	georgian capital letter har	all	never	# Ⴤ 0x10c4
+Ⴥ	georgian capital letter hoe	all	never	# Ⴥ 0x10c5
+Ⴧ	georgian capital letter yn	all	never	# Ⴧ 0x10c7
+Ⴭ	georgian capital letter aen	all	never	# Ⴭ 0x10cd
+ა	georgian letter an	all	never	# ა 0x10d0
+ბ	georgian letter ban	all	never	# ბ 0x10d1
+გ	georgian letter gan	all	never	# გ 0x10d2
+დ	georgian letter don	all	never	# დ 0x10d3
+ე	georgian letter en	all	never	# ე 0x10d4
+ვ	georgian letter vin	all	never	# ვ 0x10d5
+ზ	georgian letter zen	all	never	# ზ 0x10d6
+თ	georgian letter tan	all	never	# თ 0x10d7
+ი	georgian letter in	all	never	# ი 0x10d8
+კ	georgian letter kan	all	never	# კ 0x10d9
+ლ	georgian letter las	all	never	# ლ 0x10da
+მ	georgian letter man	all	never	# მ 0x10db
+ნ	georgian letter nar	all	never	# ნ 0x10dc
+ო	georgian letter on	all	never	# ო 0x10dd
+პ	georgian letter par	all	never	# პ 0x10de
+ჟ	georgian letter zhar	all	never	# ჟ 0x10df
+რ	georgian letter rae	all	never	# რ 0x10e0
+ს	georgian letter san	all	never	# ს 0x10e1
+ტ	georgian letter tar	all	never	# ტ 0x10e2
+უ	georgian letter un	all	never	# უ 0x10e3
+ფ	georgian letter phar	all	never	# ფ 0x10e4
+ქ	georgian letter khar	all	never	# ქ 0x10e5
+ღ	georgian letter ghan	all	never	# ღ 0x10e6
+ყ	georgian letter qar	all	never	# ყ 0x10e7
+შ	georgian letter shin	all	never	# შ 0x10e8
+ჩ	georgian letter chin	all	never	# ჩ 0x10e9
+ც	georgian letter can	all	never	# ც 0x10ea
+ძ	georgian letter jil	all	never	# ძ 0x10eb
+წ	georgian letter cil	all	never	# წ 0x10ec
+ჭ	georgian letter char	all	never	# ჭ 0x10ed
+ხ	georgian letter xan	all	never	# ხ 0x10ee
+ჯ	georgian letter jhan	all	never	# ჯ 0x10ef
+ჰ	georgian letter hae	all	never	# ჰ 0x10f0
+ჱ	georgian letter he	all	never	# ჱ 0x10f1
+ჲ	georgian letter hie	all	never	# ჲ 0x10f2
+ჳ	georgian letter we	all	never	# ჳ 0x10f3
+ჴ	georgian letter har	all	never	# ჴ 0x10f4
+ჵ	georgian letter hoe	all	never	# ჵ 0x10f5
+ჶ	georgian letter fi	all	never	# ჶ 0x10f6
+ჷ	georgian letter yn	all	never	# ჷ 0x10f7
+ჸ	georgian letter elifi	all	never	# ჸ 0x10f8
+ჹ	georgian letter turned gan	all	never	# ჹ 0x10f9
+ჺ	georgian letter ain	all	never	# ჺ 0x10fa
+჻	georgian paragraph separator	all	never	# ჻ 0x10fb
+ჼ	modifier letter georgian nar	all	never	# ჼ 0x10fc
+ჽ	georgian letter aen	all	never	# ჽ 0x10fd
+ჾ	georgian letter hard sign	all	never	# ჾ 0x10fe
+ჿ	georgian letter labial sign	all	never	# ჿ 0x10ff

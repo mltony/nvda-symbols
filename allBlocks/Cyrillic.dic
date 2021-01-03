@@ -1,0 +1,257 @@
+# # Cyrillic
+Ѐ	cyrillic capital letter ie with grave	all	never	# Ѐ 0x400
+Ё	cyrillic capital letter io	all	never	# Ё 0x401
+Ђ	cyrillic capital letter dje	all	never	# Ђ 0x402
+Ѓ	cyrillic capital letter gje	all	never	# Ѓ 0x403
+Є	cyrillic capital letter ukrainian ie	all	never	# Є 0x404
+Ѕ	cyrillic capital letter dze	all	never	# Ѕ 0x405
+І	cyrillic capital letter byelorussian-ukrainian I	all	never	# І 0x406
+Ї	cyrillic capital letter yi	all	never	# Ї 0x407
+Ј	cyrillic capital letter je	all	never	# Ј 0x408
+Љ	cyrillic capital letter lje	all	never	# Љ 0x409
+Њ	cyrillic capital letter nje	all	never	# Њ 0x40a
+Ћ	cyrillic capital letter tshe	all	never	# Ћ 0x40b
+Ќ	cyrillic capital letter kje	all	never	# Ќ 0x40c
+Ѝ	cyrillic capital letter I with grave	all	never	# Ѝ 0x40d
+Ў	cyrillic capital letter short U	all	never	# Ў 0x40e
+Џ	cyrillic capital letter dzhe	all	never	# Џ 0x40f
+А	cyrillic capital letter A	all	never	# А 0x410
+Б	cyrillic capital letter be	all	never	# Б 0x411
+В	cyrillic capital letter ve	all	never	# В 0x412
+Г	cyrillic capital letter ghe	all	never	# Г 0x413
+Д	cyrillic capital letter de	all	never	# Д 0x414
+Е	cyrillic capital letter ie	all	never	# Е 0x415
+Ж	cyrillic capital letter zhe	all	never	# Ж 0x416
+З	cyrillic capital letter ze	all	never	# З 0x417
+И	cyrillic capital letter I	all	never	# И 0x418
+Й	cyrillic capital letter short I	all	never	# Й 0x419
+К	cyrillic capital letter ka	all	never	# К 0x41a
+Л	cyrillic capital letter el	all	never	# Л 0x41b
+М	cyrillic capital letter em	all	never	# М 0x41c
+Н	cyrillic capital letter en	all	never	# Н 0x41d
+О	cyrillic capital letter O	all	never	# О 0x41e
+П	cyrillic capital letter pe	all	never	# П 0x41f
+Р	cyrillic capital letter er	all	never	# Р 0x420
+С	cyrillic capital letter es	all	never	# С 0x421
+Т	cyrillic capital letter te	all	never	# Т 0x422
+У	cyrillic capital letter U	all	never	# У 0x423
+Ф	cyrillic capital letter ef	all	never	# Ф 0x424
+Х	cyrillic capital letter ha	all	never	# Х 0x425
+Ц	cyrillic capital letter tse	all	never	# Ц 0x426
+Ч	cyrillic capital letter che	all	never	# Ч 0x427
+Ш	cyrillic capital letter sha	all	never	# Ш 0x428
+Щ	cyrillic capital letter shcha	all	never	# Щ 0x429
+Ъ	cyrillic capital letter hard sign	all	never	# Ъ 0x42a
+Ы	cyrillic capital letter yeru	all	never	# Ы 0x42b
+Ь	cyrillic capital letter soft sign	all	never	# Ь 0x42c
+Э	cyrillic capital letter E	all	never	# Э 0x42d
+Ю	cyrillic capital letter yu	all	never	# Ю 0x42e
+Я	cyrillic capital letter ya	all	never	# Я 0x42f
+а	cyrillic small letter A	all	never	# а 0x430
+б	cyrillic small letter be	all	never	# б 0x431
+в	cyrillic small letter ve	all	never	# в 0x432
+г	cyrillic small letter ghe	all	never	# г 0x433
+д	cyrillic small letter de	all	never	# д 0x434
+е	cyrillic small letter ie	all	never	# е 0x435
+ж	cyrillic small letter zhe	all	never	# ж 0x436
+з	cyrillic small letter ze	all	never	# з 0x437
+и	cyrillic small letter I	all	never	# и 0x438
+й	cyrillic small letter short I	all	never	# й 0x439
+к	cyrillic small letter ka	all	never	# к 0x43a
+л	cyrillic small letter el	all	never	# л 0x43b
+м	cyrillic small letter em	all	never	# м 0x43c
+н	cyrillic small letter en	all	never	# н 0x43d
+о	cyrillic small letter O	all	never	# о 0x43e
+п	cyrillic small letter pe	all	never	# п 0x43f
+р	cyrillic small letter er	all	never	# р 0x440
+с	cyrillic small letter es	all	never	# с 0x441
+т	cyrillic small letter te	all	never	# т 0x442
+у	cyrillic small letter U	all	never	# у 0x443
+ф	cyrillic small letter ef	all	never	# ф 0x444
+х	cyrillic small letter ha	all	never	# х 0x445
+ц	cyrillic small letter tse	all	never	# ц 0x446
+ч	cyrillic small letter che	all	never	# ч 0x447
+ш	cyrillic small letter sha	all	never	# ш 0x448
+щ	cyrillic small letter shcha	all	never	# щ 0x449
+ъ	cyrillic small letter hard sign	all	never	# ъ 0x44a
+ы	cyrillic small letter yeru	all	never	# ы 0x44b
+ь	cyrillic small letter soft sign	all	never	# ь 0x44c
+э	cyrillic small letter E	all	never	# э 0x44d
+ю	cyrillic small letter yu	all	never	# ю 0x44e
+я	cyrillic small letter ya	all	never	# я 0x44f
+ѐ	cyrillic small letter ie with grave	all	never	# ѐ 0x450
+ё	cyrillic small letter io	all	never	# ё 0x451
+ђ	cyrillic small letter dje	all	never	# ђ 0x452
+ѓ	cyrillic small letter gje	all	never	# ѓ 0x453
+є	cyrillic small letter ukrainian ie	all	never	# є 0x454
+ѕ	cyrillic small letter dze	all	never	# ѕ 0x455
+і	cyrillic small letter byelorussian-ukrainian I	all	never	# і 0x456
+ї	cyrillic small letter yi	all	never	# ї 0x457
+ј	cyrillic small letter je	all	never	# ј 0x458
+љ	cyrillic small letter lje	all	never	# љ 0x459
+њ	cyrillic small letter nje	all	never	# њ 0x45a
+ћ	cyrillic small letter tshe	all	never	# ћ 0x45b
+ќ	cyrillic small letter kje	all	never	# ќ 0x45c
+ѝ	cyrillic small letter I with grave	all	never	# ѝ 0x45d
+ў	cyrillic small letter short U	all	never	# ў 0x45e
+џ	cyrillic small letter dzhe	all	never	# џ 0x45f
+Ѡ	cyrillic capital letter omega	all	never	# Ѡ 0x460
+ѡ	cyrillic small letter omega	all	never	# ѡ 0x461
+Ѣ	cyrillic capital letter yat	all	never	# Ѣ 0x462
+ѣ	cyrillic small letter yat	all	never	# ѣ 0x463
+Ѥ	cyrillic capital letter iotified E	all	never	# Ѥ 0x464
+ѥ	cyrillic small letter iotified E	all	never	# ѥ 0x465
+Ѧ	cyrillic capital letter little yus	all	never	# Ѧ 0x466
+ѧ	cyrillic small letter little yus	all	never	# ѧ 0x467
+Ѩ	cyrillic capital letter iotified little yus	all	never	# Ѩ 0x468
+ѩ	cyrillic small letter iotified little yus	all	never	# ѩ 0x469
+Ѫ	cyrillic capital letter big yus	all	never	# Ѫ 0x46a
+ѫ	cyrillic small letter big yus	all	never	# ѫ 0x46b
+Ѭ	cyrillic capital letter iotified big yus	all	never	# Ѭ 0x46c
+ѭ	cyrillic small letter iotified big yus	all	never	# ѭ 0x46d
+Ѯ	cyrillic capital letter ksi	all	never	# Ѯ 0x46e
+ѯ	cyrillic small letter ksi	all	never	# ѯ 0x46f
+Ѱ	cyrillic capital letter psi	all	never	# Ѱ 0x470
+ѱ	cyrillic small letter psi	all	never	# ѱ 0x471
+Ѳ	cyrillic capital letter fita	all	never	# Ѳ 0x472
+ѳ	cyrillic small letter fita	all	never	# ѳ 0x473
+Ѵ	cyrillic capital letter izhitsa	all	never	# Ѵ 0x474
+ѵ	cyrillic small letter izhitsa	all	never	# ѵ 0x475
+Ѷ	cyrillic capital letter izhitsa with double grave accent	all	never	# Ѷ 0x476
+ѷ	cyrillic small letter izhitsa with double grave accent	all	never	# ѷ 0x477
+Ѹ	cyrillic capital letter uk	all	never	# Ѹ 0x478
+ѹ	cyrillic small letter uk	all	never	# ѹ 0x479
+Ѻ	cyrillic capital letter round omega	all	never	# Ѻ 0x47a
+ѻ	cyrillic small letter round omega	all	never	# ѻ 0x47b
+Ѽ	cyrillic capital letter omega with titlo	all	never	# Ѽ 0x47c
+ѽ	cyrillic small letter omega with titlo	all	never	# ѽ 0x47d
+Ѿ	cyrillic capital letter ot	all	never	# Ѿ 0x47e
+ѿ	cyrillic small letter ot	all	never	# ѿ 0x47f
+Ҁ	cyrillic capital letter koppa	all	never	# Ҁ 0x480
+ҁ	cyrillic small letter koppa	all	never	# ҁ 0x481
+҂	cyrillic thousands sign	all	never	# ҂ 0x482
+҃	combining cyrillic titlo	all	never	# ҃ 0x483
+҄	combining cyrillic palatalization	all	never	# ҄ 0x484
+҅	combining cyrillic dasia pneumata	all	never	# ҅ 0x485
+҆	combining cyrillic psili pneumata	all	never	# ҆ 0x486
+҇	combining cyrillic pokrytie	all	never	# ҇ 0x487
+҈	combining cyrillic hundred thousands sign	all	never	# ҈ 0x488
+҉	combining cyrillic millions sign	all	never	# ҉ 0x489
+Ҋ	cyrillic capital letter short I with tail	all	never	# Ҋ 0x48a
+ҋ	cyrillic small letter short I with tail	all	never	# ҋ 0x48b
+Ҍ	cyrillic capital letter semisoft sign	all	never	# Ҍ 0x48c
+ҍ	cyrillic small letter semisoft sign	all	never	# ҍ 0x48d
+Ҏ	cyrillic capital letter er with tick	all	never	# Ҏ 0x48e
+ҏ	cyrillic small letter er with tick	all	never	# ҏ 0x48f
+Ґ	cyrillic capital letter ghe with upturn	all	never	# Ґ 0x490
+ґ	cyrillic small letter ghe with upturn	all	never	# ґ 0x491
+Ғ	cyrillic capital letter ghe with stroke	all	never	# Ғ 0x492
+ғ	cyrillic small letter ghe with stroke	all	never	# ғ 0x493
+Ҕ	cyrillic capital letter ghe with middle hook	all	never	# Ҕ 0x494
+ҕ	cyrillic small letter ghe with middle hook	all	never	# ҕ 0x495
+Җ	cyrillic capital letter zhe with descender	all	never	# Җ 0x496
+җ	cyrillic small letter zhe with descender	all	never	# җ 0x497
+Ҙ	cyrillic capital letter ze with descender	all	never	# Ҙ 0x498
+ҙ	cyrillic small letter ze with descender	all	never	# ҙ 0x499
+Қ	cyrillic capital letter ka with descender	all	never	# Қ 0x49a
+қ	cyrillic small letter ka with descender	all	never	# қ 0x49b
+Ҝ	cyrillic capital letter ka with vertical stroke	all	never	# Ҝ 0x49c
+ҝ	cyrillic small letter ka with vertical stroke	all	never	# ҝ 0x49d
+Ҟ	cyrillic capital letter ka with stroke	all	never	# Ҟ 0x49e
+ҟ	cyrillic small letter ka with stroke	all	never	# ҟ 0x49f
+Ҡ	cyrillic capital letter bashkir ka	all	never	# Ҡ 0x4a0
+ҡ	cyrillic small letter bashkir ka	all	never	# ҡ 0x4a1
+Ң	cyrillic capital letter en with descender	all	never	# Ң 0x4a2
+ң	cyrillic small letter en with descender	all	never	# ң 0x4a3
+Ҥ	cyrillic capital ligature en ghe	all	never	# Ҥ 0x4a4
+ҥ	cyrillic small ligature en ghe	all	never	# ҥ 0x4a5
+Ҧ	cyrillic capital letter pe with middle hook	all	never	# Ҧ 0x4a6
+ҧ	cyrillic small letter pe with middle hook	all	never	# ҧ 0x4a7
+Ҩ	cyrillic capital letter abkhasian ha	all	never	# Ҩ 0x4a8
+ҩ	cyrillic small letter abkhasian ha	all	never	# ҩ 0x4a9
+Ҫ	cyrillic capital letter es with descender	all	never	# Ҫ 0x4aa
+ҫ	cyrillic small letter es with descender	all	never	# ҫ 0x4ab
+Ҭ	cyrillic capital letter te with descender	all	never	# Ҭ 0x4ac
+ҭ	cyrillic small letter te with descender	all	never	# ҭ 0x4ad
+Ү	cyrillic capital letter straight U	all	never	# Ү 0x4ae
+ү	cyrillic small letter straight U	all	never	# ү 0x4af
+Ұ	cyrillic capital letter straight U with stroke	all	never	# Ұ 0x4b0
+ұ	cyrillic small letter straight U with stroke	all	never	# ұ 0x4b1
+Ҳ	cyrillic capital letter ha with descender	all	never	# Ҳ 0x4b2
+ҳ	cyrillic small letter ha with descender	all	never	# ҳ 0x4b3
+Ҵ	cyrillic capital ligature te tse	all	never	# Ҵ 0x4b4
+ҵ	cyrillic small ligature te tse	all	never	# ҵ 0x4b5
+Ҷ	cyrillic capital letter che with descender	all	never	# Ҷ 0x4b6
+ҷ	cyrillic small letter che with descender	all	never	# ҷ 0x4b7
+Ҹ	cyrillic capital letter che with vertical stroke	all	never	# Ҹ 0x4b8
+ҹ	cyrillic small letter che with vertical stroke	all	never	# ҹ 0x4b9
+Һ	cyrillic capital letter shha	all	never	# Һ 0x4ba
+һ	cyrillic small letter shha	all	never	# һ 0x4bb
+Ҽ	cyrillic capital letter abkhasian che	all	never	# Ҽ 0x4bc
+ҽ	cyrillic small letter abkhasian che	all	never	# ҽ 0x4bd
+Ҿ	cyrillic capital letter abkhasian che with descender	all	never	# Ҿ 0x4be
+ҿ	cyrillic small letter abkhasian che with descender	all	never	# ҿ 0x4bf
+Ӏ	cyrillic letter palochka	all	never	# Ӏ 0x4c0
+Ӂ	cyrillic capital letter zhe with breve	all	never	# Ӂ 0x4c1
+ӂ	cyrillic small letter zhe with breve	all	never	# ӂ 0x4c2
+Ӄ	cyrillic capital letter ka with hook	all	never	# Ӄ 0x4c3
+ӄ	cyrillic small letter ka with hook	all	never	# ӄ 0x4c4
+Ӆ	cyrillic capital letter el with tail	all	never	# Ӆ 0x4c5
+ӆ	cyrillic small letter el with tail	all	never	# ӆ 0x4c6
+Ӈ	cyrillic capital letter en with hook	all	never	# Ӈ 0x4c7
+ӈ	cyrillic small letter en with hook	all	never	# ӈ 0x4c8
+Ӊ	cyrillic capital letter en with tail	all	never	# Ӊ 0x4c9
+ӊ	cyrillic small letter en with tail	all	never	# ӊ 0x4ca
+Ӌ	cyrillic capital letter khakassian che	all	never	# Ӌ 0x4cb
+ӌ	cyrillic small letter khakassian che	all	never	# ӌ 0x4cc
+Ӎ	cyrillic capital letter em with tail	all	never	# Ӎ 0x4cd
+ӎ	cyrillic small letter em with tail	all	never	# ӎ 0x4ce
+ӏ	cyrillic small letter palochka	all	never	# ӏ 0x4cf
+Ӑ	cyrillic capital letter A with breve	all	never	# Ӑ 0x4d0
+ӑ	cyrillic small letter A with breve	all	never	# ӑ 0x4d1
+Ӓ	cyrillic capital letter A with diaeresis	all	never	# Ӓ 0x4d2
+ӓ	cyrillic small letter A with diaeresis	all	never	# ӓ 0x4d3
+Ӕ	cyrillic capital ligature A ie	all	never	# Ӕ 0x4d4
+ӕ	cyrillic small ligature A ie	all	never	# ӕ 0x4d5
+Ӗ	cyrillic capital letter ie with breve	all	never	# Ӗ 0x4d6
+ӗ	cyrillic small letter ie with breve	all	never	# ӗ 0x4d7
+Ә	cyrillic capital letter schwa	all	never	# Ә 0x4d8
+ә	cyrillic small letter schwa	all	never	# ә 0x4d9
+Ӛ	cyrillic capital letter schwa with diaeresis	all	never	# Ӛ 0x4da
+ӛ	cyrillic small letter schwa with diaeresis	all	never	# ӛ 0x4db
+Ӝ	cyrillic capital letter zhe with diaeresis	all	never	# Ӝ 0x4dc
+ӝ	cyrillic small letter zhe with diaeresis	all	never	# ӝ 0x4dd
+Ӟ	cyrillic capital letter ze with diaeresis	all	never	# Ӟ 0x4de
+ӟ	cyrillic small letter ze with diaeresis	all	never	# ӟ 0x4df
+Ӡ	cyrillic capital letter abkhasian dze	all	never	# Ӡ 0x4e0
+ӡ	cyrillic small letter abkhasian dze	all	never	# ӡ 0x4e1
+Ӣ	cyrillic capital letter I with macron	all	never	# Ӣ 0x4e2
+ӣ	cyrillic small letter I with macron	all	never	# ӣ 0x4e3
+Ӥ	cyrillic capital letter I with diaeresis	all	never	# Ӥ 0x4e4
+ӥ	cyrillic small letter I with diaeresis	all	never	# ӥ 0x4e5
+Ӧ	cyrillic capital letter O with diaeresis	all	never	# Ӧ 0x4e6
+ӧ	cyrillic small letter O with diaeresis	all	never	# ӧ 0x4e7
+Ө	cyrillic capital letter barred O	all	never	# Ө 0x4e8
+ө	cyrillic small letter barred O	all	never	# ө 0x4e9
+Ӫ	cyrillic capital letter barred O with diaeresis	all	never	# Ӫ 0x4ea
+ӫ	cyrillic small letter barred O with diaeresis	all	never	# ӫ 0x4eb
+Ӭ	cyrillic capital letter E with diaeresis	all	never	# Ӭ 0x4ec
+ӭ	cyrillic small letter E with diaeresis	all	never	# ӭ 0x4ed
+Ӯ	cyrillic capital letter U with macron	all	never	# Ӯ 0x4ee
+ӯ	cyrillic small letter U with macron	all	never	# ӯ 0x4ef
+Ӱ	cyrillic capital letter U with diaeresis	all	never	# Ӱ 0x4f0
+ӱ	cyrillic small letter U with diaeresis	all	never	# ӱ 0x4f1
+Ӳ	cyrillic capital letter U with double acute	all	never	# Ӳ 0x4f2
+ӳ	cyrillic small letter U with double acute	all	never	# ӳ 0x4f3
+Ӵ	cyrillic capital letter che with diaeresis	all	never	# Ӵ 0x4f4
+ӵ	cyrillic small letter che with diaeresis	all	never	# ӵ 0x4f5
+Ӷ	cyrillic capital letter ghe with descender	all	never	# Ӷ 0x4f6
+ӷ	cyrillic small letter ghe with descender	all	never	# ӷ 0x4f7
+Ӹ	cyrillic capital letter yeru with diaeresis	all	never	# Ӹ 0x4f8
+ӹ	cyrillic small letter yeru with diaeresis	all	never	# ӹ 0x4f9
+Ӻ	cyrillic capital letter ghe with stroke and hook	all	never	# Ӻ 0x4fa
+ӻ	cyrillic small letter ghe with stroke and hook	all	never	# ӻ 0x4fb
+Ӽ	cyrillic capital letter ha with hook	all	never	# Ӽ 0x4fc
+ӽ	cyrillic small letter ha with hook	all	never	# ӽ 0x4fd
+Ӿ	cyrillic capital letter ha with stroke	all	never	# Ӿ 0x4fe
+ӿ	cyrillic small letter ha with stroke	all	never	# ӿ 0x4ff

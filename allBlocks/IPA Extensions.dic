@@ -1,0 +1,97 @@
+# # ipa Extensions
+ɐ	latin small letter turned A	all	never	# ɐ 0x250
+ɑ	latin small letter alpha	all	never	# ɑ 0x251
+ɒ	latin small letter turned alpha	all	never	# ɒ 0x252
+ɓ	latin small letter B with hook	all	never	# ɓ 0x253
+ɔ	latin small letter open O	all	never	# ɔ 0x254
+ɕ	latin small letter C with curl	all	never	# ɕ 0x255
+ɖ	latin small letter D with tail	all	never	# ɖ 0x256
+ɗ	latin small letter D with hook	all	never	# ɗ 0x257
+ɘ	latin small letter reversed E	all	never	# ɘ 0x258
+ə	latin small letter schwa	all	never	# ə 0x259
+ɚ	latin small letter schwa with hook	all	never	# ɚ 0x25a
+ɛ	latin small letter open E	all	never	# ɛ 0x25b
+ɜ	latin small letter reversed open E	all	never	# ɜ 0x25c
+ɝ	latin small letter reversed open E with hook	all	never	# ɝ 0x25d
+ɞ	latin small letter closed reversed open E	all	never	# ɞ 0x25e
+ɟ	latin small letter dotless J with stroke	all	never	# ɟ 0x25f
+ɠ	latin small letter G with hook	all	never	# ɠ 0x260
+ɡ	latin small letter script G	all	never	# ɡ 0x261
+ɢ	latin letter small capital G	all	never	# ɢ 0x262
+ɣ	latin small letter gamma	all	never	# ɣ 0x263
+ɤ	latin small letter rams horn	all	never	# ɤ 0x264
+ɥ	latin small letter turned H	all	never	# ɥ 0x265
+ɦ	latin small letter H with hook	all	never	# ɦ 0x266
+ɧ	latin small letter heng with hook	all	never	# ɧ 0x267
+ɨ	latin small letter I with stroke	all	never	# ɨ 0x268
+ɩ	latin small letter iota	all	never	# ɩ 0x269
+ɪ	latin letter small capital I	all	never	# ɪ 0x26a
+ɫ	latin small letter L with middle tilde	all	never	# ɫ 0x26b
+ɬ	latin small letter L with belt	all	never	# ɬ 0x26c
+ɭ	latin small letter L with retroflex hook	all	never	# ɭ 0x26d
+ɮ	latin small letter lezh	all	never	# ɮ 0x26e
+ɯ	latin small letter turned M	all	never	# ɯ 0x26f
+ɰ	latin small letter turned M with long leg	all	never	# ɰ 0x270
+ɱ	latin small letter M with hook	all	never	# ɱ 0x271
+ɲ	latin small letter N with left hook	all	never	# ɲ 0x272
+ɳ	latin small letter N with retroflex hook	all	never	# ɳ 0x273
+ɴ	latin letter small capital N	all	never	# ɴ 0x274
+ɵ	latin small letter barred O	all	never	# ɵ 0x275
+ɶ	latin letter small capital oe	all	never	# ɶ 0x276
+ɷ	latin small letter closed omega	all	never	# ɷ 0x277
+ɸ	latin small letter phi	all	never	# ɸ 0x278
+ɹ	latin small letter turned R	all	never	# ɹ 0x279
+ɺ	latin small letter turned R with long leg	all	never	# ɺ 0x27a
+ɻ	latin small letter turned R with hook	all	never	# ɻ 0x27b
+ɼ	latin small letter R with long leg	all	never	# ɼ 0x27c
+ɽ	latin small letter R with tail	all	never	# ɽ 0x27d
+ɾ	latin small letter R with fishhook	all	never	# ɾ 0x27e
+ɿ	latin small letter reversed R with fishhook	all	never	# ɿ 0x27f
+ʀ	latin letter small capital R	all	never	# ʀ 0x280
+ʁ	latin letter small capital inverted R	all	never	# ʁ 0x281
+ʂ	latin small letter S with hook	all	never	# ʂ 0x282
+ʃ	latin small letter esh	all	never	# ʃ 0x283
+ʄ	latin small letter dotless J with stroke and hook	all	never	# ʄ 0x284
+ʅ	latin small letter squat reversed esh	all	never	# ʅ 0x285
+ʆ	latin small letter esh with curl	all	never	# ʆ 0x286
+ʇ	latin small letter turned T	all	never	# ʇ 0x287
+ʈ	latin small letter T with retroflex hook	all	never	# ʈ 0x288
+ʉ	latin small letter U bar	all	never	# ʉ 0x289
+ʊ	latin small letter upsilon	all	never	# ʊ 0x28a
+ʋ	latin small letter V with hook	all	never	# ʋ 0x28b
+ʌ	latin small letter turned V	all	never	# ʌ 0x28c
+ʍ	latin small letter turned W	all	never	# ʍ 0x28d
+ʎ	latin small letter turned Y	all	never	# ʎ 0x28e
+ʏ	latin letter small capital Y	all	never	# ʏ 0x28f
+ʐ	latin small letter Z with retroflex hook	all	never	# ʐ 0x290
+ʑ	latin small letter Z with curl	all	never	# ʑ 0x291
+ʒ	latin small letter ezh	all	never	# ʒ 0x292
+ʓ	latin small letter ezh with curl	all	never	# ʓ 0x293
+ʔ	latin letter glottal stop	all	never	# ʔ 0x294
+ʕ	latin letter pharyngeal voiced fricative	all	never	# ʕ 0x295
+ʖ	latin letter inverted glottal stop	all	never	# ʖ 0x296
+ʗ	latin letter stretched C	all	never	# ʗ 0x297
+ʘ	latin letter bilabial click	all	never	# ʘ 0x298
+ʙ	latin letter small capital B	all	never	# ʙ 0x299
+ʚ	latin small letter closed open E	all	never	# ʚ 0x29a
+ʛ	latin letter small capital G with hook	all	never	# ʛ 0x29b
+ʜ	latin letter small capital H	all	never	# ʜ 0x29c
+ʝ	latin small letter J with crossed-tail	all	never	# ʝ 0x29d
+ʞ	latin small letter turned K	all	never	# ʞ 0x29e
+ʟ	latin letter small capital L	all	never	# ʟ 0x29f
+ʠ	latin small letter Q with hook	all	never	# ʠ 0x2a0
+ʡ	latin letter glottal stop with stroke	all	never	# ʡ 0x2a1
+ʢ	latin letter reversed glottal stop with stroke	all	never	# ʢ 0x2a2
+ʣ	latin small letter dz digraph	all	never	# ʣ 0x2a3
+ʤ	latin small letter dezh digraph	all	never	# ʤ 0x2a4
+ʥ	latin small letter dz digraph with curl	all	never	# ʥ 0x2a5
+ʦ	latin small letter ts digraph	all	never	# ʦ 0x2a6
+ʧ	latin small letter tesh digraph	all	never	# ʧ 0x2a7
+ʨ	latin small letter tc digraph with curl	all	never	# ʨ 0x2a8
+ʩ	latin small letter feng digraph	all	never	# ʩ 0x2a9
+ʪ	latin small letter ls digraph	all	never	# ʪ 0x2aa
+ʫ	latin small letter lz digraph	all	never	# ʫ 0x2ab
+ʬ	latin letter bilabial percussive	all	never	# ʬ 0x2ac
+ʭ	latin letter bidental percussive	all	never	# ʭ 0x2ad
+ʮ	latin small letter turned H with fishhook	all	never	# ʮ 0x2ae
+ʯ	latin small letter turned H with fishhook and tail	all	never	# ʯ 0x2af

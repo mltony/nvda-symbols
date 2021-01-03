@@ -1,0 +1,43 @@
+# # Superscripts and Subscripts
+# ⁰	superscript zero	all	never	# ⁰ 0x2070
+ⁱ	superscript latin small letter I	all	never	# ⁱ 0x2071
+# ⁴	superscript four	all	never	# ⁴ 0x2074
+# ⁵	superscript five	all	never	# ⁵ 0x2075
+# ⁶	superscript six	all	never	# ⁶ 0x2076
+# ⁷	superscript seven	all	never	# ⁷ 0x2077
+# ⁸	superscript eight	all	never	# ⁸ 0x2078
+# ⁹	superscript nine	all	never	# ⁹ 0x2079
+# ⁺	superscript plus sign	all	never	# ⁺ 0x207a
+# ⁻	superscript minus	all	never	# ⁻ 0x207b
+# ⁼	superscript equals sign	all	never	# ⁼ 0x207c
+# ⁽	superscript left parenthesis	all	never	# ⁽ 0x207d
+# ⁾	superscript right parenthesis	all	never	# ⁾ 0x207e
+# ⁿ	superscript latin small letter N	all	never	# ⁿ 0x207f
+# ₀	subscript zero	all	never	# ₀ 0x2080
+# ₁	subscript one	all	never	# ₁ 0x2081
+# ₂	subscript two	all	never	# ₂ 0x2082
+# ₃	subscript three	all	never	# ₃ 0x2083
+# ₄	subscript four	all	never	# ₄ 0x2084
+# ₅	subscript five	all	never	# ₅ 0x2085
+# ₆	subscript six	all	never	# ₆ 0x2086
+# ₇	subscript seven	all	never	# ₇ 0x2087
+# ₈	subscript eight	all	never	# ₈ 0x2088
+# ₉	subscript nine	all	never	# ₉ 0x2089
+# ₊	subscript plus sign	all	never	# ₊ 0x208a
+# ₋	subscript minus	all	never	# ₋ 0x208b
+# ₌	subscript equals sign	all	never	# ₌ 0x208c
+# ₍	subscript left parenthesis	all	never	# ₍ 0x208d
+# ₎	subscript right parenthesis	all	never	# ₎ 0x208e
+ₐ	latin subscript small letter A	all	never	# ₐ 0x2090
+ₑ	latin subscript small letter E	all	never	# ₑ 0x2091
+ₒ	latin subscript small letter O	all	never	# ₒ 0x2092
+ₓ	latin subscript small letter X	all	never	# ₓ 0x2093
+ₔ	latin subscript small letter schwa	all	never	# ₔ 0x2094
+ₕ	latin subscript small letter H	all	never	# ₕ 0x2095
+ₖ	latin subscript small letter K	all	never	# ₖ 0x2096
+ₗ	latin subscript small letter L	all	never	# ₗ 0x2097
+ₘ	latin subscript small letter M	all	never	# ₘ 0x2098
+ₙ	latin subscript small letter N	all	never	# ₙ 0x2099
+ₚ	latin subscript small letter P	all	never	# ₚ 0x209a
+ₛ	latin subscript small letter S	all	never	# ₛ 0x209b
+ₜ	latin subscript small letter T	all	never	# ₜ 0x209c

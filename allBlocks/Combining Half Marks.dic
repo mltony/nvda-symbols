@@ -1,0 +1,17 @@
+# # Combining Half Marks
+︠	combining ligature left half	all	never	# ︠ 0xfe20
+︡	combining ligature right half	all	never	# ︡ 0xfe21
+︢	combining double tilde left half	all	never	# ︢ 0xfe22
+︣	combining double tilde right half	all	never	# ︣ 0xfe23
+︤	combining macron left half	all	never	# ︤ 0xfe24
+︥	combining macron right half	all	never	# ︥ 0xfe25
+︦	combining conjoining macron	all	never	# ︦ 0xfe26
+︧	combining ligature left half below	all	never	# ︧ 0xfe27
+︨	combining ligature right half below	all	never	# ︨ 0xfe28
+︩	combining tilde left half below	all	never	# ︩ 0xfe29
+︪	combining tilde right half below	all	never	# ︪ 0xfe2a
+︫	combining macron left half below	all	never	# ︫ 0xfe2b
+︬	combining macron right half below	all	never	# ︬ 0xfe2c
+︭	combining conjoining macron below	all	never	# ︭ 0xfe2d
+︮	combining cyrillic titlo left half	all	never	# ︮ 0xfe2e
+︯	combining cyrillic titlo right half	all	never	# ︯ 0xfe2f

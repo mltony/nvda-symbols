@@ -1,0 +1,641 @@
+# # Unified Canadian Aboriginal Syllabics
+᐀	canadian syllabics hyphen	all	never	# ᐀ 0x1400
+ᐁ	canadian syllabics E	all	never	# ᐁ 0x1401
+ᐂ	canadian syllabics aai	all	never	# ᐂ 0x1402
+ᐃ	canadian syllabics I	all	never	# ᐃ 0x1403
+ᐄ	canadian syllabics ii	all	never	# ᐄ 0x1404
+ᐅ	canadian syllabics O	all	never	# ᐅ 0x1405
+ᐆ	canadian syllabics oo	all	never	# ᐆ 0x1406
+ᐇ	canadian syllabics Y-cree oo	all	never	# ᐇ 0x1407
+ᐈ	canadian syllabics carrier ee	all	never	# ᐈ 0x1408
+ᐉ	canadian syllabics carrier I	all	never	# ᐉ 0x1409
+ᐊ	canadian syllabics A	all	never	# ᐊ 0x140a
+ᐋ	canadian syllabics aa	all	never	# ᐋ 0x140b
+ᐌ	canadian syllabics we	all	never	# ᐌ 0x140c
+ᐍ	canadian syllabics west-cree we	all	never	# ᐍ 0x140d
+ᐎ	canadian syllabics wi	all	never	# ᐎ 0x140e
+ᐏ	canadian syllabics west-cree wi	all	never	# ᐏ 0x140f
+ᐐ	canadian syllabics wii	all	never	# ᐐ 0x1410
+ᐑ	canadian syllabics west-cree wii	all	never	# ᐑ 0x1411
+ᐒ	canadian syllabics wo	all	never	# ᐒ 0x1412
+ᐓ	canadian syllabics west-cree wo	all	never	# ᐓ 0x1413
+ᐔ	canadian syllabics woo	all	never	# ᐔ 0x1414
+ᐕ	canadian syllabics west-cree woo	all	never	# ᐕ 0x1415
+ᐖ	canadian syllabics naskapi woo	all	never	# ᐖ 0x1416
+ᐗ	canadian syllabics wa	all	never	# ᐗ 0x1417
+ᐘ	canadian syllabics west-cree wa	all	never	# ᐘ 0x1418
+ᐙ	canadian syllabics waa	all	never	# ᐙ 0x1419
+ᐚ	canadian syllabics west-cree waa	all	never	# ᐚ 0x141a
+ᐛ	canadian syllabics naskapi waa	all	never	# ᐛ 0x141b
+ᐜ	canadian syllabics ai	all	never	# ᐜ 0x141c
+ᐝ	canadian syllabics Y-cree W	all	never	# ᐝ 0x141d
+ᐞ	canadian syllabics glottal stop	all	never	# ᐞ 0x141e
+ᐟ	canadian syllabics final acute	all	never	# ᐟ 0x141f
+ᐠ	canadian syllabics final grave	all	never	# ᐠ 0x1420
+ᐡ	canadian syllabics final bottom half ring	all	never	# ᐡ 0x1421
+ᐢ	canadian syllabics final top half ring	all	never	# ᐢ 0x1422
+ᐣ	canadian syllabics final right half ring	all	never	# ᐣ 0x1423
+ᐤ	canadian syllabics final ring	all	never	# ᐤ 0x1424
+ᐥ	canadian syllabics final double acute	all	never	# ᐥ 0x1425
+ᐦ	canadian syllabics final double short vertical strokes	all	never	# ᐦ 0x1426
+ᐧ	canadian syllabics final middle dot	all	never	# ᐧ 0x1427
+ᐨ	canadian syllabics final short horizontal stroke	all	never	# ᐨ 0x1428
+ᐩ	canadian syllabics final plus	all	never	# ᐩ 0x1429
+ᐪ	canadian syllabics final down tack	all	never	# ᐪ 0x142a
+ᐫ	canadian syllabics en	all	never	# ᐫ 0x142b
+ᐬ	canadian syllabics in	all	never	# ᐬ 0x142c
+ᐭ	canadian syllabics on	all	never	# ᐭ 0x142d
+ᐮ	canadian syllabics an	all	never	# ᐮ 0x142e
+ᐯ	canadian syllabics pe	all	never	# ᐯ 0x142f
+ᐰ	canadian syllabics paai	all	never	# ᐰ 0x1430
+ᐱ	canadian syllabics pi	all	never	# ᐱ 0x1431
+ᐲ	canadian syllabics pii	all	never	# ᐲ 0x1432
+ᐳ	canadian syllabics po	all	never	# ᐳ 0x1433
+ᐴ	canadian syllabics poo	all	never	# ᐴ 0x1434
+ᐵ	canadian syllabics Y-cree poo	all	never	# ᐵ 0x1435
+ᐶ	canadian syllabics carrier hee	all	never	# ᐶ 0x1436
+ᐷ	canadian syllabics carrier hi	all	never	# ᐷ 0x1437
+ᐸ	canadian syllabics pa	all	never	# ᐸ 0x1438
+ᐹ	canadian syllabics paa	all	never	# ᐹ 0x1439
+ᐺ	canadian syllabics pwe	all	never	# ᐺ 0x143a
+ᐻ	canadian syllabics west-cree pwe	all	never	# ᐻ 0x143b
+ᐼ	canadian syllabics pwi	all	never	# ᐼ 0x143c
+ᐽ	canadian syllabics west-cree pwi	all	never	# ᐽ 0x143d
+ᐾ	canadian syllabics pwii	all	never	# ᐾ 0x143e
+ᐿ	canadian syllabics west-cree pwii	all	never	# ᐿ 0x143f
+ᑀ	canadian syllabics pwo	all	never	# ᑀ 0x1440
+ᑁ	canadian syllabics west-cree pwo	all	never	# ᑁ 0x1441
+ᑂ	canadian syllabics pwoo	all	never	# ᑂ 0x1442
+ᑃ	canadian syllabics west-cree pwoo	all	never	# ᑃ 0x1443
+ᑄ	canadian syllabics pwa	all	never	# ᑄ 0x1444
+ᑅ	canadian syllabics west-cree pwa	all	never	# ᑅ 0x1445
+ᑆ	canadian syllabics pwaa	all	never	# ᑆ 0x1446
+ᑇ	canadian syllabics west-cree pwaa	all	never	# ᑇ 0x1447
+ᑈ	canadian syllabics Y-cree pwaa	all	never	# ᑈ 0x1448
+ᑉ	canadian syllabics P	all	never	# ᑉ 0x1449
+ᑊ	canadian syllabics west-cree P	all	never	# ᑊ 0x144a
+ᑋ	canadian syllabics carrier H	all	never	# ᑋ 0x144b
+ᑌ	canadian syllabics te	all	never	# ᑌ 0x144c
+ᑍ	canadian syllabics taai	all	never	# ᑍ 0x144d
+ᑎ	canadian syllabics ti	all	never	# ᑎ 0x144e
+ᑏ	canadian syllabics tii	all	never	# ᑏ 0x144f
+ᑐ	canadian syllabics to	all	never	# ᑐ 0x1450
+ᑑ	canadian syllabics too	all	never	# ᑑ 0x1451
+ᑒ	canadian syllabics Y-cree too	all	never	# ᑒ 0x1452
+ᑓ	canadian syllabics carrier dee	all	never	# ᑓ 0x1453
+ᑔ	canadian syllabics carrier di	all	never	# ᑔ 0x1454
+ᑕ	canadian syllabics ta	all	never	# ᑕ 0x1455
+ᑖ	canadian syllabics taa	all	never	# ᑖ 0x1456
+ᑗ	canadian syllabics twe	all	never	# ᑗ 0x1457
+ᑘ	canadian syllabics west-cree twe	all	never	# ᑘ 0x1458
+ᑙ	canadian syllabics twi	all	never	# ᑙ 0x1459
+ᑚ	canadian syllabics west-cree twi	all	never	# ᑚ 0x145a
+ᑛ	canadian syllabics twii	all	never	# ᑛ 0x145b
+ᑜ	canadian syllabics west-cree twii	all	never	# ᑜ 0x145c
+ᑝ	canadian syllabics two	all	never	# ᑝ 0x145d
+ᑞ	canadian syllabics west-cree two	all	never	# ᑞ 0x145e
+ᑟ	canadian syllabics twoo	all	never	# ᑟ 0x145f
+ᑠ	canadian syllabics west-cree twoo	all	never	# ᑠ 0x1460
+ᑡ	canadian syllabics twa	all	never	# ᑡ 0x1461
+ᑢ	canadian syllabics west-cree twa	all	never	# ᑢ 0x1462
+ᑣ	canadian syllabics twaa	all	never	# ᑣ 0x1463
+ᑤ	canadian syllabics west-cree twaa	all	never	# ᑤ 0x1464
+ᑥ	canadian syllabics naskapi twaa	all	never	# ᑥ 0x1465
+ᑦ	canadian syllabics T	all	never	# ᑦ 0x1466
+ᑧ	canadian syllabics tte	all	never	# ᑧ 0x1467
+ᑨ	canadian syllabics tti	all	never	# ᑨ 0x1468
+ᑩ	canadian syllabics tto	all	never	# ᑩ 0x1469
+ᑪ	canadian syllabics tta	all	never	# ᑪ 0x146a
+ᑫ	canadian syllabics ke	all	never	# ᑫ 0x146b
+ᑬ	canadian syllabics kaai	all	never	# ᑬ 0x146c
+ᑭ	canadian syllabics ki	all	never	# ᑭ 0x146d
+ᑮ	canadian syllabics kii	all	never	# ᑮ 0x146e
+ᑯ	canadian syllabics ko	all	never	# ᑯ 0x146f
+ᑰ	canadian syllabics koo	all	never	# ᑰ 0x1470
+ᑱ	canadian syllabics Y-cree koo	all	never	# ᑱ 0x1471
+ᑲ	canadian syllabics ka	all	never	# ᑲ 0x1472
+ᑳ	canadian syllabics kaa	all	never	# ᑳ 0x1473
+ᑴ	canadian syllabics kwe	all	never	# ᑴ 0x1474
+ᑵ	canadian syllabics west-cree kwe	all	never	# ᑵ 0x1475
+ᑶ	canadian syllabics kwi	all	never	# ᑶ 0x1476
+ᑷ	canadian syllabics west-cree kwi	all	never	# ᑷ 0x1477
+ᑸ	canadian syllabics kwii	all	never	# ᑸ 0x1478
+ᑹ	canadian syllabics west-cree kwii	all	never	# ᑹ 0x1479
+ᑺ	canadian syllabics kwo	all	never	# ᑺ 0x147a
+ᑻ	canadian syllabics west-cree kwo	all	never	# ᑻ 0x147b
+ᑼ	canadian syllabics kwoo	all	never	# ᑼ 0x147c
+ᑽ	canadian syllabics west-cree kwoo	all	never	# ᑽ 0x147d
+ᑾ	canadian syllabics kwa	all	never	# ᑾ 0x147e
+ᑿ	canadian syllabics west-cree kwa	all	never	# ᑿ 0x147f
+ᒀ	canadian syllabics kwaa	all	never	# ᒀ 0x1480
+ᒁ	canadian syllabics west-cree kwaa	all	never	# ᒁ 0x1481
+ᒂ	canadian syllabics naskapi kwaa	all	never	# ᒂ 0x1482
+ᒃ	canadian syllabics K	all	never	# ᒃ 0x1483
+ᒄ	canadian syllabics kw	all	never	# ᒄ 0x1484
+ᒅ	canadian syllabics south-slavey keh	all	never	# ᒅ 0x1485
+ᒆ	canadian syllabics south-slavey kih	all	never	# ᒆ 0x1486
+ᒇ	canadian syllabics south-slavey koh	all	never	# ᒇ 0x1487
+ᒈ	canadian syllabics south-slavey kah	all	never	# ᒈ 0x1488
+ᒉ	canadian syllabics ce	all	never	# ᒉ 0x1489
+ᒊ	canadian syllabics caai	all	never	# ᒊ 0x148a
+ᒋ	canadian syllabics ci	all	never	# ᒋ 0x148b
+ᒌ	canadian syllabics cii	all	never	# ᒌ 0x148c
+ᒍ	canadian syllabics co	all	never	# ᒍ 0x148d
+ᒎ	canadian syllabics coo	all	never	# ᒎ 0x148e
+ᒏ	canadian syllabics Y-cree coo	all	never	# ᒏ 0x148f
+ᒐ	canadian syllabics ca	all	never	# ᒐ 0x1490
+ᒑ	canadian syllabics caa	all	never	# ᒑ 0x1491
+ᒒ	canadian syllabics cwe	all	never	# ᒒ 0x1492
+ᒓ	canadian syllabics west-cree cwe	all	never	# ᒓ 0x1493
+ᒔ	canadian syllabics cwi	all	never	# ᒔ 0x1494
+ᒕ	canadian syllabics west-cree cwi	all	never	# ᒕ 0x1495
+ᒖ	canadian syllabics cwii	all	never	# ᒖ 0x1496
+ᒗ	canadian syllabics west-cree cwii	all	never	# ᒗ 0x1497
+ᒘ	canadian syllabics cwo	all	never	# ᒘ 0x1498
+ᒙ	canadian syllabics west-cree cwo	all	never	# ᒙ 0x1499
+ᒚ	canadian syllabics cwoo	all	never	# ᒚ 0x149a
+ᒛ	canadian syllabics west-cree cwoo	all	never	# ᒛ 0x149b
+ᒜ	canadian syllabics cwa	all	never	# ᒜ 0x149c
+ᒝ	canadian syllabics west-cree cwa	all	never	# ᒝ 0x149d
+ᒞ	canadian syllabics cwaa	all	never	# ᒞ 0x149e
+ᒟ	canadian syllabics west-cree cwaa	all	never	# ᒟ 0x149f
+ᒠ	canadian syllabics naskapi cwaa	all	never	# ᒠ 0x14a0
+ᒡ	canadian syllabics C	all	never	# ᒡ 0x14a1
+ᒢ	canadian syllabics sayisi th	all	never	# ᒢ 0x14a2
+ᒣ	canadian syllabics me	all	never	# ᒣ 0x14a3
+ᒤ	canadian syllabics maai	all	never	# ᒤ 0x14a4
+ᒥ	canadian syllabics mi	all	never	# ᒥ 0x14a5
+ᒦ	canadian syllabics mii	all	never	# ᒦ 0x14a6
+ᒧ	canadian syllabics mo	all	never	# ᒧ 0x14a7
+ᒨ	canadian syllabics moo	all	never	# ᒨ 0x14a8
+ᒩ	canadian syllabics Y-cree moo	all	never	# ᒩ 0x14a9
+ᒪ	canadian syllabics ma	all	never	# ᒪ 0x14aa
+ᒫ	canadian syllabics maa	all	never	# ᒫ 0x14ab
+ᒬ	canadian syllabics mwe	all	never	# ᒬ 0x14ac
+ᒭ	canadian syllabics west-cree mwe	all	never	# ᒭ 0x14ad
+ᒮ	canadian syllabics mwi	all	never	# ᒮ 0x14ae
+ᒯ	canadian syllabics west-cree mwi	all	never	# ᒯ 0x14af
+ᒰ	canadian syllabics mwii	all	never	# ᒰ 0x14b0
+ᒱ	canadian syllabics west-cree mwii	all	never	# ᒱ 0x14b1
+ᒲ	canadian syllabics mwo	all	never	# ᒲ 0x14b2
+ᒳ	canadian syllabics west-cree mwo	all	never	# ᒳ 0x14b3
+ᒴ	canadian syllabics mwoo	all	never	# ᒴ 0x14b4
+ᒵ	canadian syllabics west-cree mwoo	all	never	# ᒵ 0x14b5
+ᒶ	canadian syllabics mwa	all	never	# ᒶ 0x14b6
+ᒷ	canadian syllabics west-cree mwa	all	never	# ᒷ 0x14b7
+ᒸ	canadian syllabics mwaa	all	never	# ᒸ 0x14b8
+ᒹ	canadian syllabics west-cree mwaa	all	never	# ᒹ 0x14b9
+ᒺ	canadian syllabics naskapi mwaa	all	never	# ᒺ 0x14ba
+ᒻ	canadian syllabics M	all	never	# ᒻ 0x14bb
+ᒼ	canadian syllabics west-cree M	all	never	# ᒼ 0x14bc
+ᒽ	canadian syllabics mh	all	never	# ᒽ 0x14bd
+ᒾ	canadian syllabics athapascan M	all	never	# ᒾ 0x14be
+ᒿ	canadian syllabics sayisi M	all	never	# ᒿ 0x14bf
+ᓀ	canadian syllabics ne	all	never	# ᓀ 0x14c0
+ᓁ	canadian syllabics naai	all	never	# ᓁ 0x14c1
+ᓂ	canadian syllabics ni	all	never	# ᓂ 0x14c2
+ᓃ	canadian syllabics nii	all	never	# ᓃ 0x14c3
+ᓄ	canadian syllabics no	all	never	# ᓄ 0x14c4
+ᓅ	canadian syllabics noo	all	never	# ᓅ 0x14c5
+ᓆ	canadian syllabics Y-cree noo	all	never	# ᓆ 0x14c6
+ᓇ	canadian syllabics na	all	never	# ᓇ 0x14c7
+ᓈ	canadian syllabics naa	all	never	# ᓈ 0x14c8
+ᓉ	canadian syllabics nwe	all	never	# ᓉ 0x14c9
+ᓊ	canadian syllabics west-cree nwe	all	never	# ᓊ 0x14ca
+ᓋ	canadian syllabics nwa	all	never	# ᓋ 0x14cb
+ᓌ	canadian syllabics west-cree nwa	all	never	# ᓌ 0x14cc
+ᓍ	canadian syllabics nwaa	all	never	# ᓍ 0x14cd
+ᓎ	canadian syllabics west-cree nwaa	all	never	# ᓎ 0x14ce
+ᓏ	canadian syllabics naskapi nwaa	all	never	# ᓏ 0x14cf
+ᓐ	canadian syllabics N	all	never	# ᓐ 0x14d0
+ᓑ	canadian syllabics carrier ng	all	never	# ᓑ 0x14d1
+ᓒ	canadian syllabics nh	all	never	# ᓒ 0x14d2
+ᓓ	canadian syllabics le	all	never	# ᓓ 0x14d3
+ᓔ	canadian syllabics laai	all	never	# ᓔ 0x14d4
+ᓕ	canadian syllabics li	all	never	# ᓕ 0x14d5
+ᓖ	canadian syllabics lii	all	never	# ᓖ 0x14d6
+ᓗ	canadian syllabics lo	all	never	# ᓗ 0x14d7
+ᓘ	canadian syllabics loo	all	never	# ᓘ 0x14d8
+ᓙ	canadian syllabics Y-cree loo	all	never	# ᓙ 0x14d9
+ᓚ	canadian syllabics la	all	never	# ᓚ 0x14da
+ᓛ	canadian syllabics laa	all	never	# ᓛ 0x14db
+ᓜ	canadian syllabics lwe	all	never	# ᓜ 0x14dc
+ᓝ	canadian syllabics west-cree lwe	all	never	# ᓝ 0x14dd
+ᓞ	canadian syllabics lwi	all	never	# ᓞ 0x14de
+ᓟ	canadian syllabics west-cree lwi	all	never	# ᓟ 0x14df
+ᓠ	canadian syllabics lwii	all	never	# ᓠ 0x14e0
+ᓡ	canadian syllabics west-cree lwii	all	never	# ᓡ 0x14e1
+ᓢ	canadian syllabics lwo	all	never	# ᓢ 0x14e2
+ᓣ	canadian syllabics west-cree lwo	all	never	# ᓣ 0x14e3
+ᓤ	canadian syllabics lwoo	all	never	# ᓤ 0x14e4
+ᓥ	canadian syllabics west-cree lwoo	all	never	# ᓥ 0x14e5
+ᓦ	canadian syllabics lwa	all	never	# ᓦ 0x14e6
+ᓧ	canadian syllabics west-cree lwa	all	never	# ᓧ 0x14e7
+ᓨ	canadian syllabics lwaa	all	never	# ᓨ 0x14e8
+ᓩ	canadian syllabics west-cree lwaa	all	never	# ᓩ 0x14e9
+ᓪ	canadian syllabics L	all	never	# ᓪ 0x14ea
+ᓫ	canadian syllabics west-cree L	all	never	# ᓫ 0x14eb
+ᓬ	canadian syllabics medial L	all	never	# ᓬ 0x14ec
+ᓭ	canadian syllabics se	all	never	# ᓭ 0x14ed
+ᓮ	canadian syllabics saai	all	never	# ᓮ 0x14ee
+ᓯ	canadian syllabics si	all	never	# ᓯ 0x14ef
+ᓰ	canadian syllabics sii	all	never	# ᓰ 0x14f0
+ᓱ	canadian syllabics so	all	never	# ᓱ 0x14f1
+ᓲ	canadian syllabics soo	all	never	# ᓲ 0x14f2
+ᓳ	canadian syllabics Y-cree soo	all	never	# ᓳ 0x14f3
+ᓴ	canadian syllabics sa	all	never	# ᓴ 0x14f4
+ᓵ	canadian syllabics saa	all	never	# ᓵ 0x14f5
+ᓶ	canadian syllabics swe	all	never	# ᓶ 0x14f6
+ᓷ	canadian syllabics west-cree swe	all	never	# ᓷ 0x14f7
+ᓸ	canadian syllabics swi	all	never	# ᓸ 0x14f8
+ᓹ	canadian syllabics west-cree swi	all	never	# ᓹ 0x14f9
+ᓺ	canadian syllabics swii	all	never	# ᓺ 0x14fa
+ᓻ	canadian syllabics west-cree swii	all	never	# ᓻ 0x14fb
+ᓼ	canadian syllabics swo	all	never	# ᓼ 0x14fc
+ᓽ	canadian syllabics west-cree swo	all	never	# ᓽ 0x14fd
+ᓾ	canadian syllabics swoo	all	never	# ᓾ 0x14fe
+ᓿ	canadian syllabics west-cree swoo	all	never	# ᓿ 0x14ff
+ᔀ	canadian syllabics swa	all	never	# ᔀ 0x1500
+ᔁ	canadian syllabics west-cree swa	all	never	# ᔁ 0x1501
+ᔂ	canadian syllabics swaa	all	never	# ᔂ 0x1502
+ᔃ	canadian syllabics west-cree swaa	all	never	# ᔃ 0x1503
+ᔄ	canadian syllabics naskapi swaa	all	never	# ᔄ 0x1504
+ᔅ	canadian syllabics S	all	never	# ᔅ 0x1505
+ᔆ	canadian syllabics athapascan S	all	never	# ᔆ 0x1506
+ᔇ	canadian syllabics sw	all	never	# ᔇ 0x1507
+ᔈ	canadian syllabics blackfoot S	all	never	# ᔈ 0x1508
+ᔉ	canadian syllabics moose-cree sk	all	never	# ᔉ 0x1509
+ᔊ	canadian syllabics naskapi skw	all	never	# ᔊ 0x150a
+ᔋ	canadian syllabics naskapi S-W	all	never	# ᔋ 0x150b
+ᔌ	canadian syllabics naskapi spwa	all	never	# ᔌ 0x150c
+ᔍ	canadian syllabics naskapi stwa	all	never	# ᔍ 0x150d
+ᔎ	canadian syllabics naskapi skwa	all	never	# ᔎ 0x150e
+ᔏ	canadian syllabics naskapi scwa	all	never	# ᔏ 0x150f
+ᔐ	canadian syllabics she	all	never	# ᔐ 0x1510
+ᔑ	canadian syllabics shi	all	never	# ᔑ 0x1511
+ᔒ	canadian syllabics shii	all	never	# ᔒ 0x1512
+ᔓ	canadian syllabics sho	all	never	# ᔓ 0x1513
+ᔔ	canadian syllabics shoo	all	never	# ᔔ 0x1514
+ᔕ	canadian syllabics sha	all	never	# ᔕ 0x1515
+ᔖ	canadian syllabics shaa	all	never	# ᔖ 0x1516
+ᔗ	canadian syllabics shwe	all	never	# ᔗ 0x1517
+ᔘ	canadian syllabics west-cree shwe	all	never	# ᔘ 0x1518
+ᔙ	canadian syllabics shwi	all	never	# ᔙ 0x1519
+ᔚ	canadian syllabics west-cree shwi	all	never	# ᔚ 0x151a
+ᔛ	canadian syllabics shwii	all	never	# ᔛ 0x151b
+ᔜ	canadian syllabics west-cree shwii	all	never	# ᔜ 0x151c
+ᔝ	canadian syllabics shwo	all	never	# ᔝ 0x151d
+ᔞ	canadian syllabics west-cree shwo	all	never	# ᔞ 0x151e
+ᔟ	canadian syllabics shwoo	all	never	# ᔟ 0x151f
+ᔠ	canadian syllabics west-cree shwoo	all	never	# ᔠ 0x1520
+ᔡ	canadian syllabics shwa	all	never	# ᔡ 0x1521
+ᔢ	canadian syllabics west-cree shwa	all	never	# ᔢ 0x1522
+ᔣ	canadian syllabics shwaa	all	never	# ᔣ 0x1523
+ᔤ	canadian syllabics west-cree shwaa	all	never	# ᔤ 0x1524
+ᔥ	canadian syllabics sh	all	never	# ᔥ 0x1525
+ᔦ	canadian syllabics ye	all	never	# ᔦ 0x1526
+ᔧ	canadian syllabics yaai	all	never	# ᔧ 0x1527
+ᔨ	canadian syllabics yi	all	never	# ᔨ 0x1528
+ᔩ	canadian syllabics yii	all	never	# ᔩ 0x1529
+ᔪ	canadian syllabics yo	all	never	# ᔪ 0x152a
+ᔫ	canadian syllabics yoo	all	never	# ᔫ 0x152b
+ᔬ	canadian syllabics Y-cree yoo	all	never	# ᔬ 0x152c
+ᔭ	canadian syllabics ya	all	never	# ᔭ 0x152d
+ᔮ	canadian syllabics yaa	all	never	# ᔮ 0x152e
+ᔯ	canadian syllabics ywe	all	never	# ᔯ 0x152f
+ᔰ	canadian syllabics west-cree ywe	all	never	# ᔰ 0x1530
+ᔱ	canadian syllabics ywi	all	never	# ᔱ 0x1531
+ᔲ	canadian syllabics west-cree ywi	all	never	# ᔲ 0x1532
+ᔳ	canadian syllabics ywii	all	never	# ᔳ 0x1533
+ᔴ	canadian syllabics west-cree ywii	all	never	# ᔴ 0x1534
+ᔵ	canadian syllabics ywo	all	never	# ᔵ 0x1535
+ᔶ	canadian syllabics west-cree ywo	all	never	# ᔶ 0x1536
+ᔷ	canadian syllabics ywoo	all	never	# ᔷ 0x1537
+ᔸ	canadian syllabics west-cree ywoo	all	never	# ᔸ 0x1538
+ᔹ	canadian syllabics ywa	all	never	# ᔹ 0x1539
+ᔺ	canadian syllabics west-cree ywa	all	never	# ᔺ 0x153a
+ᔻ	canadian syllabics ywaa	all	never	# ᔻ 0x153b
+ᔼ	canadian syllabics west-cree ywaa	all	never	# ᔼ 0x153c
+ᔽ	canadian syllabics naskapi ywaa	all	never	# ᔽ 0x153d
+ᔾ	canadian syllabics Y	all	never	# ᔾ 0x153e
+ᔿ	canadian syllabics bible-cree Y	all	never	# ᔿ 0x153f
+ᕀ	canadian syllabics west-cree Y	all	never	# ᕀ 0x1540
+ᕁ	canadian syllabics sayisi yi	all	never	# ᕁ 0x1541
+ᕂ	canadian syllabics re	all	never	# ᕂ 0x1542
+ᕃ	canadian syllabics R-cree re	all	never	# ᕃ 0x1543
+ᕄ	canadian syllabics west-cree le	all	never	# ᕄ 0x1544
+ᕅ	canadian syllabics raai	all	never	# ᕅ 0x1545
+ᕆ	canadian syllabics ri	all	never	# ᕆ 0x1546
+ᕇ	canadian syllabics rii	all	never	# ᕇ 0x1547
+ᕈ	canadian syllabics ro	all	never	# ᕈ 0x1548
+ᕉ	canadian syllabics roo	all	never	# ᕉ 0x1549
+ᕊ	canadian syllabics west-cree lo	all	never	# ᕊ 0x154a
+ᕋ	canadian syllabics ra	all	never	# ᕋ 0x154b
+ᕌ	canadian syllabics raa	all	never	# ᕌ 0x154c
+ᕍ	canadian syllabics west-cree la	all	never	# ᕍ 0x154d
+ᕎ	canadian syllabics rwaa	all	never	# ᕎ 0x154e
+ᕏ	canadian syllabics west-cree rwaa	all	never	# ᕏ 0x154f
+ᕐ	canadian syllabics R	all	never	# ᕐ 0x1550
+ᕑ	canadian syllabics west-cree R	all	never	# ᕑ 0x1551
+ᕒ	canadian syllabics medial R	all	never	# ᕒ 0x1552
+ᕓ	canadian syllabics fe	all	never	# ᕓ 0x1553
+ᕔ	canadian syllabics faai	all	never	# ᕔ 0x1554
+ᕕ	canadian syllabics fi	all	never	# ᕕ 0x1555
+ᕖ	canadian syllabics fii	all	never	# ᕖ 0x1556
+ᕗ	canadian syllabics fo	all	never	# ᕗ 0x1557
+ᕘ	canadian syllabics foo	all	never	# ᕘ 0x1558
+ᕙ	canadian syllabics fa	all	never	# ᕙ 0x1559
+ᕚ	canadian syllabics faa	all	never	# ᕚ 0x155a
+ᕛ	canadian syllabics fwaa	all	never	# ᕛ 0x155b
+ᕜ	canadian syllabics west-cree fwaa	all	never	# ᕜ 0x155c
+ᕝ	canadian syllabics F	all	never	# ᕝ 0x155d
+ᕞ	canadian syllabics the	all	never	# ᕞ 0x155e
+ᕟ	canadian syllabics N-cree the	all	never	# ᕟ 0x155f
+ᕠ	canadian syllabics thi	all	never	# ᕠ 0x1560
+ᕡ	canadian syllabics N-cree thi	all	never	# ᕡ 0x1561
+ᕢ	canadian syllabics thii	all	never	# ᕢ 0x1562
+ᕣ	canadian syllabics N-cree thii	all	never	# ᕣ 0x1563
+ᕤ	canadian syllabics tho	all	never	# ᕤ 0x1564
+ᕥ	canadian syllabics thoo	all	never	# ᕥ 0x1565
+ᕦ	canadian syllabics tha	all	never	# ᕦ 0x1566
+ᕧ	canadian syllabics thaa	all	never	# ᕧ 0x1567
+ᕨ	canadian syllabics thwaa	all	never	# ᕨ 0x1568
+ᕩ	canadian syllabics west-cree thwaa	all	never	# ᕩ 0x1569
+ᕪ	canadian syllabics th	all	never	# ᕪ 0x156a
+ᕫ	canadian syllabics tthe	all	never	# ᕫ 0x156b
+ᕬ	canadian syllabics tthi	all	never	# ᕬ 0x156c
+ᕭ	canadian syllabics ttho	all	never	# ᕭ 0x156d
+ᕮ	canadian syllabics ttha	all	never	# ᕮ 0x156e
+ᕯ	canadian syllabics tth	all	never	# ᕯ 0x156f
+ᕰ	canadian syllabics tye	all	never	# ᕰ 0x1570
+ᕱ	canadian syllabics tyi	all	never	# ᕱ 0x1571
+ᕲ	canadian syllabics tyo	all	never	# ᕲ 0x1572
+ᕳ	canadian syllabics tya	all	never	# ᕳ 0x1573
+ᕴ	canadian syllabics nunavik he	all	never	# ᕴ 0x1574
+ᕵ	canadian syllabics nunavik hi	all	never	# ᕵ 0x1575
+ᕶ	canadian syllabics nunavik hii	all	never	# ᕶ 0x1576
+ᕷ	canadian syllabics nunavik ho	all	never	# ᕷ 0x1577
+ᕸ	canadian syllabics nunavik hoo	all	never	# ᕸ 0x1578
+ᕹ	canadian syllabics nunavik ha	all	never	# ᕹ 0x1579
+ᕺ	canadian syllabics nunavik haa	all	never	# ᕺ 0x157a
+ᕻ	canadian syllabics nunavik H	all	never	# ᕻ 0x157b
+ᕼ	canadian syllabics nunavut H	all	never	# ᕼ 0x157c
+ᕽ	canadian syllabics hk	all	never	# ᕽ 0x157d
+ᕾ	canadian syllabics qaai	all	never	# ᕾ 0x157e
+ᕿ	canadian syllabics qi	all	never	# ᕿ 0x157f
+ᖀ	canadian syllabics qii	all	never	# ᖀ 0x1580
+ᖁ	canadian syllabics qo	all	never	# ᖁ 0x1581
+ᖂ	canadian syllabics qoo	all	never	# ᖂ 0x1582
+ᖃ	canadian syllabics qa	all	never	# ᖃ 0x1583
+ᖄ	canadian syllabics qaa	all	never	# ᖄ 0x1584
+ᖅ	canadian syllabics Q	all	never	# ᖅ 0x1585
+ᖆ	canadian syllabics tlhe	all	never	# ᖆ 0x1586
+ᖇ	canadian syllabics tlhi	all	never	# ᖇ 0x1587
+ᖈ	canadian syllabics tlho	all	never	# ᖈ 0x1588
+ᖉ	canadian syllabics tlha	all	never	# ᖉ 0x1589
+ᖊ	canadian syllabics west-cree re	all	never	# ᖊ 0x158a
+ᖋ	canadian syllabics west-cree ri	all	never	# ᖋ 0x158b
+ᖌ	canadian syllabics west-cree ro	all	never	# ᖌ 0x158c
+ᖍ	canadian syllabics west-cree ra	all	never	# ᖍ 0x158d
+ᖎ	canadian syllabics ngaai	all	never	# ᖎ 0x158e
+ᖏ	canadian syllabics ngi	all	never	# ᖏ 0x158f
+ᖐ	canadian syllabics ngii	all	never	# ᖐ 0x1590
+ᖑ	canadian syllabics ngo	all	never	# ᖑ 0x1591
+ᖒ	canadian syllabics ngoo	all	never	# ᖒ 0x1592
+ᖓ	canadian syllabics nga	all	never	# ᖓ 0x1593
+ᖔ	canadian syllabics ngaa	all	never	# ᖔ 0x1594
+ᖕ	canadian syllabics ng	all	never	# ᖕ 0x1595
+ᖖ	canadian syllabics nng	all	never	# ᖖ 0x1596
+ᖗ	canadian syllabics sayisi she	all	never	# ᖗ 0x1597
+ᖘ	canadian syllabics sayisi shi	all	never	# ᖘ 0x1598
+ᖙ	canadian syllabics sayisi sho	all	never	# ᖙ 0x1599
+ᖚ	canadian syllabics sayisi sha	all	never	# ᖚ 0x159a
+ᖛ	canadian syllabics woods-cree the	all	never	# ᖛ 0x159b
+ᖜ	canadian syllabics woods-cree thi	all	never	# ᖜ 0x159c
+ᖝ	canadian syllabics woods-cree tho	all	never	# ᖝ 0x159d
+ᖞ	canadian syllabics woods-cree tha	all	never	# ᖞ 0x159e
+ᖟ	canadian syllabics woods-cree th	all	never	# ᖟ 0x159f
+ᖠ	canadian syllabics lhi	all	never	# ᖠ 0x15a0
+ᖡ	canadian syllabics lhii	all	never	# ᖡ 0x15a1
+ᖢ	canadian syllabics lho	all	never	# ᖢ 0x15a2
+ᖣ	canadian syllabics lhoo	all	never	# ᖣ 0x15a3
+ᖤ	canadian syllabics lha	all	never	# ᖤ 0x15a4
+ᖥ	canadian syllabics lhaa	all	never	# ᖥ 0x15a5
+ᖦ	canadian syllabics lh	all	never	# ᖦ 0x15a6
+ᖧ	canadian syllabics th-cree the	all	never	# ᖧ 0x15a7
+ᖨ	canadian syllabics th-cree thi	all	never	# ᖨ 0x15a8
+ᖩ	canadian syllabics th-cree thii	all	never	# ᖩ 0x15a9
+ᖪ	canadian syllabics th-cree tho	all	never	# ᖪ 0x15aa
+ᖫ	canadian syllabics th-cree thoo	all	never	# ᖫ 0x15ab
+ᖬ	canadian syllabics th-cree tha	all	never	# ᖬ 0x15ac
+ᖭ	canadian syllabics th-cree thaa	all	never	# ᖭ 0x15ad
+ᖮ	canadian syllabics th-cree th	all	never	# ᖮ 0x15ae
+ᖯ	canadian syllabics aivilik B	all	never	# ᖯ 0x15af
+ᖰ	canadian syllabics blackfoot E	all	never	# ᖰ 0x15b0
+ᖱ	canadian syllabics blackfoot I	all	never	# ᖱ 0x15b1
+ᖲ	canadian syllabics blackfoot O	all	never	# ᖲ 0x15b2
+ᖳ	canadian syllabics blackfoot A	all	never	# ᖳ 0x15b3
+ᖴ	canadian syllabics blackfoot we	all	never	# ᖴ 0x15b4
+ᖵ	canadian syllabics blackfoot wi	all	never	# ᖵ 0x15b5
+ᖶ	canadian syllabics blackfoot wo	all	never	# ᖶ 0x15b6
+ᖷ	canadian syllabics blackfoot wa	all	never	# ᖷ 0x15b7
+ᖸ	canadian syllabics blackfoot ne	all	never	# ᖸ 0x15b8
+ᖹ	canadian syllabics blackfoot ni	all	never	# ᖹ 0x15b9
+ᖺ	canadian syllabics blackfoot no	all	never	# ᖺ 0x15ba
+ᖻ	canadian syllabics blackfoot na	all	never	# ᖻ 0x15bb
+ᖼ	canadian syllabics blackfoot ke	all	never	# ᖼ 0x15bc
+ᖽ	canadian syllabics blackfoot ki	all	never	# ᖽ 0x15bd
+ᖾ	canadian syllabics blackfoot ko	all	never	# ᖾ 0x15be
+ᖿ	canadian syllabics blackfoot ka	all	never	# ᖿ 0x15bf
+ᗀ	canadian syllabics sayisi he	all	never	# ᗀ 0x15c0
+ᗁ	canadian syllabics sayisi hi	all	never	# ᗁ 0x15c1
+ᗂ	canadian syllabics sayisi ho	all	never	# ᗂ 0x15c2
+ᗃ	canadian syllabics sayisi ha	all	never	# ᗃ 0x15c3
+ᗄ	canadian syllabics carrier ghu	all	never	# ᗄ 0x15c4
+ᗅ	canadian syllabics carrier gho	all	never	# ᗅ 0x15c5
+ᗆ	canadian syllabics carrier ghe	all	never	# ᗆ 0x15c6
+ᗇ	canadian syllabics carrier ghee	all	never	# ᗇ 0x15c7
+ᗈ	canadian syllabics carrier ghi	all	never	# ᗈ 0x15c8
+ᗉ	canadian syllabics carrier gha	all	never	# ᗉ 0x15c9
+ᗊ	canadian syllabics carrier ru	all	never	# ᗊ 0x15ca
+ᗋ	canadian syllabics carrier ro	all	never	# ᗋ 0x15cb
+ᗌ	canadian syllabics carrier re	all	never	# ᗌ 0x15cc
+ᗍ	canadian syllabics carrier ree	all	never	# ᗍ 0x15cd
+ᗎ	canadian syllabics carrier ri	all	never	# ᗎ 0x15ce
+ᗏ	canadian syllabics carrier ra	all	never	# ᗏ 0x15cf
+ᗐ	canadian syllabics carrier wu	all	never	# ᗐ 0x15d0
+ᗑ	canadian syllabics carrier wo	all	never	# ᗑ 0x15d1
+ᗒ	canadian syllabics carrier we	all	never	# ᗒ 0x15d2
+ᗓ	canadian syllabics carrier wee	all	never	# ᗓ 0x15d3
+ᗔ	canadian syllabics carrier wi	all	never	# ᗔ 0x15d4
+ᗕ	canadian syllabics carrier wa	all	never	# ᗕ 0x15d5
+ᗖ	canadian syllabics carrier hwu	all	never	# ᗖ 0x15d6
+ᗗ	canadian syllabics carrier hwo	all	never	# ᗗ 0x15d7
+ᗘ	canadian syllabics carrier hwe	all	never	# ᗘ 0x15d8
+ᗙ	canadian syllabics carrier hwee	all	never	# ᗙ 0x15d9
+ᗚ	canadian syllabics carrier hwi	all	never	# ᗚ 0x15da
+ᗛ	canadian syllabics carrier hwa	all	never	# ᗛ 0x15db
+ᗜ	canadian syllabics carrier thu	all	never	# ᗜ 0x15dc
+ᗝ	canadian syllabics carrier tho	all	never	# ᗝ 0x15dd
+ᗞ	canadian syllabics carrier the	all	never	# ᗞ 0x15de
+ᗟ	canadian syllabics carrier thee	all	never	# ᗟ 0x15df
+ᗠ	canadian syllabics carrier thi	all	never	# ᗠ 0x15e0
+ᗡ	canadian syllabics carrier tha	all	never	# ᗡ 0x15e1
+ᗢ	canadian syllabics carrier ttu	all	never	# ᗢ 0x15e2
+ᗣ	canadian syllabics carrier tto	all	never	# ᗣ 0x15e3
+ᗤ	canadian syllabics carrier tte	all	never	# ᗤ 0x15e4
+ᗥ	canadian syllabics carrier ttee	all	never	# ᗥ 0x15e5
+ᗦ	canadian syllabics carrier tti	all	never	# ᗦ 0x15e6
+ᗧ	canadian syllabics carrier tta	all	never	# ᗧ 0x15e7
+ᗨ	canadian syllabics carrier pu	all	never	# ᗨ 0x15e8
+ᗩ	canadian syllabics carrier po	all	never	# ᗩ 0x15e9
+ᗪ	canadian syllabics carrier pe	all	never	# ᗪ 0x15ea
+ᗫ	canadian syllabics carrier pee	all	never	# ᗫ 0x15eb
+ᗬ	canadian syllabics carrier pi	all	never	# ᗬ 0x15ec
+ᗭ	canadian syllabics carrier pa	all	never	# ᗭ 0x15ed
+ᗮ	canadian syllabics carrier P	all	never	# ᗮ 0x15ee
+ᗯ	canadian syllabics carrier gu	all	never	# ᗯ 0x15ef
+ᗰ	canadian syllabics carrier go	all	never	# ᗰ 0x15f0
+ᗱ	canadian syllabics carrier ge	all	never	# ᗱ 0x15f1
+ᗲ	canadian syllabics carrier gee	all	never	# ᗲ 0x15f2
+ᗳ	canadian syllabics carrier gi	all	never	# ᗳ 0x15f3
+ᗴ	canadian syllabics carrier ga	all	never	# ᗴ 0x15f4
+ᗵ	canadian syllabics carrier khu	all	never	# ᗵ 0x15f5
+ᗶ	canadian syllabics carrier kho	all	never	# ᗶ 0x15f6
+ᗷ	canadian syllabics carrier khe	all	never	# ᗷ 0x15f7
+ᗸ	canadian syllabics carrier khee	all	never	# ᗸ 0x15f8
+ᗹ	canadian syllabics carrier khi	all	never	# ᗹ 0x15f9
+ᗺ	canadian syllabics carrier kha	all	never	# ᗺ 0x15fa
+ᗻ	canadian syllabics carrier kku	all	never	# ᗻ 0x15fb
+ᗼ	canadian syllabics carrier kko	all	never	# ᗼ 0x15fc
+ᗽ	canadian syllabics carrier kke	all	never	# ᗽ 0x15fd
+ᗾ	canadian syllabics carrier kkee	all	never	# ᗾ 0x15fe
+ᗿ	canadian syllabics carrier kki	all	never	# ᗿ 0x15ff
+ᘀ	canadian syllabics carrier kka	all	never	# ᘀ 0x1600
+ᘁ	canadian syllabics carrier kk	all	never	# ᘁ 0x1601
+ᘂ	canadian syllabics carrier nu	all	never	# ᘂ 0x1602
+ᘃ	canadian syllabics carrier no	all	never	# ᘃ 0x1603
+ᘄ	canadian syllabics carrier ne	all	never	# ᘄ 0x1604
+ᘅ	canadian syllabics carrier nee	all	never	# ᘅ 0x1605
+ᘆ	canadian syllabics carrier ni	all	never	# ᘆ 0x1606
+ᘇ	canadian syllabics carrier na	all	never	# ᘇ 0x1607
+ᘈ	canadian syllabics carrier mu	all	never	# ᘈ 0x1608
+ᘉ	canadian syllabics carrier mo	all	never	# ᘉ 0x1609
+ᘊ	canadian syllabics carrier me	all	never	# ᘊ 0x160a
+ᘋ	canadian syllabics carrier mee	all	never	# ᘋ 0x160b
+ᘌ	canadian syllabics carrier mi	all	never	# ᘌ 0x160c
+ᘍ	canadian syllabics carrier ma	all	never	# ᘍ 0x160d
+ᘎ	canadian syllabics carrier yu	all	never	# ᘎ 0x160e
+ᘏ	canadian syllabics carrier yo	all	never	# ᘏ 0x160f
+ᘐ	canadian syllabics carrier ye	all	never	# ᘐ 0x1610
+ᘑ	canadian syllabics carrier yee	all	never	# ᘑ 0x1611
+ᘒ	canadian syllabics carrier yi	all	never	# ᘒ 0x1612
+ᘓ	canadian syllabics carrier ya	all	never	# ᘓ 0x1613
+ᘔ	canadian syllabics carrier ju	all	never	# ᘔ 0x1614
+ᘕ	canadian syllabics sayisi ju	all	never	# ᘕ 0x1615
+ᘖ	canadian syllabics carrier jo	all	never	# ᘖ 0x1616
+ᘗ	canadian syllabics carrier je	all	never	# ᘗ 0x1617
+ᘘ	canadian syllabics carrier jee	all	never	# ᘘ 0x1618
+ᘙ	canadian syllabics carrier ji	all	never	# ᘙ 0x1619
+ᘚ	canadian syllabics sayisi ji	all	never	# ᘚ 0x161a
+ᘛ	canadian syllabics carrier ja	all	never	# ᘛ 0x161b
+ᘜ	canadian syllabics carrier jju	all	never	# ᘜ 0x161c
+ᘝ	canadian syllabics carrier jjo	all	never	# ᘝ 0x161d
+ᘞ	canadian syllabics carrier jje	all	never	# ᘞ 0x161e
+ᘟ	canadian syllabics carrier jjee	all	never	# ᘟ 0x161f
+ᘠ	canadian syllabics carrier jji	all	never	# ᘠ 0x1620
+ᘡ	canadian syllabics carrier jja	all	never	# ᘡ 0x1621
+ᘢ	canadian syllabics carrier lu	all	never	# ᘢ 0x1622
+ᘣ	canadian syllabics carrier lo	all	never	# ᘣ 0x1623
+ᘤ	canadian syllabics carrier le	all	never	# ᘤ 0x1624
+ᘥ	canadian syllabics carrier lee	all	never	# ᘥ 0x1625
+ᘦ	canadian syllabics carrier li	all	never	# ᘦ 0x1626
+ᘧ	canadian syllabics carrier la	all	never	# ᘧ 0x1627
+ᘨ	canadian syllabics carrier dlu	all	never	# ᘨ 0x1628
+ᘩ	canadian syllabics carrier dlo	all	never	# ᘩ 0x1629
+ᘪ	canadian syllabics carrier dle	all	never	# ᘪ 0x162a
+ᘫ	canadian syllabics carrier dlee	all	never	# ᘫ 0x162b
+ᘬ	canadian syllabics carrier dli	all	never	# ᘬ 0x162c
+ᘭ	canadian syllabics carrier dla	all	never	# ᘭ 0x162d
+ᘮ	canadian syllabics carrier lhu	all	never	# ᘮ 0x162e
+ᘯ	canadian syllabics carrier lho	all	never	# ᘯ 0x162f
+ᘰ	canadian syllabics carrier lhe	all	never	# ᘰ 0x1630
+ᘱ	canadian syllabics carrier lhee	all	never	# ᘱ 0x1631
+ᘲ	canadian syllabics carrier lhi	all	never	# ᘲ 0x1632
+ᘳ	canadian syllabics carrier lha	all	never	# ᘳ 0x1633
+ᘴ	canadian syllabics carrier tlhu	all	never	# ᘴ 0x1634
+ᘵ	canadian syllabics carrier tlho	all	never	# ᘵ 0x1635
+ᘶ	canadian syllabics carrier tlhe	all	never	# ᘶ 0x1636
+ᘷ	canadian syllabics carrier tlhee	all	never	# ᘷ 0x1637
+ᘸ	canadian syllabics carrier tlhi	all	never	# ᘸ 0x1638
+ᘹ	canadian syllabics carrier tlha	all	never	# ᘹ 0x1639
+ᘺ	canadian syllabics carrier tlu	all	never	# ᘺ 0x163a
+ᘻ	canadian syllabics carrier tlo	all	never	# ᘻ 0x163b
+ᘼ	canadian syllabics carrier tle	all	never	# ᘼ 0x163c
+ᘽ	canadian syllabics carrier tlee	all	never	# ᘽ 0x163d
+ᘾ	canadian syllabics carrier tli	all	never	# ᘾ 0x163e
+ᘿ	canadian syllabics carrier tla	all	never	# ᘿ 0x163f
+ᙀ	canadian syllabics carrier zu	all	never	# ᙀ 0x1640
+ᙁ	canadian syllabics carrier zo	all	never	# ᙁ 0x1641
+ᙂ	canadian syllabics carrier ze	all	never	# ᙂ 0x1642
+ᙃ	canadian syllabics carrier zee	all	never	# ᙃ 0x1643
+ᙄ	canadian syllabics carrier zi	all	never	# ᙄ 0x1644
+ᙅ	canadian syllabics carrier za	all	never	# ᙅ 0x1645
+ᙆ	canadian syllabics carrier Z	all	never	# ᙆ 0x1646
+ᙇ	canadian syllabics carrier initial Z	all	never	# ᙇ 0x1647
+ᙈ	canadian syllabics carrier dzu	all	never	# ᙈ 0x1648
+ᙉ	canadian syllabics carrier dzo	all	never	# ᙉ 0x1649
+ᙊ	canadian syllabics carrier dze	all	never	# ᙊ 0x164a
+ᙋ	canadian syllabics carrier dzee	all	never	# ᙋ 0x164b
+ᙌ	canadian syllabics carrier dzi	all	never	# ᙌ 0x164c
+ᙍ	canadian syllabics carrier dza	all	never	# ᙍ 0x164d
+ᙎ	canadian syllabics carrier su	all	never	# ᙎ 0x164e
+ᙏ	canadian syllabics carrier so	all	never	# ᙏ 0x164f
+ᙐ	canadian syllabics carrier se	all	never	# ᙐ 0x1650
+ᙑ	canadian syllabics carrier see	all	never	# ᙑ 0x1651
+ᙒ	canadian syllabics carrier si	all	never	# ᙒ 0x1652
+ᙓ	canadian syllabics carrier sa	all	never	# ᙓ 0x1653
+ᙔ	canadian syllabics carrier shu	all	never	# ᙔ 0x1654
+ᙕ	canadian syllabics carrier sho	all	never	# ᙕ 0x1655
+ᙖ	canadian syllabics carrier she	all	never	# ᙖ 0x1656
+ᙗ	canadian syllabics carrier shee	all	never	# ᙗ 0x1657
+ᙘ	canadian syllabics carrier shi	all	never	# ᙘ 0x1658
+ᙙ	canadian syllabics carrier sha	all	never	# ᙙ 0x1659
+ᙚ	canadian syllabics carrier sh	all	never	# ᙚ 0x165a
+ᙛ	canadian syllabics carrier tsu	all	never	# ᙛ 0x165b
+ᙜ	canadian syllabics carrier tso	all	never	# ᙜ 0x165c
+ᙝ	canadian syllabics carrier tse	all	never	# ᙝ 0x165d
+ᙞ	canadian syllabics carrier tsee	all	never	# ᙞ 0x165e
+ᙟ	canadian syllabics carrier tsi	all	never	# ᙟ 0x165f
+ᙠ	canadian syllabics carrier tsa	all	never	# ᙠ 0x1660
+ᙡ	canadian syllabics carrier chu	all	never	# ᙡ 0x1661
+ᙢ	canadian syllabics carrier cho	all	never	# ᙢ 0x1662
+ᙣ	canadian syllabics carrier che	all	never	# ᙣ 0x1663
+ᙤ	canadian syllabics carrier chee	all	never	# ᙤ 0x1664
+ᙥ	canadian syllabics carrier chi	all	never	# ᙥ 0x1665
+ᙦ	canadian syllabics carrier cha	all	never	# ᙦ 0x1666
+ᙧ	canadian syllabics carrier ttsu	all	never	# ᙧ 0x1667
+ᙨ	canadian syllabics carrier ttso	all	never	# ᙨ 0x1668
+ᙩ	canadian syllabics carrier ttse	all	never	# ᙩ 0x1669
+ᙪ	canadian syllabics carrier ttsee	all	never	# ᙪ 0x166a
+ᙫ	canadian syllabics carrier ttsi	all	never	# ᙫ 0x166b
+ᙬ	canadian syllabics carrier ttsa	all	never	# ᙬ 0x166c
+᙭	canadian syllabics chi sign	all	never	# ᙭ 0x166d
+᙮	canadian syllabics full stop	all	never	# ᙮ 0x166e
+ᙯ	canadian syllabics qai	all	never	# ᙯ 0x166f
+ᙰ	canadian syllabics ngai	all	never	# ᙰ 0x1670
+ᙱ	canadian syllabics nngi	all	never	# ᙱ 0x1671
+ᙲ	canadian syllabics nngii	all	never	# ᙲ 0x1672
+ᙳ	canadian syllabics nngo	all	never	# ᙳ 0x1673
+ᙴ	canadian syllabics nngoo	all	never	# ᙴ 0x1674
+ᙵ	canadian syllabics nnga	all	never	# ᙵ 0x1675
+ᙶ	canadian syllabics nngaa	all	never	# ᙶ 0x1676
+ᙷ	canadian syllabics woods-cree thwee	all	never	# ᙷ 0x1677
+ᙸ	canadian syllabics woods-cree thwi	all	never	# ᙸ 0x1678
+ᙹ	canadian syllabics woods-cree thwii	all	never	# ᙹ 0x1679
+ᙺ	canadian syllabics woods-cree thwo	all	never	# ᙺ 0x167a
+ᙻ	canadian syllabics woods-cree thwoo	all	never	# ᙻ 0x167b
+ᙼ	canadian syllabics woods-cree thwa	all	never	# ᙼ 0x167c
+ᙽ	canadian syllabics woods-cree thwaa	all	never	# ᙽ 0x167d
+ᙾ	canadian syllabics woods-cree final th	all	never	# ᙾ 0x167e
+ᙿ	canadian syllabics blackfoot W	all	never	# ᙿ 0x167f

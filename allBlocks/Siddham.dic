@@ -1,0 +1,93 @@
+# # Siddham
+𑖀	siddham letter A	all	never	# 𑖀 0x11580
+𑖁	siddham letter aa	all	never	# 𑖁 0x11581
+𑖂	siddham letter I	all	never	# 𑖂 0x11582
+𑖃	siddham letter ii	all	never	# 𑖃 0x11583
+𑖄	siddham letter U	all	never	# 𑖄 0x11584
+𑖅	siddham letter uu	all	never	# 𑖅 0x11585
+𑖆	siddham letter vocalic R	all	never	# 𑖆 0x11586
+𑖇	siddham letter vocalic rr	all	never	# 𑖇 0x11587
+𑖈	siddham letter vocalic L	all	never	# 𑖈 0x11588
+𑖉	siddham letter vocalic ll	all	never	# 𑖉 0x11589
+𑖊	siddham letter E	all	never	# 𑖊 0x1158a
+𑖋	siddham letter ai	all	never	# 𑖋 0x1158b
+𑖌	siddham letter O	all	never	# 𑖌 0x1158c
+𑖍	siddham letter au	all	never	# 𑖍 0x1158d
+𑖎	siddham letter ka	all	never	# 𑖎 0x1158e
+𑖏	siddham letter kha	all	never	# 𑖏 0x1158f
+𑖐	siddham letter ga	all	never	# 𑖐 0x11590
+𑖑	siddham letter gha	all	never	# 𑖑 0x11591
+𑖒	siddham letter nga	all	never	# 𑖒 0x11592
+𑖓	siddham letter ca	all	never	# 𑖓 0x11593
+𑖔	siddham letter cha	all	never	# 𑖔 0x11594
+𑖕	siddham letter ja	all	never	# 𑖕 0x11595
+𑖖	siddham letter jha	all	never	# 𑖖 0x11596
+𑖗	siddham letter nya	all	never	# 𑖗 0x11597
+𑖘	siddham letter tta	all	never	# 𑖘 0x11598
+𑖙	siddham letter ttha	all	never	# 𑖙 0x11599
+𑖚	siddham letter dda	all	never	# 𑖚 0x1159a
+𑖛	siddham letter ddha	all	never	# 𑖛 0x1159b
+𑖜	siddham letter nna	all	never	# 𑖜 0x1159c
+𑖝	siddham letter ta	all	never	# 𑖝 0x1159d
+𑖞	siddham letter tha	all	never	# 𑖞 0x1159e
+𑖟	siddham letter da	all	never	# 𑖟 0x1159f
+𑖠	siddham letter dha	all	never	# 𑖠 0x115a0
+𑖡	siddham letter na	all	never	# 𑖡 0x115a1
+𑖢	siddham letter pa	all	never	# 𑖢 0x115a2
+𑖣	siddham letter pha	all	never	# 𑖣 0x115a3
+𑖤	siddham letter ba	all	never	# 𑖤 0x115a4
+𑖥	siddham letter bha	all	never	# 𑖥 0x115a5
+𑖦	siddham letter ma	all	never	# 𑖦 0x115a6
+𑖧	siddham letter ya	all	never	# 𑖧 0x115a7
+𑖨	siddham letter ra	all	never	# 𑖨 0x115a8
+𑖩	siddham letter la	all	never	# 𑖩 0x115a9
+𑖪	siddham letter va	all	never	# 𑖪 0x115aa
+𑖫	siddham letter sha	all	never	# 𑖫 0x115ab
+𑖬	siddham letter ssa	all	never	# 𑖬 0x115ac
+𑖭	siddham letter sa	all	never	# 𑖭 0x115ad
+𑖮	siddham letter ha	all	never	# 𑖮 0x115ae
+𑖯	siddham vowel sign aa	all	never	# 𑖯 0x115af
+𑖰	siddham vowel sign I	all	never	# 𑖰 0x115b0
+𑖱	siddham vowel sign ii	all	never	# 𑖱 0x115b1
+𑖲	siddham vowel sign U	all	never	# 𑖲 0x115b2
+𑖳	siddham vowel sign uu	all	never	# 𑖳 0x115b3
+𑖴	siddham vowel sign vocalic R	all	never	# 𑖴 0x115b4
+𑖵	siddham vowel sign vocalic rr	all	never	# 𑖵 0x115b5
+𑖸	siddham vowel sign E	all	never	# 𑖸 0x115b8
+𑖹	siddham vowel sign ai	all	never	# 𑖹 0x115b9
+𑖺	siddham vowel sign O	all	never	# 𑖺 0x115ba
+𑖻	siddham vowel sign au	all	never	# 𑖻 0x115bb
+𑖼	siddham sign candrabindu	all	never	# 𑖼 0x115bc
+𑖽	siddham sign anusvara	all	never	# 𑖽 0x115bd
+𑖾	siddham sign visarga	all	never	# 𑖾 0x115be
+𑖿	siddham sign virama	all	never	# 𑖿 0x115bf
+𑗀	siddham sign nukta	all	never	# 𑗀 0x115c0
+𑗁	siddham sign siddham	all	never	# 𑗁 0x115c1
+𑗂	siddham danda	all	never	# 𑗂 0x115c2
+𑗃	siddham double danda	all	never	# 𑗃 0x115c3
+𑗄	siddham separator dot	all	never	# 𑗄 0x115c4
+𑗅	siddham separator bar	all	never	# 𑗅 0x115c5
+𑗆	siddham repetition mark-1	all	never	# 𑗆 0x115c6
+𑗇	siddham repetition mark-2	all	never	# 𑗇 0x115c7
+𑗈	siddham repetition mark-3	all	never	# 𑗈 0x115c8
+𑗉	siddham end of text mark	all	never	# 𑗉 0x115c9
+𑗊	siddham section mark with trident and U-shaped ornaments	all	never	# 𑗊 0x115ca
+𑗋	siddham section mark with trident and dotted crescents	all	never	# 𑗋 0x115cb
+𑗌	siddham section mark with rays and dotted crescents	all	never	# 𑗌 0x115cc
+𑗍	siddham section mark with rays and dotted double crescents	all	never	# 𑗍 0x115cd
+𑗎	siddham section mark with rays and dotted triple crescents	all	never	# 𑗎 0x115ce
+𑗏	siddham section mark double ring	all	never	# 𑗏 0x115cf
+𑗐	siddham section mark double ring with rays	all	never	# 𑗐 0x115d0
+𑗑	siddham section mark with double crescents	all	never	# 𑗑 0x115d1
+𑗒	siddham section mark with triple crescents	all	never	# 𑗒 0x115d2
+𑗓	siddham section mark with quadruple crescents	all	never	# 𑗓 0x115d3
+𑗔	siddham section mark with septuple crescents	all	never	# 𑗔 0x115d4
+𑗕	siddham section mark with circles and rays	all	never	# 𑗕 0x115d5
+𑗖	siddham section mark with circles and two enclosures	all	never	# 𑗖 0x115d6
+𑗗	siddham section mark with circles and four enclosures	all	never	# 𑗗 0x115d7
+𑗘	siddham letter three-circle alternate I	all	never	# 𑗘 0x115d8
+𑗙	siddham letter two-circle alternate I	all	never	# 𑗙 0x115d9
+𑗚	siddham letter two-circle alternate ii	all	never	# 𑗚 0x115da
+𑗛	siddham letter alternate U	all	never	# 𑗛 0x115db
+𑗜	siddham vowel sign alternate U	all	never	# 𑗜 0x115dc
+𑗝	siddham vowel sign alternate uu	all	never	# 𑗝 0x115dd

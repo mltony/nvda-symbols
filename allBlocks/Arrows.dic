@@ -1,0 +1,113 @@
+# # Arrows
+# ←	leftwards arrow	all	never	# ← 0x2190
+# ↑	upwards arrow	all	never	# ↑ 0x2191
+# →	rightwards arrow	all	never	# → 0x2192
+# ↓	downwards arrow	all	never	# ↓ 0x2193
+↔	left right arrow	all	never	# ↔ 0x2194
+↕	up down arrow	all	never	# ↕ 0x2195
+↖	north west arrow	all	never	# ↖ 0x2196
+↗	north east arrow	all	never	# ↗ 0x2197
+↘	south east arrow	all	never	# ↘ 0x2198
+↙	south west arrow	all	never	# ↙ 0x2199
+↚	leftwards arrow with stroke	all	never	# ↚ 0x219a
+↛	rightwards arrow with stroke	all	never	# ↛ 0x219b
+↜	leftwards wave arrow	all	never	# ↜ 0x219c
+↝	rightwards wave arrow	all	never	# ↝ 0x219d
+↞	leftwards two headed arrow	all	never	# ↞ 0x219e
+↟	upwards two headed arrow	all	never	# ↟ 0x219f
+↠	rightwards two headed arrow	all	never	# ↠ 0x21a0
+↡	downwards two headed arrow	all	never	# ↡ 0x21a1
+↢	leftwards arrow with tail	all	never	# ↢ 0x21a2
+↣	rightwards arrow with tail	all	never	# ↣ 0x21a3
+↤	leftwards arrow from bar	all	never	# ↤ 0x21a4
+↥	upwards arrow from bar	all	never	# ↥ 0x21a5
+↦	rightwards arrow from bar	all	never	# ↦ 0x21a6
+↧	downwards arrow from bar	all	never	# ↧ 0x21a7
+↨	up down arrow with base	all	never	# ↨ 0x21a8
+↩	leftwards arrow with hook	all	never	# ↩ 0x21a9
+↪	rightwards arrow with hook	all	never	# ↪ 0x21aa
+↫	leftwards arrow with loop	all	never	# ↫ 0x21ab
+↬	rightwards arrow with loop	all	never	# ↬ 0x21ac
+↭	left right wave arrow	all	never	# ↭ 0x21ad
+↮	left right arrow with stroke	all	never	# ↮ 0x21ae
+↯	downwards zigzag arrow	all	never	# ↯ 0x21af
+↰	upwards arrow with tip leftwards	all	never	# ↰ 0x21b0
+↱	upwards arrow with tip rightwards	all	never	# ↱ 0x21b1
+↲	downwards arrow with tip leftwards	all	never	# ↲ 0x21b2
+↳	downwards arrow with tip rightwards	all	never	# ↳ 0x21b3
+↴	rightwards arrow with corner downwards	all	never	# ↴ 0x21b4
+↵	downwards arrow with corner leftwards	all	never	# ↵ 0x21b5
+↶	anticlockwise top semicircle arrow	all	never	# ↶ 0x21b6
+↷	clockwise top semicircle arrow	all	never	# ↷ 0x21b7
+↸	north west arrow to long bar	all	never	# ↸ 0x21b8
+↹	leftwards arrow to bar over rightwards arrow to bar	all	never	# ↹ 0x21b9
+↺	anticlockwise open circle arrow	all	never	# ↺ 0x21ba
+↻	clockwise open circle arrow	all	never	# ↻ 0x21bb
+↼	leftwards harpoon with barb upwards	all	never	# ↼ 0x21bc
+↽	leftwards harpoon with barb downwards	all	never	# ↽ 0x21bd
+↾	upwards harpoon with barb rightwards	all	never	# ↾ 0x21be
+↿	upwards harpoon with barb leftwards	all	never	# ↿ 0x21bf
+⇀	rightwards harpoon with barb upwards	all	never	# ⇀ 0x21c0
+⇁	rightwards harpoon with barb downwards	all	never	# ⇁ 0x21c1
+⇂	downwards harpoon with barb rightwards	all	never	# ⇂ 0x21c2
+⇃	downwards harpoon with barb leftwards	all	never	# ⇃ 0x21c3
+⇄	rightwards arrow over leftwards arrow	all	never	# ⇄ 0x21c4
+⇅	upwards arrow leftwards of downwards arrow	all	never	# ⇅ 0x21c5
+⇆	leftwards arrow over rightwards arrow	all	never	# ⇆ 0x21c6
+⇇	leftwards paired arrows	all	never	# ⇇ 0x21c7
+⇈	upwards paired arrows	all	never	# ⇈ 0x21c8
+⇉	rightwards paired arrows	all	never	# ⇉ 0x21c9
+⇊	downwards paired arrows	all	never	# ⇊ 0x21ca
+⇋	leftwards harpoon over rightwards harpoon	all	never	# ⇋ 0x21cb
+⇌	rightwards harpoon over leftwards harpoon	all	never	# ⇌ 0x21cc
+⇍	leftwards double arrow with stroke	all	never	# ⇍ 0x21cd
+⇎	left right double arrow with stroke	all	never	# ⇎ 0x21ce
+⇏	rightwards double arrow with stroke	all	never	# ⇏ 0x21cf
+⇐	leftwards double arrow	all	never	# ⇐ 0x21d0
+⇑	upwards double arrow	all	never	# ⇑ 0x21d1
+# ⇒	rightwards double arrow	all	never	# ⇒ 0x21d2
+⇓	downwards double arrow	all	never	# ⇓ 0x21d3
+⇔	left right double arrow	all	never	# ⇔ 0x21d4
+⇕	up down double arrow	all	never	# ⇕ 0x21d5
+⇖	north west double arrow	all	never	# ⇖ 0x21d6
+⇗	north east double arrow	all	never	# ⇗ 0x21d7
+⇘	south east double arrow	all	never	# ⇘ 0x21d8
+⇙	south west double arrow	all	never	# ⇙ 0x21d9
+⇚	leftwards triple arrow	all	never	# ⇚ 0x21da
+⇛	rightwards triple arrow	all	never	# ⇛ 0x21db
+⇜	leftwards squiggle arrow	all	never	# ⇜ 0x21dc
+⇝	rightwards squiggle arrow	all	never	# ⇝ 0x21dd
+⇞	upwards arrow with double stroke	all	never	# ⇞ 0x21de
+⇟	downwards arrow with double stroke	all	never	# ⇟ 0x21df
+⇠	leftwards dashed arrow	all	never	# ⇠ 0x21e0
+⇡	upwards dashed arrow	all	never	# ⇡ 0x21e1
+⇢	rightwards dashed arrow	all	never	# ⇢ 0x21e2
+⇣	downwards dashed arrow	all	never	# ⇣ 0x21e3
+⇤	leftwards arrow to bar	all	never	# ⇤ 0x21e4
+⇥	rightwards arrow to bar	all	never	# ⇥ 0x21e5
+⇦	leftwards white arrow	all	never	# ⇦ 0x21e6
+⇧	upwards white arrow	all	never	# ⇧ 0x21e7
+# ⇨	rightwards white arrow	all	never	# ⇨ 0x21e8
+⇩	downwards white arrow	all	never	# ⇩ 0x21e9
+⇪	upwards white arrow from bar	all	never	# ⇪ 0x21ea
+⇫	upwards white arrow on pedestal	all	never	# ⇫ 0x21eb
+⇬	upwards white arrow on pedestal with horizontal bar	all	never	# ⇬ 0x21ec
+⇭	upwards white arrow on pedestal with vertical bar	all	never	# ⇭ 0x21ed
+⇮	upwards white double arrow	all	never	# ⇮ 0x21ee
+⇯	upwards white double arrow on pedestal	all	never	# ⇯ 0x21ef
+⇰	rightwards white arrow from wall	all	never	# ⇰ 0x21f0
+⇱	north west arrow to corner	all	never	# ⇱ 0x21f1
+⇲	south east arrow to corner	all	never	# ⇲ 0x21f2
+⇳	up down white arrow	all	never	# ⇳ 0x21f3
+⇴	right arrow with small circle	all	never	# ⇴ 0x21f4
+⇵	downwards arrow leftwards of upwards arrow	all	never	# ⇵ 0x21f5
+⇶	three rightwards arrows	all	never	# ⇶ 0x21f6
+⇷	leftwards arrow with vertical stroke	all	never	# ⇷ 0x21f7
+⇸	rightwards arrow with vertical stroke	all	never	# ⇸ 0x21f8
+⇹	left right arrow with vertical stroke	all	never	# ⇹ 0x21f9
+⇺	leftwards arrow with double vertical stroke	all	never	# ⇺ 0x21fa
+⇻	rightwards arrow with double vertical stroke	all	never	# ⇻ 0x21fb
+⇼	left right arrow with double vertical stroke	all	never	# ⇼ 0x21fc
+⇽	leftwards open-headed arrow	all	never	# ⇽ 0x21fd
+⇾	rightwards open-headed arrow	all	never	# ⇾ 0x21fe
+⇿	left right open-headed arrow	all	never	# ⇿ 0x21ff

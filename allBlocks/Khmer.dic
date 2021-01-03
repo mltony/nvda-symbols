@@ -1,0 +1,115 @@
+# # Khmer
+ក	khmer letter ka	all	never	# ក 0x1780
+ខ	khmer letter kha	all	never	# ខ 0x1781
+គ	khmer letter ko	all	never	# គ 0x1782
+ឃ	khmer letter kho	all	never	# ឃ 0x1783
+ង	khmer letter ngo	all	never	# ង 0x1784
+ច	khmer letter ca	all	never	# ច 0x1785
+ឆ	khmer letter cha	all	never	# ឆ 0x1786
+ជ	khmer letter co	all	never	# ជ 0x1787
+ឈ	khmer letter cho	all	never	# ឈ 0x1788
+ញ	khmer letter nyo	all	never	# ញ 0x1789
+ដ	khmer letter da	all	never	# ដ 0x178a
+ឋ	khmer letter ttha	all	never	# ឋ 0x178b
+ឌ	khmer letter do	all	never	# ឌ 0x178c
+ឍ	khmer letter ttho	all	never	# ឍ 0x178d
+ណ	khmer letter nno	all	never	# ណ 0x178e
+ត	khmer letter ta	all	never	# ត 0x178f
+ថ	khmer letter tha	all	never	# ថ 0x1790
+ទ	khmer letter to	all	never	# ទ 0x1791
+ធ	khmer letter tho	all	never	# ធ 0x1792
+ន	khmer letter no	all	never	# ន 0x1793
+ប	khmer letter ba	all	never	# ប 0x1794
+ផ	khmer letter pha	all	never	# ផ 0x1795
+ព	khmer letter po	all	never	# ព 0x1796
+ភ	khmer letter pho	all	never	# ភ 0x1797
+ម	khmer letter mo	all	never	# ម 0x1798
+យ	khmer letter yo	all	never	# យ 0x1799
+រ	khmer letter ro	all	never	# រ 0x179a
+ល	khmer letter lo	all	never	# ល 0x179b
+វ	khmer letter vo	all	never	# វ 0x179c
+ឝ	khmer letter sha	all	never	# ឝ 0x179d
+ឞ	khmer letter sso	all	never	# ឞ 0x179e
+ស	khmer letter sa	all	never	# ស 0x179f
+ហ	khmer letter ha	all	never	# ហ 0x17a0
+ឡ	khmer letter la	all	never	# ឡ 0x17a1
+អ	khmer letter qa	all	never	# អ 0x17a2
+ឣ	khmer independent vowel qaq	all	never	# ឣ 0x17a3
+ឤ	khmer independent vowel qaa	all	never	# ឤ 0x17a4
+ឥ	khmer independent vowel qi	all	never	# ឥ 0x17a5
+ឦ	khmer independent vowel qii	all	never	# ឦ 0x17a6
+ឧ	khmer independent vowel qu	all	never	# ឧ 0x17a7
+ឨ	khmer independent vowel quk	all	never	# ឨ 0x17a8
+ឩ	khmer independent vowel quu	all	never	# ឩ 0x17a9
+ឪ	khmer independent vowel quuv	all	never	# ឪ 0x17aa
+ឫ	khmer independent vowel ry	all	never	# ឫ 0x17ab
+ឬ	khmer independent vowel ryy	all	never	# ឬ 0x17ac
+ឭ	khmer independent vowel ly	all	never	# ឭ 0x17ad
+ឮ	khmer independent vowel lyy	all	never	# ឮ 0x17ae
+ឯ	khmer independent vowel qe	all	never	# ឯ 0x17af
+ឰ	khmer independent vowel qai	all	never	# ឰ 0x17b0
+ឱ	khmer independent vowel qoo type one	all	never	# ឱ 0x17b1
+ឲ	khmer independent vowel qoo type two	all	never	# ឲ 0x17b2
+ឳ	khmer independent vowel qau	all	never	# ឳ 0x17b3
+឴	khmer vowel inherent aq	all	never	# ឴ 0x17b4
+឵	khmer vowel inherent aa	all	never	# ឵ 0x17b5
+ា	khmer vowel sign aa	all	never	# ា 0x17b6
+ិ	khmer vowel sign I	all	never	# ិ 0x17b7
+ី	khmer vowel sign ii	all	never	# ី 0x17b8
+ឹ	khmer vowel sign Y	all	never	# ឹ 0x17b9
+ឺ	khmer vowel sign yy	all	never	# ឺ 0x17ba
+ុ	khmer vowel sign U	all	never	# ុ 0x17bb
+ូ	khmer vowel sign uu	all	never	# ូ 0x17bc
+ួ	khmer vowel sign ua	all	never	# ួ 0x17bd
+ើ	khmer vowel sign oe	all	never	# ើ 0x17be
+ឿ	khmer vowel sign ya	all	never	# ឿ 0x17bf
+ៀ	khmer vowel sign ie	all	never	# ៀ 0x17c0
+េ	khmer vowel sign E	all	never	# េ 0x17c1
+ែ	khmer vowel sign ae	all	never	# ែ 0x17c2
+ៃ	khmer vowel sign ai	all	never	# ៃ 0x17c3
+ោ	khmer vowel sign oo	all	never	# ោ 0x17c4
+ៅ	khmer vowel sign au	all	never	# ៅ 0x17c5
+ំ	khmer sign nikahit	all	never	# ំ 0x17c6
+ះ	khmer sign reahmuk	all	never	# ះ 0x17c7
+ៈ	khmer sign yuukaleapintu	all	never	# ៈ 0x17c8
+៉	khmer sign muusikatoan	all	never	# ៉ 0x17c9
+៊	khmer sign triisap	all	never	# ៊ 0x17ca
+់	khmer sign bantoc	all	never	# ់ 0x17cb
+៌	khmer sign robat	all	never	# ៌ 0x17cc
+៍	khmer sign toandakhiat	all	never	# ៍ 0x17cd
+៎	khmer sign kakabat	all	never	# ៎ 0x17ce
+៏	khmer sign ahsda	all	never	# ៏ 0x17cf
+័	khmer sign samyok sannya	all	never	# ័ 0x17d0
+៑	khmer sign viriam	all	never	# ៑ 0x17d1
+្	khmer sign coeng	all	never	# ្ 0x17d2
+៓	khmer sign bathamasat	all	never	# ៓ 0x17d3
+។	khmer sign khan	all	never	# ។ 0x17d4
+៕	khmer sign bariyoosan	all	never	# ៕ 0x17d5
+៖	khmer sign camnuc pii kuuh	all	never	# ៖ 0x17d6
+ៗ	khmer sign lek too	all	never	# ៗ 0x17d7
+៘	khmer sign beyyal	all	never	# ៘ 0x17d8
+៙	khmer sign phnaek muan	all	never	# ៙ 0x17d9
+៚	khmer sign koomuut	all	never	# ៚ 0x17da
+៛	khmer currency symbol riel	all	never	# ៛ 0x17db
+ៜ	khmer sign avakrahasanya	all	never	# ៜ 0x17dc
+៝	khmer sign atthacan	all	never	# ៝ 0x17dd
+០	khmer digit zero	all	never	# ០ 0x17e0
+១	khmer digit one	all	never	# ១ 0x17e1
+២	khmer digit two	all	never	# ២ 0x17e2
+៣	khmer digit three	all	never	# ៣ 0x17e3
+៤	khmer digit four	all	never	# ៤ 0x17e4
+៥	khmer digit five	all	never	# ៥ 0x17e5
+៦	khmer digit six	all	never	# ៦ 0x17e6
+៧	khmer digit seven	all	never	# ៧ 0x17e7
+៨	khmer digit eight	all	never	# ៨ 0x17e8
+៩	khmer digit nine	all	never	# ៩ 0x17e9
+៰	khmer symbol lek attak son	all	never	# ៰ 0x17f0
+៱	khmer symbol lek attak muoy	all	never	# ៱ 0x17f1
+៲	khmer symbol lek attak pii	all	never	# ៲ 0x17f2
+៳	khmer symbol lek attak bei	all	never	# ៳ 0x17f3
+៴	khmer symbol lek attak buon	all	never	# ៴ 0x17f4
+៵	khmer symbol lek attak pram	all	never	# ៵ 0x17f5
+៶	khmer symbol lek attak pram-muoy	all	never	# ៶ 0x17f6
+៷	khmer symbol lek attak pram-pii	all	never	# ៷ 0x17f7
+៸	khmer symbol lek attak pram-bei	all	never	# ៸ 0x17f8
+៹	khmer symbol lek attak pram-buon	all	never	# ៹ 0x17f9

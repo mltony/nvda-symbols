@@ -1,0 +1,207 @@
+# # Miscellaneous Symbols and Arrows
+⬀	north east white arrow	all	never	# ⬀ 0x2b00
+⬁	north west white arrow	all	never	# ⬁ 0x2b01
+⬂	south east white arrow	all	never	# ⬂ 0x2b02
+⬃	south west white arrow	all	never	# ⬃ 0x2b03
+⬄	left right white arrow	all	never	# ⬄ 0x2b04
+⬅	leftwards black arrow	all	never	# ⬅ 0x2b05
+⬆	upwards black arrow	all	never	# ⬆ 0x2b06
+⬇	downwards black arrow	all	never	# ⬇ 0x2b07
+⬈	north east black arrow	all	never	# ⬈ 0x2b08
+⬉	north west black arrow	all	never	# ⬉ 0x2b09
+⬊	south east black arrow	all	never	# ⬊ 0x2b0a
+⬋	south west black arrow	all	never	# ⬋ 0x2b0b
+⬌	left right black arrow	all	never	# ⬌ 0x2b0c
+⬍	up down black arrow	all	never	# ⬍ 0x2b0d
+⬎	rightwards arrow with tip downwards	all	never	# ⬎ 0x2b0e
+⬏	rightwards arrow with tip upwards	all	never	# ⬏ 0x2b0f
+⬐	leftwards arrow with tip downwards	all	never	# ⬐ 0x2b10
+⬑	leftwards arrow with tip upwards	all	never	# ⬑ 0x2b11
+⬒	square with top half black	all	never	# ⬒ 0x2b12
+⬓	square with bottom half black	all	never	# ⬓ 0x2b13
+⬔	square with upper right diagonal half black	all	never	# ⬔ 0x2b14
+⬕	square with lower left diagonal half black	all	never	# ⬕ 0x2b15
+⬖	diamond with left half black	all	never	# ⬖ 0x2b16
+⬗	diamond with right half black	all	never	# ⬗ 0x2b17
+⬘	diamond with top half black	all	never	# ⬘ 0x2b18
+⬙	diamond with bottom half black	all	never	# ⬙ 0x2b19
+⬚	dotted square	all	never	# ⬚ 0x2b1a
+⬛	black large square	all	never	# ⬛ 0x2b1b
+⬜	white large square	all	never	# ⬜ 0x2b1c
+⬝	black very small square	all	never	# ⬝ 0x2b1d
+⬞	white very small square	all	never	# ⬞ 0x2b1e
+⬟	black pentagon	all	never	# ⬟ 0x2b1f
+⬠	white pentagon	all	never	# ⬠ 0x2b20
+⬡	white hexagon	all	never	# ⬡ 0x2b21
+⬢	black hexagon	all	never	# ⬢ 0x2b22
+⬣	horizontal black hexagon	all	never	# ⬣ 0x2b23
+⬤	black large circle	all	never	# ⬤ 0x2b24
+⬥	black medium diamond	all	never	# ⬥ 0x2b25
+⬦	white medium diamond	all	never	# ⬦ 0x2b26
+⬧	black medium lozenge	all	never	# ⬧ 0x2b27
+⬨	white medium lozenge	all	never	# ⬨ 0x2b28
+⬩	black small diamond	all	never	# ⬩ 0x2b29
+⬪	black small lozenge	all	never	# ⬪ 0x2b2a
+⬫	white small lozenge	all	never	# ⬫ 0x2b2b
+⬬	black horizontal ellipse	all	never	# ⬬ 0x2b2c
+⬭	white horizontal ellipse	all	never	# ⬭ 0x2b2d
+⬮	black vertical ellipse	all	never	# ⬮ 0x2b2e
+⬯	white vertical ellipse	all	never	# ⬯ 0x2b2f
+⬰	left arrow with small circle	all	never	# ⬰ 0x2b30
+⬱	three leftwards arrows	all	never	# ⬱ 0x2b31
+⬲	left arrow with circled plus	all	never	# ⬲ 0x2b32
+⬳	long leftwards squiggle arrow	all	never	# ⬳ 0x2b33
+⬴	leftwards two-headed arrow with vertical stroke	all	never	# ⬴ 0x2b34
+⬵	leftwards two-headed arrow with double vertical stroke	all	never	# ⬵ 0x2b35
+⬶	leftwards two-headed arrow from bar	all	never	# ⬶ 0x2b36
+⬷	leftwards two-headed triple dash arrow	all	never	# ⬷ 0x2b37
+⬸	leftwards arrow with dotted stem	all	never	# ⬸ 0x2b38
+⬹	leftwards arrow with tail with vertical stroke	all	never	# ⬹ 0x2b39
+⬺	leftwards arrow with tail with double vertical stroke	all	never	# ⬺ 0x2b3a
+⬻	leftwards two-headed arrow with tail	all	never	# ⬻ 0x2b3b
+⬼	leftwards two-headed arrow with tail with vertical stroke	all	never	# ⬼ 0x2b3c
+⬽	leftwards two-headed arrow with tail with double vertical stroke	all	never	# ⬽ 0x2b3d
+⬾	leftwards arrow through X	all	never	# ⬾ 0x2b3e
+⬿	wave arrow pointing directly left	all	never	# ⬿ 0x2b3f
+⭀	equals sign above leftwards arrow	all	never	# ⭀ 0x2b40
+⭁	reverse tilde operator above leftwards arrow	all	never	# ⭁ 0x2b41
+⭂	leftwards arrow above reverse almost equal to	all	never	# ⭂ 0x2b42
+⭃	rightwards arrow through greater-than	all	never	# ⭃ 0x2b43
+⭄	rightwards arrow through superset	all	never	# ⭄ 0x2b44
+⭅	leftwards quadruple arrow	all	never	# ⭅ 0x2b45
+⭆	rightwards quadruple arrow	all	never	# ⭆ 0x2b46
+⭇	reverse tilde operator above rightwards arrow	all	never	# ⭇ 0x2b47
+⭈	rightwards arrow above reverse almost equal to	all	never	# ⭈ 0x2b48
+⭉	tilde operator above leftwards arrow	all	never	# ⭉ 0x2b49
+⭊	leftwards arrow above almost equal to	all	never	# ⭊ 0x2b4a
+⭋	leftwards arrow above reverse tilde operator	all	never	# ⭋ 0x2b4b
+⭌	rightwards arrow above reverse tilde operator	all	never	# ⭌ 0x2b4c
+⭍	downwards triangle-headed zigzag arrow	all	never	# ⭍ 0x2b4d
+⭎	short slanted north arrow	all	never	# ⭎ 0x2b4e
+⭏	short backslanted south arrow	all	never	# ⭏ 0x2b4f
+⭐	white medium star	all	never	# ⭐ 0x2b50
+⭑	black small star	all	never	# ⭑ 0x2b51
+⭒	white small star	all	never	# ⭒ 0x2b52
+⭓	black right-pointing pentagon	all	never	# ⭓ 0x2b53
+⭔	white right-pointing pentagon	all	never	# ⭔ 0x2b54
+⭕	heavy large circle	all	never	# ⭕ 0x2b55
+⭖	heavy oval with oval inside	all	never	# ⭖ 0x2b56
+⭗	heavy circle with circle inside	all	never	# ⭗ 0x2b57
+⭘	heavy circle	all	never	# ⭘ 0x2b58
+⭙	heavy circled saltire	all	never	# ⭙ 0x2b59
+⭚	slanted north arrow with hooked head	all	never	# ⭚ 0x2b5a
+⭛	backslanted south arrow with hooked tail	all	never	# ⭛ 0x2b5b
+⭜	slanted north arrow with horizontal tail	all	never	# ⭜ 0x2b5c
+⭝	backslanted south arrow with horizontal tail	all	never	# ⭝ 0x2b5d
+⭞	bent arrow pointing downwards then north east	all	never	# ⭞ 0x2b5e
+⭟	short bent arrow pointing downwards then north east	all	never	# ⭟ 0x2b5f
+⭠	leftwards triangle-headed arrow	all	never	# ⭠ 0x2b60
+⭡	upwards triangle-headed arrow	all	never	# ⭡ 0x2b61
+⭢	rightwards triangle-headed arrow	all	never	# ⭢ 0x2b62
+⭣	downwards triangle-headed arrow	all	never	# ⭣ 0x2b63
+⭤	left right triangle-headed arrow	all	never	# ⭤ 0x2b64
+⭥	up down triangle-headed arrow	all	never	# ⭥ 0x2b65
+⭦	north west triangle-headed arrow	all	never	# ⭦ 0x2b66
+⭧	north east triangle-headed arrow	all	never	# ⭧ 0x2b67
+⭨	south east triangle-headed arrow	all	never	# ⭨ 0x2b68
+⭩	south west triangle-headed arrow	all	never	# ⭩ 0x2b69
+⭪	leftwards triangle-headed dashed arrow	all	never	# ⭪ 0x2b6a
+⭫	upwards triangle-headed dashed arrow	all	never	# ⭫ 0x2b6b
+⭬	rightwards triangle-headed dashed arrow	all	never	# ⭬ 0x2b6c
+⭭	downwards triangle-headed dashed arrow	all	never	# ⭭ 0x2b6d
+⭮	clockwise triangle-headed open circle arrow	all	never	# ⭮ 0x2b6e
+⭯	anticlockwise triangle-headed open circle arrow	all	never	# ⭯ 0x2b6f
+⭰	leftwards triangle-headed arrow to bar	all	never	# ⭰ 0x2b70
+⭱	upwards triangle-headed arrow to bar	all	never	# ⭱ 0x2b71
+⭲	rightwards triangle-headed arrow to bar	all	never	# ⭲ 0x2b72
+⭳	downwards triangle-headed arrow to bar	all	never	# ⭳ 0x2b73
+⭶	north west triangle-headed arrow to bar	all	never	# ⭶ 0x2b76
+⭷	north east triangle-headed arrow to bar	all	never	# ⭷ 0x2b77
+⭸	south east triangle-headed arrow to bar	all	never	# ⭸ 0x2b78
+⭹	south west triangle-headed arrow to bar	all	never	# ⭹ 0x2b79
+⭺	leftwards triangle-headed arrow with double horizontal stroke	all	never	# ⭺ 0x2b7a
+⭻	upwards triangle-headed arrow with double horizontal stroke	all	never	# ⭻ 0x2b7b
+⭼	rightwards triangle-headed arrow with double horizontal stroke	all	never	# ⭼ 0x2b7c
+⭽	downwards triangle-headed arrow with double horizontal stroke	all	never	# ⭽ 0x2b7d
+⭾	horizontal tab key	all	never	# ⭾ 0x2b7e
+⭿	vertical tab key	all	never	# ⭿ 0x2b7f
+⮀	leftwards triangle-headed arrow over rightwards triangle-headed arrow	all	never	# ⮀ 0x2b80
+⮁	upwards triangle-headed arrow leftwards of downwards triangle-headed arrow	all	never	# ⮁ 0x2b81
+⮂	rightwards triangle-headed arrow over leftwards triangle-headed arrow	all	never	# ⮂ 0x2b82
+⮃	downwards triangle-headed arrow leftwards of upwards triangle-headed arrow	all	never	# ⮃ 0x2b83
+⮄	leftwards triangle-headed paired arrows	all	never	# ⮄ 0x2b84
+⮅	upwards triangle-headed paired arrows	all	never	# ⮅ 0x2b85
+⮆	rightwards triangle-headed paired arrows	all	never	# ⮆ 0x2b86
+⮇	downwards triangle-headed paired arrows	all	never	# ⮇ 0x2b87
+⮈	leftwards black circled white arrow	all	never	# ⮈ 0x2b88
+⮉	upwards black circled white arrow	all	never	# ⮉ 0x2b89
+⮊	rightwards black circled white arrow	all	never	# ⮊ 0x2b8a
+⮋	downwards black circled white arrow	all	never	# ⮋ 0x2b8b
+⮌	anticlockwise triangle-headed right U-shaped arrow	all	never	# ⮌ 0x2b8c
+⮍	anticlockwise triangle-headed bottom U-shaped arrow	all	never	# ⮍ 0x2b8d
+⮎	anticlockwise triangle-headed left U-shaped arrow	all	never	# ⮎ 0x2b8e
+⮏	anticlockwise triangle-headed top U-shaped arrow	all	never	# ⮏ 0x2b8f
+⮐	return left	all	never	# ⮐ 0x2b90
+⮑	return right	all	never	# ⮑ 0x2b91
+⮒	newline left	all	never	# ⮒ 0x2b92
+⮓	newline right	all	never	# ⮓ 0x2b93
+⮔	four corner arrows circling anticlockwise	all	never	# ⮔ 0x2b94
+⮕	rightwards black arrow	all	never	# ⮕ 0x2b95
+⮘	three-D top-lighted leftwards equilateral arrowhead	all	never	# ⮘ 0x2b98
+⮙	three-D right-lighted upwards equilateral arrowhead	all	never	# ⮙ 0x2b99
+# ⮚	three-D top-lighted rightwards equilateral arrowhead	all	never	# ⮚ 0x2b9a
+⮛	three-D left-lighted downwards equilateral arrowhead	all	never	# ⮛ 0x2b9b
+⮜	black leftwards equilateral arrowhead	all	never	# ⮜ 0x2b9c
+⮝	black upwards equilateral arrowhead	all	never	# ⮝ 0x2b9d
+⮞	black rightwards equilateral arrowhead	all	never	# ⮞ 0x2b9e
+⮟	black downwards equilateral arrowhead	all	never	# ⮟ 0x2b9f
+⮠	downwards triangle-headed arrow with long tip leftwards	all	never	# ⮠ 0x2ba0
+⮡	downwards triangle-headed arrow with long tip rightwards	all	never	# ⮡ 0x2ba1
+⮢	upwards triangle-headed arrow with long tip leftwards	all	never	# ⮢ 0x2ba2
+⮣	upwards triangle-headed arrow with long tip rightwards	all	never	# ⮣ 0x2ba3
+⮤	leftwards triangle-headed arrow with long tip upwards	all	never	# ⮤ 0x2ba4
+⮥	rightwards triangle-headed arrow with long tip upwards	all	never	# ⮥ 0x2ba5
+⮦	leftwards triangle-headed arrow with long tip downwards	all	never	# ⮦ 0x2ba6
+⮧	rightwards triangle-headed arrow with long tip downwards	all	never	# ⮧ 0x2ba7
+⮨	black curved downwards and leftwards arrow	all	never	# ⮨ 0x2ba8
+⮩	black curved downwards and rightwards arrow	all	never	# ⮩ 0x2ba9
+⮪	black curved upwards and leftwards arrow	all	never	# ⮪ 0x2baa
+⮫	black curved upwards and rightwards arrow	all	never	# ⮫ 0x2bab
+⮬	black curved leftwards and upwards arrow	all	never	# ⮬ 0x2bac
+⮭	black curved rightwards and upwards arrow	all	never	# ⮭ 0x2bad
+⮮	black curved leftwards and downwards arrow	all	never	# ⮮ 0x2bae
+⮯	black curved rightwards and downwards arrow	all	never	# ⮯ 0x2baf
+⮰	ribbon arrow down left	all	never	# ⮰ 0x2bb0
+⮱	ribbon arrow down right	all	never	# ⮱ 0x2bb1
+⮲	ribbon arrow up left	all	never	# ⮲ 0x2bb2
+⮳	ribbon arrow up right	all	never	# ⮳ 0x2bb3
+⮴	ribbon arrow left up	all	never	# ⮴ 0x2bb4
+⮵	ribbon arrow right up	all	never	# ⮵ 0x2bb5
+⮶	ribbon arrow left down	all	never	# ⮶ 0x2bb6
+⮷	ribbon arrow right down	all	never	# ⮷ 0x2bb7
+⮸	upwards white arrow from bar with horizontal bar	all	never	# ⮸ 0x2bb8
+⮹	up arrowhead in A rectangle box	all	never	# ⮹ 0x2bb9
+⮽	ballot box with light X	all	never	# ⮽ 0x2bbd
+⮾	circled X	all	never	# ⮾ 0x2bbe
+⮿	circled bold X	all	never	# ⮿ 0x2bbf
+⯀	black square centred	all	never	# ⯀ 0x2bc0
+⯁	black diamond centred	all	never	# ⯁ 0x2bc1
+⯂	turned black pentagon	all	never	# ⯂ 0x2bc2
+⯃	horizontal black octagon	all	never	# ⯃ 0x2bc3
+⯄	black octagon	all	never	# ⯄ 0x2bc4
+⯅	black medium up-pointing triangle centred	all	never	# ⯅ 0x2bc5
+⯆	black medium down-pointing triangle centred	all	never	# ⯆ 0x2bc6
+⯇	black medium left-pointing triangle centred	all	never	# ⯇ 0x2bc7
+⯈	black medium right-pointing triangle centred	all	never	# ⯈ 0x2bc8
+⯊	top half black circle	all	never	# ⯊ 0x2bca
+⯋	bottom half black circle	all	never	# ⯋ 0x2bcb
+⯌	light four pointed black cusp	all	never	# ⯌ 0x2bcc
+⯍	rotated light four pointed black cusp	all	never	# ⯍ 0x2bcd
+⯎	white four pointed cusp	all	never	# ⯎ 0x2bce
+⯏	rotated white four pointed cusp	all	never	# ⯏ 0x2bcf
+⯐	square position indicator	all	never	# ⯐ 0x2bd0
+⯑	uncertainty sign	all	never	# ⯑ 0x2bd1
+⯬	leftwards two-headed arrow with triangle arrowheads	all	never	# ⯬ 0x2bec
+⯭	upwards two-headed arrow with triangle arrowheads	all	never	# ⯭ 0x2bed
+⯮	rightwards two-headed arrow with triangle arrowheads	all	never	# ⯮ 0x2bee
+⯯	downwards two-headed arrow with triangle arrowheads	all	never	# ⯯ 0x2bef

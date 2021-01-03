@@ -1,0 +1,247 @@
+# # Byzantine Musical Symbols
+𝀀	byzantine musical symbol psili	all	never	# 𝀀 0x1d000
+𝀁	byzantine musical symbol daseia	all	never	# 𝀁 0x1d001
+𝀂	byzantine musical symbol perispomeni	all	never	# 𝀂 0x1d002
+𝀃	byzantine musical symbol oxeia ekfonitikon	all	never	# 𝀃 0x1d003
+𝀄	byzantine musical symbol oxeia dipli	all	never	# 𝀄 0x1d004
+𝀅	byzantine musical symbol vareia ekfonitikon	all	never	# 𝀅 0x1d005
+𝀆	byzantine musical symbol vareia dipli	all	never	# 𝀆 0x1d006
+𝀇	byzantine musical symbol kathisti	all	never	# 𝀇 0x1d007
+𝀈	byzantine musical symbol syrmatiki	all	never	# 𝀈 0x1d008
+𝀉	byzantine musical symbol paraklitiki	all	never	# 𝀉 0x1d009
+𝀊	byzantine musical symbol ypokrisis	all	never	# 𝀊 0x1d00a
+𝀋	byzantine musical symbol ypokrisis dipli	all	never	# 𝀋 0x1d00b
+𝀌	byzantine musical symbol kremasti	all	never	# 𝀌 0x1d00c
+𝀍	byzantine musical symbol apeso ekfonitikon	all	never	# 𝀍 0x1d00d
+𝀎	byzantine musical symbol exo ekfonitikon	all	never	# 𝀎 0x1d00e
+𝀏	byzantine musical symbol teleia	all	never	# 𝀏 0x1d00f
+𝀐	byzantine musical symbol kentimata	all	never	# 𝀐 0x1d010
+𝀑	byzantine musical symbol apostrofos	all	never	# 𝀑 0x1d011
+𝀒	byzantine musical symbol apostrofos dipli	all	never	# 𝀒 0x1d012
+𝀓	byzantine musical symbol synevma	all	never	# 𝀓 0x1d013
+𝀔	byzantine musical symbol thita	all	never	# 𝀔 0x1d014
+𝀕	byzantine musical symbol oligon archaion	all	never	# 𝀕 0x1d015
+𝀖	byzantine musical symbol gorgon archaion	all	never	# 𝀖 0x1d016
+𝀗	byzantine musical symbol psilon	all	never	# 𝀗 0x1d017
+𝀘	byzantine musical symbol chamilon	all	never	# 𝀘 0x1d018
+𝀙	byzantine musical symbol vathy	all	never	# 𝀙 0x1d019
+𝀚	byzantine musical symbol ison archaion	all	never	# 𝀚 0x1d01a
+𝀛	byzantine musical symbol kentima archaion	all	never	# 𝀛 0x1d01b
+𝀜	byzantine musical symbol kentimata archaion	all	never	# 𝀜 0x1d01c
+𝀝	byzantine musical symbol saximata	all	never	# 𝀝 0x1d01d
+𝀞	byzantine musical symbol parichon	all	never	# 𝀞 0x1d01e
+𝀟	byzantine musical symbol stavros apodexia	all	never	# 𝀟 0x1d01f
+𝀠	byzantine musical symbol oxeiai archaion	all	never	# 𝀠 0x1d020
+𝀡	byzantine musical symbol vareiai archaion	all	never	# 𝀡 0x1d021
+𝀢	byzantine musical symbol apoderma archaion	all	never	# 𝀢 0x1d022
+𝀣	byzantine musical symbol apothema	all	never	# 𝀣 0x1d023
+𝀤	byzantine musical symbol klasma	all	never	# 𝀤 0x1d024
+𝀥	byzantine musical symbol revma	all	never	# 𝀥 0x1d025
+𝀦	byzantine musical symbol piasma archaion	all	never	# 𝀦 0x1d026
+𝀧	byzantine musical symbol tinagma	all	never	# 𝀧 0x1d027
+𝀨	byzantine musical symbol anatrichisma	all	never	# 𝀨 0x1d028
+𝀩	byzantine musical symbol seisma	all	never	# 𝀩 0x1d029
+𝀪	byzantine musical symbol synagma archaion	all	never	# 𝀪 0x1d02a
+𝀫	byzantine musical symbol synagma meta stavrou	all	never	# 𝀫 0x1d02b
+𝀬	byzantine musical symbol oyranisma archaion	all	never	# 𝀬 0x1d02c
+𝀭	byzantine musical symbol thema	all	never	# 𝀭 0x1d02d
+𝀮	byzantine musical symbol lemoi	all	never	# 𝀮 0x1d02e
+𝀯	byzantine musical symbol dyo	all	never	# 𝀯 0x1d02f
+𝀰	byzantine musical symbol tria	all	never	# 𝀰 0x1d030
+𝀱	byzantine musical symbol tessera	all	never	# 𝀱 0x1d031
+𝀲	byzantine musical symbol kratimata	all	never	# 𝀲 0x1d032
+𝀳	byzantine musical symbol apeso exo neo	all	never	# 𝀳 0x1d033
+𝀴	byzantine musical symbol fthora archaion	all	never	# 𝀴 0x1d034
+𝀵	byzantine musical symbol imifthora	all	never	# 𝀵 0x1d035
+𝀶	byzantine musical symbol tromikon archaion	all	never	# 𝀶 0x1d036
+𝀷	byzantine musical symbol katava tromikon	all	never	# 𝀷 0x1d037
+𝀸	byzantine musical symbol pelaston	all	never	# 𝀸 0x1d038
+𝀹	byzantine musical symbol psifiston	all	never	# 𝀹 0x1d039
+𝀺	byzantine musical symbol kontevma	all	never	# 𝀺 0x1d03a
+𝀻	byzantine musical symbol chorevma archaion	all	never	# 𝀻 0x1d03b
+𝀼	byzantine musical symbol rapisma	all	never	# 𝀼 0x1d03c
+𝀽	byzantine musical symbol parakalesma archaion	all	never	# 𝀽 0x1d03d
+𝀾	byzantine musical symbol paraklitiki archaion	all	never	# 𝀾 0x1d03e
+𝀿	byzantine musical symbol ichadin	all	never	# 𝀿 0x1d03f
+𝁀	byzantine musical symbol nana	all	never	# 𝁀 0x1d040
+𝁁	byzantine musical symbol petasma	all	never	# 𝁁 0x1d041
+𝁂	byzantine musical symbol kontevma allo	all	never	# 𝁂 0x1d042
+𝁃	byzantine musical symbol tromikon allo	all	never	# 𝁃 0x1d043
+𝁄	byzantine musical symbol straggismata	all	never	# 𝁄 0x1d044
+𝁅	byzantine musical symbol gronthismata	all	never	# 𝁅 0x1d045
+𝁆	byzantine musical symbol ison neo	all	never	# 𝁆 0x1d046
+𝁇	byzantine musical symbol oligon neo	all	never	# 𝁇 0x1d047
+𝁈	byzantine musical symbol oxeia neo	all	never	# 𝁈 0x1d048
+𝁉	byzantine musical symbol petasti	all	never	# 𝁉 0x1d049
+𝁊	byzantine musical symbol koufisma	all	never	# 𝁊 0x1d04a
+𝁋	byzantine musical symbol petastokoufisma	all	never	# 𝁋 0x1d04b
+𝁌	byzantine musical symbol kratimokoufisma	all	never	# 𝁌 0x1d04c
+𝁍	byzantine musical symbol pelaston neo	all	never	# 𝁍 0x1d04d
+𝁎	byzantine musical symbol kentimata neo ano	all	never	# 𝁎 0x1d04e
+𝁏	byzantine musical symbol kentima neo ano	all	never	# 𝁏 0x1d04f
+𝁐	byzantine musical symbol ypsili	all	never	# 𝁐 0x1d050
+𝁑	byzantine musical symbol apostrofos neo	all	never	# 𝁑 0x1d051
+𝁒	byzantine musical symbol apostrofoi syndesmos neo	all	never	# 𝁒 0x1d052
+𝁓	byzantine musical symbol yporroi	all	never	# 𝁓 0x1d053
+𝁔	byzantine musical symbol kratimoyporroon	all	never	# 𝁔 0x1d054
+𝁕	byzantine musical symbol elafron	all	never	# 𝁕 0x1d055
+𝁖	byzantine musical symbol chamili	all	never	# 𝁖 0x1d056
+𝁗	byzantine musical symbol mikron ison	all	never	# 𝁗 0x1d057
+𝁘	byzantine musical symbol vareia neo	all	never	# 𝁘 0x1d058
+𝁙	byzantine musical symbol piasma neo	all	never	# 𝁙 0x1d059
+𝁚	byzantine musical symbol psifiston neo	all	never	# 𝁚 0x1d05a
+𝁛	byzantine musical symbol omalon	all	never	# 𝁛 0x1d05b
+𝁜	byzantine musical symbol antikenoma	all	never	# 𝁜 0x1d05c
+𝁝	byzantine musical symbol lygisma	all	never	# 𝁝 0x1d05d
+𝁞	byzantine musical symbol paraklitiki neo	all	never	# 𝁞 0x1d05e
+𝁟	byzantine musical symbol parakalesma neo	all	never	# 𝁟 0x1d05f
+𝁠	byzantine musical symbol eteron parakalesma	all	never	# 𝁠 0x1d060
+𝁡	byzantine musical symbol kylisma	all	never	# 𝁡 0x1d061
+𝁢	byzantine musical symbol antikenokylisma	all	never	# 𝁢 0x1d062
+𝁣	byzantine musical symbol tromikon neo	all	never	# 𝁣 0x1d063
+𝁤	byzantine musical symbol ekstrepton	all	never	# 𝁤 0x1d064
+𝁥	byzantine musical symbol synagma neo	all	never	# 𝁥 0x1d065
+𝁦	byzantine musical symbol syrma	all	never	# 𝁦 0x1d066
+𝁧	byzantine musical symbol chorevma neo	all	never	# 𝁧 0x1d067
+𝁨	byzantine musical symbol epegerma	all	never	# 𝁨 0x1d068
+𝁩	byzantine musical symbol seisma neo	all	never	# 𝁩 0x1d069
+𝁪	byzantine musical symbol xiron klasma	all	never	# 𝁪 0x1d06a
+𝁫	byzantine musical symbol tromikopsifiston	all	never	# 𝁫 0x1d06b
+𝁬	byzantine musical symbol psifistolygisma	all	never	# 𝁬 0x1d06c
+𝁭	byzantine musical symbol tromikolygisma	all	never	# 𝁭 0x1d06d
+𝁮	byzantine musical symbol tromikoparakalesma	all	never	# 𝁮 0x1d06e
+𝁯	byzantine musical symbol psifistoparakalesma	all	never	# 𝁯 0x1d06f
+𝁰	byzantine musical symbol tromikosynagma	all	never	# 𝁰 0x1d070
+𝁱	byzantine musical symbol psifistosynagma	all	never	# 𝁱 0x1d071
+𝁲	byzantine musical symbol gorgosyntheton	all	never	# 𝁲 0x1d072
+𝁳	byzantine musical symbol argosyntheton	all	never	# 𝁳 0x1d073
+𝁴	byzantine musical symbol eteron argosyntheton	all	never	# 𝁴 0x1d074
+𝁵	byzantine musical symbol oyranisma neo	all	never	# 𝁵 0x1d075
+𝁶	byzantine musical symbol thematismos eso	all	never	# 𝁶 0x1d076
+𝁷	byzantine musical symbol thematismos exo	all	never	# 𝁷 0x1d077
+𝁸	byzantine musical symbol thema aploun	all	never	# 𝁸 0x1d078
+𝁹	byzantine musical symbol thes kai apothes	all	never	# 𝁹 0x1d079
+𝁺	byzantine musical symbol katavasma	all	never	# 𝁺 0x1d07a
+𝁻	byzantine musical symbol endofonon	all	never	# 𝁻 0x1d07b
+𝁼	byzantine musical symbol yfen kato	all	never	# 𝁼 0x1d07c
+𝁽	byzantine musical symbol yfen ano	all	never	# 𝁽 0x1d07d
+𝁾	byzantine musical symbol stavros	all	never	# 𝁾 0x1d07e
+𝁿	byzantine musical symbol klasma ano	all	never	# 𝁿 0x1d07f
+𝂀	byzantine musical symbol dipli archaion	all	never	# 𝂀 0x1d080
+𝂁	byzantine musical symbol kratima archaion	all	never	# 𝂁 0x1d081
+𝂂	byzantine musical symbol kratima allo	all	never	# 𝂂 0x1d082
+𝂃	byzantine musical symbol kratima neo	all	never	# 𝂃 0x1d083
+𝂄	byzantine musical symbol apoderma neo	all	never	# 𝂄 0x1d084
+𝂅	byzantine musical symbol apli	all	never	# 𝂅 0x1d085
+𝂆	byzantine musical symbol dipli	all	never	# 𝂆 0x1d086
+𝂇	byzantine musical symbol tripli	all	never	# 𝂇 0x1d087
+𝂈	byzantine musical symbol tetrapli	all	never	# 𝂈 0x1d088
+𝂉	byzantine musical symbol koronis	all	never	# 𝂉 0x1d089
+𝂊	byzantine musical symbol leimma enos chronou	all	never	# 𝂊 0x1d08a
+𝂋	byzantine musical symbol leimma dyo chronon	all	never	# 𝂋 0x1d08b
+𝂌	byzantine musical symbol leimma trion chronon	all	never	# 𝂌 0x1d08c
+𝂍	byzantine musical symbol leimma tessaron chronon	all	never	# 𝂍 0x1d08d
+𝂎	byzantine musical symbol leimma imiseos chronou	all	never	# 𝂎 0x1d08e
+𝂏	byzantine musical symbol gorgon neo ano	all	never	# 𝂏 0x1d08f
+𝂐	byzantine musical symbol gorgon parestigmenon aristera	all	never	# 𝂐 0x1d090
+𝂑	byzantine musical symbol gorgon parestigmenon dexia	all	never	# 𝂑 0x1d091
+𝂒	byzantine musical symbol digorgon	all	never	# 𝂒 0x1d092
+𝂓	byzantine musical symbol digorgon parestigmenon aristera kato	all	never	# 𝂓 0x1d093
+𝂔	byzantine musical symbol digorgon parestigmenon aristera ano	all	never	# 𝂔 0x1d094
+𝂕	byzantine musical symbol digorgon parestigmenon dexia	all	never	# 𝂕 0x1d095
+𝂖	byzantine musical symbol trigorgon	all	never	# 𝂖 0x1d096
+𝂗	byzantine musical symbol argon	all	never	# 𝂗 0x1d097
+𝂘	byzantine musical symbol imidiargon	all	never	# 𝂘 0x1d098
+𝂙	byzantine musical symbol diargon	all	never	# 𝂙 0x1d099
+𝂚	byzantine musical symbol agogi poli argi	all	never	# 𝂚 0x1d09a
+𝂛	byzantine musical symbol agogi argoteri	all	never	# 𝂛 0x1d09b
+𝂜	byzantine musical symbol agogi argi	all	never	# 𝂜 0x1d09c
+𝂝	byzantine musical symbol agogi metria	all	never	# 𝂝 0x1d09d
+𝂞	byzantine musical symbol agogi mesi	all	never	# 𝂞 0x1d09e
+𝂟	byzantine musical symbol agogi gorgi	all	never	# 𝂟 0x1d09f
+𝂠	byzantine musical symbol agogi gorgoteri	all	never	# 𝂠 0x1d0a0
+𝂡	byzantine musical symbol agogi poli gorgi	all	never	# 𝂡 0x1d0a1
+𝂢	byzantine musical symbol martyria protos ichos	all	never	# 𝂢 0x1d0a2
+𝂣	byzantine musical symbol martyria alli protos ichos	all	never	# 𝂣 0x1d0a3
+𝂤	byzantine musical symbol martyria deyteros ichos	all	never	# 𝂤 0x1d0a4
+𝂥	byzantine musical symbol martyria alli deyteros ichos	all	never	# 𝂥 0x1d0a5
+𝂦	byzantine musical symbol martyria tritos ichos	all	never	# 𝂦 0x1d0a6
+𝂧	byzantine musical symbol martyria trifonias	all	never	# 𝂧 0x1d0a7
+𝂨	byzantine musical symbol martyria tetartos ichos	all	never	# 𝂨 0x1d0a8
+𝂩	byzantine musical symbol martyria tetartos legetos ichos	all	never	# 𝂩 0x1d0a9
+𝂪	byzantine musical symbol martyria legetos ichos	all	never	# 𝂪 0x1d0aa
+𝂫	byzantine musical symbol martyria plagios ichos	all	never	# 𝂫 0x1d0ab
+𝂬	byzantine musical symbol isakia telous ichimatos	all	never	# 𝂬 0x1d0ac
+𝂭	byzantine musical symbol apostrofoi telous ichimatos	all	never	# 𝂭 0x1d0ad
+𝂮	byzantine musical symbol fanerosis tetrafonias	all	never	# 𝂮 0x1d0ae
+𝂯	byzantine musical symbol fanerosis monofonias	all	never	# 𝂯 0x1d0af
+𝂰	byzantine musical symbol fanerosis difonias	all	never	# 𝂰 0x1d0b0
+𝂱	byzantine musical symbol martyria varys ichos	all	never	# 𝂱 0x1d0b1
+𝂲	byzantine musical symbol martyria protovarys ichos	all	never	# 𝂲 0x1d0b2
+𝂳	byzantine musical symbol martyria plagios tetartos ichos	all	never	# 𝂳 0x1d0b3
+𝂴	byzantine musical symbol gorthmikon N aploun	all	never	# 𝂴 0x1d0b4
+𝂵	byzantine musical symbol gorthmikon N diploun	all	never	# 𝂵 0x1d0b5
+𝂶	byzantine musical symbol enarxis kai fthora vou	all	never	# 𝂶 0x1d0b6
+𝂷	byzantine musical symbol imifonon	all	never	# 𝂷 0x1d0b7
+𝂸	byzantine musical symbol imifthoron	all	never	# 𝂸 0x1d0b8
+𝂹	byzantine musical symbol fthora archaion deyterou ichou	all	never	# 𝂹 0x1d0b9
+𝂺	byzantine musical symbol fthora diatoniki pa	all	never	# 𝂺 0x1d0ba
+𝂻	byzantine musical symbol fthora diatoniki nana	all	never	# 𝂻 0x1d0bb
+𝂼	byzantine musical symbol fthora naos ichos	all	never	# 𝂼 0x1d0bc
+𝂽	byzantine musical symbol fthora diatoniki di	all	never	# 𝂽 0x1d0bd
+𝂾	byzantine musical symbol fthora skliron diatonon di	all	never	# 𝂾 0x1d0be
+𝂿	byzantine musical symbol fthora diatoniki ke	all	never	# 𝂿 0x1d0bf
+𝃀	byzantine musical symbol fthora diatoniki zo	all	never	# 𝃀 0x1d0c0
+𝃁	byzantine musical symbol fthora diatoniki ni kato	all	never	# 𝃁 0x1d0c1
+𝃂	byzantine musical symbol fthora diatoniki ni ano	all	never	# 𝃂 0x1d0c2
+𝃃	byzantine musical symbol fthora malakon chroma difonias	all	never	# 𝃃 0x1d0c3
+𝃄	byzantine musical symbol fthora malakon chroma monofonias	all	never	# 𝃄 0x1d0c4
+𝃅	byzantine musical symbol fhtora skliron chroma vasis	all	never	# 𝃅 0x1d0c5
+𝃆	byzantine musical symbol fthora skliron chroma synafi	all	never	# 𝃆 0x1d0c6
+𝃇	byzantine musical symbol fthora nenano	all	never	# 𝃇 0x1d0c7
+𝃈	byzantine musical symbol chroa zygos	all	never	# 𝃈 0x1d0c8
+𝃉	byzantine musical symbol chroa kliton	all	never	# 𝃉 0x1d0c9
+𝃊	byzantine musical symbol chroa spathi	all	never	# 𝃊 0x1d0ca
+𝃋	byzantine musical symbol fthora I yfesis tetartimorion	all	never	# 𝃋 0x1d0cb
+𝃌	byzantine musical symbol fthora enarmonios antifonia	all	never	# 𝃌 0x1d0cc
+𝃍	byzantine musical symbol yfesis tritimorion	all	never	# 𝃍 0x1d0cd
+𝃎	byzantine musical symbol diesis tritimorion	all	never	# 𝃎 0x1d0ce
+𝃏	byzantine musical symbol diesis tetartimorion	all	never	# 𝃏 0x1d0cf
+𝃐	byzantine musical symbol diesis apli dyo dodekata	all	never	# 𝃐 0x1d0d0
+𝃑	byzantine musical symbol diesis monogrammos tessera dodekata	all	never	# 𝃑 0x1d0d1
+𝃒	byzantine musical symbol diesis digrammos ex dodekata	all	never	# 𝃒 0x1d0d2
+𝃓	byzantine musical symbol diesis trigrammos okto dodekata	all	never	# 𝃓 0x1d0d3
+𝃔	byzantine musical symbol yfesis apli dyo dodekata	all	never	# 𝃔 0x1d0d4
+𝃕	byzantine musical symbol yfesis monogrammos tessera dodekata	all	never	# 𝃕 0x1d0d5
+𝃖	byzantine musical symbol yfesis digrammos ex dodekata	all	never	# 𝃖 0x1d0d6
+𝃗	byzantine musical symbol yfesis trigrammos okto dodekata	all	never	# 𝃗 0x1d0d7
+𝃘	byzantine musical symbol geniki diesis	all	never	# 𝃘 0x1d0d8
+𝃙	byzantine musical symbol geniki yfesis	all	never	# 𝃙 0x1d0d9
+𝃚	byzantine musical symbol diastoli apli mikri	all	never	# 𝃚 0x1d0da
+𝃛	byzantine musical symbol diastoli apli megali	all	never	# 𝃛 0x1d0db
+𝃜	byzantine musical symbol diastoli dipli	all	never	# 𝃜 0x1d0dc
+𝃝	byzantine musical symbol diastoli theseos	all	never	# 𝃝 0x1d0dd
+𝃞	byzantine musical symbol simansis theseos	all	never	# 𝃞 0x1d0de
+𝃟	byzantine musical symbol simansis theseos disimou	all	never	# 𝃟 0x1d0df
+𝃠	byzantine musical symbol simansis theseos trisimou	all	never	# 𝃠 0x1d0e0
+𝃡	byzantine musical symbol simansis theseos tetrasimou	all	never	# 𝃡 0x1d0e1
+𝃢	byzantine musical symbol simansis arseos	all	never	# 𝃢 0x1d0e2
+𝃣	byzantine musical symbol simansis arseos disimou	all	never	# 𝃣 0x1d0e3
+𝃤	byzantine musical symbol simansis arseos trisimou	all	never	# 𝃤 0x1d0e4
+𝃥	byzantine musical symbol simansis arseos tetrasimou	all	never	# 𝃥 0x1d0e5
+𝃦	byzantine musical symbol digramma gg	all	never	# 𝃦 0x1d0e6
+𝃧	byzantine musical symbol diftoggos ou	all	never	# 𝃧 0x1d0e7
+𝃨	byzantine musical symbol stigma	all	never	# 𝃨 0x1d0e8
+𝃩	byzantine musical symbol arktiko pa	all	never	# 𝃩 0x1d0e9
+𝃪	byzantine musical symbol arktiko vou	all	never	# 𝃪 0x1d0ea
+𝃫	byzantine musical symbol arktiko ga	all	never	# 𝃫 0x1d0eb
+𝃬	byzantine musical symbol arktiko di	all	never	# 𝃬 0x1d0ec
+𝃭	byzantine musical symbol arktiko ke	all	never	# 𝃭 0x1d0ed
+𝃮	byzantine musical symbol arktiko zo	all	never	# 𝃮 0x1d0ee
+𝃯	byzantine musical symbol arktiko ni	all	never	# 𝃯 0x1d0ef
+𝃰	byzantine musical symbol kentimata neo meso	all	never	# 𝃰 0x1d0f0
+𝃱	byzantine musical symbol kentima neo meso	all	never	# 𝃱 0x1d0f1
+𝃲	byzantine musical symbol kentimata neo kato	all	never	# 𝃲 0x1d0f2
+𝃳	byzantine musical symbol kentima neo kato	all	never	# 𝃳 0x1d0f3
+𝃴	byzantine musical symbol klasma kato	all	never	# 𝃴 0x1d0f4
+𝃵	byzantine musical symbol gorgon neo kato	all	never	# 𝃵 0x1d0f5

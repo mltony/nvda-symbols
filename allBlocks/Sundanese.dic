@@ -1,0 +1,65 @@
+# # Sundanese
+ᮀ	sundanese sign panyecek	all	never	# ᮀ 0x1b80
+ᮁ	sundanese sign panglayar	all	never	# ᮁ 0x1b81
+ᮂ	sundanese sign pangwisad	all	never	# ᮂ 0x1b82
+ᮃ	sundanese letter A	all	never	# ᮃ 0x1b83
+ᮄ	sundanese letter I	all	never	# ᮄ 0x1b84
+ᮅ	sundanese letter U	all	never	# ᮅ 0x1b85
+ᮆ	sundanese letter ae	all	never	# ᮆ 0x1b86
+ᮇ	sundanese letter O	all	never	# ᮇ 0x1b87
+ᮈ	sundanese letter E	all	never	# ᮈ 0x1b88
+ᮉ	sundanese letter eu	all	never	# ᮉ 0x1b89
+ᮊ	sundanese letter ka	all	never	# ᮊ 0x1b8a
+ᮋ	sundanese letter qa	all	never	# ᮋ 0x1b8b
+ᮌ	sundanese letter ga	all	never	# ᮌ 0x1b8c
+ᮍ	sundanese letter nga	all	never	# ᮍ 0x1b8d
+ᮎ	sundanese letter ca	all	never	# ᮎ 0x1b8e
+ᮏ	sundanese letter ja	all	never	# ᮏ 0x1b8f
+ᮐ	sundanese letter za	all	never	# ᮐ 0x1b90
+ᮑ	sundanese letter nya	all	never	# ᮑ 0x1b91
+ᮒ	sundanese letter ta	all	never	# ᮒ 0x1b92
+ᮓ	sundanese letter da	all	never	# ᮓ 0x1b93
+ᮔ	sundanese letter na	all	never	# ᮔ 0x1b94
+ᮕ	sundanese letter pa	all	never	# ᮕ 0x1b95
+ᮖ	sundanese letter fa	all	never	# ᮖ 0x1b96
+ᮗ	sundanese letter va	all	never	# ᮗ 0x1b97
+ᮘ	sundanese letter ba	all	never	# ᮘ 0x1b98
+ᮙ	sundanese letter ma	all	never	# ᮙ 0x1b99
+ᮚ	sundanese letter ya	all	never	# ᮚ 0x1b9a
+ᮛ	sundanese letter ra	all	never	# ᮛ 0x1b9b
+ᮜ	sundanese letter la	all	never	# ᮜ 0x1b9c
+ᮝ	sundanese letter wa	all	never	# ᮝ 0x1b9d
+ᮞ	sundanese letter sa	all	never	# ᮞ 0x1b9e
+ᮟ	sundanese letter xa	all	never	# ᮟ 0x1b9f
+ᮠ	sundanese letter ha	all	never	# ᮠ 0x1ba0
+ᮡ	sundanese consonant sign pamingkal	all	never	# ᮡ 0x1ba1
+ᮢ	sundanese consonant sign panyakra	all	never	# ᮢ 0x1ba2
+ᮣ	sundanese consonant sign panyiku	all	never	# ᮣ 0x1ba3
+ᮤ	sundanese vowel sign panghulu	all	never	# ᮤ 0x1ba4
+ᮥ	sundanese vowel sign panyuku	all	never	# ᮥ 0x1ba5
+ᮦ	sundanese vowel sign panaelaeng	all	never	# ᮦ 0x1ba6
+ᮧ	sundanese vowel sign panolong	all	never	# ᮧ 0x1ba7
+ᮨ	sundanese vowel sign pamepet	all	never	# ᮨ 0x1ba8
+ᮩ	sundanese vowel sign paneuleung	all	never	# ᮩ 0x1ba9
+᮪	sundanese sign pamaaeh	all	never	# ᮪ 0x1baa
+᮫	sundanese sign virama	all	never	# ᮫ 0x1bab
+ᮬ	sundanese consonant sign pasangan ma	all	never	# ᮬ 0x1bac
+ᮭ	sundanese consonant sign pasangan wa	all	never	# ᮭ 0x1bad
+ᮮ	sundanese letter kha	all	never	# ᮮ 0x1bae
+ᮯ	sundanese letter sya	all	never	# ᮯ 0x1baf
+᮰	sundanese digit zero	all	never	# ᮰ 0x1bb0
+᮱	sundanese digit one	all	never	# ᮱ 0x1bb1
+᮲	sundanese digit two	all	never	# ᮲ 0x1bb2
+᮳	sundanese digit three	all	never	# ᮳ 0x1bb3
+᮴	sundanese digit four	all	never	# ᮴ 0x1bb4
+᮵	sundanese digit five	all	never	# ᮵ 0x1bb5
+᮶	sundanese digit six	all	never	# ᮶ 0x1bb6
+᮷	sundanese digit seven	all	never	# ᮷ 0x1bb7
+᮸	sundanese digit eight	all	never	# ᮸ 0x1bb8
+᮹	sundanese digit nine	all	never	# ᮹ 0x1bb9
+ᮺ	sundanese avagraha	all	never	# ᮺ 0x1bba
+ᮻ	sundanese letter reu	all	never	# ᮻ 0x1bbb
+ᮼ	sundanese letter leu	all	never	# ᮼ 0x1bbc
+ᮽ	sundanese letter bha	all	never	# ᮽ 0x1bbd
+ᮾ	sundanese letter final K	all	never	# ᮾ 0x1bbe
+ᮿ	sundanese letter final M	all	never	# ᮿ 0x1bbf

@@ -1,0 +1,97 @@
+# # Katakana
+゠	katakana-hiragana double hyphen	all	never	# ゠ 0x30a0
+ァ	katakana letter small A	all	never	# ァ 0x30a1
+ア	katakana letter A	all	never	# ア 0x30a2
+ィ	katakana letter small I	all	never	# ィ 0x30a3
+イ	katakana letter I	all	never	# イ 0x30a4
+ゥ	katakana letter small U	all	never	# ゥ 0x30a5
+ウ	katakana letter U	all	never	# ウ 0x30a6
+ェ	katakana letter small E	all	never	# ェ 0x30a7
+エ	katakana letter E	all	never	# エ 0x30a8
+ォ	katakana letter small O	all	never	# ォ 0x30a9
+オ	katakana letter O	all	never	# オ 0x30aa
+カ	katakana letter ka	all	never	# カ 0x30ab
+ガ	katakana letter ga	all	never	# ガ 0x30ac
+キ	katakana letter ki	all	never	# キ 0x30ad
+ギ	katakana letter gi	all	never	# ギ 0x30ae
+ク	katakana letter ku	all	never	# ク 0x30af
+グ	katakana letter gu	all	never	# グ 0x30b0
+ケ	katakana letter ke	all	never	# ケ 0x30b1
+ゲ	katakana letter ge	all	never	# ゲ 0x30b2
+コ	katakana letter ko	all	never	# コ 0x30b3
+ゴ	katakana letter go	all	never	# ゴ 0x30b4
+サ	katakana letter sa	all	never	# サ 0x30b5
+ザ	katakana letter za	all	never	# ザ 0x30b6
+シ	katakana letter si	all	never	# シ 0x30b7
+ジ	katakana letter zi	all	never	# ジ 0x30b8
+ス	katakana letter su	all	never	# ス 0x30b9
+ズ	katakana letter zu	all	never	# ズ 0x30ba
+セ	katakana letter se	all	never	# セ 0x30bb
+ゼ	katakana letter ze	all	never	# ゼ 0x30bc
+ソ	katakana letter so	all	never	# ソ 0x30bd
+ゾ	katakana letter zo	all	never	# ゾ 0x30be
+タ	katakana letter ta	all	never	# タ 0x30bf
+ダ	katakana letter da	all	never	# ダ 0x30c0
+チ	katakana letter ti	all	never	# チ 0x30c1
+ヂ	katakana letter di	all	never	# ヂ 0x30c2
+ッ	katakana letter small tu	all	never	# ッ 0x30c3
+ツ	katakana letter tu	all	never	# ツ 0x30c4
+ヅ	katakana letter du	all	never	# ヅ 0x30c5
+テ	katakana letter te	all	never	# テ 0x30c6
+デ	katakana letter de	all	never	# デ 0x30c7
+ト	katakana letter to	all	never	# ト 0x30c8
+ド	katakana letter do	all	never	# ド 0x30c9
+ナ	katakana letter na	all	never	# ナ 0x30ca
+ニ	katakana letter ni	all	never	# ニ 0x30cb
+ヌ	katakana letter nu	all	never	# ヌ 0x30cc
+ネ	katakana letter ne	all	never	# ネ 0x30cd
+ノ	katakana letter no	all	never	# ノ 0x30ce
+ハ	katakana letter ha	all	never	# ハ 0x30cf
+バ	katakana letter ba	all	never	# バ 0x30d0
+パ	katakana letter pa	all	never	# パ 0x30d1
+ヒ	katakana letter hi	all	never	# ヒ 0x30d2
+ビ	katakana letter bi	all	never	# ビ 0x30d3
+ピ	katakana letter pi	all	never	# ピ 0x30d4
+フ	katakana letter hu	all	never	# フ 0x30d5
+ブ	katakana letter bu	all	never	# ブ 0x30d6
+プ	katakana letter pu	all	never	# プ 0x30d7
+ヘ	katakana letter he	all	never	# ヘ 0x30d8
+ベ	katakana letter be	all	never	# ベ 0x30d9
+ペ	katakana letter pe	all	never	# ペ 0x30da
+ホ	katakana letter ho	all	never	# ホ 0x30db
+ボ	katakana letter bo	all	never	# ボ 0x30dc
+ポ	katakana letter po	all	never	# ポ 0x30dd
+マ	katakana letter ma	all	never	# マ 0x30de
+ミ	katakana letter mi	all	never	# ミ 0x30df
+ム	katakana letter mu	all	never	# ム 0x30e0
+メ	katakana letter me	all	never	# メ 0x30e1
+モ	katakana letter mo	all	never	# モ 0x30e2
+ャ	katakana letter small ya	all	never	# ャ 0x30e3
+ヤ	katakana letter ya	all	never	# ヤ 0x30e4
+ュ	katakana letter small yu	all	never	# ュ 0x30e5
+ユ	katakana letter yu	all	never	# ユ 0x30e6
+ョ	katakana letter small yo	all	never	# ョ 0x30e7
+ヨ	katakana letter yo	all	never	# ヨ 0x30e8
+ラ	katakana letter ra	all	never	# ラ 0x30e9
+リ	katakana letter ri	all	never	# リ 0x30ea
+ル	katakana letter ru	all	never	# ル 0x30eb
+レ	katakana letter re	all	never	# レ 0x30ec
+ロ	katakana letter ro	all	never	# ロ 0x30ed
+ヮ	katakana letter small wa	all	never	# ヮ 0x30ee
+ワ	katakana letter wa	all	never	# ワ 0x30ef
+ヰ	katakana letter wi	all	never	# ヰ 0x30f0
+ヱ	katakana letter we	all	never	# ヱ 0x30f1
+ヲ	katakana letter wo	all	never	# ヲ 0x30f2
+ン	katakana letter N	all	never	# ン 0x30f3
+ヴ	katakana letter vu	all	never	# ヴ 0x30f4
+ヵ	katakana letter small ka	all	never	# ヵ 0x30f5
+ヶ	katakana letter small ke	all	never	# ヶ 0x30f6
+ヷ	katakana letter va	all	never	# ヷ 0x30f7
+ヸ	katakana letter vi	all	never	# ヸ 0x30f8
+ヹ	katakana letter ve	all	never	# ヹ 0x30f9
+ヺ	katakana letter vo	all	never	# ヺ 0x30fa
+・	katakana middle dot	all	never	# ・ 0x30fb
+ー	katakana-hiragana prolonged sound mark	all	never	# ー 0x30fc
+ヽ	katakana iteration mark	all	never	# ヽ 0x30fd
+ヾ	katakana voiced iteration mark	all	never	# ヾ 0x30fe
+ヿ	katakana digraph koto	all	never	# ヿ 0x30ff

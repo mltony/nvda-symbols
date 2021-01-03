@@ -1,0 +1,83 @@
+# # Playing Cards
+🂠	playing card back	all	never	# 🂠 0x1f0a0
+🂡	playing card ace of spades	all	never	# 🂡 0x1f0a1
+🂢	playing card two of spades	all	never	# 🂢 0x1f0a2
+🂣	playing card three of spades	all	never	# 🂣 0x1f0a3
+🂤	playing card four of spades	all	never	# 🂤 0x1f0a4
+🂥	playing card five of spades	all	never	# 🂥 0x1f0a5
+🂦	playing card six of spades	all	never	# 🂦 0x1f0a6
+🂧	playing card seven of spades	all	never	# 🂧 0x1f0a7
+🂨	playing card eight of spades	all	never	# 🂨 0x1f0a8
+🂩	playing card nine of spades	all	never	# 🂩 0x1f0a9
+🂪	playing card ten of spades	all	never	# 🂪 0x1f0aa
+🂫	playing card jack of spades	all	never	# 🂫 0x1f0ab
+🂬	playing card knight of spades	all	never	# 🂬 0x1f0ac
+🂭	playing card queen of spades	all	never	# 🂭 0x1f0ad
+🂮	playing card king of spades	all	never	# 🂮 0x1f0ae
+🂱	playing card ace of hearts	all	never	# 🂱 0x1f0b1
+🂲	playing card two of hearts	all	never	# 🂲 0x1f0b2
+🂳	playing card three of hearts	all	never	# 🂳 0x1f0b3
+🂴	playing card four of hearts	all	never	# 🂴 0x1f0b4
+🂵	playing card five of hearts	all	never	# 🂵 0x1f0b5
+🂶	playing card six of hearts	all	never	# 🂶 0x1f0b6
+🂷	playing card seven of hearts	all	never	# 🂷 0x1f0b7
+🂸	playing card eight of hearts	all	never	# 🂸 0x1f0b8
+🂹	playing card nine of hearts	all	never	# 🂹 0x1f0b9
+🂺	playing card ten of hearts	all	never	# 🂺 0x1f0ba
+🂻	playing card jack of hearts	all	never	# 🂻 0x1f0bb
+🂼	playing card knight of hearts	all	never	# 🂼 0x1f0bc
+🂽	playing card queen of hearts	all	never	# 🂽 0x1f0bd
+🂾	playing card king of hearts	all	never	# 🂾 0x1f0be
+🂿	playing card red joker	all	never	# 🂿 0x1f0bf
+🃁	playing card ace of diamonds	all	never	# 🃁 0x1f0c1
+🃂	playing card two of diamonds	all	never	# 🃂 0x1f0c2
+🃃	playing card three of diamonds	all	never	# 🃃 0x1f0c3
+🃄	playing card four of diamonds	all	never	# 🃄 0x1f0c4
+🃅	playing card five of diamonds	all	never	# 🃅 0x1f0c5
+🃆	playing card six of diamonds	all	never	# 🃆 0x1f0c6
+🃇	playing card seven of diamonds	all	never	# 🃇 0x1f0c7
+🃈	playing card eight of diamonds	all	never	# 🃈 0x1f0c8
+🃉	playing card nine of diamonds	all	never	# 🃉 0x1f0c9
+🃊	playing card ten of diamonds	all	never	# 🃊 0x1f0ca
+🃋	playing card jack of diamonds	all	never	# 🃋 0x1f0cb
+🃌	playing card knight of diamonds	all	never	# 🃌 0x1f0cc
+🃍	playing card queen of diamonds	all	never	# 🃍 0x1f0cd
+🃎	playing card king of diamonds	all	never	# 🃎 0x1f0ce
+🃏	playing card black joker	all	never	# 🃏 0x1f0cf
+🃑	playing card ace of clubs	all	never	# 🃑 0x1f0d1
+🃒	playing card two of clubs	all	never	# 🃒 0x1f0d2
+🃓	playing card three of clubs	all	never	# 🃓 0x1f0d3
+🃔	playing card four of clubs	all	never	# 🃔 0x1f0d4
+🃕	playing card five of clubs	all	never	# 🃕 0x1f0d5
+🃖	playing card six of clubs	all	never	# 🃖 0x1f0d6
+🃗	playing card seven of clubs	all	never	# 🃗 0x1f0d7
+🃘	playing card eight of clubs	all	never	# 🃘 0x1f0d8
+🃙	playing card nine of clubs	all	never	# 🃙 0x1f0d9
+🃚	playing card ten of clubs	all	never	# 🃚 0x1f0da
+🃛	playing card jack of clubs	all	never	# 🃛 0x1f0db
+🃜	playing card knight of clubs	all	never	# 🃜 0x1f0dc
+🃝	playing card queen of clubs	all	never	# 🃝 0x1f0dd
+🃞	playing card king of clubs	all	never	# 🃞 0x1f0de
+🃟	playing card white joker	all	never	# 🃟 0x1f0df
+🃠	playing card fool	all	never	# 🃠 0x1f0e0
+🃡	playing card trump-1	all	never	# 🃡 0x1f0e1
+🃢	playing card trump-2	all	never	# 🃢 0x1f0e2
+🃣	playing card trump-3	all	never	# 🃣 0x1f0e3
+🃤	playing card trump-4	all	never	# 🃤 0x1f0e4
+🃥	playing card trump-5	all	never	# 🃥 0x1f0e5
+🃦	playing card trump-6	all	never	# 🃦 0x1f0e6
+🃧	playing card trump-7	all	never	# 🃧 0x1f0e7
+🃨	playing card trump-8	all	never	# 🃨 0x1f0e8
+🃩	playing card trump-9	all	never	# 🃩 0x1f0e9
+🃪	playing card trump-10	all	never	# 🃪 0x1f0ea
+🃫	playing card trump-11	all	never	# 🃫 0x1f0eb
+🃬	playing card trump-12	all	never	# 🃬 0x1f0ec
+🃭	playing card trump-13	all	never	# 🃭 0x1f0ed
+🃮	playing card trump-14	all	never	# 🃮 0x1f0ee
+🃯	playing card trump-15	all	never	# 🃯 0x1f0ef
+🃰	playing card trump-16	all	never	# 🃰 0x1f0f0
+🃱	playing card trump-17	all	never	# 🃱 0x1f0f1
+🃲	playing card trump-18	all	never	# 🃲 0x1f0f2
+🃳	playing card trump-19	all	never	# 🃳 0x1f0f3
+🃴	playing card trump-20	all	never	# 🃴 0x1f0f4
+🃵	playing card trump-21	all	never	# 🃵 0x1f0f5

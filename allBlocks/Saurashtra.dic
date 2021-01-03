@@ -1,0 +1,83 @@
+# # Saurashtra
+ꢀ	saurashtra sign anusvara	all	never	# ꢀ 0xa880
+ꢁ	saurashtra sign visarga	all	never	# ꢁ 0xa881
+ꢂ	saurashtra letter A	all	never	# ꢂ 0xa882
+ꢃ	saurashtra letter aa	all	never	# ꢃ 0xa883
+ꢄ	saurashtra letter I	all	never	# ꢄ 0xa884
+ꢅ	saurashtra letter ii	all	never	# ꢅ 0xa885
+ꢆ	saurashtra letter U	all	never	# ꢆ 0xa886
+ꢇ	saurashtra letter uu	all	never	# ꢇ 0xa887
+ꢈ	saurashtra letter vocalic R	all	never	# ꢈ 0xa888
+ꢉ	saurashtra letter vocalic rr	all	never	# ꢉ 0xa889
+ꢊ	saurashtra letter vocalic L	all	never	# ꢊ 0xa88a
+ꢋ	saurashtra letter vocalic ll	all	never	# ꢋ 0xa88b
+ꢌ	saurashtra letter E	all	never	# ꢌ 0xa88c
+ꢍ	saurashtra letter ee	all	never	# ꢍ 0xa88d
+ꢎ	saurashtra letter ai	all	never	# ꢎ 0xa88e
+ꢏ	saurashtra letter O	all	never	# ꢏ 0xa88f
+ꢐ	saurashtra letter oo	all	never	# ꢐ 0xa890
+ꢑ	saurashtra letter au	all	never	# ꢑ 0xa891
+ꢒ	saurashtra letter ka	all	never	# ꢒ 0xa892
+ꢓ	saurashtra letter kha	all	never	# ꢓ 0xa893
+ꢔ	saurashtra letter ga	all	never	# ꢔ 0xa894
+ꢕ	saurashtra letter gha	all	never	# ꢕ 0xa895
+ꢖ	saurashtra letter nga	all	never	# ꢖ 0xa896
+ꢗ	saurashtra letter ca	all	never	# ꢗ 0xa897
+ꢘ	saurashtra letter cha	all	never	# ꢘ 0xa898
+ꢙ	saurashtra letter ja	all	never	# ꢙ 0xa899
+ꢚ	saurashtra letter jha	all	never	# ꢚ 0xa89a
+ꢛ	saurashtra letter nya	all	never	# ꢛ 0xa89b
+ꢜ	saurashtra letter tta	all	never	# ꢜ 0xa89c
+ꢝ	saurashtra letter ttha	all	never	# ꢝ 0xa89d
+ꢞ	saurashtra letter dda	all	never	# ꢞ 0xa89e
+ꢟ	saurashtra letter ddha	all	never	# ꢟ 0xa89f
+ꢠ	saurashtra letter nna	all	never	# ꢠ 0xa8a0
+ꢡ	saurashtra letter ta	all	never	# ꢡ 0xa8a1
+ꢢ	saurashtra letter tha	all	never	# ꢢ 0xa8a2
+ꢣ	saurashtra letter da	all	never	# ꢣ 0xa8a3
+ꢤ	saurashtra letter dha	all	never	# ꢤ 0xa8a4
+ꢥ	saurashtra letter na	all	never	# ꢥ 0xa8a5
+ꢦ	saurashtra letter pa	all	never	# ꢦ 0xa8a6
+ꢧ	saurashtra letter pha	all	never	# ꢧ 0xa8a7
+ꢨ	saurashtra letter ba	all	never	# ꢨ 0xa8a8
+ꢩ	saurashtra letter bha	all	never	# ꢩ 0xa8a9
+ꢪ	saurashtra letter ma	all	never	# ꢪ 0xa8aa
+ꢫ	saurashtra letter ya	all	never	# ꢫ 0xa8ab
+ꢬ	saurashtra letter ra	all	never	# ꢬ 0xa8ac
+ꢭ	saurashtra letter la	all	never	# ꢭ 0xa8ad
+ꢮ	saurashtra letter va	all	never	# ꢮ 0xa8ae
+ꢯ	saurashtra letter sha	all	never	# ꢯ 0xa8af
+ꢰ	saurashtra letter ssa	all	never	# ꢰ 0xa8b0
+ꢱ	saurashtra letter sa	all	never	# ꢱ 0xa8b1
+ꢲ	saurashtra letter ha	all	never	# ꢲ 0xa8b2
+ꢳ	saurashtra letter lla	all	never	# ꢳ 0xa8b3
+ꢴ	saurashtra consonant sign haaru	all	never	# ꢴ 0xa8b4
+ꢵ	saurashtra vowel sign aa	all	never	# ꢵ 0xa8b5
+ꢶ	saurashtra vowel sign I	all	never	# ꢶ 0xa8b6
+ꢷ	saurashtra vowel sign ii	all	never	# ꢷ 0xa8b7
+ꢸ	saurashtra vowel sign U	all	never	# ꢸ 0xa8b8
+ꢹ	saurashtra vowel sign uu	all	never	# ꢹ 0xa8b9
+ꢺ	saurashtra vowel sign vocalic R	all	never	# ꢺ 0xa8ba
+ꢻ	saurashtra vowel sign vocalic rr	all	never	# ꢻ 0xa8bb
+ꢼ	saurashtra vowel sign vocalic L	all	never	# ꢼ 0xa8bc
+ꢽ	saurashtra vowel sign vocalic ll	all	never	# ꢽ 0xa8bd
+ꢾ	saurashtra vowel sign E	all	never	# ꢾ 0xa8be
+ꢿ	saurashtra vowel sign ee	all	never	# ꢿ 0xa8bf
+ꣀ	saurashtra vowel sign ai	all	never	# ꣀ 0xa8c0
+ꣁ	saurashtra vowel sign O	all	never	# ꣁ 0xa8c1
+ꣂ	saurashtra vowel sign oo	all	never	# ꣂ 0xa8c2
+ꣃ	saurashtra vowel sign au	all	never	# ꣃ 0xa8c3
+꣄	saurashtra sign virama	all	never	# ꣄ 0xa8c4
+ꣅ	saurashtra sign candrabindu	all	never	# ꣅ 0xa8c5
+꣎	saurashtra danda	all	never	# ꣎ 0xa8ce
+꣏	saurashtra double danda	all	never	# ꣏ 0xa8cf
+꣐	saurashtra digit zero	all	never	# ꣐ 0xa8d0
+꣑	saurashtra digit one	all	never	# ꣑ 0xa8d1
+꣒	saurashtra digit two	all	never	# ꣒ 0xa8d2
+꣓	saurashtra digit three	all	never	# ꣓ 0xa8d3
+꣔	saurashtra digit four	all	never	# ꣔ 0xa8d4
+꣕	saurashtra digit five	all	never	# ꣕ 0xa8d5
+꣖	saurashtra digit six	all	never	# ꣖ 0xa8d6
+꣗	saurashtra digit seven	all	never	# ꣗ 0xa8d7
+꣘	saurashtra digit eight	all	never	# ꣘ 0xa8d8
+꣙	saurashtra digit nine	all	never	# ꣙ 0xa8d9

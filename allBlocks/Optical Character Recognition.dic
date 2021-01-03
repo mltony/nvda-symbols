@@ -1,0 +1,12 @@
+# # Optical Character Recognition
+⑀	ocr hook	all	never	# ⑀ 0x2440
+⑁	ocr chair	all	never	# ⑁ 0x2441
+⑂	ocr fork	all	never	# ⑂ 0x2442
+⑃	ocr inverted fork	all	never	# ⑃ 0x2443
+⑄	ocr belt buckle	all	never	# ⑄ 0x2444
+⑅	ocr bow tie	all	never	# ⑅ 0x2445
+⑆	ocr branch bank identification	all	never	# ⑆ 0x2446
+⑇	ocr amount of check	all	never	# ⑇ 0x2447
+⑈	ocr dash	all	never	# ⑈ 0x2448
+⑉	ocr customer account number	all	never	# ⑉ 0x2449
+⑊	ocr double backslash	all	never	# ⑊ 0x244a

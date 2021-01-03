@@ -1,0 +1,91 @@
+# # Sinhala
+ං	sinhala sign anusvaraya	all	never	# ං 0xd82
+ඃ	sinhala sign visargaya	all	never	# ඃ 0xd83
+අ	sinhala letter ayanna	all	never	# අ 0xd85
+ආ	sinhala letter aayanna	all	never	# ආ 0xd86
+ඇ	sinhala letter aeyanna	all	never	# ඇ 0xd87
+ඈ	sinhala letter aeeyanna	all	never	# ඈ 0xd88
+ඉ	sinhala letter iyanna	all	never	# ඉ 0xd89
+ඊ	sinhala letter iiyanna	all	never	# ඊ 0xd8a
+උ	sinhala letter uyanna	all	never	# උ 0xd8b
+ඌ	sinhala letter uuyanna	all	never	# ඌ 0xd8c
+ඍ	sinhala letter iruyanna	all	never	# ඍ 0xd8d
+ඎ	sinhala letter iruuyanna	all	never	# ඎ 0xd8e
+ඏ	sinhala letter iluyanna	all	never	# ඏ 0xd8f
+ඐ	sinhala letter iluuyanna	all	never	# ඐ 0xd90
+එ	sinhala letter eyanna	all	never	# එ 0xd91
+ඒ	sinhala letter eeyanna	all	never	# ඒ 0xd92
+ඓ	sinhala letter aiyanna	all	never	# ඓ 0xd93
+ඔ	sinhala letter oyanna	all	never	# ඔ 0xd94
+ඕ	sinhala letter ooyanna	all	never	# ඕ 0xd95
+ඖ	sinhala letter auyanna	all	never	# ඖ 0xd96
+ක	sinhala letter alpapraana kayanna	all	never	# ක 0xd9a
+ඛ	sinhala letter mahaapraana kayanna	all	never	# ඛ 0xd9b
+ග	sinhala letter alpapraana gayanna	all	never	# ග 0xd9c
+ඝ	sinhala letter mahaapraana gayanna	all	never	# ඝ 0xd9d
+ඞ	sinhala letter kantaja naasikyaya	all	never	# ඞ 0xd9e
+ඟ	sinhala letter sanyaka gayanna	all	never	# ඟ 0xd9f
+ච	sinhala letter alpapraana cayanna	all	never	# ච 0xda0
+ඡ	sinhala letter mahaapraana cayanna	all	never	# ඡ 0xda1
+ජ	sinhala letter alpapraana jayanna	all	never	# ජ 0xda2
+ඣ	sinhala letter mahaapraana jayanna	all	never	# ඣ 0xda3
+ඤ	sinhala letter taaluja naasikyaya	all	never	# ඤ 0xda4
+ඥ	sinhala letter taaluja sanyooga naaksikyaya	all	never	# ඥ 0xda5
+ඦ	sinhala letter sanyaka jayanna	all	never	# ඦ 0xda6
+ට	sinhala letter alpapraana ttayanna	all	never	# ට 0xda7
+ඨ	sinhala letter mahaapraana ttayanna	all	never	# ඨ 0xda8
+ඩ	sinhala letter alpapraana ddayanna	all	never	# ඩ 0xda9
+ඪ	sinhala letter mahaapraana ddayanna	all	never	# ඪ 0xdaa
+ණ	sinhala letter muurdhaja nayanna	all	never	# ණ 0xdab
+ඬ	sinhala letter sanyaka ddayanna	all	never	# ඬ 0xdac
+ත	sinhala letter alpapraana tayanna	all	never	# ත 0xdad
+ථ	sinhala letter mahaapraana tayanna	all	never	# ථ 0xdae
+ද	sinhala letter alpapraana dayanna	all	never	# ද 0xdaf
+ධ	sinhala letter mahaapraana dayanna	all	never	# ධ 0xdb0
+න	sinhala letter dantaja nayanna	all	never	# න 0xdb1
+ඳ	sinhala letter sanyaka dayanna	all	never	# ඳ 0xdb3
+ප	sinhala letter alpapraana payanna	all	never	# ප 0xdb4
+ඵ	sinhala letter mahaapraana payanna	all	never	# ඵ 0xdb5
+බ	sinhala letter alpapraana bayanna	all	never	# බ 0xdb6
+භ	sinhala letter mahaapraana bayanna	all	never	# භ 0xdb7
+ම	sinhala letter mayanna	all	never	# ම 0xdb8
+ඹ	sinhala letter amba bayanna	all	never	# ඹ 0xdb9
+ය	sinhala letter yayanna	all	never	# ය 0xdba
+ර	sinhala letter rayanna	all	never	# ර 0xdbb
+ල	sinhala letter dantaja layanna	all	never	# ල 0xdbd
+ව	sinhala letter vayanna	all	never	# ව 0xdc0
+ශ	sinhala letter taaluja sayanna	all	never	# ශ 0xdc1
+ෂ	sinhala letter muurdhaja sayanna	all	never	# ෂ 0xdc2
+ස	sinhala letter dantaja sayanna	all	never	# ස 0xdc3
+හ	sinhala letter hayanna	all	never	# හ 0xdc4
+ළ	sinhala letter muurdhaja layanna	all	never	# ළ 0xdc5
+ෆ	sinhala letter fayanna	all	never	# ෆ 0xdc6
+්	sinhala sign al-lakuna	all	never	# ් 0xdca
+ා	sinhala vowel sign aela-pilla	all	never	# ා 0xdcf
+ැ	sinhala vowel sign ketti aeda-pilla	all	never	# ැ 0xdd0
+ෑ	sinhala vowel sign diga aeda-pilla	all	never	# ෑ 0xdd1
+ි	sinhala vowel sign ketti is-pilla	all	never	# ි 0xdd2
+ී	sinhala vowel sign diga is-pilla	all	never	# ී 0xdd3
+ු	sinhala vowel sign ketti paa-pilla	all	never	# ු 0xdd4
+ූ	sinhala vowel sign diga paa-pilla	all	never	# ූ 0xdd6
+ෘ	sinhala vowel sign gaetta-pilla	all	never	# ෘ 0xdd8
+ෙ	sinhala vowel sign kombuva	all	never	# ෙ 0xdd9
+ේ	sinhala vowel sign diga kombuva	all	never	# ේ 0xdda
+ෛ	sinhala vowel sign kombu deka	all	never	# ෛ 0xddb
+ො	sinhala vowel sign kombuva haa aela-pilla	all	never	# ො 0xddc
+ෝ	sinhala vowel sign kombuva haa diga aela-pilla	all	never	# ෝ 0xddd
+ෞ	sinhala vowel sign kombuva haa gayanukitta	all	never	# ෞ 0xdde
+ෟ	sinhala vowel sign gayanukitta	all	never	# ෟ 0xddf
+෦	sinhala lith digit zero	all	never	# ෦ 0xde6
+෧	sinhala lith digit one	all	never	# ෧ 0xde7
+෨	sinhala lith digit two	all	never	# ෨ 0xde8
+෩	sinhala lith digit three	all	never	# ෩ 0xde9
+෪	sinhala lith digit four	all	never	# ෪ 0xdea
+෫	sinhala lith digit five	all	never	# ෫ 0xdeb
+෬	sinhala lith digit six	all	never	# ෬ 0xdec
+෭	sinhala lith digit seven	all	never	# ෭ 0xded
+෮	sinhala lith digit eight	all	never	# ෮ 0xdee
+෯	sinhala lith digit nine	all	never	# ෯ 0xdef
+ෲ	sinhala vowel sign diga gaetta-pilla	all	never	# ෲ 0xdf2
+ෳ	sinhala vowel sign diga gayanukitta	all	never	# ෳ 0xdf3
+෴	sinhala punctuation kunddaliya	all	never	# ෴ 0xdf4

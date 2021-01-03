@@ -1,0 +1,62 @@
+# # Samaritan
+ࠀ	samaritan letter alaf	all	never	# ࠀ 0x800
+ࠁ	samaritan letter bit	all	never	# ࠁ 0x801
+ࠂ	samaritan letter gaman	all	never	# ࠂ 0x802
+ࠃ	samaritan letter dalat	all	never	# ࠃ 0x803
+ࠄ	samaritan letter iy	all	never	# ࠄ 0x804
+ࠅ	samaritan letter baa	all	never	# ࠅ 0x805
+ࠆ	samaritan letter zen	all	never	# ࠆ 0x806
+ࠇ	samaritan letter it	all	never	# ࠇ 0x807
+ࠈ	samaritan letter tit	all	never	# ࠈ 0x808
+ࠉ	samaritan letter yut	all	never	# ࠉ 0x809
+ࠊ	samaritan letter kaaf	all	never	# ࠊ 0x80a
+ࠋ	samaritan letter labat	all	never	# ࠋ 0x80b
+ࠌ	samaritan letter mim	all	never	# ࠌ 0x80c
+ࠍ	samaritan letter nun	all	never	# ࠍ 0x80d
+ࠎ	samaritan letter singaat	all	never	# ࠎ 0x80e
+ࠏ	samaritan letter in	all	never	# ࠏ 0x80f
+ࠐ	samaritan letter fi	all	never	# ࠐ 0x810
+ࠑ	samaritan letter tsaadiy	all	never	# ࠑ 0x811
+ࠒ	samaritan letter quf	all	never	# ࠒ 0x812
+ࠓ	samaritan letter rish	all	never	# ࠓ 0x813
+ࠔ	samaritan letter shan	all	never	# ࠔ 0x814
+ࠕ	samaritan letter taaf	all	never	# ࠕ 0x815
+ࠖ	samaritan mark in	all	never	# ࠖ 0x816
+ࠗ	samaritan mark in-alaf	all	never	# ࠗ 0x817
+࠘	samaritan mark occlusion	all	never	# ࠘ 0x818
+࠙	samaritan mark dagesh	all	never	# ࠙ 0x819
+ࠚ	samaritan modifier letter epenthetic yut	all	never	# ࠚ 0x81a
+ࠛ	samaritan mark epenthetic yut	all	never	# ࠛ 0x81b
+ࠜ	samaritan vowel sign long E	all	never	# ࠜ 0x81c
+ࠝ	samaritan vowel sign E	all	never	# ࠝ 0x81d
+ࠞ	samaritan vowel sign overlong aa	all	never	# ࠞ 0x81e
+ࠟ	samaritan vowel sign long aa	all	never	# ࠟ 0x81f
+ࠠ	samaritan vowel sign aa	all	never	# ࠠ 0x820
+ࠡ	samaritan vowel sign overlong A	all	never	# ࠡ 0x821
+ࠢ	samaritan vowel sign long A	all	never	# ࠢ 0x822
+ࠣ	samaritan vowel sign A	all	never	# ࠣ 0x823
+ࠤ	samaritan modifier letter short A	all	never	# ࠤ 0x824
+ࠥ	samaritan vowel sign short A	all	never	# ࠥ 0x825
+ࠦ	samaritan vowel sign long U	all	never	# ࠦ 0x826
+ࠧ	samaritan vowel sign U	all	never	# ࠧ 0x827
+ࠨ	samaritan modifier letter I	all	never	# ࠨ 0x828
+ࠩ	samaritan vowel sign long I	all	never	# ࠩ 0x829
+ࠪ	samaritan vowel sign I	all	never	# ࠪ 0x82a
+ࠫ	samaritan vowel sign O	all	never	# ࠫ 0x82b
+ࠬ	samaritan vowel sign sukun	all	never	# ࠬ 0x82c
+࠭	samaritan mark nequdaa	all	never	# ࠭ 0x82d
+࠰	samaritan punctuation nequdaa	all	never	# ࠰ 0x830
+࠱	samaritan punctuation afsaaq	all	never	# ࠱ 0x831
+࠲	samaritan punctuation anged	all	never	# ࠲ 0x832
+࠳	samaritan punctuation bau	all	never	# ࠳ 0x833
+࠴	samaritan punctuation atmaau	all	never	# ࠴ 0x834
+࠵	samaritan punctuation shiyyaalaa	all	never	# ࠵ 0x835
+࠶	samaritan abbreviation mark	all	never	# ࠶ 0x836
+࠷	samaritan punctuation melodic qitsa	all	never	# ࠷ 0x837
+࠸	samaritan punctuation ziqaa	all	never	# ࠸ 0x838
+࠹	samaritan punctuation qitsa	all	never	# ࠹ 0x839
+࠺	samaritan punctuation zaef	all	never	# ࠺ 0x83a
+࠻	samaritan punctuation turu	all	never	# ࠻ 0x83b
+࠼	samaritan punctuation arkaanu	all	never	# ࠼ 0x83c
+࠽	samaritan punctuation sof mashfaat	all	never	# ࠽ 0x83d
+࠾	samaritan punctuation annaau	all	never	# ࠾ 0x83e

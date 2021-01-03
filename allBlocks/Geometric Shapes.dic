@@ -1,0 +1,97 @@
+# # Geometric Shapes
+# ■	black square	all	never	# ■ 0x25a0
+# □	white square	all	never	# □ 0x25a1
+▢	white square with rounded corners	all	never	# ▢ 0x25a2
+▣	white square containing black small square	all	never	# ▣ 0x25a3
+▤	square with horizontal fill	all	never	# ▤ 0x25a4
+▥	square with vertical fill	all	never	# ▥ 0x25a5
+▦	square with orthogonal crosshatch fill	all	never	# ▦ 0x25a6
+▧	square with upper left to lower right fill	all	never	# ▧ 0x25a7
+▨	square with upper right to lower left fill	all	never	# ▨ 0x25a8
+▩	square with diagonal crosshatch fill	all	never	# ▩ 0x25a9
+# ▪	black small square	all	never	# ▪ 0x25aa
+▫	white small square	all	never	# ▫ 0x25ab
+▬	black rectangle	all	never	# ▬ 0x25ac
+▭	white rectangle	all	never	# ▭ 0x25ad
+▮	black vertical rectangle	all	never	# ▮ 0x25ae
+▯	white vertical rectangle	all	never	# ▯ 0x25af
+▰	black parallelogram	all	never	# ▰ 0x25b0
+▱	white parallelogram	all	never	# ▱ 0x25b1
+▲	black up-pointing triangle	all	never	# ▲ 0x25b2
+△	white up-pointing triangle	all	never	# △ 0x25b3
+▴	black up-pointing small triangle	all	never	# ▴ 0x25b4
+▵	white up-pointing small triangle	all	never	# ▵ 0x25b5
+▶	black right-pointing triangle	all	never	# ▶ 0x25b6
+▷	white right-pointing triangle	all	never	# ▷ 0x25b7
+▸	black right-pointing small triangle	all	never	# ▸ 0x25b8
+▹	white right-pointing small triangle	all	never	# ▹ 0x25b9
+►	black right-pointing pointer	all	never	# ► 0x25ba
+▻	white right-pointing pointer	all	never	# ▻ 0x25bb
+▼	black down-pointing triangle	all	never	# ▼ 0x25bc
+▽	white down-pointing triangle	all	never	# ▽ 0x25bd
+▾	black down-pointing small triangle	all	never	# ▾ 0x25be
+▿	white down-pointing small triangle	all	never	# ▿ 0x25bf
+◀	black left-pointing triangle	all	never	# ◀ 0x25c0
+◁	white left-pointing triangle	all	never	# ◁ 0x25c1
+◂	black left-pointing small triangle	all	never	# ◂ 0x25c2
+◃	white left-pointing small triangle	all	never	# ◃ 0x25c3
+◄	black left-pointing pointer	all	never	# ◄ 0x25c4
+◅	white left-pointing pointer	all	never	# ◅ 0x25c5
+# ◆	black diamond	all	never	# ◆ 0x25c6
+◇	white diamond	all	never	# ◇ 0x25c7
+◈	white diamond containing black small diamond	all	never	# ◈ 0x25c8
+◉	fisheye	all	never	# ◉ 0x25c9
+◊	lozenge	all	never	# ◊ 0x25ca
+# ○	white circle	all	never	# ○ 0x25cb
+◌	dotted circle	all	never	# ◌ 0x25cc
+◍	circle with vertical fill	all	never	# ◍ 0x25cd
+◎	bullseye	all	never	# ◎ 0x25ce
+# ●	black circle	all	never	# ● 0x25cf
+◐	circle with left half black	all	never	# ◐ 0x25d0
+◑	circle with right half black	all	never	# ◑ 0x25d1
+◒	circle with lower half black	all	never	# ◒ 0x25d2
+◓	circle with upper half black	all	never	# ◓ 0x25d3
+◔	circle with upper right quadrant black	all	never	# ◔ 0x25d4
+◕	circle with all but upper left quadrant black	all	never	# ◕ 0x25d5
+◖	left half black circle	all	never	# ◖ 0x25d6
+◗	right half black circle	all	never	# ◗ 0x25d7
+◘	inverse bullet	all	never	# ◘ 0x25d8
+◙	inverse white circle	all	never	# ◙ 0x25d9
+◚	upper half inverse white circle	all	never	# ◚ 0x25da
+◛	lower half inverse white circle	all	never	# ◛ 0x25db
+◜	upper left quadrant circular arc	all	never	# ◜ 0x25dc
+◝	upper right quadrant circular arc	all	never	# ◝ 0x25dd
+◞	lower right quadrant circular arc	all	never	# ◞ 0x25de
+◟	lower left quadrant circular arc	all	never	# ◟ 0x25df
+◠	upper half circle	all	never	# ◠ 0x25e0
+◡	lower half circle	all	never	# ◡ 0x25e1
+◢	black lower right triangle	all	never	# ◢ 0x25e2
+◣	black lower left triangle	all	never	# ◣ 0x25e3
+◤	black upper left triangle	all	never	# ◤ 0x25e4
+◥	black upper right triangle	all	never	# ◥ 0x25e5
+# ◦	white bullet	all	never	# ◦ 0x25e6
+◧	square with left half black	all	never	# ◧ 0x25e7
+◨	square with right half black	all	never	# ◨ 0x25e8
+◩	square with upper left diagonal half black	all	never	# ◩ 0x25e9
+◪	square with lower right diagonal half black	all	never	# ◪ 0x25ea
+◫	white square with vertical bisecting line	all	never	# ◫ 0x25eb
+◬	white up-pointing triangle with dot	all	never	# ◬ 0x25ec
+◭	up-pointing triangle with left half black	all	never	# ◭ 0x25ed
+◮	up-pointing triangle with right half black	all	never	# ◮ 0x25ee
+◯	large circle	all	never	# ◯ 0x25ef
+◰	white square with upper left quadrant	all	never	# ◰ 0x25f0
+◱	white square with lower left quadrant	all	never	# ◱ 0x25f1
+◲	white square with lower right quadrant	all	never	# ◲ 0x25f2
+◳	white square with upper right quadrant	all	never	# ◳ 0x25f3
+◴	white circle with upper left quadrant	all	never	# ◴ 0x25f4
+◵	white circle with lower left quadrant	all	never	# ◵ 0x25f5
+◶	white circle with lower right quadrant	all	never	# ◶ 0x25f6
+◷	white circle with upper right quadrant	all	never	# ◷ 0x25f7
+◸	upper left triangle	all	never	# ◸ 0x25f8
+◹	upper right triangle	all	never	# ◹ 0x25f9
+◺	lower left triangle	all	never	# ◺ 0x25fa
+◻	white medium square	all	never	# ◻ 0x25fb
+◼	black medium square	all	never	# ◼ 0x25fc
+◽	white medium small square	all	never	# ◽ 0x25fd
+# ◾	black medium small square	all	never	# ◾ 0x25fe
+◿	lower right triangle	all	never	# ◿ 0x25ff

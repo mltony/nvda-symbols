@@ -1,0 +1,115 @@
+# # Malayalam
+ഁ	malayalam sign candrabindu	all	never	# ഁ 0xd01
+ം	malayalam sign anusvara	all	never	# ം 0xd02
+ഃ	malayalam sign visarga	all	never	# ഃ 0xd03
+അ	malayalam letter A	all	never	# അ 0xd05
+ആ	malayalam letter aa	all	never	# ആ 0xd06
+ഇ	malayalam letter I	all	never	# ഇ 0xd07
+ഈ	malayalam letter ii	all	never	# ഈ 0xd08
+ഉ	malayalam letter U	all	never	# ഉ 0xd09
+ഊ	malayalam letter uu	all	never	# ഊ 0xd0a
+ഋ	malayalam letter vocalic R	all	never	# ഋ 0xd0b
+ഌ	malayalam letter vocalic L	all	never	# ഌ 0xd0c
+എ	malayalam letter E	all	never	# എ 0xd0e
+ഏ	malayalam letter ee	all	never	# ഏ 0xd0f
+ഐ	malayalam letter ai	all	never	# ഐ 0xd10
+ഒ	malayalam letter O	all	never	# ഒ 0xd12
+ഓ	malayalam letter oo	all	never	# ഓ 0xd13
+ഔ	malayalam letter au	all	never	# ഔ 0xd14
+ക	malayalam letter ka	all	never	# ക 0xd15
+ഖ	malayalam letter kha	all	never	# ഖ 0xd16
+ഗ	malayalam letter ga	all	never	# ഗ 0xd17
+ഘ	malayalam letter gha	all	never	# ഘ 0xd18
+ങ	malayalam letter nga	all	never	# ങ 0xd19
+ച	malayalam letter ca	all	never	# ച 0xd1a
+ഛ	malayalam letter cha	all	never	# ഛ 0xd1b
+ജ	malayalam letter ja	all	never	# ജ 0xd1c
+ഝ	malayalam letter jha	all	never	# ഝ 0xd1d
+ഞ	malayalam letter nya	all	never	# ഞ 0xd1e
+ട	malayalam letter tta	all	never	# ട 0xd1f
+ഠ	malayalam letter ttha	all	never	# ഠ 0xd20
+ഡ	malayalam letter dda	all	never	# ഡ 0xd21
+ഢ	malayalam letter ddha	all	never	# ഢ 0xd22
+ണ	malayalam letter nna	all	never	# ണ 0xd23
+ത	malayalam letter ta	all	never	# ത 0xd24
+ഥ	malayalam letter tha	all	never	# ഥ 0xd25
+ദ	malayalam letter da	all	never	# ദ 0xd26
+ധ	malayalam letter dha	all	never	# ധ 0xd27
+ന	malayalam letter na	all	never	# ന 0xd28
+ഩ	malayalam letter nnna	all	never	# ഩ 0xd29
+പ	malayalam letter pa	all	never	# പ 0xd2a
+ഫ	malayalam letter pha	all	never	# ഫ 0xd2b
+ബ	malayalam letter ba	all	never	# ബ 0xd2c
+ഭ	malayalam letter bha	all	never	# ഭ 0xd2d
+മ	malayalam letter ma	all	never	# മ 0xd2e
+യ	malayalam letter ya	all	never	# യ 0xd2f
+ര	malayalam letter ra	all	never	# ര 0xd30
+റ	malayalam letter rra	all	never	# റ 0xd31
+ല	malayalam letter la	all	never	# ല 0xd32
+ള	malayalam letter lla	all	never	# ള 0xd33
+ഴ	malayalam letter llla	all	never	# ഴ 0xd34
+വ	malayalam letter va	all	never	# വ 0xd35
+ശ	malayalam letter sha	all	never	# ശ 0xd36
+ഷ	malayalam letter ssa	all	never	# ഷ 0xd37
+സ	malayalam letter sa	all	never	# സ 0xd38
+ഹ	malayalam letter ha	all	never	# ഹ 0xd39
+ഺ	malayalam letter ttta	all	never	# ഺ 0xd3a
+ഽ	malayalam sign avagraha	all	never	# ഽ 0xd3d
+ാ	malayalam vowel sign aa	all	never	# ാ 0xd3e
+ി	malayalam vowel sign I	all	never	# ി 0xd3f
+ീ	malayalam vowel sign ii	all	never	# ീ 0xd40
+ു	malayalam vowel sign U	all	never	# ു 0xd41
+ൂ	malayalam vowel sign uu	all	never	# ൂ 0xd42
+ൃ	malayalam vowel sign vocalic R	all	never	# ൃ 0xd43
+ൄ	malayalam vowel sign vocalic rr	all	never	# ൄ 0xd44
+െ	malayalam vowel sign E	all	never	# െ 0xd46
+േ	malayalam vowel sign ee	all	never	# േ 0xd47
+ൈ	malayalam vowel sign ai	all	never	# ൈ 0xd48
+ൊ	malayalam vowel sign O	all	never	# ൊ 0xd4a
+ോ	malayalam vowel sign oo	all	never	# ോ 0xd4b
+ൌ	malayalam vowel sign au	all	never	# ൌ 0xd4c
+്	malayalam sign virama	all	never	# ് 0xd4d
+ൎ	malayalam letter dot reph	all	never	# ൎ 0xd4e
+൏	malayalam sign para	all	never	# ൏ 0xd4f
+ൔ	malayalam letter chillu M	all	never	# ൔ 0xd54
+ൕ	malayalam letter chillu Y	all	never	# ൕ 0xd55
+ൖ	malayalam letter chillu lll	all	never	# ൖ 0xd56
+ൗ	malayalam au length mark	all	never	# ൗ 0xd57
+൘	malayalam fraction one one-hundred-and-sixtieth	all	never	# ൘ 0xd58
+൙	malayalam fraction one fortieth	all	never	# ൙ 0xd59
+൚	malayalam fraction three eightieths	all	never	# ൚ 0xd5a
+൛	malayalam fraction one twentieth	all	never	# ൛ 0xd5b
+൜	malayalam fraction one tenth	all	never	# ൜ 0xd5c
+൝	malayalam fraction three twentieths	all	never	# ൝ 0xd5d
+൞	malayalam fraction one fifth	all	never	# ൞ 0xd5e
+ൟ	malayalam letter archaic ii	all	never	# ൟ 0xd5f
+ൠ	malayalam letter vocalic rr	all	never	# ൠ 0xd60
+ൡ	malayalam letter vocalic ll	all	never	# ൡ 0xd61
+ൢ	malayalam vowel sign vocalic L	all	never	# ൢ 0xd62
+ൣ	malayalam vowel sign vocalic ll	all	never	# ൣ 0xd63
+൦	malayalam digit zero	all	never	# ൦ 0xd66
+൧	malayalam digit one	all	never	# ൧ 0xd67
+൨	malayalam digit two	all	never	# ൨ 0xd68
+൩	malayalam digit three	all	never	# ൩ 0xd69
+൪	malayalam digit four	all	never	# ൪ 0xd6a
+൫	malayalam digit five	all	never	# ൫ 0xd6b
+൬	malayalam digit six	all	never	# ൬ 0xd6c
+൭	malayalam digit seven	all	never	# ൭ 0xd6d
+൮	malayalam digit eight	all	never	# ൮ 0xd6e
+൯	malayalam digit nine	all	never	# ൯ 0xd6f
+൰	malayalam number ten	all	never	# ൰ 0xd70
+൱	malayalam number one hundred	all	never	# ൱ 0xd71
+൲	malayalam number one thousand	all	never	# ൲ 0xd72
+൳	malayalam fraction one quarter	all	never	# ൳ 0xd73
+൴	malayalam fraction one half	all	never	# ൴ 0xd74
+൵	malayalam fraction three quarters	all	never	# ൵ 0xd75
+൶	malayalam fraction one sixteenth	all	never	# ൶ 0xd76
+൷	malayalam fraction one eighth	all	never	# ൷ 0xd77
+൸	malayalam fraction three sixteenths	all	never	# ൸ 0xd78
+൹	malayalam date mark	all	never	# ൹ 0xd79
+ൺ	malayalam letter chillu nn	all	never	# ൺ 0xd7a
+ൻ	malayalam letter chillu N	all	never	# ൻ 0xd7b
+ർ	malayalam letter chillu rr	all	never	# ർ 0xd7c
+ൽ	malayalam letter chillu L	all	never	# ൽ 0xd7d
+ൾ	malayalam letter chillu ll	all	never	# ൾ 0xd7e
+ൿ	malayalam letter chillu K	all	never	# ൿ 0xd7f

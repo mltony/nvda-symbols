@@ -1,0 +1,33 @@
+# # Block Elements
+▀	upper half block	all	never	# ▀ 0x2580
+▁	lower one eighth block	all	never	# ▁ 0x2581
+▂	lower one quarter block	all	never	# ▂ 0x2582
+▃	lower three eighths block	all	never	# ▃ 0x2583
+▄	lower half block	all	never	# ▄ 0x2584
+▅	lower five eighths block	all	never	# ▅ 0x2585
+▆	lower three quarters block	all	never	# ▆ 0x2586
+▇	lower seven eighths block	all	never	# ▇ 0x2587
+█	full block	all	never	# █ 0x2588
+▉	left seven eighths block	all	never	# ▉ 0x2589
+▊	left three quarters block	all	never	# ▊ 0x258a
+▋	left five eighths block	all	never	# ▋ 0x258b
+▌	left half block	all	never	# ▌ 0x258c
+▍	left three eighths block	all	never	# ▍ 0x258d
+▎	left one quarter block	all	never	# ▎ 0x258e
+▏	left one eighth block	all	never	# ▏ 0x258f
+▐	right half block	all	never	# ▐ 0x2590
+░	light shade	all	never	# ░ 0x2591
+▒	medium shade	all	never	# ▒ 0x2592
+▓	dark shade	all	never	# ▓ 0x2593
+▔	upper one eighth block	all	never	# ▔ 0x2594
+▕	right one eighth block	all	never	# ▕ 0x2595
+▖	quadrant lower left	all	never	# ▖ 0x2596
+▗	quadrant lower right	all	never	# ▗ 0x2597
+▘	quadrant upper left	all	never	# ▘ 0x2598
+▙	quadrant upper left and lower left and lower right	all	never	# ▙ 0x2599
+▚	quadrant upper left and lower right	all	never	# ▚ 0x259a
+▛	quadrant upper left and upper right and lower left	all	never	# ▛ 0x259b
+▜	quadrant upper left and upper right and lower right	all	never	# ▜ 0x259c
+▝	quadrant upper right	all	never	# ▝ 0x259d
+▞	quadrant upper right and lower left	all	never	# ▞ 0x259e
+▟	quadrant upper right and lower left and lower right	all	never	# ▟ 0x259f

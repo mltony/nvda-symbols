@@ -1,0 +1,73 @@
+# # Tai Viet
+ꪀ	tai viet letter low ko	all	never	# ꪀ 0xaa80
+ꪁ	tai viet letter high ko	all	never	# ꪁ 0xaa81
+ꪂ	tai viet letter low kho	all	never	# ꪂ 0xaa82
+ꪃ	tai viet letter high kho	all	never	# ꪃ 0xaa83
+ꪄ	tai viet letter low khho	all	never	# ꪄ 0xaa84
+ꪅ	tai viet letter high khho	all	never	# ꪅ 0xaa85
+ꪆ	tai viet letter low go	all	never	# ꪆ 0xaa86
+ꪇ	tai viet letter high go	all	never	# ꪇ 0xaa87
+ꪈ	tai viet letter low ngo	all	never	# ꪈ 0xaa88
+ꪉ	tai viet letter high ngo	all	never	# ꪉ 0xaa89
+ꪊ	tai viet letter low co	all	never	# ꪊ 0xaa8a
+ꪋ	tai viet letter high co	all	never	# ꪋ 0xaa8b
+ꪌ	tai viet letter low cho	all	never	# ꪌ 0xaa8c
+ꪍ	tai viet letter high cho	all	never	# ꪍ 0xaa8d
+ꪎ	tai viet letter low so	all	never	# ꪎ 0xaa8e
+ꪏ	tai viet letter high so	all	never	# ꪏ 0xaa8f
+ꪐ	tai viet letter low nyo	all	never	# ꪐ 0xaa90
+ꪑ	tai viet letter high nyo	all	never	# ꪑ 0xaa91
+ꪒ	tai viet letter low do	all	never	# ꪒ 0xaa92
+ꪓ	tai viet letter high do	all	never	# ꪓ 0xaa93
+ꪔ	tai viet letter low to	all	never	# ꪔ 0xaa94
+ꪕ	tai viet letter high to	all	never	# ꪕ 0xaa95
+ꪖ	tai viet letter low tho	all	never	# ꪖ 0xaa96
+ꪗ	tai viet letter high tho	all	never	# ꪗ 0xaa97
+ꪘ	tai viet letter low no	all	never	# ꪘ 0xaa98
+ꪙ	tai viet letter high no	all	never	# ꪙ 0xaa99
+ꪚ	tai viet letter low bo	all	never	# ꪚ 0xaa9a
+ꪛ	tai viet letter high bo	all	never	# ꪛ 0xaa9b
+ꪜ	tai viet letter low po	all	never	# ꪜ 0xaa9c
+ꪝ	tai viet letter high po	all	never	# ꪝ 0xaa9d
+ꪞ	tai viet letter low pho	all	never	# ꪞ 0xaa9e
+ꪟ	tai viet letter high pho	all	never	# ꪟ 0xaa9f
+ꪠ	tai viet letter low fo	all	never	# ꪠ 0xaaa0
+ꪡ	tai viet letter high fo	all	never	# ꪡ 0xaaa1
+ꪢ	tai viet letter low mo	all	never	# ꪢ 0xaaa2
+ꪣ	tai viet letter high mo	all	never	# ꪣ 0xaaa3
+ꪤ	tai viet letter low yo	all	never	# ꪤ 0xaaa4
+ꪥ	tai viet letter high yo	all	never	# ꪥ 0xaaa5
+ꪦ	tai viet letter low ro	all	never	# ꪦ 0xaaa6
+ꪧ	tai viet letter high ro	all	never	# ꪧ 0xaaa7
+ꪨ	tai viet letter low lo	all	never	# ꪨ 0xaaa8
+ꪩ	tai viet letter high lo	all	never	# ꪩ 0xaaa9
+ꪪ	tai viet letter low vo	all	never	# ꪪ 0xaaaa
+ꪫ	tai viet letter high vo	all	never	# ꪫ 0xaaab
+ꪬ	tai viet letter low ho	all	never	# ꪬ 0xaaac
+ꪭ	tai viet letter high ho	all	never	# ꪭ 0xaaad
+ꪮ	tai viet letter low O	all	never	# ꪮ 0xaaae
+ꪯ	tai viet letter high O	all	never	# ꪯ 0xaaaf
+ꪰ	tai viet mai kang	all	never	# ꪰ 0xaab0
+ꪱ	tai viet vowel aa	all	never	# ꪱ 0xaab1
+ꪲ	tai viet vowel I	all	never	# ꪲ 0xaab2
+ꪳ	tai viet vowel ue	all	never	# ꪳ 0xaab3
+ꪴ	tai viet vowel U	all	never	# ꪴ 0xaab4
+ꪵ	tai viet vowel E	all	never	# ꪵ 0xaab5
+ꪶ	tai viet vowel O	all	never	# ꪶ 0xaab6
+ꪷ	tai viet mai khit	all	never	# ꪷ 0xaab7
+ꪸ	tai viet vowel ia	all	never	# ꪸ 0xaab8
+ꪹ	tai viet vowel uea	all	never	# ꪹ 0xaab9
+ꪺ	tai viet vowel ua	all	never	# ꪺ 0xaaba
+ꪻ	tai viet vowel aue	all	never	# ꪻ 0xaabb
+ꪼ	tai viet vowel ay	all	never	# ꪼ 0xaabc
+ꪽ	tai viet vowel an	all	never	# ꪽ 0xaabd
+ꪾ	tai viet vowel am	all	never	# ꪾ 0xaabe
+꪿	tai viet tone mai ek	all	never	# ꪿ 0xaabf
+ꫀ	tai viet tone mai nueng	all	never	# ꫀ 0xaac0
+꫁	tai viet tone mai tho	all	never	# ꫁ 0xaac1
+ꫂ	tai viet tone mai song	all	never	# ꫂ 0xaac2
+ꫛ	tai viet symbol kon	all	never	# ꫛ 0xaadb
+ꫜ	tai viet symbol nueng	all	never	# ꫜ 0xaadc
+ꫝ	tai viet symbol sam	all	never	# ꫝ 0xaadd
+꫞	tai viet symbol ho hoi	all	never	# ꫞ 0xaade
+꫟	tai viet symbol koi koi	all	never	# ꫟ 0xaadf

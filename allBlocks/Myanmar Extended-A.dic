@@ -1,0 +1,33 @@
+# # Myanmar Extended-A
+ꩠ	myanmar letter khamti ga	all	never	# ꩠ 0xaa60
+ꩡ	myanmar letter khamti ca	all	never	# ꩡ 0xaa61
+ꩢ	myanmar letter khamti cha	all	never	# ꩢ 0xaa62
+ꩣ	myanmar letter khamti ja	all	never	# ꩣ 0xaa63
+ꩤ	myanmar letter khamti jha	all	never	# ꩤ 0xaa64
+ꩥ	myanmar letter khamti nya	all	never	# ꩥ 0xaa65
+ꩦ	myanmar letter khamti tta	all	never	# ꩦ 0xaa66
+ꩧ	myanmar letter khamti ttha	all	never	# ꩧ 0xaa67
+ꩨ	myanmar letter khamti dda	all	never	# ꩨ 0xaa68
+ꩩ	myanmar letter khamti ddha	all	never	# ꩩ 0xaa69
+ꩪ	myanmar letter khamti dha	all	never	# ꩪ 0xaa6a
+ꩫ	myanmar letter khamti na	all	never	# ꩫ 0xaa6b
+ꩬ	myanmar letter khamti sa	all	never	# ꩬ 0xaa6c
+ꩭ	myanmar letter khamti ha	all	never	# ꩭ 0xaa6d
+ꩮ	myanmar letter khamti hha	all	never	# ꩮ 0xaa6e
+ꩯ	myanmar letter khamti fa	all	never	# ꩯ 0xaa6f
+ꩰ	myanmar modifier letter khamti reduplication	all	never	# ꩰ 0xaa70
+ꩱ	myanmar letter khamti xa	all	never	# ꩱ 0xaa71
+ꩲ	myanmar letter khamti za	all	never	# ꩲ 0xaa72
+ꩳ	myanmar letter khamti ra	all	never	# ꩳ 0xaa73
+ꩴ	myanmar logogram khamti oay	all	never	# ꩴ 0xaa74
+ꩵ	myanmar logogram khamti qn	all	never	# ꩵ 0xaa75
+ꩶ	myanmar logogram khamti hm	all	never	# ꩶ 0xaa76
+꩷	myanmar symbol aiton exclamation	all	never	# ꩷ 0xaa77
+꩸	myanmar symbol aiton one	all	never	# ꩸ 0xaa78
+꩹	myanmar symbol aiton two	all	never	# ꩹ 0xaa79
+ꩺ	myanmar letter aiton ra	all	never	# ꩺ 0xaa7a
+ꩻ	myanmar sign pao karen tone	all	never	# ꩻ 0xaa7b
+ꩼ	myanmar sign tai laing tone-2	all	never	# ꩼ 0xaa7c
+ꩽ	myanmar sign tai laing tone-5	all	never	# ꩽ 0xaa7d
+ꩾ	myanmar letter shwe palaung cha	all	never	# ꩾ 0xaa7e
+ꩿ	myanmar letter shwe palaung sha	all	never	# ꩿ 0xaa7f

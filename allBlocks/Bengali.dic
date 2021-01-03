@@ -1,0 +1,94 @@
+# # Bengali
+ঀ	bengali anji	all	never	# ঀ 0x980
+ঁ	bengali sign candrabindu	all	never	# ঁ 0x981
+ং	bengali sign anusvara	all	never	# ং 0x982
+ঃ	bengali sign visarga	all	never	# ঃ 0x983
+অ	bengali letter A	all	never	# অ 0x985
+আ	bengali letter aa	all	never	# আ 0x986
+ই	bengali letter I	all	never	# ই 0x987
+ঈ	bengali letter ii	all	never	# ঈ 0x988
+উ	bengali letter U	all	never	# উ 0x989
+ঊ	bengali letter uu	all	never	# ঊ 0x98a
+ঋ	bengali letter vocalic R	all	never	# ঋ 0x98b
+ঌ	bengali letter vocalic L	all	never	# ঌ 0x98c
+এ	bengali letter E	all	never	# এ 0x98f
+ঐ	bengali letter ai	all	never	# ঐ 0x990
+ও	bengali letter O	all	never	# ও 0x993
+ঔ	bengali letter au	all	never	# ঔ 0x994
+ক	bengali letter ka	all	never	# ক 0x995
+খ	bengali letter kha	all	never	# খ 0x996
+গ	bengali letter ga	all	never	# গ 0x997
+ঘ	bengali letter gha	all	never	# ঘ 0x998
+ঙ	bengali letter nga	all	never	# ঙ 0x999
+চ	bengali letter ca	all	never	# চ 0x99a
+ছ	bengali letter cha	all	never	# ছ 0x99b
+জ	bengali letter ja	all	never	# জ 0x99c
+ঝ	bengali letter jha	all	never	# ঝ 0x99d
+ঞ	bengali letter nya	all	never	# ঞ 0x99e
+ট	bengali letter tta	all	never	# ট 0x99f
+ঠ	bengali letter ttha	all	never	# ঠ 0x9a0
+ড	bengali letter dda	all	never	# ড 0x9a1
+ঢ	bengali letter ddha	all	never	# ঢ 0x9a2
+ণ	bengali letter nna	all	never	# ণ 0x9a3
+ত	bengali letter ta	all	never	# ত 0x9a4
+থ	bengali letter tha	all	never	# থ 0x9a5
+দ	bengali letter da	all	never	# দ 0x9a6
+ধ	bengali letter dha	all	never	# ধ 0x9a7
+ন	bengali letter na	all	never	# ন 0x9a8
+প	bengali letter pa	all	never	# প 0x9aa
+ফ	bengali letter pha	all	never	# ফ 0x9ab
+ব	bengali letter ba	all	never	# ব 0x9ac
+ভ	bengali letter bha	all	never	# ভ 0x9ad
+ম	bengali letter ma	all	never	# ম 0x9ae
+য	bengali letter ya	all	never	# য 0x9af
+র	bengali letter ra	all	never	# র 0x9b0
+ল	bengali letter la	all	never	# ল 0x9b2
+শ	bengali letter sha	all	never	# শ 0x9b6
+ষ	bengali letter ssa	all	never	# ষ 0x9b7
+স	bengali letter sa	all	never	# স 0x9b8
+হ	bengali letter ha	all	never	# হ 0x9b9
+়	bengali sign nukta	all	never	# ় 0x9bc
+ঽ	bengali sign avagraha	all	never	# ঽ 0x9bd
+া	bengali vowel sign aa	all	never	# া 0x9be
+ি	bengali vowel sign I	all	never	# ি 0x9bf
+ী	bengali vowel sign ii	all	never	# ী 0x9c0
+ু	bengali vowel sign U	all	never	# ু 0x9c1
+ূ	bengali vowel sign uu	all	never	# ূ 0x9c2
+ৃ	bengali vowel sign vocalic R	all	never	# ৃ 0x9c3
+ৄ	bengali vowel sign vocalic rr	all	never	# ৄ 0x9c4
+ে	bengali vowel sign E	all	never	# ে 0x9c7
+ৈ	bengali vowel sign ai	all	never	# ৈ 0x9c8
+ো	bengali vowel sign O	all	never	# ো 0x9cb
+ৌ	bengali vowel sign au	all	never	# ৌ 0x9cc
+্	bengali sign virama	all	never	# ্ 0x9cd
+ৎ	bengali letter khanda ta	all	never	# ৎ 0x9ce
+ৗ	bengali au length mark	all	never	# ৗ 0x9d7
+ড়	bengali letter rra	all	never	# ড় 0x9dc
+ঢ়	bengali letter rha	all	never	# ঢ় 0x9dd
+য়	bengali letter yya	all	never	# য় 0x9df
+ৠ	bengali letter vocalic rr	all	never	# ৠ 0x9e0
+ৡ	bengali letter vocalic ll	all	never	# ৡ 0x9e1
+ৢ	bengali vowel sign vocalic L	all	never	# ৢ 0x9e2
+ৣ	bengali vowel sign vocalic ll	all	never	# ৣ 0x9e3
+০	bengali digit zero	all	never	# ০ 0x9e6
+১	bengali digit one	all	never	# ১ 0x9e7
+২	bengali digit two	all	never	# ২ 0x9e8
+৩	bengali digit three	all	never	# ৩ 0x9e9
+৪	bengali digit four	all	never	# ৪ 0x9ea
+৫	bengali digit five	all	never	# ৫ 0x9eb
+৬	bengali digit six	all	never	# ৬ 0x9ec
+৭	bengali digit seven	all	never	# ৭ 0x9ed
+৮	bengali digit eight	all	never	# ৮ 0x9ee
+৯	bengali digit nine	all	never	# ৯ 0x9ef
+ৰ	bengali letter ra with middle diagonal	all	never	# ৰ 0x9f0
+ৱ	bengali letter ra with lower diagonal	all	never	# ৱ 0x9f1
+৲	bengali rupee mark	all	never	# ৲ 0x9f2
+৳	bengali rupee sign	all	never	# ৳ 0x9f3
+৴	bengali currency numerator one	all	never	# ৴ 0x9f4
+৵	bengali currency numerator two	all	never	# ৵ 0x9f5
+৶	bengali currency numerator three	all	never	# ৶ 0x9f6
+৷	bengali currency numerator four	all	never	# ৷ 0x9f7
+৸	bengali currency numerator one less than the denominator	all	never	# ৸ 0x9f8
+৹	bengali currency denominator sixteen	all	never	# ৹ 0x9f9
+৺	bengali isshar	all	never	# ৺ 0x9fa
+৻	bengali ganda mark	all	never	# ৻ 0x9fb

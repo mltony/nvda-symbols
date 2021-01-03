@@ -1,0 +1,98 @@
+# # Tags
+󠀁	language tag	all	never	# 󠀁 0xe0001
+󠀠	tag space	all	never	# 󠀠 0xe0020
+󠀡	tag exclamation mark	all	never	# 󠀡 0xe0021
+󠀢	tag quotation mark	all	never	# 󠀢 0xe0022
+󠀣	tag number sign	all	never	# 󠀣 0xe0023
+󠀤	tag dollar sign	all	never	# 󠀤 0xe0024
+󠀥	tag percent sign	all	never	# 󠀥 0xe0025
+󠀦	tag ampersand	all	never	# 󠀦 0xe0026
+󠀧	tag apostrophe	all	never	# 󠀧 0xe0027
+󠀨	tag left parenthesis	all	never	# 󠀨 0xe0028
+󠀩	tag right parenthesis	all	never	# 󠀩 0xe0029
+󠀪	tag asterisk	all	never	# 󠀪 0xe002a
+󠀫	tag plus sign	all	never	# 󠀫 0xe002b
+󠀬	tag comma	all	never	# 󠀬 0xe002c
+󠀭	tag hyphen-minus	all	never	# 󠀭 0xe002d
+󠀮	tag full stop	all	never	# 󠀮 0xe002e
+󠀯	tag solidus	all	never	# 󠀯 0xe002f
+󠀰	tag digit zero	all	never	# 󠀰 0xe0030
+󠀱	tag digit one	all	never	# 󠀱 0xe0031
+󠀲	tag digit two	all	never	# 󠀲 0xe0032
+󠀳	tag digit three	all	never	# 󠀳 0xe0033
+󠀴	tag digit four	all	never	# 󠀴 0xe0034
+󠀵	tag digit five	all	never	# 󠀵 0xe0035
+󠀶	tag digit six	all	never	# 󠀶 0xe0036
+󠀷	tag digit seven	all	never	# 󠀷 0xe0037
+󠀸	tag digit eight	all	never	# 󠀸 0xe0038
+󠀹	tag digit nine	all	never	# 󠀹 0xe0039
+󠀺	tag colon	all	never	# 󠀺 0xe003a
+󠀻	tag semicolon	all	never	# 󠀻 0xe003b
+󠀼	tag less-than sign	all	never	# 󠀼 0xe003c
+󠀽	tag equals sign	all	never	# 󠀽 0xe003d
+󠀾	tag greater-than sign	all	never	# 󠀾 0xe003e
+󠀿	tag question mark	all	never	# 󠀿 0xe003f
+󠁀	tag commercial at	all	never	# 󠁀 0xe0040
+󠁁	tag latin capital letter A	all	never	# 󠁁 0xe0041
+󠁂	tag latin capital letter B	all	never	# 󠁂 0xe0042
+󠁃	tag latin capital letter C	all	never	# 󠁃 0xe0043
+󠁄	tag latin capital letter D	all	never	# 󠁄 0xe0044
+󠁅	tag latin capital letter E	all	never	# 󠁅 0xe0045
+󠁆	tag latin capital letter F	all	never	# 󠁆 0xe0046
+󠁇	tag latin capital letter G	all	never	# 󠁇 0xe0047
+󠁈	tag latin capital letter H	all	never	# 󠁈 0xe0048
+󠁉	tag latin capital letter I	all	never	# 󠁉 0xe0049
+󠁊	tag latin capital letter J	all	never	# 󠁊 0xe004a
+󠁋	tag latin capital letter K	all	never	# 󠁋 0xe004b
+󠁌	tag latin capital letter L	all	never	# 󠁌 0xe004c
+󠁍	tag latin capital letter M	all	never	# 󠁍 0xe004d
+󠁎	tag latin capital letter N	all	never	# 󠁎 0xe004e
+󠁏	tag latin capital letter O	all	never	# 󠁏 0xe004f
+󠁐	tag latin capital letter P	all	never	# 󠁐 0xe0050
+󠁑	tag latin capital letter Q	all	never	# 󠁑 0xe0051
+󠁒	tag latin capital letter R	all	never	# 󠁒 0xe0052
+󠁓	tag latin capital letter S	all	never	# 󠁓 0xe0053
+󠁔	tag latin capital letter T	all	never	# 󠁔 0xe0054
+󠁕	tag latin capital letter U	all	never	# 󠁕 0xe0055
+󠁖	tag latin capital letter V	all	never	# 󠁖 0xe0056
+󠁗	tag latin capital letter W	all	never	# 󠁗 0xe0057
+󠁘	tag latin capital letter X	all	never	# 󠁘 0xe0058
+󠁙	tag latin capital letter Y	all	never	# 󠁙 0xe0059
+󠁚	tag latin capital letter Z	all	never	# 󠁚 0xe005a
+󠁛	tag left square bracket	all	never	# 󠁛 0xe005b
+󠁜	tag reverse solidus	all	never	# 󠁜 0xe005c
+󠁝	tag right square bracket	all	never	# 󠁝 0xe005d
+󠁞	tag circumflex accent	all	never	# 󠁞 0xe005e
+󠁟	tag low line	all	never	# 󠁟 0xe005f
+󠁠	tag grave accent	all	never	# 󠁠 0xe0060
+󠁡	tag latin small letter A	all	never	# 󠁡 0xe0061
+󠁢	tag latin small letter B	all	never	# 󠁢 0xe0062
+󠁣	tag latin small letter C	all	never	# 󠁣 0xe0063
+󠁤	tag latin small letter D	all	never	# 󠁤 0xe0064
+󠁥	tag latin small letter E	all	never	# 󠁥 0xe0065
+󠁦	tag latin small letter F	all	never	# 󠁦 0xe0066
+󠁧	tag latin small letter G	all	never	# 󠁧 0xe0067
+󠁨	tag latin small letter H	all	never	# 󠁨 0xe0068
+󠁩	tag latin small letter I	all	never	# 󠁩 0xe0069
+󠁪	tag latin small letter J	all	never	# 󠁪 0xe006a
+󠁫	tag latin small letter K	all	never	# 󠁫 0xe006b
+󠁬	tag latin small letter L	all	never	# 󠁬 0xe006c
+󠁭	tag latin small letter M	all	never	# 󠁭 0xe006d
+󠁮	tag latin small letter N	all	never	# 󠁮 0xe006e
+󠁯	tag latin small letter O	all	never	# 󠁯 0xe006f
+󠁰	tag latin small letter P	all	never	# 󠁰 0xe0070
+󠁱	tag latin small letter Q	all	never	# 󠁱 0xe0071
+󠁲	tag latin small letter R	all	never	# 󠁲 0xe0072
+󠁳	tag latin small letter S	all	never	# 󠁳 0xe0073
+󠁴	tag latin small letter T	all	never	# 󠁴 0xe0074
+󠁵	tag latin small letter U	all	never	# 󠁵 0xe0075
+󠁶	tag latin small letter V	all	never	# 󠁶 0xe0076
+󠁷	tag latin small letter W	all	never	# 󠁷 0xe0077
+󠁸	tag latin small letter X	all	never	# 󠁸 0xe0078
+󠁹	tag latin small letter Y	all	never	# 󠁹 0xe0079
+󠁺	tag latin small letter Z	all	never	# 󠁺 0xe007a
+󠁻	tag left curly bracket	all	never	# 󠁻 0xe007b
+󠁼	tag vertical line	all	never	# 󠁼 0xe007c
+󠁽	tag right curly bracket	all	never	# 󠁽 0xe007d
+󠁾	tag tilde	all	never	# 󠁾 0xe007e
+󠁿	cancel tag	all	never	# 󠁿 0xe007f

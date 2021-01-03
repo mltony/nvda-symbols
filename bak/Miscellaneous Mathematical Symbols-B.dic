@@ -1,0 +1,129 @@
+# # Miscellaneous Mathematical Symbols-B
+⦀	triple vertical bar delimiter	all	never	# ⦀ 0x2980
+⦁	Z notation spot	all	never	# ⦁ 0x2981
+⦂	Z notation type colon	all	never	# ⦂ 0x2982
+⦃	left white curly bracket	all	never	# ⦃ 0x2983
+⦄	right white curly bracket	all	never	# ⦄ 0x2984
+⦅	left white parenthesis	all	never	# ⦅ 0x2985
+⦆	right white parenthesis	all	never	# ⦆ 0x2986
+⦇	Z notation left image bracket	all	never	# ⦇ 0x2987
+⦈	Z notation right image bracket	all	never	# ⦈ 0x2988
+⦉	Z notation left binding bracket	all	never	# ⦉ 0x2989
+⦊	Z notation right binding bracket	all	never	# ⦊ 0x298a
+⦋	left square bracket with underbar	all	never	# ⦋ 0x298b
+⦌	right square bracket with underbar	all	never	# ⦌ 0x298c
+⦍	left square bracket with tick in top corner	all	never	# ⦍ 0x298d
+⦎	right square bracket with tick in bottom corner	all	never	# ⦎ 0x298e
+⦏	left square bracket with tick in bottom corner	all	never	# ⦏ 0x298f
+⦐	right square bracket with tick in top corner	all	never	# ⦐ 0x2990
+⦑	left angle bracket with dot	all	never	# ⦑ 0x2991
+⦒	right angle bracket with dot	all	never	# ⦒ 0x2992
+⦓	left arc less-than bracket	all	never	# ⦓ 0x2993
+⦔	right arc greater-than bracket	all	never	# ⦔ 0x2994
+⦕	double left arc greater-than bracket	all	never	# ⦕ 0x2995
+⦖	double right arc less-than bracket	all	never	# ⦖ 0x2996
+⦗	left black tortoise shell bracket	all	never	# ⦗ 0x2997
+⦘	right black tortoise shell bracket	all	never	# ⦘ 0x2998
+⦙	dotted fence	all	never	# ⦙ 0x2999
+⦚	vertical zigzag line	all	never	# ⦚ 0x299a
+⦛	measured angle opening left	all	never	# ⦛ 0x299b
+⦜	right angle variant with square	all	never	# ⦜ 0x299c
+⦝	measured right angle with dot	all	never	# ⦝ 0x299d
+⦞	angle with S inside	all	never	# ⦞ 0x299e
+⦟	acute angle	all	never	# ⦟ 0x299f
+⦠	spherical angle opening left	all	never	# ⦠ 0x29a0
+⦡	spherical angle opening up	all	never	# ⦡ 0x29a1
+⦢	turned angle	all	never	# ⦢ 0x29a2
+⦣	reversed angle	all	never	# ⦣ 0x29a3
+⦤	angle with underbar	all	never	# ⦤ 0x29a4
+⦥	reversed angle with underbar	all	never	# ⦥ 0x29a5
+⦦	oblique angle opening up	all	never	# ⦦ 0x29a6
+⦧	oblique angle opening down	all	never	# ⦧ 0x29a7
+⦨	measured angle with open arm ending in arrow pointing up and right	all	never	# ⦨ 0x29a8
+⦩	measured angle with open arm ending in arrow pointing up and left	all	never	# ⦩ 0x29a9
+⦪	measured angle with open arm ending in arrow pointing down and right	all	never	# ⦪ 0x29aa
+⦫	measured angle with open arm ending in arrow pointing down and left	all	never	# ⦫ 0x29ab
+⦬	measured angle with open arm ending in arrow pointing right and up	all	never	# ⦬ 0x29ac
+⦭	measured angle with open arm ending in arrow pointing left and up	all	never	# ⦭ 0x29ad
+⦮	measured angle with open arm ending in arrow pointing right and down	all	never	# ⦮ 0x29ae
+⦯	measured angle with open arm ending in arrow pointing left and down	all	never	# ⦯ 0x29af
+⦰	reversed empty set	all	never	# ⦰ 0x29b0
+⦱	empty set with overbar	all	never	# ⦱ 0x29b1
+⦲	empty set with small circle above	all	never	# ⦲ 0x29b2
+⦳	empty set with right arrow above	all	never	# ⦳ 0x29b3
+⦴	empty set with left arrow above	all	never	# ⦴ 0x29b4
+⦵	circle with horizontal bar	all	never	# ⦵ 0x29b5
+⦶	circled vertical bar	all	never	# ⦶ 0x29b6
+⦷	circled parallel	all	never	# ⦷ 0x29b7
+⦸	circled reverse solidus	all	never	# ⦸ 0x29b8
+⦹	circled perpendicular	all	never	# ⦹ 0x29b9
+⦺	circle divided by horizontal bar and top half divided by vertical bar	all	never	# ⦺ 0x29ba
+⦻	circle with superimposed X	all	never	# ⦻ 0x29bb
+⦼	circled anticlockwise-rotated division sign	all	never	# ⦼ 0x29bc
+⦽	up arrow through circle	all	never	# ⦽ 0x29bd
+⦾	circled white bullet	all	never	# ⦾ 0x29be
+⦿	circled bullet	all	never	# ⦿ 0x29bf
+⧀	circled less-than	all	never	# ⧀ 0x29c0
+⧁	circled greater-than	all	never	# ⧁ 0x29c1
+⧂	circle with small circle to the right	all	never	# ⧂ 0x29c2
+⧃	circle with two horizontal strokes to the right	all	never	# ⧃ 0x29c3
+⧄	squared rising diagonal slash	all	never	# ⧄ 0x29c4
+⧅	squared falling diagonal slash	all	never	# ⧅ 0x29c5
+⧆	squared asterisk	all	never	# ⧆ 0x29c6
+⧇	squared small circle	all	never	# ⧇ 0x29c7
+⧈	squared square	all	never	# ⧈ 0x29c8
+⧉	two joined squares	all	never	# ⧉ 0x29c9
+⧊	triangle with dot above	all	never	# ⧊ 0x29ca
+⧋	triangle with underbar	all	never	# ⧋ 0x29cb
+⧌	S in triangle	all	never	# ⧌ 0x29cc
+⧍	triangle with serifs at bottom	all	never	# ⧍ 0x29cd
+⧎	right triangle above left triangle	all	never	# ⧎ 0x29ce
+⧏	left triangle beside vertical bar	all	never	# ⧏ 0x29cf
+⧐	vertical bar beside right triangle	all	never	# ⧐ 0x29d0
+⧑	bowtie with left half black	all	never	# ⧑ 0x29d1
+⧒	bowtie with right half black	all	never	# ⧒ 0x29d2
+⧓	black bowtie	all	never	# ⧓ 0x29d3
+⧔	times with left half black	all	never	# ⧔ 0x29d4
+⧕	times with right half black	all	never	# ⧕ 0x29d5
+⧖	white hourglass	all	never	# ⧖ 0x29d6
+⧗	black hourglass	all	never	# ⧗ 0x29d7
+⧘	left wiggly fence	all	never	# ⧘ 0x29d8
+⧙	right wiggly fence	all	never	# ⧙ 0x29d9
+⧚	left double wiggly fence	all	never	# ⧚ 0x29da
+⧛	right double wiggly fence	all	never	# ⧛ 0x29db
+⧜	incomplete infinity	all	never	# ⧜ 0x29dc
+⧝	tie over infinity	all	never	# ⧝ 0x29dd
+⧞	infinity negated with vertical bar	all	never	# ⧞ 0x29de
+⧟	double-ended multimap	all	never	# ⧟ 0x29df
+⧠	square with contoured outline	all	never	# ⧠ 0x29e0
+⧡	increases as	all	never	# ⧡ 0x29e1
+⧢	shuffle product	all	never	# ⧢ 0x29e2
+⧣	equals sign and slanted parallel	all	never	# ⧣ 0x29e3
+⧤	equals sign and slanted parallel with tilde above	all	never	# ⧤ 0x29e4
+⧥	identical to and slanted parallel	all	never	# ⧥ 0x29e5
+⧦	gleich stark	all	never	# ⧦ 0x29e6
+⧧	thermodynamic	all	never	# ⧧ 0x29e7
+⧨	down-pointing triangle with left half black	all	never	# ⧨ 0x29e8
+⧩	down-pointing triangle with right half black	all	never	# ⧩ 0x29e9
+⧪	black diamond with down arrow	all	never	# ⧪ 0x29ea
+⧫	black lozenge	all	never	# ⧫ 0x29eb
+⧬	white circle with down arrow	all	never	# ⧬ 0x29ec
+⧭	black circle with down arrow	all	never	# ⧭ 0x29ed
+⧮	error-barred white square	all	never	# ⧮ 0x29ee
+⧯	error-barred black square	all	never	# ⧯ 0x29ef
+⧰	error-barred white diamond	all	never	# ⧰ 0x29f0
+⧱	error-barred black diamond	all	never	# ⧱ 0x29f1
+⧲	error-barred white circle	all	never	# ⧲ 0x29f2
+⧳	error-barred black circle	all	never	# ⧳ 0x29f3
+⧴	rule-delayed	all	never	# ⧴ 0x29f4
+⧵	reverse solidus operator	all	never	# ⧵ 0x29f5
+⧶	solidus with overbar	all	never	# ⧶ 0x29f6
+⧷	reverse solidus with horizontal stroke	all	never	# ⧷ 0x29f7
+⧸	big solidus	all	never	# ⧸ 0x29f8
+⧹	big reverse solidus	all	never	# ⧹ 0x29f9
+⧺	double plus	all	never	# ⧺ 0x29fa
+⧻	triple plus	all	never	# ⧻ 0x29fb
+⧼	left-pointing curved angle bracket	all	never	# ⧼ 0x29fc
+⧽	right-pointing curved angle bracket	all	never	# ⧽ 0x29fd
+⧾	tiny	all	never	# ⧾ 0x29fe
+⧿	miny	all	never	# ⧿ 0x29ff
