@@ -4852,3 +4852,318 @@ symbols:
 Ͻ	Cap reversed lunate sigma	all	never	# Ͻ 0x3fd
 Ͼ	Cap dotted lunate sigma	all	never	# Ͼ 0x3fe
 Ͽ	Cap reversed dotted lunate sigma	all	never	# Ͽ 0x3ff
+# General Punctuation preselected
+‐	hyphen	all	never	# ‐ 0x2010
+‑	non-breaking hyphen	all	never	# ‑ 0x2011
+‒	figure dash	all	never	# ‒ 0x2012
+# –	en dash	all	never	# – 0x2013
+# —	em dash	all	never	# — 0x2014
+―	horizontal bar	all	never	# ― 0x2015
+‖	double vertical line	all	never	# ‖ 0x2016
+‗	double low line	all	never	# ‗ 0x2017
+# ‘	left single quotation mark	all	never	# ‘ 0x2018
+# ’	right single quotation mark	all	never	# ’ 0x2019
+# ‚	single low-9 quotation mark	all	never	# ‚ 0x201a
+‛	single high-reversed-9 quotation mark	all	never	# ‛ 0x201b
+# “	left double quotation mark	all	never	# “ 0x201c
+# ”	right double quotation mark	all	never	# ” 0x201d
+# „	double low-9 quotation mark	all	never	# „ 0x201e
+‟	double high-reversed-9 quotation mark	all	never	# ‟ 0x201f
+# †	dagger	all	never	# † 0x2020
+# ‡	double dagger	all	never	# ‡ 0x2021
+# •	bullet	all	never	# • 0x2022
+# ‣	triangular bullet	all	never	# ‣ 0x2023
+․	one dot leader	all	never	# ․ 0x2024
+‥	two dot leader	all	never	# ‥ 0x2025
+# …	horizontal ellipsis	all	never	# … 0x2026
+‧	hyphenation point	all	never	# ‧ 0x2027
+ 	narrow no-break space	all	never	#   0x202f
+# ‰	per mille sign	all	never	# ‰ 0x2030
+‱	per ten thousand sign	all	never	# ‱ 0x2031
+# ′	prime	all	never	# ′ 0x2032
+# ″	double prime	all	never	# ″ 0x2033
+# ‴	triple prime	all	never	# ‴ 0x2034
+‵	reversed prime	all	never	# ‵ 0x2035
+‶	reversed double prime	all	never	# ‶ 0x2036
+‷	reversed triple prime	all	never	# ‷ 0x2037
+‸	caret	all	never	# ‸ 0x2038
+‹	single left-pointing angle quotation mark	all	never	# ‹ 0x2039
+›	single right-pointing angle quotation mark	all	never	# › 0x203a
+※	reference mark	all	never	# ※ 0x203b
+‼	double exclamation mark	all	never	# ‼ 0x203c
+‽	interrobang	all	never	# ‽ 0x203d
+‾	overline	all	never	# ‾ 0x203e
+‿	undertie	all	never	# ‿ 0x203f
+⁀	character tie	all	never	# ⁀ 0x2040
+⁁	caret insertion point	all	never	# ⁁ 0x2041
+⁂	asterism	all	never	# ⁂ 0x2042
+# ⁃	hyphen bullet	all	never	# ⁃ 0x2043
+⁄	fraction slash	all	never	# ⁄ 0x2044
+⁅	left square bracket with quill	all	never	# ⁅ 0x2045
+⁆	right square bracket with quill	all	never	# ⁆ 0x2046
+⁇	double question mark	all	never	# ⁇ 0x2047
+⁈	question exclamation mark	all	never	# ⁈ 0x2048
+⁉	exclamation question mark	all	never	# ⁉ 0x2049
+⁊	tironian sign et	all	never	# ⁊ 0x204a
+⁋	reversed pilcrow sign	all	never	# ⁋ 0x204b
+⁌	black leftwards bullet	all	never	# ⁌ 0x204c
+⁍	black rightwards bullet	all	never	# ⁍ 0x204d
+⁎	low asterisk	all	never	# ⁎ 0x204e
+⁏	reversed semicolon	all	never	# ⁏ 0x204f
+⁐	close up	all	never	# ⁐ 0x2050
+⁑	two asterisks aligned vertically	all	never	# ⁑ 0x2051
+⁒	commercial minus sign	all	never	# ⁒ 0x2052
+⁓	swung dash	all	never	# ⁓ 0x2053
+⁔	inverted undertie	all	never	# ⁔ 0x2054
+⁕	flower punctuation mark	all	never	# ⁕ 0x2055
+⁖	three dot punctuation	all	never	# ⁖ 0x2056
+⁗	quadruple prime	all	never	# ⁗ 0x2057
+⁘	four dot punctuation	all	never	# ⁘ 0x2058
+⁙	five dot punctuation	all	never	# ⁙ 0x2059
+⁚	two dot punctuation	all	never	# ⁚ 0x205a
+⁛	four dot mark	all	never	# ⁛ 0x205b
+⁜	dotted cross	all	never	# ⁜ 0x205c
+⁝	tricolon	all	never	# ⁝ 0x205d
+⁞	vertical four dots	all	never	# ⁞ 0x205e
+ 	medium mathematical space	all	never	#   0x205f
+⁠	word joiner	all	never	# ⁠ 0x2060
+⁡	function application	all	never	# ⁡ 0x2061
+⁢	invisible times	all	never	# ⁢ 0x2062
+⁣	invisible separator	all	never	# ⁣ 0x2063
+⁤	invisible plus	all	never	# ⁤ 0x2064
+⁦	left-to-right isolate	all	never	# ⁦ 0x2066
+⁧	right-to-left isolate	all	never	# ⁧ 0x2067
+⁨	first strong isolate	all	never	# ⁨ 0x2068
+⁩	pop directional isolate	all	never	# ⁩ 0x2069
+⁪	inhibit symmetric swapping	all	never	# ⁪ 0x206a
+⁫	activate symmetric swapping	all	never	# ⁫ 0x206b
+⁬	inhibit arabic form shaping	all	never	# ⁬ 0x206c
+⁭	activate arabic form shaping	all	never	# ⁭ 0x206d
+⁮	national digit shapes	all	never	# ⁮ 0x206e
+⁯	nominal digit shapes	all	never	# ⁯ 0x206f
+# Halfwidth and Fullwidth Forms
+！	fullwidth exclamation mark	all	never	# ！ 0xff01
+＂	fullwidth quotation mark	all	never	# ＂ 0xff02
+＃	fullwidth number sign	all	never	# ＃ 0xff03
+＄	fullwidth dollar sign	all	never	# ＄ 0xff04
+％	fullwidth percent sign	all	never	# ％ 0xff05
+＆	fullwidth ampersand	all	never	# ＆ 0xff06
+＇	fullwidth apostrophe	all	never	# ＇ 0xff07
+（	fullwidth left parenthesis	all	never	# （ 0xff08
+）	fullwidth right parenthesis	all	never	# ） 0xff09
+＊	fullwidth asterisk	all	never	# ＊ 0xff0a
+＋	fullwidth plus sign	all	never	# ＋ 0xff0b
+，	fullwidth comma	all	never	# ， 0xff0c
+－	fullwidth hyphen-minus	all	never	# － 0xff0d
+．	fullwidth full stop	all	never	# ． 0xff0e
+／	fullwidth solidus	all	never	# ／ 0xff0f
+０	fullwidth digit zero	all	never	# ０ 0xff10
+１	fullwidth digit one	all	never	# １ 0xff11
+２	fullwidth digit two	all	never	# ２ 0xff12
+３	fullwidth digit three	all	never	# ３ 0xff13
+４	fullwidth digit four	all	never	# ４ 0xff14
+５	fullwidth digit five	all	never	# ５ 0xff15
+６	fullwidth digit six	all	never	# ６ 0xff16
+７	fullwidth digit seven	all	never	# ７ 0xff17
+８	fullwidth digit eight	all	never	# ８ 0xff18
+９	fullwidth digit nine	all	never	# ９ 0xff19
+：	fullwidth colon	all	never	# ： 0xff1a
+；	fullwidth semicolon	all	never	# ； 0xff1b
+＜	fullwidth less-than sign	all	never	# ＜ 0xff1c
+＝	fullwidth equals sign	all	never	# ＝ 0xff1d
+＞	fullwidth greater-than sign	all	never	# ＞ 0xff1e
+？	fullwidth question mark	all	never	# ？ 0xff1f
+＠	fullwidth commercial at	all	never	# ＠ 0xff20
+Ａ	fullwidth latin capital letter A	all	never	# Ａ 0xff21
+Ｂ	fullwidth latin capital letter B	all	never	# Ｂ 0xff22
+Ｃ	fullwidth latin capital letter C	all	never	# Ｃ 0xff23
+Ｄ	fullwidth latin capital letter D	all	never	# Ｄ 0xff24
+Ｅ	fullwidth latin capital letter E	all	never	# Ｅ 0xff25
+Ｆ	fullwidth latin capital letter F	all	never	# Ｆ 0xff26
+Ｇ	fullwidth latin capital letter G	all	never	# Ｇ 0xff27
+Ｈ	fullwidth latin capital letter H	all	never	# Ｈ 0xff28
+Ｉ	fullwidth latin capital letter I	all	never	# Ｉ 0xff29
+Ｊ	fullwidth latin capital letter J	all	never	# Ｊ 0xff2a
+Ｋ	fullwidth latin capital letter K	all	never	# Ｋ 0xff2b
+Ｌ	fullwidth latin capital letter L	all	never	# Ｌ 0xff2c
+Ｍ	fullwidth latin capital letter M	all	never	# Ｍ 0xff2d
+Ｎ	fullwidth latin capital letter N	all	never	# Ｎ 0xff2e
+Ｏ	fullwidth latin capital letter O	all	never	# Ｏ 0xff2f
+Ｐ	fullwidth latin capital letter P	all	never	# Ｐ 0xff30
+Ｑ	fullwidth latin capital letter Q	all	never	# Ｑ 0xff31
+Ｒ	fullwidth latin capital letter R	all	never	# Ｒ 0xff32
+Ｓ	fullwidth latin capital letter S	all	never	# Ｓ 0xff33
+Ｔ	fullwidth latin capital letter T	all	never	# Ｔ 0xff34
+Ｕ	fullwidth latin capital letter U	all	never	# Ｕ 0xff35
+Ｖ	fullwidth latin capital letter V	all	never	# Ｖ 0xff36
+Ｗ	fullwidth latin capital letter W	all	never	# Ｗ 0xff37
+Ｘ	fullwidth latin capital letter X	all	never	# Ｘ 0xff38
+Ｙ	fullwidth latin capital letter Y	all	never	# Ｙ 0xff39
+Ｚ	fullwidth latin capital letter Z	all	never	# Ｚ 0xff3a
+［	fullwidth left square bracket	all	never	# ［ 0xff3b
+＼	fullwidth reverse solidus	all	never	# ＼ 0xff3c
+］	fullwidth right square bracket	all	never	# ］ 0xff3d
+＾	fullwidth circumflex accent	all	never	# ＾ 0xff3e
+＿	fullwidth low line	all	never	# ＿ 0xff3f
+｀	fullwidth grave accent	all	never	# ｀ 0xff40
+ａ	fullwidth latin small letter A	all	never	# ａ 0xff41
+ｂ	fullwidth latin small letter B	all	never	# ｂ 0xff42
+ｃ	fullwidth latin small letter C	all	never	# ｃ 0xff43
+ｄ	fullwidth latin small letter D	all	never	# ｄ 0xff44
+ｅ	fullwidth latin small letter E	all	never	# ｅ 0xff45
+ｆ	fullwidth latin small letter F	all	never	# ｆ 0xff46
+ｇ	fullwidth latin small letter G	all	never	# ｇ 0xff47
+ｈ	fullwidth latin small letter H	all	never	# ｈ 0xff48
+ｉ	fullwidth latin small letter I	all	never	# ｉ 0xff49
+ｊ	fullwidth latin small letter J	all	never	# ｊ 0xff4a
+ｋ	fullwidth latin small letter K	all	never	# ｋ 0xff4b
+ｌ	fullwidth latin small letter L	all	never	# ｌ 0xff4c
+ｍ	fullwidth latin small letter M	all	never	# ｍ 0xff4d
+ｎ	fullwidth latin small letter N	all	never	# ｎ 0xff4e
+ｏ	fullwidth latin small letter O	all	never	# ｏ 0xff4f
+ｐ	fullwidth latin small letter P	all	never	# ｐ 0xff50
+ｑ	fullwidth latin small letter Q	all	never	# ｑ 0xff51
+ｒ	fullwidth latin small letter R	all	never	# ｒ 0xff52
+ｓ	fullwidth latin small letter S	all	never	# ｓ 0xff53
+ｔ	fullwidth latin small letter T	all	never	# ｔ 0xff54
+ｕ	fullwidth latin small letter U	all	never	# ｕ 0xff55
+ｖ	fullwidth latin small letter V	all	never	# ｖ 0xff56
+ｗ	fullwidth latin small letter W	all	never	# ｗ 0xff57
+ｘ	fullwidth latin small letter X	all	never	# ｘ 0xff58
+ｙ	fullwidth latin small letter Y	all	never	# ｙ 0xff59
+ｚ	fullwidth latin small letter Z	all	never	# ｚ 0xff5a
+｛	fullwidth left curly bracket	all	never	# ｛ 0xff5b
+｜	fullwidth vertical line	all	never	# ｜ 0xff5c
+｝	fullwidth right curly bracket	all	never	# ｝ 0xff5d
+～	fullwidth tilde	all	never	# ～ 0xff5e
+｟	fullwidth left white parenthesis	all	never	# ｟ 0xff5f
+｠	fullwidth right white parenthesis	all	never	# ｠ 0xff60
+｡	halfwidth ideographic full stop	all	never	# ｡ 0xff61
+｢	halfwidth left corner bracket	all	never	# ｢ 0xff62
+｣	halfwidth right corner bracket	all	never	# ｣ 0xff63
+､	halfwidth ideographic comma	all	never	# ､ 0xff64
+･	halfwidth katakana middle dot	all	never	# ･ 0xff65
+ｦ	halfwidth katakana letter wo	all	never	# ｦ 0xff66
+ｧ	halfwidth katakana letter small A	all	never	# ｧ 0xff67
+ｨ	halfwidth katakana letter small I	all	never	# ｨ 0xff68
+ｩ	halfwidth katakana letter small U	all	never	# ｩ 0xff69
+ｪ	halfwidth katakana letter small E	all	never	# ｪ 0xff6a
+ｫ	halfwidth katakana letter small O	all	never	# ｫ 0xff6b
+ｬ	halfwidth katakana letter small ya	all	never	# ｬ 0xff6c
+ｭ	halfwidth katakana letter small yu	all	never	# ｭ 0xff6d
+ｮ	halfwidth katakana letter small yo	all	never	# ｮ 0xff6e
+ｯ	halfwidth katakana letter small tu	all	never	# ｯ 0xff6f
+ｰ	halfwidth katakana-hiragana prolonged sound mark	all	never	# ｰ 0xff70
+ｱ	halfwidth katakana letter A	all	never	# ｱ 0xff71
+ｲ	halfwidth katakana letter I	all	never	# ｲ 0xff72
+ｳ	halfwidth katakana letter U	all	never	# ｳ 0xff73
+ｴ	halfwidth katakana letter E	all	never	# ｴ 0xff74
+ｵ	halfwidth katakana letter O	all	never	# ｵ 0xff75
+ｶ	halfwidth katakana letter ka	all	never	# ｶ 0xff76
+ｷ	halfwidth katakana letter ki	all	never	# ｷ 0xff77
+ｸ	halfwidth katakana letter ku	all	never	# ｸ 0xff78
+ｹ	halfwidth katakana letter ke	all	never	# ｹ 0xff79
+ｺ	halfwidth katakana letter ko	all	never	# ｺ 0xff7a
+ｻ	halfwidth katakana letter sa	all	never	# ｻ 0xff7b
+ｼ	halfwidth katakana letter si	all	never	# ｼ 0xff7c
+ｽ	halfwidth katakana letter su	all	never	# ｽ 0xff7d
+ｾ	halfwidth katakana letter se	all	never	# ｾ 0xff7e
+ｿ	halfwidth katakana letter so	all	never	# ｿ 0xff7f
+ﾀ	halfwidth katakana letter ta	all	never	# ﾀ 0xff80
+ﾁ	halfwidth katakana letter ti	all	never	# ﾁ 0xff81
+ﾂ	halfwidth katakana letter tu	all	never	# ﾂ 0xff82
+ﾃ	halfwidth katakana letter te	all	never	# ﾃ 0xff83
+ﾄ	halfwidth katakana letter to	all	never	# ﾄ 0xff84
+ﾅ	halfwidth katakana letter na	all	never	# ﾅ 0xff85
+ﾆ	halfwidth katakana letter ni	all	never	# ﾆ 0xff86
+ﾇ	halfwidth katakana letter nu	all	never	# ﾇ 0xff87
+ﾈ	halfwidth katakana letter ne	all	never	# ﾈ 0xff88
+ﾉ	halfwidth katakana letter no	all	never	# ﾉ 0xff89
+ﾊ	halfwidth katakana letter ha	all	never	# ﾊ 0xff8a
+ﾋ	halfwidth katakana letter hi	all	never	# ﾋ 0xff8b
+ﾌ	halfwidth katakana letter hu	all	never	# ﾌ 0xff8c
+ﾍ	halfwidth katakana letter he	all	never	# ﾍ 0xff8d
+ﾎ	halfwidth katakana letter ho	all	never	# ﾎ 0xff8e
+ﾏ	halfwidth katakana letter ma	all	never	# ﾏ 0xff8f
+ﾐ	halfwidth katakana letter mi	all	never	# ﾐ 0xff90
+ﾑ	halfwidth katakana letter mu	all	never	# ﾑ 0xff91
+ﾒ	halfwidth katakana letter me	all	never	# ﾒ 0xff92
+ﾓ	halfwidth katakana letter mo	all	never	# ﾓ 0xff93
+ﾔ	halfwidth katakana letter ya	all	never	# ﾔ 0xff94
+ﾕ	halfwidth katakana letter yu	all	never	# ﾕ 0xff95
+ﾖ	halfwidth katakana letter yo	all	never	# ﾖ 0xff96
+ﾗ	halfwidth katakana letter ra	all	never	# ﾗ 0xff97
+ﾘ	halfwidth katakana letter ri	all	never	# ﾘ 0xff98
+ﾙ	halfwidth katakana letter ru	all	never	# ﾙ 0xff99
+ﾚ	halfwidth katakana letter re	all	never	# ﾚ 0xff9a
+ﾛ	halfwidth katakana letter ro	all	never	# ﾛ 0xff9b
+ﾜ	halfwidth katakana letter wa	all	never	# ﾜ 0xff9c
+ﾝ	halfwidth katakana letter N	all	never	# ﾝ 0xff9d
+ﾞ	halfwidth katakana voiced sound mark	all	never	# ﾞ 0xff9e
+ﾟ	halfwidth katakana semi-voiced sound mark	all	never	# ﾟ 0xff9f
+ﾠ	halfwidth hangul filler	all	never	# ﾠ 0xffa0
+ﾡ	halfwidth hangul letter kiyeok	all	never	# ﾡ 0xffa1
+ﾢ	halfwidth hangul letter ssangkiyeok	all	never	# ﾢ 0xffa2
+ﾣ	halfwidth hangul letter kiyeok-sios	all	never	# ﾣ 0xffa3
+ﾤ	halfwidth hangul letter nieun	all	never	# ﾤ 0xffa4
+ﾥ	halfwidth hangul letter nieun-cieuc	all	never	# ﾥ 0xffa5
+ﾦ	halfwidth hangul letter nieun-hieuh	all	never	# ﾦ 0xffa6
+ﾧ	halfwidth hangul letter tikeut	all	never	# ﾧ 0xffa7
+ﾨ	halfwidth hangul letter ssangtikeut	all	never	# ﾨ 0xffa8
+ﾩ	halfwidth hangul letter rieul	all	never	# ﾩ 0xffa9
+ﾪ	halfwidth hangul letter rieul-kiyeok	all	never	# ﾪ 0xffaa
+ﾫ	halfwidth hangul letter rieul-mieum	all	never	# ﾫ 0xffab
+ﾬ	halfwidth hangul letter rieul-pieup	all	never	# ﾬ 0xffac
+ﾭ	halfwidth hangul letter rieul-sios	all	never	# ﾭ 0xffad
+ﾮ	halfwidth hangul letter rieul-thieuth	all	never	# ﾮ 0xffae
+ﾯ	halfwidth hangul letter rieul-phieuph	all	never	# ﾯ 0xffaf
+ﾰ	halfwidth hangul letter rieul-hieuh	all	never	# ﾰ 0xffb0
+ﾱ	halfwidth hangul letter mieum	all	never	# ﾱ 0xffb1
+ﾲ	halfwidth hangul letter pieup	all	never	# ﾲ 0xffb2
+ﾳ	halfwidth hangul letter ssangpieup	all	never	# ﾳ 0xffb3
+ﾴ	halfwidth hangul letter pieup-sios	all	never	# ﾴ 0xffb4
+ﾵ	halfwidth hangul letter sios	all	never	# ﾵ 0xffb5
+ﾶ	halfwidth hangul letter ssangsios	all	never	# ﾶ 0xffb6
+ﾷ	halfwidth hangul letter ieung	all	never	# ﾷ 0xffb7
+ﾸ	halfwidth hangul letter cieuc	all	never	# ﾸ 0xffb8
+ﾹ	halfwidth hangul letter ssangcieuc	all	never	# ﾹ 0xffb9
+ﾺ	halfwidth hangul letter chieuch	all	never	# ﾺ 0xffba
+ﾻ	halfwidth hangul letter khieukh	all	never	# ﾻ 0xffbb
+ﾼ	halfwidth hangul letter thieuth	all	never	# ﾼ 0xffbc
+ﾽ	halfwidth hangul letter phieuph	all	never	# ﾽ 0xffbd
+ﾾ	halfwidth hangul letter hieuh	all	never	# ﾾ 0xffbe
+ￂ	halfwidth hangul letter A	all	never	# ￂ 0xffc2
+ￃ	halfwidth hangul letter ae	all	never	# ￃ 0xffc3
+ￄ	halfwidth hangul letter ya	all	never	# ￄ 0xffc4
+ￅ	halfwidth hangul letter yae	all	never	# ￅ 0xffc5
+ￆ	halfwidth hangul letter eo	all	never	# ￆ 0xffc6
+ￇ	halfwidth hangul letter E	all	never	# ￇ 0xffc7
+ￊ	halfwidth hangul letter yeo	all	never	# ￊ 0xffca
+ￋ	halfwidth hangul letter ye	all	never	# ￋ 0xffcb
+ￌ	halfwidth hangul letter O	all	never	# ￌ 0xffcc
+ￍ	halfwidth hangul letter wa	all	never	# ￍ 0xffcd
+ￎ	halfwidth hangul letter wae	all	never	# ￎ 0xffce
+ￏ	halfwidth hangul letter oe	all	never	# ￏ 0xffcf
+ￒ	halfwidth hangul letter yo	all	never	# ￒ 0xffd2
+ￓ	halfwidth hangul letter U	all	never	# ￓ 0xffd3
+ￔ	halfwidth hangul letter weo	all	never	# ￔ 0xffd4
+ￕ	halfwidth hangul letter we	all	never	# ￕ 0xffd5
+ￖ	halfwidth hangul letter wi	all	never	# ￖ 0xffd6
+ￗ	halfwidth hangul letter yu	all	never	# ￗ 0xffd7
+ￚ	halfwidth hangul letter eu	all	never	# ￚ 0xffda
+ￛ	halfwidth hangul letter yi	all	never	# ￛ 0xffdb
+ￜ	halfwidth hangul letter I	all	never	# ￜ 0xffdc
+￠	fullwidth cent sign	all	never	# ￠ 0xffe0
+￡	fullwidth pound sign	all	never	# ￡ 0xffe1
+￢	fullwidth not sign	all	never	# ￢ 0xffe2
+￣	fullwidth macron	all	never	# ￣ 0xffe3
+￤	fullwidth broken bar	all	never	# ￤ 0xffe4
+￥	fullwidth yen sign	all	never	# ￥ 0xffe5
+￦	fullwidth won sign	all	never	# ￦ 0xffe6
+￨	halfwidth forms light vertical	all	never	# ￨ 0xffe8
+￩	halfwidth leftwards arrow	all	never	# ￩ 0xffe9
+￪	halfwidth upwards arrow	all	never	# ￪ 0xffea
+￫	halfwidth rightwards arrow	all	never	# ￫ 0xffeb
+￬	halfwidth downwards arrow	all	never	# ￬ 0xffec
+￭	halfwidth black square	all	never	# ￭ 0xffed
+￮	halfwidth white circle	all	never	# ￮ 0xffee

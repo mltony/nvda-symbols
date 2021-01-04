@@ -13,6 +13,7 @@ for %%s in (
     "Enclosed Alphanumerics"
     "Geometric Shapes Extended"
     "Geometric Shapes"
+    "Halfwidth and Fullwidth Forms"
     "Ideographic Description Characters"
     "Letterlike Symbols"
     "Mathematical Alphanumeric Symbols"
@@ -31,4 +32,5 @@ for %%s in (
     type allBlocks\%%s.dic >> final.dic
 )
 
+type PresortedGeneralPunctuation.dic >> final.dic
 type Greek\ProcessedGreek5.dic >> final.dic
